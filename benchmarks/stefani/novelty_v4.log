@@ -1,0 +1,30 @@
+903 copies; holdout culture; arms VT, SH, LSU
+
+1. status by what the reference knows (rows) 
+                                 copies  known sp.  known grp  novel sp. novel lin.   boundary  divergent   discord.   artifact
+  main, species known               755        621        130          0          0          0          4          0          0
+  main, species held out             48          2          1         21         24          0          0          0          0
+  main, 'sp.' culture                49         29          0         11          0          5          4          0          0
+  divergent (short_5.8S)             43         10          0          0          0          0         33          0          0
+  divergent (same_length)             8          6          1          1          0          0          0          0          0
+
+2. checks
+  M3 negative control: main-type copies of known species not called known: 4 of 755
+      Gigaspora rosea | 4752_496A (2): divergent class | D2 paralog unit SH1076762.10FU (SH); placed by VT: Gigaspora rosea
+      Rhizophagus irregularis | 4569_1185B (1): divergent class | D1 5.8S 152 bp, 4.5 bp shorter than 4375_IVT88A; placed by VT: Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+      Rhizophagus irregularis | T3_IVT34A (1): divergent class | D2 paralog unit VTX00092 (VT); placed by VT: Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+  false species: held-out species called a known species or group: 3 of 48 (6%)
+      Glomus macrocarpum | W6285_2347C (3): known species group Glomus chinense;Glomus rugosae
+  short-5.8S copies recognised from their own sequence: 33 of 43 (5.8S length 33, paralog unit 16); called novel: 0
+  main-type copies called divergent: 8
+      PX214596.1 Septoglomus sp. | FS_9_2328B: D2 paralog unit Septoglomus nigrum (LSU); placed by VT: Septoglomus africanum;Septoglomus turnauae
+      PX214597.1 Septoglomus sp. | FS_9_2328B: D2 paralog unit Septoglomus nigrum (LSU); placed by VT: Septoglomus africanum;Septoglomus turnauae
+      PX214598.1 Septoglomus sp. | FS_9_2328B: D2 paralog unit Septoglomus nigrum (LSU); placed by VT: Septoglomus africanum;Septoglomus turnauae
+      PX214775.1 Glomus sp. | 5089_2351A: D1 5.8S 151 bp, 8 bp shorter than 4406; placed by VT: Glomus
+      PX214776.1 Rhizophagus irregularis | 4569_1185B: D1 5.8S 152 bp, 4.5 bp shorter than 4375_IVT88A; placed by VT: Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+      PX214806.1 Rhizophagus irregularis | T3_IVT34A: D2 paralog unit VTX00092 (VT); placed by VT: Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+  artifacts: 0 (the culture reference should have none left)
+  same-length 5.8S flags (D3): 28 copies (1 of them divergent-class in the reference)
+  SSU/ITS divergence ratio to the nearest culture, main-type copies: median 0.000, 95th 0.122, max 0.583 (artifact needs >= 0.5 with SSU >= 1.0%)
+
+table: ../bench/stefani/novelty_v4.copies.tsv

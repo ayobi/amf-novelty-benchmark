@@ -1,0 +1,24 @@
+{
+  "key": "067b846a7d71199b97e5d14c258583ae744f9a9333fc3be35c31cb0d403f783b",
+  "placements_sha256": "56312927be523d36901e04d29adbf99755405d9425335be1ba50a8c89b818c1e",
+  "plan": {
+    "key": "lgdb_gigaspora_gigantea",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Gigaspora_gigantea_KS302_KU_ASV1304_INVAM",
+      "Gigaspora_gigantea_KS302_KU_ASV1305_INVAM",
+      "Gigaspora_gigantea_KS302_KU_ASV1306_INVAM",
+      "Gigaspora_gigantea_KS302_KU_ASV1307_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0400",
+      "R0401"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Gigaspora gigantea",
+    "target_cultures": [
+      "Gigaspora gigantea | LGDB KS302"
+    ],
+    "v18_label": "Gigaspora gigantea"
+  }
+}

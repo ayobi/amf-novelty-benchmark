@@ -1,0 +1,26 @@
+accession	culture	organism	copy_class	div_kind	s58_len	type	LSU_best_label	LSU_best_pident
+PX207258.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	divergent	same_length	158	T6	Septoglomus turnauae	97.38
+PX207259.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	main		159	T3	Septoglomus turnauae	100.0
+PX207260.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	main		159	T3	Septoglomus turnauae	99.31
+PX207261.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	main		159	T3	Septoglomus turnauae	99.45
+PX207262.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	main		159	T3	Septoglomus turnauae	99.45
+PX214595.1	Septoglomus sp. | 4404_2057A	Septoglomus sp.	divergent	same_length	158	T7	Septoglomus nigrum	99.58
+PX214596.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	main		158	T5	Septoglomus nigrum	99.02
+PX214597.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	main		158	T5	Septoglomus nigrum	99.02
+PX214598.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	main		158	T5	Septoglomus nigrum	99.02
+PX214599.1	Septoglomus sp. | 4404_2057A	Septoglomus sp.	main		158	T4	Septoglomus africanum	98.07
+PX214600.1	Septoglomus sp. | 4404_2057A	Septoglomus sp.	main		158	T4	Septoglomus africanum	98.07
+PX214601.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	divergent	same_length	158	T4	Septoglomus africanum	98.07
+PX214602.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	divergent	same_length	158	T4	Septoglomus africanum	98.35
+PX214603.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	main		158	T1	Septoglomus altomontanum	99.31
+PX214604.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	main		158	T1	Septoglomus altomontanum	99.04
+PX214605.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	main		158	T1	Septoglomus altomontanum	99.31
+PX214606.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	main		158	T1	Septoglomus altomontanum	98.9
+PX214607.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	main		158	T1	Septoglomus africanum	98.77
+PX214608.1	Septoglomus sp. | SO43BL	Septoglomus sp.	divergent	same_length	158	T1	Septoglomus altomontanum	99.31
+PX214609.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	divergent	same_length	158	T2	Septoglomus africanum	99.86
+PX214610.1	Septoglomus sp. | SO43BL	Septoglomus sp.	main		158	T2	Septoglomus africanum	99.59
+PX214611.1	Septoglomus sp. | SO43BL	Septoglomus sp.	main		158	T2	Septoglomus africanum	99.86
+PX214612.1	Septoglomus sp. | SO43BL	Septoglomus sp.	main		158	T2	Septoglomus africanum	99.72
+PX214613.1	Septoglomus sp. | SO43BL	Septoglomus sp.	main		158	T2	Septoglomus africanum	99.72
+PX214614.1	Septoglomus sp. | SO43BL	Septoglomus sp.	main		158	T2	Septoglomus africanum	99.86

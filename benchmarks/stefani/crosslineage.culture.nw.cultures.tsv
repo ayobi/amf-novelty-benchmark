@@ -1,0 +1,151 @@
+culture	genus	order	copies	anchored_pct	triage_AMF_pct	SSU_VT_NS31-AM1_pct	SSU_V4_AMV4.5NF-AMDGR_pct	LSU_LROR-FLR2_pct	LSU_D2_FLR3-FLR4_pct	ssu_flank_div_n	ssu_flank_div_mean	ssu_flank_div_max	its1_div_n	its1_div_mean	its1_div_max	s58_div_n	s58_div_mean	s58_div_max	its2_div_n	its2_div_mean	its2_div_max	SSU_VT_NS31-AM1_div_n	SSU_VT_NS31-AM1_div_mean	SSU_VT_NS31-AM1_div_max	SSU_V4_AMV4.5NF-AMDGR_div_n	SSU_V4_AMV4.5NF-AMDGR_div_mean	SSU_V4_AMV4.5NF-AMDGR_div_max	LSU_LROR-FLR2_div_n	LSU_LROR-FLR2_div_mean	LSU_LROR-FLR2_div_max	LSU_D2_FLR3-FLR4_div_n	LSU_D2_FLR3-FLR4_div_mean	LSU_D2_FLR3-FLR4_div_max
+Acaulospora morrowiae | BF_TM_1197A	Acaulospora	Diversisporales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.15	0.27	7	2.87	5.52	7	0.18	0.64	7	5.11	8.37	7	0.32	0.39	7	0.74	0.92	7	0.81	2.14	7	1.66	4.45
+Acaulospora morrowiae | CR315B_2019A	Acaulospora	Diversisporales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.18	0.2	3	2.73	4.08	3	0.0	0.0	3	2.54	3.82	3	0.13	0.2	3	0.31	0.46	3	0.86	1.28	3	1.37	2.06
+Ambispora callosa | JA116_2012B	Ambispora	Archaeosporales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.26	0.54	7	7.73	11.68	7	0.96	2.52	7	4.59	8.76	7	0.47	0.99	7	0.96	1.83	7	0.9	1.32	6	1.59	2.56
+Ambispora callosa | MAFF520057_2499A	Ambispora	Archaeosporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.21	0.27	4	5.62	7.8	4	0.32	0.63	4	4.01	5.87	4	0.43	0.59	4	0.99	1.38	4	0.66	1.17	4	1.1	1.83
+Ambispora callosa | MAFF520084_2504A	Ambispora	Archaeosporales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.06	0.14	9	2.82	7.07	9	0.0	0.0	9	1.33	3.85	9	0.16	0.39	9	0.38	0.91	9	0.46	1.03	8	0.8	1.83
+Ambispora leptoticha | MAFF520090_2501A	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+Ambispora leptoticha | ON205A	Ambispora	Archaeosporales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.05	0.07	3	6.22	7.89	3	0.0	0.0	3	3.62	4.95	3	0.0	0.0	3	0.0	0.0	3	0.88	1.17	3	1.47	2.2
+Ambispora sp. | ON205A	Ambispora	Archaeosporales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.25	0.41	6	5.38	7.3	6	0.0	0.0	6	2.55	4.81	6	0.36	0.59	6	0.83	1.38	6	0.7	1.17	6	0.98	1.83
+Cetraspora gilmorei | 4385	Cetraspora	Diversisporales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.13	0.34	8	3.58	9.82	8	0.16	0.63	8	8.14	15.47	8	0.24	0.6	8	0.32	0.94	8	0.75	1.48	8	1.5	2.99
+Cetraspora gilmorei | 4397_453A	Cetraspora	Diversisporales	2	100.0	100.0	100.0	100.0	100.0	100.0	2			2			2			2			2			2			2			2		
+Cetraspora gilmorei | 4398_831C	Cetraspora	Diversisporales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.09	0.2	7	2.43	4.88	7	0.18	0.63	7	8.03	15.47	7	0.27	0.6	7	0.36	0.94	7	0.73	1.48	7	1.42	2.99
+Cetraspora gilmorei | 4414_1105C	Cetraspora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.12	0.34	10	3.01	9.82	10	0.13	0.63	10	7.54	15.47	10	0.23	0.6	10	0.31	0.94	10	0.71	1.48	10	1.43	2.99
+Cetraspora gilmorei | 4419_860D	Cetraspora	Diversisporales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.14	0.34	9	3.5	9.82	9	0.14	0.63	9	8.26	15.47	9	0.27	0.6	9	0.37	0.94	9	0.8	1.48	9	1.57	2.99
+Cetraspora gilmorei | 4430_2047A	Cetraspora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.15	0.27	5	4.74	10.59	5	0.25	0.63	5	3.17	6.84	5	0.36	0.6	5	0.57	0.94	5	0.92	1.48	5	1.64	2.99
+Cetraspora gilmorei | 4436_787A	Cetraspora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.1	0.14	5	4.74	10.0	5	0.51	1.27	5	3.41	5.06	5	0.16	0.4	5	0.19	0.47	5	1.03	1.48	5	2.09	2.99
+Cetraspora gilmorei | CW0008_2669B	Cetraspora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.06	0.14	10	1.62	3.7	10	1.24	1.9	10	1.52	2.8	10	0.14	0.4	10	0.0	0.0	10	0.56	1.18	10	0.99	2.24
+Cetraspora gilmorei | CW0008_4007A	Cetraspora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.07	0.14	4	1.23	2.47	4	0.95	1.9	4	1.49	2.8	4	0.2	0.4	4	0.47	0.94	4	0.69	1.18	4	1.37	2.24
+Dentiscutata heterogama | BEG_35_2003A	Dentiscutata	Diversisporales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.09	0.14	3	11.32	12.33	3	0.84	1.27	3	5.63	6.21	3	0.26	0.4	3	0.63	0.94	3	1.68	2.07	3	3.25	3.75
+Dentiscutata heterogama | CL157_2013B	Dentiscutata	Diversisporales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.14	0.2	3	9.23	9.86	3	1.27	1.9	3	2.99	3.37	3	0.4	0.6	3	0.94	1.41	3	1.28	1.63	3	2.0	2.62
+Diversispora aestuarii | 4403_745C	Diversispora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.0	0.0	10	1.31	3.94	10	0.0	0.0	10	1.11	2.58	10	0.0	0.0	10	0.0	0.0	10	0.46	1.09	10	0.67	1.84
+Diversispora aestuarii | 4485_952D	Diversispora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.13	0.41	10	1.37	3.96	10	0.23	0.63	10	5.26	9.16	10	0.18	0.59	10	0.42	1.38	10	1.13	2.18	10	2.12	3.99
+Diversispora arenaria | Blasz_14_2274A	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.06	0.07	4	4.39	6.83	4	0.42	0.63	4	1.96	2.93	4	0.16	0.2	4	0.38	0.46	4	0.55	0.82	4	1.25	1.87
+Diversispora celata | 4381_68A	Diversispora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.14	0.14	5	3.25	6.09	5	0.63	1.27	5	4.26	6.74	5	0.16	0.39	5	0.0	0.0	5	0.27	0.55	5	0.62	1.23
+Diversispora celata | SC2	Diversispora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.12	0.27	5	2.01	4.02	5	0.25	0.63	5	5.12	8.38	5	0.35	0.79	5	0.64	1.38	5	2.05	3.27	5	4.35	7.04
+Diversispora eburnea | AZ414A_356A	Diversispora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.07	0.14	10	4.15	8.29	10	0.93	1.9	10	2.77	5.15	10	0.21	0.39	10	0.5	0.92	10	0.48	0.95	10	0.96	2.14
+Diversispora eburnea | FS_12_2334B	Diversispora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.05	0.14	5	1.42	2.04	5	0.63	1.27	5	5.4	8.67	5	0.08	0.2	5	0.18	0.46	5	0.27	0.55	5	0.61	1.23
+Diversispora epigaea | BEG47_1140C	Diversispora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.23	0.47	5	4.71	7.84	5	0.89	1.9	5	4.69	7.29	5	0.35	0.78	5	0.46	0.92	5	2.45	3.95	4	2.81	3.68
+Diversispora epigaea | FS16_2427A	Diversispora	Diversisporales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.26	0.54	8	2.75	4.95	8	0.43	1.27	8	2.28	5.09	8	0.39	0.98	8	0.69	1.38	8	0.94	1.77	8	1.61	3.07
+Diversispora jakucsiae | Blasz_11_2271A	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.05	0.07	4	0.0	0.0	4	0.0	0.0	4	2.8	5.6	4	0.0	0.0	4	0.0	0.0	4	0.25	0.41	4	0.41	0.62
+Diversispora spurca | Algerie_2_1072C	Diversispora	Diversisporales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.27	0.41	3	1.27	1.9	3	0.0	0.0	3	4.98	7.22	3	0.13	0.2	3	0.31	0.46	3	0.95	1.22	3	1.52	1.83
+Diversispora spurca | CW0006_4005B	Diversispora	Diversisporales	11	100.0	100.0	100.0	100.0	100.0	100.0	11	0.14	0.27	11	3.89	10.19	11	1.43	2.53	11	3.99	7.79	11	0.0	0.0	11	0.0	0.0	11	0.52	1.08	11	0.95	1.82
+Diversispora spurca | W246_28_9A	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.18	0.34	4	3.3	6.6	4	1.58	2.53	4	5.48	7.29	4	0.0	0.0	4	0.0	0.0	4	0.84	1.08	4	1.26	1.82
+Diversispora varaderana | 3086_1170D	Diversispora	Diversisporales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.1	0.27	8	8.24	15.31	8	0.0	0.0	8	4.88	8.04	8	0.11	0.2	8	0.25	0.46	8	1.12	1.91	8	2.16	3.67
+Diversispora varaderana | 4393_830B	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.08	0.14	4	8.05	13.33	4	0.0	0.0	4	2.79	5.58	4	0.13	0.2	4	0.31	0.46	4	1.14	1.91	4	2.25	3.67
+Diversispora varaderana | 4394_1010A	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.03	0.07	4	9.46	15.31	4	0.0	0.0	4	6.17	7.56	4	0.1	0.2	4	0.23	0.46	4	1.18	1.64	4	2.36	3.07
+Diversispora varaderana | 4450_536A	Diversispora	Diversisporales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.08	0.14	6	7.08	14.29	6	0.0	0.0	6	2.37	7.11	6	0.1	0.2	6	0.24	0.46	6	0.84	1.77	6	1.67	3.37
+Diversispora varaderana | 4510_972A	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+Diversispora varaderana | CW0016_4015A	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.07	0.14	4	7.58	15.17	4	0.0	0.0	4	3.79	7.58	4	0.1	0.2	4	0.23	0.46	4	0.98	1.23	4	2.05	2.77
+Diversispora varaderana | SASK_50	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.05	0.07	4	10.38	15.31	4	0.0	0.0	4	5.63	8.04	4	0.13	0.2	4	0.31	0.46	4	1.23	1.64	4	2.36	3.07
+Dominikia bonfanteae | 4351_1077A	Dominikia	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.05	0.07	3	3.17	4.76	3	0.0	0.0	3	3.51	5.26	3	0.13	0.2	3	0.0	0.0	3	0.54	0.81	3	1.19	1.79
+Dominikia bonfanteae | C10660_2264B	Dominikia	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.23	0.27	3	7.63	10.48	3	0.0	0.0	3	3.24	4.86	3	0.39	0.39	3	0.31	0.47	3	1.25	1.88	3	1.99	2.99
+Dominikia duoreactiva | 4392_1156C	Dominikia	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.52	0.82	4	32.57	64.98	4	0.74	1.27	4	8.12	12.01	4	0.89	1.38	4	2.09	3.26	4	2.5	4.46	4	4.71	9.04
+Dominikia duoreactiva | 4412	Dominikia	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.33	0.54	5	43.53	74.52	5	1.01	1.9	5	7.45	12.01	5	0.24	0.39	5	0.56	0.93	5	0.65	1.08	5	0.66	0.9
+Funneliformis caledonium | CW0030_822A	Funneliformis	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.1	0.14	4	0.44	0.87	4	0.0	0.0	4	0.62	0.83	4	0.29	0.39	4	0.69	0.92	4	0.22	0.27	4	0.35	0.6
+Funneliformis caledonium | VDHK150A_21A	Funneliformis	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.07	0.14	5	7.39	17.19	5	3.7	9.23	5	3.93	5.83	5	0.12	0.2	5	0.28	0.46	5	0.67	1.07	5	1.5	2.4
+Funneliformis coronatus | Algerie_2_1072A	Funneliformis	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.03	0.07	5	0.39	0.98	5	0.51	1.27	5	0.62	1.32	5	0.0	0.0	5	0.0	0.0	5	0.95	1.61	5	1.44	2.69
+Funneliformis coronatus | W111_12_886A	Funneliformis	Glomerales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.0	0.0	8	7.03	18.92	8	2.15	8.56	8	0.47	1.3	8	0.0	0.0	8	0.0	0.0	8	0.29	0.67	8	0.42	0.9
+Funneliformis coronatus | W143_5_12A	Funneliformis	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.0	0.0	7	0.92	1.92	7	0.0	0.0	7	1.79	3.51	7	0.0	0.0	7	0.0	0.0	7	0.24	0.54	7	0.54	1.2
+Funneliformis coronatus | W699_21_3A	Funneliformis	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.0	0.0	4	1.94	3.88	4	0.0	0.0	4	0.29	0.44	4	0.0	0.0	4	0.0	0.0	4	0.54	0.94	4	0.3	0.6
+Funneliformis geosporum | ALBG_A3	Funneliformis	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.11	0.14	5	3.71	8.57	5	0.0	0.0	5	1.38	2.43	5	0.16	0.39	5	0.18	0.46	5	0.56	0.94	5	1.02	1.8
+Funneliformis geosporum | W681_7_10A	Funneliformis	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.09	0.14	3	6.09	7.24	3	0.0	0.0	3	2.72	4.08	3	0.13	0.2	3	0.31	0.46	3	0.63	0.81	3	1.0	1.2
+Funneliformis mosseae | 198394_123A	Funneliformis	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.02	0.07	7	2.32	5.41	7	0.0	0.0	7	0.9	1.79	7	0.0	0.0	7	0.0	0.0	7	0.45	0.67	7	0.75	1.21
+Funneliformis mosseae | 2101_50A	Funneliformis	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.0	0.0	9	2.13	5.5	9	0.28	1.27	9	2.08	5.53	9	0.0	0.0	9	0.0	0.0	9	0.57	1.21	9	0.99	2.11
+Funneliformis mosseae | 2231_1079F	Funneliformis	Glomerales	19	100.0	100.0	100.0	100.0	100.0	100.0	19	0.01	0.07	19	2.48	4.72	19	0.25	1.27	19	2.82	5.83	19	0.02	0.2	19	0.05	0.46	19	0.49	0.94	19	0.89	1.81
+Funneliformis mosseae | 2252_723A	Funneliformis	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.03	0.07	9	4.02	8.22	9	0.84	1.9	9	0.76	1.8	9	0.0	0.0	9	0.0	0.0	9	0.52	0.94	9	0.67	1.21
+Funneliformis mosseae | 3502	Funneliformis	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.04	0.07	5	2.8	4.65	5	0.76	1.27	5	2.06	4.48	5	0.12	0.2	5	0.28	0.46	5	0.62	0.94	5	1.2	2.11
+Funneliformis mosseae | 4344_272A	Funneliformis	Glomerales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.08	0.14	10	4.46	8.29	10	0.68	1.27	10	2.16	4.46	10	0.18	0.39	10	0.42	0.92	10	0.55	1.08	10	1.01	2.11
+Funneliformis mosseae | C2	Funneliformis	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.03	0.07	5	3.12	5.5	5	0.76	1.27	5	3.58	6.82	5	0.08	0.2	5	0.18	0.46	5	0.22	0.4	5	0.48	0.9
+Funneliformis mosseae | CHB1_Fmos	Funneliformis	Glomerales	17	100.0	100.0	100.0	100.0	100.0	100.0	17	0.05	0.2	17	4.0	8.37	17	0.61	1.27	17	3.64	7.67	17	0.11	0.39	17	0.11	0.92	17	0.72	2.02	17	1.41	3.92
+Funneliformis mosseae | CHB3_Fmos	Funneliformis	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.05	0.07	3	0.0	0.0	3	0.0	0.0	3	2.1	2.7	3	0.13	0.2	3	0.31	0.46	3	0.18	0.27	3	0.4	0.6
+Funneliformis mosseae | CHB4_Fmos	Funneliformis	Glomerales	11	100.0	100.0	100.0	100.0	100.0	100.0	11	0.06	0.14	11	3.33	6.48	11	0.55	1.27	11	2.76	6.29	11	0.1	0.39	11	0.15	0.46	11	0.57	1.34	11	0.84	2.71
+Funneliformis mosseae | FEC30_219A	Funneliformis	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.04	0.07	6	0.55	0.92	6	0.0	0.0	6	2.32	3.62	6	0.12	0.2	6	0.28	0.46	6	0.34	0.67	6	0.66	1.2
+Funneliformis mosseae | FS-29_2726A	Funneliformis	Glomerales	20	100.0	100.0	100.0	100.0	100.0	100.0	20	0.0	0.0	20	2.22	6.42	20	0.61	1.27	20	2.64	5.86	20	0.0	0.0	20	0.0	0.0	20	0.59	1.08	20	1.02	1.81
+Funneliformis mosseae | W32_9_13A	Funneliformis	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.03	0.07	9	2.63	4.63	9	0.63	1.27	9	1.78	3.62	9	0.08	0.2	9	0.18	0.46	9	0.17	0.27	9	0.0	0.0
+Gigaspora rosea | 194757_703A	Gigaspora	Diversisporales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.58	0.88	9	5.82	14.08	9	0.84	1.27	9	6.52	14.08	9	0.73	1.19	9	1.63	2.81	9	3.59	6.2	9	5.62	10.04
+Gigaspora rosea | 4292_708F	Gigaspora	Diversisporales	12	100.0	100.0	100.0	100.0	100.0	100.0	12	0.62	1.16	12	9.81	19.18	12	2.13	4.43	12	11.05	20.57	12	0.64	1.19	12	1.51	2.82	12	3.29	6.05	12	4.58	8.55
+Gigaspora rosea | 4511_973A	Gigaspora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.54	0.88	5	10.66	14.49	5	1.65	2.53	5	9.67	15.88	5	0.52	0.99	5	1.22	2.35	5	3.83	7.83	5	5.69	11.9
+Gigaspora rosea | 4752_496A	Gigaspora	Diversisporales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.66	1.16	6	12.14	18.92	6	2.45	4.43	6	11.71	18.86	6	0.56	0.99	6	1.31	2.35	6	3.76	6.35	6	5.55	9.67
+Gigaspora rosea | BEG9_770A	Gigaspora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.64	0.88	5	9.99	14.49	5	1.65	2.53	5	9.85	15.88	5	0.63	0.99	5	1.5	2.35	5	4.84	7.98	5	7.43	12.64
+Gigaspora rosea | CU131_1018C	Gigaspora	Diversisporales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	5.86	8.65	3	16.23	20.65	3	0.84	1.27	3	16.96	19.19	3	3.82	5.73	3	5.89	8.84	3	5.85	7.96	2		
+Gigaspora rosea | CU131_1018E	Gigaspora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.57	0.82	4	10.4	15.79	4	2.0	2.53	4	10.82	13.99	4	0.5	0.79	4	1.17	1.88	4	4.3	6.34	4	6.24	10.02
+Gigaspora rosea | CW0011_4010A	Gigaspora	Diversisporales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.49	0.82	5	7.02	14.08	5	1.01	1.27	5	7.28	14.08	5	0.52	0.79	5	1.22	1.88	5	4.13	6.49	5	6.62	10.41
+Gigaspora rosea | woodslee_203A	Gigaspora	Diversisporales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.34	0.61	6	6.06	9.66	6	0.59	1.27	6	4.29	6.32	6	0.46	0.99	6	1.1	2.35	6	2.81	6.79	4	5.27	10.04
+Glomus chinense | 4036_906B	Glomus	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.05	0.2	9	20.62	48.25	9	0.56	2.52	9	6.08	13.1	9	0.13	0.59	9	0.31	1.38	9	1.01	1.91	9	1.97	3.72
+Glomus chinense | 4411_1096D	Glomus	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.72	1.83	6	22.42	52.99	6	0.21	0.62	6	2.64	5.45	6	0.83	1.77	6	1.17	2.31	6	1.53	2.59	6	2.29	4.02
+Glomus chinense | 4419_1047A	Glomus	Glomerales	13	100.0	100.0	100.0	100.0	100.0	100.0	13	0.08	0.27	13	20.36	62.66	13	0.87	1.89	13	3.5	8.42	13	0.03	0.2	13	0.0	0.0	13	0.66	1.5	13	1.46	3.41
+Glomus chinense | 4650_4654_2007C	Glomus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.04	0.07	7	12.69	33.16	7	0.54	1.89	7	3.29	8.42	7	0.0	0.0	7	0.0	0.0	7	0.71	1.36	7	1.62	3.1
+Glomus macrocarpum | W6285_2347C	Glomus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.12	0.27	7	4.34	6.67	7	0.0	0.0	7	5.59	9.82	7	0.19	0.39	7	0.44	0.93	7	0.74	1.23	7	1.24	2.17
+Glomus rugosae | 2101_IVT46	Glomus	Glomerales	16	100.0	100.0	100.0	100.0	100.0	100.0	16	0.13	0.34	16	22.04	58.47	16	0.91	3.15	16	7.61	14.04	16	0.33	0.99	16	0.77	2.33	16	1.36	3.0	16	2.4	4.96
+Glomus rugosae | 4384_IVT98	Glomus	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.14	0.34	9	1.51	4.35	9	0.73	1.89	9	2.05	4.06	9	0.27	0.79	9	0.64	1.86	9	0.75	1.36	9	1.54	3.1
+Glomus rugosae | 4415_1174B	Glomus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.05	0.07	4	0.0	0.0	4	0.0	0.0	4	0.68	1.02	4	0.13	0.2	4	0.31	0.46	4	0.55	0.82	4	1.24	1.86
+Glomus rugosae | 4417_1160C	Glomus	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.15	0.34	9	0.48	2.15	9	0.42	1.89	9	1.9	6.08	9	0.39	0.79	9	0.93	1.86	9	0.45	0.96	9	0.95	1.86
+Glomus rugosae | 4420_683B	Glomus	Glomerales	12	100.0	100.0	100.0	100.0	100.0	100.0	12	0.08	0.27	12	12.84	26.26	12	1.41	3.8	12	5.98	12.24	12	0.22	0.79	12	0.51	1.86	12	1.25	2.59	12	2.08	4.65
+Glomus rugosae | 4431_805C	Glomus	Glomerales	16	100.0	100.0	100.0	100.0	100.0	100.0	16	0.16	0.41	16	7.32	23.0	16	1.17	2.52	16	4.03	8.12	16	0.31	0.79	16	0.72	1.86	16	0.95	2.04	16	1.89	4.01
+Glomus rugosae | 4487_957C	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+Glomus rugosae | 5096_2452A	Glomus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.07	0.14	4	0.0	0.0	4	0.0	0.0	4	0.0	0.0	4	0.0	0.0	4	0.0	0.0	4	0.39	0.55	4	0.72	0.93
+Glomus rugosae | 5103_2445A	Glomus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.07	0.14	4	0.0	0.0	4	0.0	0.0	4	0.0	0.0	4	0.0	0.0	4	0.0	0.0	4	0.45	0.68	4	0.88	1.24
+Glomus sp. | 4406	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+Glomus sp. | 5089_2351A	Glomus	Glomerales	2	100.0	100.0	100.0	100.0	100.0	100.0	2			2			2			2			2			2			2			2		
+Glomus tetrastratosum | 4433_785B	Glomus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.2	0.34	4	24.37	48.74	4	0.95	1.9	4	3.39	6.79	4	0.39	0.59	4	0.93	1.39	4	0.91	1.5	4	0.67	1.23
+Glomus tetrastratosum | 5094_2349C	Glomus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.18	0.34	7	16.53	49.58	7	0.54	1.9	7	3.76	9.4	7	0.46	0.79	7	1.08	1.86	7	0.68	1.77	7	0.86	1.85
+Glomus tetrastratosum | 5105_2444A	Glomus	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.29	0.75	6	3.28	7.69	6	0.21	0.63	6	2.21	4.22	6	0.53	1.18	6	1.08	2.32	6	0.53	1.09	6	1.09	2.15
+Glomus tetrastratosum | CW0020_4019A	Glomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.0	0.0	3	1.95	2.93	3	0.0	0.0	3	0.88	1.06	3	0.0	0.0	3	0.0	0.0	3	0.55	0.68	3	1.03	1.23
+Glomus tetrastratosum | SASK26_2406A	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+Microdominikia litorea | 3647_963E	Microdominikia	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.45	0.95	7	4.63	9.52	7	0.3	0.63	7	1.68	4.96	7	0.85	1.97	7	1.99	4.65	7	1.62	3.41	7	3.54	7.34
+Microdominikia litorea | 5274	Microdominikia	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.8	1.5	5	34.55	78.96	5	1.65	2.53	5	7.93	14.52	5	1.54	2.77	5	2.7	4.19	5	2.39	3.54	5	3.85	6.12
+Oehlia diaphana | 4835_562B	Oehlia	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.39	0.82	7	5.11	9.39	7	0.57	1.98	7	6.58	11.4	7	0.43	1.19	7	1.01	2.78	7	0.96	1.63	7	1.62	3.04
+Oehlia diaphana | JS1_IVT19A	Oehlia	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.26	0.54	6	4.48	8.49	6	0.7	1.32	6	6.72	10.44	6	0.2	0.4	6	0.46	0.93	6	0.74	1.09	6	1.18	1.83
+Oehlia diaphana | WV579_765A	Oehlia	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.19	0.41	7	3.78	7.55	7	0.82	1.98	7	6.0	12.63	7	0.06	0.2	7	0.0	0.0	7	1.05	1.5	7	2.17	3.34
+Oehlia diaphana | WV579_765B	Oehlia	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	9	0.29	0.68	9	3.5	5.66	9	1.03	1.98	9	6.92	14.47	9	0.22	0.59	9	0.51	1.39	9	0.83	1.9	9	1.39	3.34
+Paraglomus brasilianum | 5274_2288B	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0	1			1			1			1			0			1			1			0		
+Paraglomus brasilianum | BR105_2435A	Paraglomus	Paraglomerales	5	100.0	100.0	0.0	100.0	100.0	100.0	5	0.45	0.75	5	20.42	32.07	5	0.0	0.0	5	18.67	29.14	0			5	1.38	2.3	5	7.14	11.97	3	0.72	0.72
+Paraglomus brasilianum | W260_5_933C	Paraglomus	Paraglomerales	3	100.0	100.0	0.0	100.0	100.0	100.0	3	0.05	0.07	3	0.0	0.0	3	0.0	0.0	3	0.6	0.9	0			3	0.0	0.0	3	0.39	0.44	0		
+Paraglomus brasilianum | W960_3_902A	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0	1			1			1			1			0			1			1			0		
+Paraglomus brasilianum | W960_3_902C	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0	1			1			1			1			0			1			1			0		
+Paraglomus laccatum | CW0010_4009B	Paraglomus	Paraglomerales	5	100.0	100.0	0.0	100.0	100.0	100.0	5	0.07	0.14	5	2.14	4.94	5	0.0	0.0	5	0.66	1.25	0			5	0.0	0.0	5	0.25	0.44	5	0.14	0.36
+Paraglomus sp. | 4423_1159D	Paraglomus	Paraglomerales	9	100.0	100.0	0.0	100.0	100.0	100.0	9	0.03	0.07	9	1.66	3.62	9	0.0	0.0	9	5.71	10.09	0			9	0.0	0.0	9	0.07	0.29	0		
+Paraglomus sp. | 5088_2360A	Paraglomus	Paraglomerales	3	100.0	100.0	0.0	100.0	100.0	100.0	3	0.05	0.07	3	1.81	2.71	3	0.0	0.0	3	6.73	10.09	0			3	0.0	0.0	3	0.2	0.29	0		
+Rhizophagus intraradices | FL208_553A	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.21	0.34	4	8.45	14.42	4	3.24	6.47	4	15.0	26.17	4	0.3	0.59	4	0.69	1.39	4	3.74	6.93	4	4.25	7.59
+Rhizophagus intraradices | KS906_IVT156	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.1	0.2	4	6.73	13.46	4	3.24	6.47	4	14.84	26.17	4	0.2	0.39	4	0.46	0.93	4	3.6	6.93	4	3.94	7.59
+Rhizophagus intraradices | KS906_IVT22A	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+Rhizophagus intraradices | UT126A	Rhizophagus	Glomerales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.28	0.68	8	9.09	14.49	8	4.36	9.68	8	17.94	32.49	8	0.42	0.98	8	0.99	2.31	8	5.05	11.94	8	6.93	18.46
+Rhizophagus irregularis | 4292_708C	Rhizophagus	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.05	0.14	5	9.53	20.75	5	4.56	7.82	5	9.96	16.55	5	0.0	0.0	5	0.0	0.0	5	4.17	7.17	5	5.25	9.35
+Rhizophagus irregularis | 4341_IVT72A	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.03	0.07	4	2.33	4.65	4	3.57	7.14	4	8.75	16.43	4	0.0	0.0	4	0.0	0.0	4	4.17	7.17	4	5.78	9.35
+Rhizophagus irregularis | 4348_IVT77A	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.03	0.07	4	2.33	4.65	4	3.57	7.14	4	8.75	16.43	4	0.0	0.0	4	0.0	0.0	4	4.17	7.17	4	5.78	9.35
+Rhizophagus irregularis | 4375_IVT88A	Rhizophagus	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.04	0.07	6	2.53	4.67	6	3.09	6.49	6	8.3	16.43	6	0.0	0.0	6	0.0	0.0	6	3.44	7.17	6	4.04	9.35
+Rhizophagus irregularis | 4569_1185B	Rhizophagus	Glomerales	2	100.0	100.0	100.0	100.0	100.0	100.0	2			2			2			2			2			2			2			2		
+Rhizophagus irregularis | 4674_1184D	Rhizophagus	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.05	0.14	5	2.98	5.58	5	2.72	6.49	5	7.45	16.43	5	0.0	0.0	5	0.0	0.0	5	3.72	6.9	5	4.37	8.75
+Rhizophagus irregularis | CC4_4A_IVT7A	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.07	0.14	4	4.21	5.58	4	3.56	6.49	4	11.24	17.03	4	0.1	0.2	4	0.23	0.46	4	4.06	6.78	4	5.73	9.67
+Rhizophagus irregularis | DAOMC 197198	Rhizophagus	Glomerales	18	100.0	100.0	100.0	100.0	100.0	100.0	18	0.05	0.2	18	1.96	5.58	18	1.41	6.49	18	4.14	16.43	18	0.02	0.2	18	0.0	0.0	18	2.38	6.9	18	2.77	8.75
+Rhizophagus irregularis | GC-2_IVT11	Rhizophagus	Glomerales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.02	0.07	10	2.47	5.58	10	2.88	7.14	10	8.48	16.43	10	0.0	0.0	10	0.0	0.0	10	3.61	7.17	10	4.39	9.35
+Rhizophagus irregularis | SD1_IVT29A	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.07	0.14	4	5.67	10.05	4	2.91	5.83	4	5.67	11.03	4	0.0	0.0	4	0.0	0.0	4	0.68	1.36	4	0.76	1.51
+Rhizophagus irregularis | T3_IVT34A	Rhizophagus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.03	0.07	4	2.98	4.69	4	4.3	7.14	4	11.59	17.45	4	0.1	0.2	4	0.23	0.46	4	4.62	7.04	4	6.03	9.65
+Rhizophagus prolifer | SD5_IVT32	Rhizophagus	Glomerales	10	100.0	100.0	100.0	100.0	100.0	100.0	10	0.16	0.41	10	4.26	11.87	10	4.44	7.12	10	19.64	33.17	10	0.21	0.59	10	0.49	1.39	10	5.56	9.1	10	5.92	9.08
+Rhizophagus silesianus | 3628_206A	Rhizophagus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.09	0.14	3	4.89	7.34	3	5.16	7.74	3	12.53	18.8	3	0.13	0.2	3	0.31	0.46	3	3.71	5.56	3	3.44	5.15
+Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.13	0.27	7	4.27	8.41	7	3.74	7.74	7	9.28	15.98	7	0.28	0.59	7	0.66	1.39	7	2.82	5.84	7	2.83	5.77
+Rhizophagus sp. (in: glomeromycetes) | 1399_IVT43A	Rhizophagus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.0	0.0	3	6.93	10.39	3	0.42	0.64	3	4.96	7.44	3	0.0	0.0	3	0.0	0.0	3	0.36	0.41	3	0.8	0.9
+Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.43	1.49	7	9.56	18.92	7	2.15	7.12	7	8.92	22.17	7	0.62	2.17	7	1.46	5.09	7	3.02	9.62	7	4.08	12.37
+Sclerocystis sinuosa | MT106_2767A	Sclerocystis	Glomerales	18	100.0	100.0	100.0	100.0	100.0	100.0	18	0.06	0.2	18	0.97	2.78	18	0.0	0.0	18	1.54	3.45	18	0.0	0.0	18	0.0	0.0	18	0.45	0.94	18	0.87	1.8
+Septoglomus sp. | 4404_2057A	Septoglomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.36	0.54	3	11.32	16.98	3	3.8	5.7	3	11.52	17.27	3	0.66	0.99	3	0.93	1.4	3	2.33	3.5	3	4.62	6.93
+Septoglomus sp. | 5070_5024A	Septoglomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.54	0.81	3	12.19	15.45	3	3.36	5.02	3	6.14	9.21	3	0.92	1.38	3	2.15	3.23	3	1.7	2.28	3	1.41	1.81
+Septoglomus sp. | Blasz_17_2277A	Septoglomus	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.17	0.34	6	4.47	13.4	6	1.9	5.7	6	4.1	12.29	6	0.42	0.79	6	0.5	0.93	6	0.84	1.75	6	0.5	1.5
+Septoglomus sp. | C4	Septoglomus	Glomerales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.34	0.95	8	9.34	20.51	8	1.68	3.81	8	8.4	13.39	8	0.58	1.57	8	1.35	3.69	8	1.64	2.95	8	1.03	1.81
+Septoglomus sp. | FS_9_2328B	Septoglomus	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.27	0.48	5	11.98	21.15	5	3.04	5.06	5	5.72	9.42	5	0.51	0.99	5	0.37	0.93	5	2.13	3.5	5	4.63	7.82
+Septoglomus sp. | SO43BL	Septoglomus	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.11	0.34	6	5.7	14.22	6	1.9	5.7	6	4.52	13.05	6	0.26	0.79	6	0.31	0.93	6	0.62	1.75	6	0.58	1.5
+Septoglomus turnauae | Blasz_12_2272D	Septoglomus	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	5	0.16	0.41	5	3.56	7.51	5	1.77	4.42	5	6.55	15.08	5	0.32	0.79	5	0.19	0.47	5	1.28	2.56	5	1.86	4.2
+Septoglomus viscosum | CW0002_4001A	Septoglomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.45	0.61	3	0.0	0.0	3	0.0	0.0	3	0.0	0.0	3	1.31	1.77	3	2.77	3.7	3	0.0	0.0	3	0.0	0.0
+Septoglomus viscosum | CW0026_Att1910-1	Septoglomus	Glomerales	12	100.0	100.0	100.0	100.0	100.0	100.0	12	0.69	1.49	12	4.33	8.16	12	1.94	5.75	12	5.5	10.22	12	1.57	3.74	12	3.07	7.41	12	1.33	2.42	12	2.32	4.23
+Septoglomus viscosum | CW0029_4028A	Septoglomus	Glomerales	2	100.0	100.0	100.0	100.0	100.0	100.0	2			2			2			2			2			2			2			2		
+Septoglomus viscosum | MD215_360A	Septoglomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.23	0.34	3	3.91	5.86	3	0.0	0.0	3	0.0	0.0	3	0.66	0.98	3	1.54	2.31	3	0.27	0.4	3	0.6	0.91
+Septoglomus viscosum | W375_18_642E	Septoglomus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	2.21	4.07	4	7.73	11.62	4	5.03	9.65	4	6.78	11.5	4	2.53	4.53	4	3.63	6.48	4	2.11	2.96	4	3.06	3.91
+[Rhizoglomus] vesiculiferum | 212939_IVT38A	Rhizoglomus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.28	0.54	7	11.87	24.41	7	2.51	7.14	7	6.82	18.49	7	0.0	0.0	7	0.0	0.0	7	3.89	8.67	7	5.65	10.88
+[Rhizoglomus] vesiculiferum | 3029_660C	Rhizoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0	1			1			1			1			1			1			1			1		
+[Rhizoglomus] vesiculiferum | 3628_IVT65A	Rhizoglomus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	7	0.34	0.95	7	11.15	25.35	7	2.38	7.79	7	7.45	18.84	7	0.6	1.38	7	1.41	3.24	7	2.92	8.28	7	3.41	10.62
+[Rhizoglomus] vesiculiferum | 4086_IVT68A	Rhizoglomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.14	0.2	3	11.08	14.22	3	4.75	7.12	3	11.96	16.75	3	0.26	0.39	3	0.62	0.93	3	4.07	6.11	3	6.66	9.98
+[Rhizoglomus] vesiculiferum | 4369_IVT81A	Rhizoglomus	Glomerales	2	100.0	100.0	100.0	100.0	100.0	100.0	2			2			2			2			2			2			2			2		
+[Rhizoglomus] vesiculiferum | 4374_IVT87A	Rhizoglomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	3	0.18	0.27	3	7.55	11.32	3	1.28	1.92	3	5.33	8.0	3	0.52	0.79	3	1.23	1.85	3	2.9	4.21	3	2.02	2.73
+[Rhizoglomus] vesiculiferum | 4375_IVT88A	Rhizoglomus	Glomerales	4	100.0	100.0	100.0	100.0	100.0	100.0	4	0.05	0.07	4	2.94	4.67	4	3.67	6.49	4	10.41	16.43	4	0.0	0.0	4	0.0	0.0	4	4.15	7.17	4	5.58	9.35
+[Rhizoglomus] vesiculiferum | 5074_2353A	Rhizoglomus	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	6	0.47	1.15	6	13.8	19.14	6	4.54	7.14	6	13.26	19.18	6	0.52	1.57	6	1.23	3.7	6	5.09	8.54	6	7.21	11.21
+[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	Rhizoglomus	Glomerales	8	100.0	100.0	100.0	100.0	100.0	100.0	8	0.47	1.29	8	8.85	15.89	8	3.91	7.79	8	11.51	21.03	8	0.63	1.77	8	1.37	3.7	8	4.6	7.45	8	6.21	12.1

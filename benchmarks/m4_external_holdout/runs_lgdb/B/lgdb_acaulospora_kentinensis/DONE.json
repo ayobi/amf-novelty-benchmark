@@ -1,0 +1,21 @@
+{
+  "key": "e87e6643141bcd3a856b5c50ebbe3711c35423562257cf75981cb47d8044f4c1",
+  "placements_sha256": "5181ffee9ec239e5052abd75e4b64688562ad9dcbefdeb299cb702d5b1bbf3b6",
+  "plan": {
+    "key": "lgdb_acaulospora_kentinensis",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Acaulospora_kentinensis_FL709_10_KU_ASV1056_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0470",
+      "R0471"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Acaulospora kentinensis",
+    "target_cultures": [
+      "Acaulospora kentinensis | LGDB FL709_10"
+    ],
+    "v18_label": "Acaulospora kentinensis"
+  }
+}

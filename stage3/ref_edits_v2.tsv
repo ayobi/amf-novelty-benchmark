@@ -1,0 +1,17 @@
+# Culture reference edits, v2 (28 Sep 2026): v1 with the three name holds released after the v1 name check,
+# and the copy classes of SD5_IVT32 corrected (needs freeze_ref.py with the copy_class action).
+# Columns are tab-separated. Every edit states what the data must look like before it is applied;
+# freeze_ref.py stops without writing anything if an expectation fails.
+action	target	value	expect	reason
+drop	PX215117.1		organism=Gigaspora rosea	SSU flank 4-6% and ITS 5.6-7.6% from the other G. rosea copies: SSU and ITS diverge at the same rate, so sequencing error or pseudogene (vt_followup check 3)
+relabel	PX215162.1	Paraglomus sp.	organism=Paraglomus brasilianum;label=BR105_2435A;vt=VTX00281	second, laccatum-like Paraglomus in mixed culture BR105_2435A: 28-33% from P. brasilianum in ITS, 5-9% from the P. laccatum cultures (vt_followup check 1)
+relabel	PX215163.1	Paraglomus sp.	organism=Paraglomus brasilianum;label=BR105_2435A;vt=VTX00281	as PX215162.1
+relabel	PX215164.1	Paraglomus sp.	organism=Paraglomus brasilianum;label=BR105_2435A;vt=VTX00281	as PX215162.1
+name_culture	4375_IVT88A	Rhizophagus irregularis	n=10;groups=2;vt=VTX00114	one culture filed under two names (R. irregularis x6, [Rhizoglomus] vesiculiferum x4), all VTX00114; majority name; v1 name check: ITS1 0.5 vs 3.7%, ITS2 1.0 vs 6.2%, LROR-FLR2 0.0 vs 3.0% (R. irregularis vs vesiculiferum)
+name_culture	ON205A	Ambispora leptoticha	n=9;groups=2;vt=VTX00242	one culture filed under two names (Ambispora sp. x6, A. leptoticha x3), all VTX00242
+copy_class	PX207190.1,PX207191.1,PX207192.1,PX207193.1	divergent	organism=Rhizophagus prolifer;label=SD5_IVT32;class=main;s58=152;n=4	5.8S 152 bp, the divergent-class signature (157-158 bp in the rest of the culture); the stefani_qc culture medoid fell in this 4-copy group, so the flags came out inverted. LSU 91.8% from anything in V18
+copy_class	PX207206.1,PX207207.1,PX207208.1,PX207209.1,PX207210.1,PX207211.1	main	organism=Rhizophagus prolifer;label=SD5_IVT32;class=divergent;s58=157-158;n=6	5.8S 157-158 bp (main type), flagged divergent_5.8S only because the medoid fell in the other group; LSU matches V18 Rhizophagus proliferus at 98.5-99.9%
+# v1 name check, no edit needed (GenBank names stand), median % to the nearest main-type copy, R. irregularis vs [Rhizoglomus] vesiculiferum:
+#   T3_IVT34A     ITS1 2.8 vs 4.7, ITS2 3.3 vs 6.4, LROR-FLR2 0.4 vs 2.7, SSU flank 0.3 vs 0.3; LSU nearest reference R. irregularis. VT VTX00113.
+#   CC4_4A_IVT7A  ITS1 1.9 vs 2.8, ITS2 3.0 vs 6.5, LROR-FLR2 0.8 vs 2.9, SSU flank 0.3 vs 0.4; LSU nearest reference R. irregularis. VT tied VTX00113/115.
+#                 Released by judgment: the ITS1 gap (0.9) is under the 1-point rule, but ITS2, LSU and the LSU arm all point to R. irregularis.

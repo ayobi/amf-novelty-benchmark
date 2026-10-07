@@ -1,0 +1,9 @@
+{
+  "key": "8ba512bc82ea47f345c5c362b8ba2de44b1c5a9bc0e0ada8c55b199a1fb8234f:summary",
+  "outputs": {
+    "edge_annotations.json": "f57764e5aec7345d71f017336f2615831cc0ba9d415c971653196541916469b0",
+    "lsu_placements.copies.tsv": "c43925671364ab62cd68f1a623f0802f668700123cedcf3a91e602ea96e7942c",
+    "placement_summary.json": "c3c151e0823341e45269d7612c5984dbc4f57aab4b00ddfd5f2dfc9e378fc0c4"
+  },
+  "seconds": 9.767070406116545
+}

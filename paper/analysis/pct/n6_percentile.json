@@ -1,0 +1,85 @@
+{
+ "percentiles": [
+  95.0,
+  97.5,
+  99.0
+ ],
+ "m4@95.0": {
+  "held": 673,
+  "false_known": 37,
+  "outside_complex": 5,
+  "outside_pairs": {
+   "Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum": 5
+  },
+  "pairs": {
+   "Diversispora aestuarii -> Diversispora varaderana": 20,
+   "Diversispora arenaria -> Diversispora jakucsiae": 4,
+   "Diversispora jakucsiae -> Diversispora arenaria": 4,
+   "Glomus macrocarpum -> Glomus rugosae": 4,
+   "Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum": 5
+  },
+  "complexes": 3,
+  "complex_species": 6,
+  "median_T": 4.441390650692976
+ },
+ "m4@97.5": {
+  "held": 673,
+  "false_known": 53,
+  "outside_complex": 18,
+  "outside_pairs": {
+   "Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum": 18
+  },
+  "pairs": {
+   "Diversispora aestuarii -> Diversispora varaderana": 20,
+   "Diversispora arenaria -> Diversispora jakucsiae": 4,
+   "Diversispora jakucsiae -> Diversispora arenaria": 4,
+   "Diversispora varaderana -> Diversispora aestuarii": 3,
+   "Glomus macrocarpum -> Glomus rugosae": 4,
+   "Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum": 18
+  },
+  "complexes": 3,
+  "complex_species": 7,
+  "median_T": 5.0209055399680915
+ },
+ "m4@99.0": {
+  "held": 673,
+  "false_known": 53,
+  "outside_complex": 0,
+  "outside_pairs": {},
+  "pairs": {
+   "Diversispora aestuarii -> Diversispora varaderana": 20,
+   "Diversispora arenaria -> Diversispora jakucsiae": 4,
+   "Diversispora jakucsiae -> Diversispora arenaria": 4,
+   "Diversispora varaderana -> Diversispora aestuarii": 3,
+   "Glomus macrocarpum -> Glomus rugosae": 4,
+   "Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum": 18
+  },
+  "complexes": 4,
+  "complex_species": 9,
+  "median_T": 5.993680709534368
+ },
+ "culture@95.0": {
+  "n": 755,
+  "known_demoted": 32
+ },
+ "culture@97.5": {
+  "n": 755,
+  "known_demoted": 22
+ },
+ "culture@99.0": {
+  "n": 755,
+  "known_demoted": 6
+ },
+ "species@95.0": {
+  "n": 803,
+  "false_known": 9
+ },
+ "species@97.5": {
+  "n": 803,
+  "false_known": 13
+ },
+ "species@99.0": {
+  "n": 803,
+  "false_known": 18
+ }
+}

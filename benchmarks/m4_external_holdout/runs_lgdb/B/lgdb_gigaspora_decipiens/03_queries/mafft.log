@@ -1,0 +1,194 @@
+nadd =  1183
+npair =  583219
+nseq =  1676
+nlen =  1260
+use multipair, weighti=2.7!
+distout=h
+nadd = 1183
+generating a scoring matrix for nucleotide (dist=200) ... done
+    0 / 493 (thread    0)  100 / 493 (thread    1)  200 / 493 (thread    0)  300 / 493 (thread    3)  400 / 493 (thread    2)dndpre (nuc) Version 7.526
+alg=X, model=DNA200 (2), 2.00 (6.00), -0.10 (-0.30), noshift, amax=0.0
+4 thread(s)
+
+generating a scoring matrix for nucleotide (dist=200) ... done
+All-to-all alignment.
+
+
+##### writing hat3
+pairlocalalign (nuc) Version 7.526
+alg=Y, model=DNA200 (2), 2.00 (6.00), -0.10 (-0.30), noshift, amax=0.0
+4 thread(s)
+
+nadd = 1183
+ppenalty_ex = -10
+nthread = 4
+blosum 62 / kimura 200
+sueff_global = 0.100000
+norg = 493
+njobc = 494
+Loading 'hat3' ... 
+done.
+generating a scoring matrix for nucleotide (dist=200) ... done
+Loading 'hat2n' (aligned sequences - new sequences) ... done.
+Loading 'hat2i' (aligned sequences) ... done.
+STEP 0 / 1183 (thread 1)                    STEP 1 / 1183 (thread 2)                    STEP 2 / 1183 (thread 3)                    cSTEP 3 / 1183 (thread 0)                    cccSTEP 4 / 1183 (thread 1)                    STEP 5 / 1183 (thread 0)                    cSTEP 6 / 1183 (thread 3)                    ccSTEP 7 / 1183 (thread 2)                    cSTEP 8 / 1183 (thread 3)                    cSTEP 9 / 1183 (thread 1)                    cSTEP 10 / 1183 (thread 0)                    cSTEP 11 / 1183 (thread 2)                    cSTEP 12 / 1183 (thread 3)                    cSTEP 13 / 1183 (thread 1)                    cSTEP 14 / 1183 (thread 0)                    cSTEP 15 / 1183 (thread 0)                    STEP 16 / 1183 (thread 3)                    STEP 17 / 1183 (thread 1)                    cccSTEP 18 / 1183 (thread 2)                    cSTEP 19 / 1183 (thread 1)                    cSTEP 20 / 1183 (thread 3)                    STEP 21 / 1183 (thread 0)                    ccSTEP 22 / 1183 (thread 1)                    cSTEP 23 / 1183 (thread 2)                    STEP 24 / 1183 (thread 3)                    cSTEP 25 / 1183 (thread 0)                    ccSTEP 26 / 1183 (thread 1)                    cSTEP 27 / 1183 (thread 3)                    STEP 28 / 1183 (thread 0)                    ccSTEP 29 / 1183 (thread 2)                    cSTEP 30 / 1183 (thread 1)                    cSTEP 31 / 1183 (thread 0)                    STEP 32 / 1183 (thread 3)                    ccSTEP 33 / 1183 (thread 2)                    STEP 34 / 1183 (thread 1)                    ccSTEP 35 / 1183 (thread 3)                    cSTEP 36 / 1183 (thread 0)                    cSTEP 37 / 1183 (thread 1)                    cSTEP 38 / 1183 (thread 2)                    cSTEP 39 / 1183 (thread 3)                    cSTEP 40 / 1183 (thread 0)                    cSTEP 41 / 1183 (thread 1)                    cSTEP 42 / 1183 (thread 2)                    cSTEP 43 / 1183 (thread 3)                    STEP 44 / 1183 (thread 0)                    ccSTEP 45 / 1183 (thread 1)                    cSTEP 46 / 1183 (thread 2)                    cSTEP 47 / 1183 (thread 3)                    STEP 48 / 1183 (thread 0)                    ccSTEP 49 / 1183 (thread 2)                    cSTEP 50 / 1183 (thread 1)                    STEP 51 / 1183 (thread 3)                    ccSTEP 52 / 1183 (thread 0)                    cSTEP 53 / 1183 (thread 3)                    cSTEP 54 / 1183 (thread 1)                    cSTEP 55 / 1183 (thread 2)                    cSTEP 56 / 1183 (thread 0)                    cSTEP 57 / 1183 (thread 3)                    STEP 58 / 1183 (thread 1)                    ccSTEP 59 / 1183 (thread 0)                    cSTEP 60 / 1183 (thread 2)                    cSTEP 61 / 1183 (thread 1)                    cSTEP 62 / 1183 (thread 3)                    cSTEP 63 / 1183 (thread 0)                    cSTEP 64 / 1183 (thread 2)                    cSTEP 65 / 1183 (thread 3)                    STEP 66 / 1183 (thread 1)                    ccSTEP 67 / 1183 (thread 0)                    cSTEP 68 / 1183 (thread 3)                    cSTEP 69 / 1183 (thread 1)                    cSTEP 70 / 1183 (thread 0)                    STEP 71 / 1183 (thread 2)                    ccSTEP 72 / 1183 (thread 3)                    STEP 73 / 1183 (thread 1)                    ccSTEP 74 / 1183 (thread 0)                    cSTEP 75 / 1183 (thread 1)                    cSTEP 76 / 1183 (thread 2)                    cSTEP 77 / 1183 (thread 3)                    cSTEP 78 / 1183 (thread 1)                    cSTEP 79 / 1183 (thread 0)                    cSTEP 80 / 1183 (thread 1)                    cSTEP 81 / 1183 (thread 3)                    cSTEP 82 / 1183 (thread 2)                    cSTEP 83 / 1183 (thread 1)                    cSTEP 84 / 1183 (thread 0)                    cSTEP 85 / 1183 (thread 1)                    cSTEP 86 / 1183 (thread 3)                    cSTEP 87 / 1183 (thread 2)                    cSTEP 88 / 1183 (thread 1)                    cSTEP 89 / 1183 (thread 1)                    cSTEP 90 / 1183 (thread 0)                    cSTEP 91 / 1183 (thread 3)                    cSTEP 92 / 1183 (thread 2)                    cSTEP 93 / 1183 (thread 1)                    cSTEP 94 / 1183 (thread 1)                    cSTEP 95 / 1183 (thread 0)                    cSTEP 96 / 1183 (thread 3)                    STEP 97 / 1183 (thread 2)                    ccSTEP 98 / 1183 (thread 1)                    cSTEP 99 / 1183 (thread 1)                    cSTEP 100 / 1183 (thread 0)                    cSTEP 101 / 1183 (thread 3)                    cSTEP 102 / 1183 (thread 2)                    cSTEP 103 / 1183 (thread 1)                    cSTEP 104 / 1183 (thread 1)                    cSTEP 105 / 1183 (thread 0)                    cSTEP 106 / 1183 (thread 2)                    cSTEP 107 / 1183 (thread 1)                    cSTEP 108 / 1183 (thread 3)                    cSTEP 109 / 1183 (thread 1)                    cSTEP 110 / 1183 (thread 2)                    STEP 111 / 1183 (thread 1)                    STEP 112 / 1183 (thread 0)                    cSTEP 113 / 1183 (thread 3)                    cccSTEP 114 / 1183 (thread 1)                    cSTEP 115 / 1183 (thread 0)                    STEP 116 / 1183 (thread 2)                    ccSTEP 117 / 1183 (thread 1)                    cSTEP 118 / 1183 (thread 3)                    cSTEP 119 / 1183 (thread 1)                    cSTEP 120 / 1183 (thread 2)                    cSTEP 121 / 1183 (thread 3)                    STEP 122 / 1183 (thread 0)                    ccSTEP 123 / 1183 (thread 2)                    cSTEP 124 / 1183 (thread 1)                    cSTEP 125 / 1183 (thread 0)                    cSTEP 126 / 1183 (thread 3)                    cSTEP 127 / 1183 (thread 2)                    cSTEP 128 / 1183 (thread 1)                    cSTEP 129 / 1183 (thread 0)                    STEP 130 / 1183 (thread 3)                    ccSTEP 131 / 1183 (thread 1)                    cSTEP 132 / 1183 (thread 2)                    cSTEP 133 / 1183 (thread 0)                    cSTEP 134 / 1183 (thread 3)                    cSTEP 135 / 1183 (thread 3)                    cSTEP 136 / 1183 (thread 0)                    cSTEP 137 / 1183 (thread 1)                    cSTEP 138 / 1183 (thread 2)                    cSTEP 139 / 1183 (thread 0)                    cSTEP 140 / 1183 (thread 3)                    cSTEP 141 / 1183 (thread 1)                    cSTEP 142 / 1183 (thread 0)                    STEP 143 / 1183 (thread 2)                    cSTEP 144 / 1183 (thread 3)                    ccSTEP 145 / 1183 (thread 1)                    cSTEP 146 / 1183 (thread 2)                    cSTEP 147 / 1183 (thread 3)                    STEP 148 / 1183 (thread 0)                    ccSTEP 149 / 1183 (thread 1)                    cSTEP 150 / 1183 (thread 0)                    STEP 151 / 1183 (thread 2)                    ccSTEP 152 / 1183 (thread 3)                    cSTEP 153 / 1183 (thread 1)                    cSTEP 154 / 1183 (thread 2)                    cSTEP 155 / 1183 (thread 0)                    cSTEP 156 / 1183 (thread 1)                    STEP 157 / 1183 (thread 3)                    ccSTEP 158 / 1183 (thread 2)                    cSTEP 159 / 1183 (thread 0)                    cSTEP 160 / 1183 (thread 1)                    cSTEP 161 / 1183 (thread 3)                    cSTEP 162 / 1183 (thread 2)                    cSTEP 163 / 1183 (thread 1)                    cSTEP 164 / 1183 (thread 0)                    cSTEP 165 / 1183 (thread 3)                    cSTEP 166 / 1183 (thread 2)                    cSTEP 167 / 1183 (thread 1)                    cSTEP 168 / 1183 (thread 0)                    cSTEP 169 / 1183 (thread 3)                    cSTEP 170 / 1183 (thread 2)                    cSTEP 171 / 1183 (thread 1)                    cSTEP 172 / 1183 (thread 0)                    cSTEP 173 / 1183 (thread 3)                    STEP 174 / 1183 (thread 2)                    ccSTEP 175 / 1183 (thread 1)                    cSTEP 176 / 1183 (thread 0)                    cSTEP 177 / 1183 (thread 3)                    cSTEP 178 / 1183 (thread 2)                    cSTEP 179 / 1183 (thread 1)                    cSTEP 180 / 1183 (thread 0)                    cSTEP 181 / 1183 (thread 3)                    STEP 182 / 1183 (thread 2)                    cSTEP 183 / 1183 (thread 1)                    ccSTEP 184 / 1183 (thread 1)                    cSTEP 185 / 1183 (thread 0)                    STEP 186 / 1183 (thread 3)                    ccSTEP 187 / 1183 (thread 1)                    cSTEP 188 / 1183 (thread 2)                    cSTEP 189 / 1183 (thread 1)                    cSTEP 190 / 1183 (thread 1)                    cSTEP 191 / 1183 (thread 2)                    cSTEP 192 / 1183 (thread 0)                    cSTEP 193 / 1183 (thread 3)                    cSTEP 194 / 1183 (thread 1)                    cSTEP 195 / 1183 (thread 1)                    cSTEP 196 / 1183 (thread 3)                    STEP 197 / 1183 (thread 2)                    ccSTEP 198 / 1183 (thread 1)                    cSTEP 199 / 1183 (thread 0)                    cSTEP 200 / 1183 (thread 1)                    cSTEP 201 / 1183 (thread 3)                    STEP 202 / 1183 (thread 2)                    ccSTEP 203 / 1183 (thread 1)                    cSTEP 204 / 1183 (thread 1)                    cSTEP 205 / 1183 (thread 0)                    cSTEP 206 / 1183 (thread 2)                    cSTEP 207 / 1183 (thread 1)                    cSTEP 208 / 1183 (thread 3)                    cSTEP 209 / 1183 (thread 1)                    cSTEP 210 / 1183 (thread 0)                    cSTEP 211 / 1183 (thread 2)                    cSTEP 212 / 1183 (thread 1)                    cSTEP 213 / 1183 (thread 1)                    STEP 214 / 1183 (thread 3)                    ccSTEP 215 / 1183 (thread 2)                    cSTEP 216 / 1183 (thread 1)                    cSTEP 217 / 1183 (thread 0)                    cSTEP 218 / 1183 (thread 1)                    cSTEP 219 / 1183 (thread 2)                    cSTEP 220 / 1183 (thread 3)                    cSTEP 221 / 1183 (thread 1)                    cSTEP 222 / 1183 (thread 1)                    cSTEP 223 / 1183 (thread 3)                    cSTEP 224 / 1183 (thread 2)                    cSTEP 225 / 1183 (thread 1)                    cSTEP 226 / 1183 (thread 0)                    cSTEP 227 / 1183 (thread 2)                    cSTEP 228 / 1183 (thread 1)                    cSTEP 229 / 1183 (thread 2)                    cSTEP 230 / 1183 (thread 3)                    cSTEP 231 / 1183 (thread 1)                    cSTEP 232 / 1183 (thread 2)                    cSTEP 233 / 1183 (thread 1)                    cSTEP 234 / 1183 (thread 0)                    cSTEP 235 / 1183 (thread 2)                    cSTEP 236 / 1183 (thread 3)                    cSTEP 237 / 1183 (thread 1)                    cSTEP 238 / 1183 (thread 2)                    cSTEP 239 / 1183 (thread 1)                    cSTEP 240 / 1183 (thread 2)                    cSTEP 241 / 1183 (thread 1)                    STEP 242 / 1183 (thread 0)                    ccSTEP 243 / 1183 (thread 2)                    cSTEP 244 / 1183 (thread 1)                    cSTEP 245 / 1183 (thread 2)                    STEP 246 / 1183 (thread 3)                    ccSTEP 247 / 1183 (thread 1)                    cSTEP 248 / 1183 (thread 2)                    cSTEP 249 / 1183 (thread 0)                    cSTEP 250 / 1183 (thread 1)                    cSTEP 251 / 1183 (thread 2)                    cSTEP 252 / 1183 (thread 1)                    cSTEP 253 / 1183 (thread 3)                    cSTEP 254 / 1183 (thread 2)                    cSTEP 255 / 1183 (thread 1)                    cSTEP 256 / 1183 (thread 2)                    cSTEP 257 / 1183 (thread 1)                    cSTEP 258 / 1183 (thread 0)                    cSTEP 259 / 1183 (thread 2)                    STEP 260 / 1183 (thread 3)                    ccSTEP 261 / 1183 (thread 1)                    cSTEP 262 / 1183 (thread 2)                    cSTEP 263 / 1183 (thread 1)                    cSTEP 264 / 1183 (thread 3)                    STEP 265 / 1183 (thread 1)                    ccSTEP 266 / 1183 (thread 0)                    cSTEP 267 / 1183 (thread 2)                    cSTEP 268 / 1183 (thread 1)                    cSTEP 269 / 1183 (thread 3)                    cSTEP 270 / 1183 (thread 1)                    cSTEP 271 / 1183 (thread 2)                    cSTEP 272 / 1183 (thread 1)                    STEP 273 / 1183 (thread 0)                    ccSTEP 274 / 1183 (thread 1)                    cSTEP 275 / 1183 (thread 2)                    cSTEP 276 / 1183 (thread 0)                    cSTEP 277 / 1183 (thread 1)                    cSTEP 278 / 1183 (thread 3)                    cSTEP 279 / 1183 (thread 0)                    STEP 280 / 1183 (thread 2)                    cSTEP 281 / 1183 (thread 1)                    ccSTEP 282 / 1183 (thread 3)                    cSTEP 283 / 1183 (thread 2)                    cSTEP 284 / 1183 (thread 0)                    cSTEP 285 / 1183 (thread 1)                    cSTEP 286 / 1183 (thread 2)                    STEP 287 / 1183 (thread 0)                    STEP 288 / 1183 (thread 1)                    cccSTEP 289 / 1183 (thread 3)                    cSTEP 290 / 1183 (thread 1)                    cSTEP 291 / 1183 (thread 0)                    cSTEP 292 / 1183 (thread 2)                    cSTEP 293 / 1183 (thread 3)                    cSTEP 294 / 1183 (thread 2)                    cSTEP 295 / 1183 (thread 1)                    cSTEP 296 / 1183 (thread 0)                    cSTEP 297 / 1183 (thread 2)                    cSTEP 298 / 1183 (thread 3)                    cSTEP 299 / 1183 (thread 2)                    cSTEP 300 / 1183 (thread 1)                    cSTEP 301 / 1183 (thread 2)                    cSTEP 302 / 1183 (thread 3)                    cSTEP 303 / 1183 (thread 2)                    cSTEP 304 / 1183 (thread 1)                    cSTEP 305 / 1183 (thread 0)                    cSTEP 306 / 1183 (thread 2)                    cSTEP 307 / 1183 (thread 3)                    STEP 308 / 1183 (thread 2)                    STEP 309 / 1183 (thread 0)                    ccSTEP 310 / 1183 (thread 1)                    ccSTEP 311 / 1183 (thread 2)                    cSTEP 312 / 1183 (thread 2)                    cSTEP 313 / 1183 (thread 1)                    STEP 314 / 1183 (thread 0)                    ccSTEP 315 / 1183 (thread 2)                    cSTEP 316 / 1183 (thread 3)                    cSTEP 317 / 1183 (thread 2)                    cSTEP 318 / 1183 (thread 0)                    STEP 319 / 1183 (thread 1)                    ccSTEP 320 / 1183 (thread 2)                    cSTEP 321 / 1183 (thread 2)                    cSTEP 322 / 1183 (thread 3)                    cSTEP 323 / 1183 (thread 0)                    cSTEP 324 / 1183 (thread 1)                    cSTEP 325 / 1183 (thread 2)                    cSTEP 326 / 1183 (thread 2)                    cSTEP 327 / 1183 (thread 0)                    cSTEP 328 / 1183 (thread 1)                    cSTEP 329 / 1183 (thread 2)                    cSTEP 330 / 1183 (thread 3)                    cSTEP 331 / 1183 (thread 2)                    STEP 332 / 1183 (thread 1)                    ccSTEP 333 / 1183 (thread 0)                    cSTEP 334 / 1183 (thread 2)                    STEP 335 / 1183 (thread 1)                    ccSTEP 336 / 1183 (thread 1)                    STEP 337 / 1183 (thread 2)                    ccSTEP 338 / 1183 (thread 3)                    cSTEP 339 / 1183 (thread 1)                    cSTEP 340 / 1183 (thread 2)                    cSTEP 341 / 1183 (thread 0)                    cSTEP 342 / 1183 (thread 1)                    cSTEP 343 / 1183 (thread 2)                    cSTEP 344 / 1183 (thread 3)                    STEP 345 / 1183 (thread 1)                    cSTEP 346 / 1183 (thread 2)                    ccSTEP 347 / 1183 (thread 1)                    cSTEP 348 / 1183 (thread 0)                    cSTEP 349 / 1183 (thread 1)                    cSTEP 350 / 1183 (thread 2)                    cSTEP 351 / 1183 (thread 1)                    cSTEP 352 / 1183 (thread 3)                    cSTEP 353 / 1183 (thread 0)                    STEP 354 / 1183 (thread 1)                    ccSTEP 355 / 1183 (thread 1)                    cSTEP 356 / 1183 (thread 2)                    cSTEP 357 / 1183 (thread 1)                    cSTEP 358 / 1183 (thread 3)                    STEP 359 / 1183 (thread 0)                    cSTEP 360 / 1183 (thread 1)                    ccSTEP 361 / 1183 (thread 2)                    cSTEP 362 / 1183 (thread 1)                    cSTEP 363 / 1183 (thread 0)                    cSTEP 364 / 1183 (thread 1)                    cSTEP 365 / 1183 (thread 2)                    cSTEP 366 / 1183 (thread 1)                    STEP 367 / 1183 (thread 3)                    ccSTEP 368 / 1183 (thread 2)                    cSTEP 369 / 1183 (thread 1)                    cSTEP 370 / 1183 (thread 2)                    cSTEP 371 / 1183 (thread 0)                    cSTEP 372 / 1183 (thread 1)                    cSTEP 373 / 1183 (thread 2)                    cSTEP 374 / 1183 (thread 3)                    cSTEP 375 / 1183 (thread 1)                    cSTEP 376 / 1183 (thread 2)                    cSTEP 377 / 1183 (thread 1)                    cSTEP 378 / 1183 (thread 0)                    cSTEP 379 / 1183 (thread 2)                    cSTEP 380 / 1183 (thread 1)                    cSTEP 381 / 1183 (thread 2)                    cSTEP 382 / 1183 (thread 1)                    cSTEP 383 / 1183 (thread 3)                    cSTEP 384 / 1183 (thread 2)                    cSTEP 385 / 1183 (thread 0)                    STEP 386 / 1183 (thread 2)                    STEP 387 / 1183 (thread 1)                    WARNING: negative branch length -0.011681, step 157-1
+cccSTEP 388 / 1183 (thread 2)                    WARNING: negative branch length -0.011631, step 157-1
+cSTEP 389 / 1183 (thread 3)                    WARNING: negative branch length -0.011631, step 157-1
+cSTEP 390 / 1183 (thread 1)                    cSTEP 391 / 1183 (thread 2)                    cSTEP 392 / 1183 (thread 0)                    cSTEP 393 / 1183 (thread 2)                    cSTEP 394 / 1183 (thread 1)                    cSTEP 395 / 1183 (thread 3)                    cSTEP 396 / 1183 (thread 2)                    cSTEP 397 / 1183 (thread 1)                    WARNING: negative branch length -0.011556, step 157-1
+cSTEP 398 / 1183 (thread 2)                    WARNING: negative branch length -0.011575, step 157-1
+cSTEP 399 / 1183 (thread 1)                    WARNING: negative branch length -0.014775, step 157-1
+cSTEP 400 / 1183 (thread 0)                    cSTEP 401 / 1183 (thread 2)                    cSTEP 402 / 1183 (thread 1)                    cSTEP 403 / 1183 (thread 3)                    WARNING: negative branch length -0.020906, step 157-1
+cSTEP 404 / 1183 (thread 2)                    WARNING: negative branch length -0.014826, step 157-1
+cSTEP 405 / 1183 (thread 1)                    WARNING: negative branch length -0.021001, step 157-1
+cSTEP 406 / 1183 (thread 2)                    WARNING: negative branch length -0.008306, step 157-1
+cSTEP 407 / 1183 (thread 1)                    WARNING: negative branch length -0.008306, step 157-1
+cSTEP 408 / 1183 (thread 3)                    WARNING: negative branch length -0.008306, step 157-1
+cSTEP 409 / 1183 (thread 0)                    WARNING: negative branch length -0.008306, step 157-1
+cSTEP 410 / 1183 (thread 1)                    WARNING: negative branch length -0.008731, step 157-1
+cSTEP 411 / 1183 (thread 2)                    WARNING: negative branch length -0.008731, step 157-1
+cSTEP 412 / 1183 (thread 1)                    WARNING: negative branch length -0.008731, step 157-1
+cSTEP 413 / 1183 (thread 3)                    WARNING: negative branch length -0.008731, step 157-1
+cSTEP 414 / 1183 (thread 0)                    WARNING: negative branch length -0.015206, step 157-1
+cSTEP 415 / 1183 (thread 1)                    WARNING: negative branch length -0.015206, step 157-1
+cSTEP 416 / 1183 (thread 2)                    WARNING: negative branch length -0.015206, step 157-1
+cSTEP 417 / 1183 (thread 3)                    STEP 418 / 1183 (thread 1)                    STEP 419 / 1183 (thread 2)                    WARNING: negative branch length -0.018581, step 157-1
+cccSTEP 420 / 1183 (thread 0)                    cSTEP 421 / 1183 (thread 3)                    cSTEP 422 / 1183 (thread 0)                    WARNING: negative branch length -0.021506, step 157-1
+cSTEP 423 / 1183 (thread 2)                    WARNING: negative branch length -0.021731, step 157-1
+STEP 424 / 1183 (thread 1)                    cWARNING: negative branch length -0.021731, step 157-1
+cSTEP 425 / 1183 (thread 2)                    STEP 426 / 1183 (thread 1)                    WARNING: negative branch length -0.021731, step 157-1
+WARNING: negative branch length -0.021731, step 157-1
+ccSTEP 427 / 1183 (thread 3)                    WARNING: negative branch length -0.021681, step 157-1
+cSTEP 428 / 1183 (thread 0)                    WARNING: negative branch length -0.020931, step 157-1
+cSTEP 429 / 1183 (thread 2)                    WARNING: negative branch length -0.021106, step 157-1
+STEP 430 / 1183 (thread 1)                    WARNING: negative branch length -0.021056, step 157-1
+ccSTEP 431 / 1183 (thread 0)                    WARNING: negative branch length -0.021206, step 157-1
+STEP 432 / 1183 (thread 3)                    WARNING: negative branch length -0.021681, step 157-1
+ccSTEP 433 / 1183 (thread 1)                    WARNING: negative branch length -0.021506, step 157-1
+STEP 434 / 1183 (thread 2)                    WARNING: negative branch length -0.021506, step 157-1
+ccSTEP 435 / 1183 (thread 3)                    WARNING: negative branch length -0.021506, step 157-1
+STEP 436 / 1183 (thread 0)                    cWARNING: negative branch length -0.021506, step 157-1
+cSTEP 437 / 1183 (thread 2)                    WARNING: negative branch length -0.021731, step 157-1
+cSTEP 438 / 1183 (thread 1)                    WARNING: negative branch length -0.021731, step 157-1
+cSTEP 439 / 1183 (thread 0)                    STEP 440 / 1183 (thread 3)                    WARNING: negative branch length -0.020856, step 157-1
+cWARNING: negative branch length -0.021731, step 157-1
+cSTEP 441 / 1183 (thread 2)                    STEP 442 / 1183 (thread 1)                    WARNING: negative branch length -0.022031, step 157-1
+cWARNING: negative branch length -0.020653, step 157-1
+cSTEP 443 / 1183 (thread 0)                    STEP 444 / 1183 (thread 3)                    WARNING: negative branch length -0.022031, step 157-1
+WARNING: negative branch length -0.022031, step 157-1
+ccSTEP 445 / 1183 (thread 1)                    WARNING: negative branch length -0.022031, step 157-1
+cSTEP 446 / 1183 (thread 2)                    WARNING: negative branch length -0.022031, step 157-1
+cSTEP 447 / 1183 (thread 0)                    STEP 448 / 1183 (thread 1)                    WARNING: negative branch length -0.021731, step 157-1
+cSTEP 449 / 1183 (thread 3)                    WARNING: negative branch length -0.021677, step 157-1
+WARNING: negative branch length -0.015431, step 157-1
+ccSTEP 450 / 1183 (thread 2)                    WARNING: negative branch length -0.015431, step 157-1
+cSTEP 451 / 1183 (thread 3)                    STEP 452 / 1183 (thread 0)                    WARNING: negative branch length -0.015500, step 157-1
+cSTEP 453 / 1183 (thread 1)                    WARNING: negative branch length -0.015856, step 157-1
+cWARNING: negative branch length -0.015431, step 157-1
+cSTEP 454 / 1183 (thread 2)                    WARNING: negative branch length -0.021606, step 157-1
+cSTEP 455 / 1183 (thread 1)                    WARNING: negative branch length -0.021606, step 157-1
+cSTEP 456 / 1183 (thread 0)                    STEP 457 / 1183 (thread 3)                    WARNING: negative branch length -0.021606, step 157-1
+WARNING: negative branch length -0.022326, step 157-1
+ccSTEP 458 / 1183 (thread 2)                    WARNING: negative branch length -0.022326, step 157-1
+cSTEP 459 / 1183 (thread 1)                    WARNING: negative branch length -0.022326, step 157-1
+cSTEP 460 / 1183 (thread 2)                    STEP 461 / 1183 (thread 0)                    WARNING: negative branch length -0.021481, step 157-1
+cSTEP 462 / 1183 (thread 3)                    WARNING: negative branch length -0.015856, step 157-1
+cWARNING: negative branch length -0.015856, step 157-1
+cSTEP 463 / 1183 (thread 1)                    WARNING: negative branch length -0.015856, step 157-1
+cSTEP 464 / 1183 (thread 2)                    WARNING: negative branch length -0.019306, step 157-1
+cSTEP 465 / 1183 (thread 2)                    STEP 466 / 1183 (thread 3)                    WARNING: negative branch length -0.019181, step 157-1
+WARNING: negative branch length -0.019181, step 157-1
+ccSTEP 467 / 1183 (thread 0)                    WARNING: negative branch length -0.019181, step 157-1
+cSTEP 468 / 1183 (thread 1)                    STEP 469 / 1183 (thread 2)                    WARNING: negative branch length -0.015500, step 157-1
+cWARNING: negative branch length -0.021556, step 157-1
+cSTEP 470 / 1183 (thread 2)                    WARNING: negative branch length -0.016026, step 157-1
+cSTEP 471 / 1183 (thread 3)                    WARNING: negative branch length -0.015075, step 157-1
+cSTEP 472 / 1183 (thread 0)                    WARNING: negative branch length -0.012481, step 157-1
+cSTEP 473 / 1183 (thread 1)                    cSTEP 474 / 1183 (thread 2)                    WARNING: negative branch length -0.021306, step 157-1
+cSTEP 475 / 1183 (thread 1)                    WARNING: negative branch length -0.021306, step 157-1
+STEP 476 / 1183 (thread 3)                    cWARNING: negative branch length -0.021306, step 157-1
+STEP 477 / 1183 (thread 0)                    cWARNING: negative branch length -0.021306, step 157-1
+cSTEP 478 / 1183 (thread 2)                    WARNING: negative branch length -0.021556, step 157-1
+cSTEP 479 / 1183 (thread 3)                    STEP 480 / 1183 (thread 0)                    STEP 481 / 1183 (thread 1)                    WARNING: negative branch length -0.017931, step 157-1
+cSTEP 482 / 1183 (thread 2)                    WARNING: negative branch length -0.022106, step 157-1
+cWARNING: negative branch length -0.021556, step 157-1
+cWARNING: negative branch length -0.018456, step 157-1
+cSTEP 483 / 1183 (thread 1)                    STEP 484 / 1183 (thread 2)                    WARNING: negative branch length -0.022106, step 157-1
+cWARNING: negative branch length -0.021606, step 157-1
+cSTEP 485 / 1183 (thread 3)                    STEP 486 / 1183 (thread 0)                    ccSTEP 487 / 1183 (thread 1)                    cSTEP 488 / 1183 (thread 2)                    cSTEP 489 / 1183 (thread 0)                    cSTEP 490 / 1183 (thread 3)                    cSTEP 491 / 1183 (thread 1)                    cSTEP 492 / 1183 (thread 2)                    cSTEP 493 / 1183 (thread 0)                    cSTEP 494 / 1183 (thread 3)                    cSTEP 495 / 1183 (thread 1)                    STEP 496 / 1183 (thread 2)                    ccSTEP 497 / 1183 (thread 1)                    cSTEP 498 / 1183 (thread 0)                    STEP 499 / 1183 (thread 2)                    cc
+STEP 500 / 1183 (thread 1)                    
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+STEP 600 / 1183 (thread 0)                    
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+STEP 700 / 1183 (thread 3)                    
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+STEP 800 / 1183 (thread 1)                    
+ccccccccccccWARNING: negative branch length -0.016537, step 240-1
+cWARNING: negative branch length -0.013576, step 240-1
+cWARNING: negative branch length -0.018951, step 240-1
+cWARNING: negative branch length -0.018951, step 240-1
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+STEP 900 / 1183 (thread 3)                    
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+STEP 1000 / 1183 (thread 0)                    
+cccccccccccccccccccccccccWARNING: negative branch length -0.020451, step 240-1
+ccccccWARNING: negative branch length -0.018951, step 240-1
+cccWARNING: negative branch length -0.018951, step 240-1
+ccWARNING: negative branch length -0.015600, step 240-1
+ccccccccWARNING: negative branch length -0.018951, step 240-1
+ccWARNING: negative branch length -0.014100, step 240-1
+cWARNING: negative branch length -0.026350, step 381-0
+ccWARNING: negative branch length -0.018951, step 240-1
+cccccWARNING: negative branch length -0.020451, step 240-1
+ccWARNING: negative branch length -0.014100, step 240-1
+cWARNING: negative branch length -0.018951, step 240-1
+cccWARNING: negative branch length -0.013027, step 179-0
+ccWARNING: negative branch length -0.020451, step 240-1
+cWARNING: negative branch length -0.010200, step 179-0
+cWARNING: negative branch length -0.020451, step 240-1
+ccWARNING: negative branch length -0.009045, step 179-0
+cWARNING: negative branch length -0.020451, step 240-1
+ccWARNING: negative branch length -0.010200, step 179-0
+cccccccccccccWARNING: negative branch length -0.018951, step 240-1
+cccWARNING: negative branch length -0.020451, step 240-1
+ccccccccccccccc
+STEP 1100 / 1183 (thread 3)                    
+ccccccccccccccccccccWARNING: negative branch length -0.025793, step 240-0
+cccccccccWARNING: negative branch length -0.020057, step 249-1
+ccWARNING: negative branch length -0.018951, step 240-1
+cccWARNING: negative branch length -0.014100, step 240-1
+cWARNING: negative branch length -0.018951, step 240-1
+cccccWARNING: negative branch length -0.020451, step 240-1
+ccccWARNING: negative branch length -0.010200, step 179-0
+WARNING: negative branch length -0.014100, step 240-1
+ccWARNING: negative branch length -0.020451, step 240-1
+ccWARNING: negative branch length -0.020451, step 240-1
+cccccccccWARNING: negative branch length -0.018951, step 240-1
+cccWARNING: negative branch length -0.020451, step 240-1
+ccccccccccWARNING: negative branch length -0.010200, step 179-0
+cccWARNING: negative branch length -0.013027, step 179-0
+cccccccccc
+
+Combining ..
+0 / 1183 0 / 1183   done.                      
+
+   done.                      
+
+addsingle (nuc) Version 7.526
+alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+4 thread(s)
+
+
+To keep the alignment length, 249 letters were DELETED.
+The deleted letters are shown in the (filename).map file.
+
+Strategy:
+ Multi-INS-fragment (Not tested.)
+ ?
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+

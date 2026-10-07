@@ -1,0 +1,24 @@
+\begin{table}[htbp]\centering
+\begin{threeparttable}
+\caption{Training-only benchmark with the external databases fixed.}
+\label{tab:benchmark}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrr}
+\toprule
+Configuration & Known kept & Exact species & False known, & False known,\\
+ & (of 755) & & all held out (of 803) & single-culture (of 48)\\
+\midrule
+Nearest-reference LSU & 748 & 603 & 215 (26.8\%) & 3\\
+LSU species-clade placement & 751 & 701 & 71 (8.8\%) & 0\\
+Placement + ITS rule (N6) & 745 & 697 & 18 (2.2\%) & 0\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item \emph{Known kept}: main-type copies of species held by another training
+culture that receive a known species or species-group call containing the true
+species (culture holdout, 148 folds). \emph{False known}: known calls for copies
+whose species has no training culture (species holdout, 50 folds). Averaged over
+species and over cultures, the final false-known rate is 1.4\% and 1.9\%.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

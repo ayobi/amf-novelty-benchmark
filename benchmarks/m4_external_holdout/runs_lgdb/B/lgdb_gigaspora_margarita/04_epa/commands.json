@@ -1,0 +1,25 @@
+[
+  [
+    "/home/csb/miniforge3/envs/amf-m4/bin/epa-ng",
+    "--ref-msa",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_margarita/01_reference/aligned.fasta",
+    "--tree",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_margarita/02_model/fit.raxml.bestTree",
+    "--query",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_margarita/03_queries/queries.aligned.fasta",
+    "--model",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_margarita/02_model/fit.raxml.bestModel",
+    "--outdir",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_margarita/04_epa",
+    "--threads",
+    "4",
+    "--no-heur",
+    "--no-pre-mask",
+    "--filter-min-lwr",
+    "0",
+    "--filter-max",
+    "2000",
+    "--precision",
+    "12"
+  ]
+]

@@ -1,0 +1,32 @@
+903 copies; holdout species; arms VT, SH, LSU
+
+1. status by what the reference knows (rows) 
+                                 copies  known sp.  known grp  novel sp. novel lin.   boundary  divergent   discord.   artifact
+  main, species held out            803        181         19        321        190          0         92          0          0
+  main, 'sp.' culture                49         29          0         11          0          5          4          0          0
+  divergent (short_5.8S)             43          0          3          0          0          0         40          0          0
+  divergent (same_length)             8          2          1          1          4          0          0          0          0
+
+2. checks
+  false species: held-out species called a known species or group: 200 of 803 (25%)
+      Diversispora spurca | CW0006_4005B (11): known species group Diversispora arenaria;Diversispora epigaea;Diversispora jakucsiae
+      Glomus rugosae | 4431_805C (11): known species Glomus chinense
+      Glomus rugosae | 2101_IVT46 (10): known species Glomus chinense
+      Diversispora aestuarii | 4403_745C (10): known species Diversispora varaderana
+      Diversispora aestuarii | 4485_952D (10): known species Diversispora varaderana
+      Ambispora leptoticha | ON205A (9): known species Ambispora callosa
+      Ambispora callosa | MAFF520084_2504A (9): known species Ambispora leptoticha
+      Glomus rugosae | 4417_1160C (8): known species Glomus chinense
+  short-5.8S copies recognised from their own sequence: 40 of 43 (5.8S length 40, paralog unit 3); called novel: 0
+  main-type copies called divergent: 96
+      PX207166.1 Rhizophagus irregularis | GC-2_IVT11: D2 paralog unit Rhizophagus irregularis (LSU); placed by VT: [Rhizoglomus] vesiculiferum
+      PX207167.1 Rhizophagus irregularis | GC-2_IVT11: D2 paralog unit Rhizophagus irregularis (LSU); placed by VT: [Rhizoglomus] vesiculiferum
+      PX207168.1 Rhizophagus irregularis | DAOMC 197198: D2 paralog unit Rhizophagus irregularis (LSU); placed by VT: [Rhizoglomus] vesiculiferum
+      PX207169.1 Rhizophagus irregularis | DAOMC 197198: D2 paralog unit Rhizophagus irregularis (LSU); placed by VT: [Rhizoglomus] vesiculiferum
+      PX207170.1 Rhizophagus irregularis | DAOMC 197198: D2 paralog unit Rhizophagus irregularis (LSU); placed by VT: [Rhizoglomus] vesiculiferum
+      PX207173.1 Rhizophagus irregularis | DAOMC 197198: D2 paralog unit Rhizophagus irregularis (LSU); placed by VT: [Rhizoglomus] vesiculiferum
+  artifacts: 0 (the culture reference should have none left)
+  same-length 5.8S flags (D3): 105 copies (3 of them divergent-class in the reference)
+  SSU/ITS divergence ratio to the nearest culture, main-type copies: median 0.056, 95th 0.144, max 0.216 (artifact needs >= 0.5 with SSU >= 1.0%)
+
+table: ../bench/stefani/novelty_v4_species.copies.tsv

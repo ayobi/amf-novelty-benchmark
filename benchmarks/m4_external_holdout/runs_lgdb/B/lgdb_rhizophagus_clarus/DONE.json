@@ -1,0 +1,32 @@
+{
+  "key": "5fd6ff318676ffb8af163cf906a45ba292fb66537c0c3464bad5233eed2172ad",
+  "placements_sha256": "fb67aded9a47a1964ef1c9167004159ab44b5c5e2d0fcc238804cd02fb83b5d2",
+  "plan": {
+    "key": "lgdb_rhizophagus_clarus",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Rhizophagus_clarus_BR147B_KU_ASV1382_INVAM",
+      "Rhizophagus_clarus_BR147B_KU_ASV1383_INVAM",
+      "Rhizophagus_clarus_BR147B_KU_ASV1385_INVAM",
+      "Rhizophagus_clarus_BR147B_KU_ASV1386_INVAM",
+      "Rhizophagus_clarus_BR147B_KU_ASV1388_INVAM",
+      "Rhizophagus_clarus_FL879N_KU_ASV1378_INVAM",
+      "Rhizophagus_clarus_FL879N_KU_ASV1379_INVAM",
+      "Rhizophagus_clarus_FL879N_KU_ASV1380_INVAM",
+      "Rhizophagus_clarus_FL879N_KU_ASV1381_INVAM",
+      "Rhizophagus_clarus_FL879N_KU_ASV1384_INVAM",
+      "Rhizophagus_clarus_FL879N_KU_ASV1387_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0379",
+      "R0380"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Rhizophagus clarus",
+    "target_cultures": [
+      "Rhizophagus clarus | LGDB BR147B",
+      "Rhizophagus clarus | LGDB FL879N"
+    ],
+    "v18_label": "Rhizophagus clarus"
+  }
+}

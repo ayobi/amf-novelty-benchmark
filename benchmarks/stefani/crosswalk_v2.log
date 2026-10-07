@@ -1,0 +1,71 @@
+culture_ref v2 (fingerprint 5119bc0402618371): 903 copies, 149 cultures, 0 on name hold
+
+arm  reference                                         seqs   units           query  copies  ref-set seqs  best hit dropped
+VT   maarjam.fasta                                     3081     384       ssu_flank     903             0                 0
+SH   (no reference given; arm skipped)
+LSU  V18_LSUDB_052025_AMFONLY.fasta                     460     234   LSU_LROR-FLR2     903             0                 0
+  ref-set seqs: reference records that are copies of the culture reference. Hits to them are dropped;
+  best hit dropped: copies whose top hit was one of them (their call comes from the next hit)
+
+1. assignment: copies assigned (%) | cultures with a label (%) | median best-hit identity
+order             cultures                        VT                       LSU
+Archaeosporales          5         100 | 100 |  99.8         100 | 100 |  97.6
+Diversisporales         42         100 | 100 |  99.8          82 |  93 |  98.5
+Glomerales              93          99 | 100 |  99.8          84 |  95 |  99.0
+Paraglomerales           9         100 | 100 |  99.8          57 |  78 |  97.6
+all                    149          99 | 100 |  99.8          83 |  93 |  98.9
+  VT: assigned 895, unassigned 5, ambiguous 3
+  LSU: assigned 750, unassigned 124, ambiguous 29
+
+2. VT arm vs Stage 1 vt_check calls in the reference: 903/903 identical
+
+3. many-to-many, counting cultures by their modal label (136 cultures of 36 named species; name holds and 'sp.' left out)
+  VT: 3 of 36 species span > 1 VT; 7 of 30 VTs hold > 1 species
+      Microdominikia litorea: VTX00222 (1), VTX00125 (1)
+      Rhizophagus irregularis: VTX00114 (9), VTX00113 (2)
+      [Rhizoglomus] vesiculiferum: VTX00113 (6), VTX00115 (2)
+      VTX00199: Glomus rugosae (9), Glomus tetrastratosum (5), Glomus chinense (4), Glomus macrocarpum (1)
+      VTX00054: Diversispora arenaria (1), Diversispora jakucsiae (1)
+      VTX00060: Diversispora celata (2), Diversispora eburnea (2)
+      VTX00065: Funneliformis caledonium (2), Funneliformis geosporum (2)
+  LSU: 3 of 35 species span > 1 LSU; 3 of 35 LSUs hold > 1 species
+      Diversispora varaderana: Diversispora varaderana (6), Diversispora bareai (1)
+      Funneliformis caledonium: Funneliformis fragilistratum (1), Funneliformis caledonium (1)
+      Gigaspora rosea: Gigaspora rosea (5), Gigaspora albida (4)
+      Ambispora leptoticha: Ambispora callosa (3), Ambispora leptoticha (2)
+      Diversispora varaderana: Diversispora varaderana (6), Diversispora aestuarii (2)
+      Funneliformis coronatus: Funneliformis mosseae (12), Funneliformis coronatus (4)
+
+4. within-culture splits: main-type copies of one culture assigned to two units
+  VT: 2 unit pairs in 5 cultures
+      VTX00113 / VTX00115: 3 culture(s) ([Rhizoglomus] vesiculiferum (3)); closest pair across the split 0.34% median, 0.88% max (ssu_flank)
+      VTX00125 / VTX00222: 2 culture(s) (Microdominikia litorea (2)); closest pair across the split 0.71% median, 0.75% max (ssu_flank)
+  LSU: 9 unit pairs in 14 cultures
+      Diversispora bareai / Diversispora varaderana: 4 culture(s) (Diversispora varaderana (3), Diversispora aestuarii (1)); closest pair across the split 1.09% median, 1.23% max (LSU_LROR-FLR2)
+      Glomus mongioiense / Glomus rugosae: 2 culture(s) (Glomus rugosae (2)); closest pair across the split 1.71% median, 1.77% max (LSU_LROR-FLR2)
+      Gigaspora albida / Gigaspora rosea: 2 culture(s) (Gigaspora rosea (2)); closest pair across the split 0.96% median, 1.18% max (LSU_LROR-FLR2)
+      Gigaspora albida / Gigaspora gigantea: 1 culture(s) (Gigaspora rosea (1)); closest pair across the split 2.95% median, 2.95% max (LSU_LROR-FLR2)
+      Funneliformis caledonium / Funneliformis fragilistratum: 1 culture(s) (Funneliformis caledonium (1)); closest pair across the split 0.67% median, 0.67% max (LSU_LROR-FLR2)
+      Funneliformis caledonium / Funneliformis geosporum: 1 culture(s) (Funneliformis geosporum (1)); closest pair across the split 0.67% median, 0.67% max (LSU_LROR-FLR2)
+
+5. cross-arm: units of one arm whose cultures carry several modal labels of another
+  VT split by LSU: 9 of 30 VTs
+      VTX00064: Septoglomus africanum (2), Septoglomus altomontanum (1), Septoglomus nigrum (1), Septoglomus turnauae (1)
+      VTX00199: Glomus rugosae (9), Glomus tetrastratosum (5), Glomus chinense (4), Glomus macrocarpum (1)
+      VTX00065: Funneliformis geosporum (2), Funneliformis fragilistratum (1), Funneliformis caledonium (1)
+  LSU split by VT: 4 of 40 LSUs
+      Funneliformis coronatus: VTX00067 (12), VTX00265 (4)
+      Microdominikia litorea: VTX00222 (1), VTX00125 (1)
+      Rhizophagus irregularis: VTX00114 (9), VTX00113 (2)
+
+6. divergent-class and SSU-outlier copies against their culture's main-type unit
+  48 divergent-class copies in 30 cultures
+    arm     same unit  other unit  no call  no culture unit   median best-hit identity (divergent vs main-type)
+    VT             40           7        1                0   100.0 vs 99.8
+    LSU             7           8       32                1   94.9 vs 98.9
+  no SSU-outlier copies
+
+7. culture genus vs genus of the best reference hit (main-type modal hit, counting cultures)
+  LSU: 139/139 agree (Rhizoglomus = Rhizophagus (7) as synonyms)
+
+tables: ../bench/stefani/crosswalk_v2.copies.tsv, .cultures.tsv, .species.tsv, .units.tsv, .run.json (reference v2, fingerprint 5119bc0402618371)

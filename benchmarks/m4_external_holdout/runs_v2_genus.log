@@ -1,0 +1,120 @@
+nohup: ignoring input
+Starting Acaulospora (92 external tips removed)
+Starting Cetraspora (12 external tips removed)
+Starting Ambispora (6 external tips removed)
+Starting Dentiscutata (12 external tips removed)
+Starting Diversispora (55 external tips removed)
+Starting Funneliformis (12 external tips removed)
+Starting Gigaspora (15 external tips removed)
+Starting Dominikia (26 external tips removed)
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+Completed Acaulospora
+  04_epa: epa-ng
+  04_epa: epa-ng
+Starting Glomus (16 external tips removed)
+  01_reference: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Dominikia
+Completed Diversispora
+  04_epa: epa-ng
+Starting Microdominikia (2 external tips removed)
+  01_reference: mafft
+Starting Oehlia (2 external tips removed)
+  01_reference: mafft
+Completed Gigaspora
+Starting Paraglomus (15 external tips removed)
+  01_reference: mafft
+Completed Ambispora
+Starting Rhizophagus (36 external tips removed)
+  01_reference: mafft
+Completed Funneliformis
+Completed Dentiscutata
+Starting Sclerocystis (2 external tips removed)
+  01_reference: mafft
+Starting Septoglomus (32 external tips removed)
+  01_reference: mafft
+Completed Cetraspora
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  02_model: raxml-ng
+  03_queries: mafft
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Glomus
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Rhizophagus
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Microdominikia
+Completed Oehlia
+Completed Paraglomus
+Completed Septoglomus
+Completed Sclerocystis
+{
+  "rank": "genus",
+  "complete": true,
+  "completed_folds": [
+    "Acaulospora",
+    "Ambispora",
+    "Cetraspora",
+    "Dentiscutata",
+    "Diversispora",
+    "Dominikia",
+    "Funneliformis",
+    "Gigaspora",
+    "Glomus",
+    "Microdominikia",
+    "Oehlia",
+    "Paraglomus",
+    "Rhizophagus",
+    "Sclerocystis",
+    "Septoglomus"
+  ],
+  "expected_folds": 15,
+  "missing_folds": []
+}
+genus: 15/15 folds scored under version 2
+  stratum                            copies  false known v1  false known v2   full-V18 control v1 -> v2
+  all                                   803         0 (  0%)        0 (  0%)             0 -> 0
+  all / removed                         803         0 (  0%)        0 (  0%)             0 -> 0
+  first_outcomes                        803         0 (  0%)        0 (  0%)             0 -> 0
+  first_outcomes / removed              803         0 (  0%)        0 (  0%)             0 -> 0

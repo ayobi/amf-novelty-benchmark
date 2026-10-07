@@ -1,0 +1,43 @@
+903 copies (852 main-type), 151 cultures, 37 named species; arms: VT, SH, LSU; holdout: culture
+
+1. arm states (main-type copies | divergent copies)
+  arm              matched         unmatched           no call
+  VT              823 | 44            24 | 7             5 | 0
+  SH              446 | 13          111 | 26          295 | 12
+  LSU             723 | 12            43 | 1           86 | 38
+
+2. main-type copies: rank of the call and whether it fits the culture's name
+  group                        copies cult.   sp. right   sp. other      group+      group- genus right genus wrong  discordant    unplaced
+  named, species elsewhere        755   131         625           0         130           0           0           0           0           0
+  named, species held out          48     7           0          10           0           9           5           0           0          24
+  unnamed ('sp.')                  49    13           0          29           0           3          17           0           0           0
+  sp. other = one species that is not the culture's; group+/- = species group with/without it.
+  expected: 'species elsewhere' at sp. right or group+; 'held out' at genus or unplaced (a species call there is a false species); 'sp.' cultures at genus, or a species call worth checking as a name
+
+3. named species present elsewhere: each arm alone vs combined (main-type copies)
+              exact species  group holding it  wrong species  genus/none
+  VT              370 ( 49%)        385 ( 51%)       0 (  0%)     0 (  0%)
+  SH              415 ( 55%)          5 (  1%)       0 (  0%)   335 ( 44%)
+  LSU             351 ( 46%)        333 ( 44%)       0 (  0%)    71 (  9%)
+  combined        625 ( 83%)        130 ( 17%)       0 (  0%)     0 (  0%)
+
+4. negative control (M3): main-type copies of species present elsewhere that are placed wrongly, discordant or unplaced: 0 of 755 in 0 cultures
+
+4b. false species: main-type copies of a species with no other culture in the reference, called as a known species or species group: 19 of 48 in 4 cultures
+      Glomus macrocarpum | W6285_2347C (7): species group Glomus chinense;Glomus rugosae | VT matched Glomus chinense;Glomus rugosae;Glomus tetrastratosum; SH no call; LSU matched Glomus chinense;Glomus rugosae
+      Septoglomus turnauae | Blasz_12_2272D (4): species Septoglomus africanum | VT matched Septoglomus africanum; SH unmatched; LSU unmatched
+      Diversispora jakucsiae | Blasz_11_2271A (4): species group Diversispora arenaria;Diversispora spurca | VT matched Diversispora arenaria;Diversispora spurca; SH unmatched; LSU unmatched
+      Diversispora arenaria | Blasz_14_2274A (4): species group Diversispora jakucsiae;Diversispora spurca | VT matched Diversispora jakucsiae;Diversispora spurca; SH no call; LSU unmatched
+
+5. divergent-class copies (combined call)
+  short_5.8S: 43 copies; species 20, species group 19, unplaced 4; consistent with the culture 38, wrong species 1; arms unmatched: SH 25, VT 7
+  same_length: 8 copies; species 7, species group 1; consistent with the culture 4, wrong species 4; arms unmatched: SH 1, LSU 1
+
+6. novelty rules on main-type copies: a species call is demoted to genus when the rule fires
+  rule                               species elsewhere: kept   demoted   held out: false species
+  matched arms only                           755/755 (100%)         0               19/48 (40%)
+  demote if VT or LSU unmatched               755/755 (100%)         0                 3/48 (6%)
+  demote if >= 2 arms unmatched               755/755 (100%)         0                9/48 (19%)
+  demote if any arm unmatched                  670/755 (89%)        85                 3/48 (6%)
+
+table: ../bench/stefani/reconcile_v4.copies.tsv

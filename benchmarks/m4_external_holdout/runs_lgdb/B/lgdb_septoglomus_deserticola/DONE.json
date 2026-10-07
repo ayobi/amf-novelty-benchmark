@@ -1,0 +1,23 @@
+{
+  "key": "c6dbe7616dfabf87b2d74f1ea0f2a3cd9777b446fbe3f666fa7cb91d8b31a0b8",
+  "placements_sha256": "7d9f459f167e8ef4c50fdb4ae55a92a2676c69091e9cbef7392a2e75ce3df8b8",
+  "plan": {
+    "key": "lgdb_septoglomus_deserticola",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Septoglomus_deserticola_NC302A_ZUII_ASV1438_INVAM",
+      "Septoglomus_deserticola_NC302A_ZUII_ASV1440_INVAM",
+      "Septoglomus_deserticola_NC302A_ZUII_ASV1441_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0371",
+      "R0372"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Septoglomus deserticola",
+    "target_cultures": [
+      "Septoglomus deserticola | LGDB NC302A"
+    ],
+    "v18_label": "Septoglomus deserticola"
+  }
+}

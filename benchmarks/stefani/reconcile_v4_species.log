@@ -1,0 +1,44 @@
+903 copies (852 main-type), 151 cultures, 37 named species; arms: VT, SH, LSU; holdout: species
+
+1. arm states (main-type copies | divergent copies)
+  arm              matched         unmatched           no call
+  VT              482 | 36          365 | 15             5 | 0
+  SH                31 | 0          526 | 39          295 | 12
+  LSU              378 | 4           388 | 9           86 | 38
+
+2. main-type copies: rank of the call and whether it fits the culture's name
+  group                        copies cult.   sp. right   sp. other      group+      group- genus right genus wrong  discordant    unplaced
+  named, species held out         803   138           0         409           0         127          48           0           0         219
+  unnamed ('sp.')                  49    13           0          29           0           3          17           0           0           0
+  sp. other = one species that is not the culture's; group+/- = species group with/without it.
+  expected: 'species elsewhere' at sp. right or group+; 'held out' at genus or unplaced (a species call there is a false species); 'sp.' cultures at genus, or a species call worth checking as a name
+
+4b. false species: main-type copies of a species with no other culture in the reference, called as a known species or species group: 536 of 803 in 87 cultures
+      Funneliformis mosseae | FS-29_2726A (20): species Funneliformis coronatus | VT unmatched; SH unmatched; LSU matched Funneliformis coronatus
+      Funneliformis mosseae | 2231_1079F (19): species Funneliformis coronatus | VT unmatched; SH unmatched; LSU matched Funneliformis coronatus
+      Funneliformis mosseae | CHB1_Fmos (17): species Funneliformis coronatus | VT unmatched; SH no call; LSU matched Funneliformis coronatus
+      Rhizophagus irregularis | DAOMC 197198 (16): species [Rhizoglomus] vesiculiferum | VT matched [Rhizoglomus] vesiculiferum; SH unmatched; LSU unmatched
+      Glomus rugosae | 4431_805C (15): species Glomus chinense | VT matched Glomus chinense;Glomus macrocarpum;Glomus tetrastratosum; SH no call; LSU matched Glomus chinense
+      Glomus chinense | 4419_1047A (13): species Glomus rugosae | VT matched Glomus macrocarpum;Glomus rugosae;Glomus tetrastratosum; SH no call; LSU matched Glomus rugosae
+      Glomus rugosae | 2101_IVT46 (13): species Glomus chinense | VT matched Glomus chinense;Glomus macrocarpum;Glomus tetrastratosum; SH no call; LSU matched Glomus chinense
+      Diversispora spurca | CW0006_4005B (11): species group Diversispora arenaria;Diversispora epigaea;Diversispora jakucsiae | VT matched Diversispora arenaria;Diversispora epigaea;Diversispora jakucsiae; SH unmatched; LSU no ca
+      Funneliformis mosseae | CHB4_Fmos (11): species Funneliformis coronatus | VT unmatched; SH unmatched; LSU matched Funneliformis coronatus
+      Glomus rugosae | 4420_683B (11): species Glomus chinense | VT matched Glomus chinense;Glomus macrocarpum;Glomus tetrastratosum; SH no call; LSU matched Glomus chinense
+      Funneliformis mosseae | 4344_272A (10): species group Funneliformis caledonium;Funneliformis coronatus | VT unmatched; SH unmatched; LSU matched Funneliformis caledonium;Funneliformis coronatus
+      Diversispora eburnea | AZ414A_356A (10): species Diversispora celata | VT matched Diversispora celata; SH unmatched; LSU unmatched
+      Diversispora aestuarii | 4403_745C (10): species Diversispora varaderana | VT matched Diversispora varaderana; SH no call; LSU matched Diversispora varaderana
+      Diversispora aestuarii | 4485_952D (10): species Diversispora varaderana | VT matched Diversispora varaderana; SH unmatched; LSU matched Diversispora varaderana
+      Ambispora leptoticha | ON205A (9): species Ambispora callosa | VT matched Ambispora callosa; SH no call; LSU matched Ambispora callosa
+
+5. divergent-class copies (combined call)
+  short_5.8S: 43 copies; species 24, unplaced 11, species group 8; consistent with the culture 0, wrong species 32; arms unmatched: SH 35, VT 11, LSU 5
+  same_length: 8 copies; unplaced 4, species 3, species group 1; consistent with the culture 0, wrong species 4; arms unmatched: VT 4, SH 4, LSU 4
+
+6. novelty rules on main-type copies: a species call is demoted to genus when the rule fires
+  rule                               species elsewhere: kept   demoted   held out: false species
+  matched arms only                                        -         0             536/803 (67%)
+  demote if VT or LSU unmatched                            -         0             216/803 (27%)
+  demote if >= 2 arms unmatched                            -         0             285/803 (35%)
+  demote if any arm unmatched                              -         0             123/803 (15%)
+
+table: ../bench/stefani/reconcile_v4_species.copies.tsv

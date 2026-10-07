@@ -1,0 +1,29 @@
+\begin{table}[htbp]\centering
+\begin{threeparttable}
+\caption{Legacy barcode windows cut from the 904 deposited rDNA copies (amfsplit v0.3.1,
+primer-trimmed windows, up to 15\% of each primer's length in edits).}
+\label{tab:stage1}
+\footnotesize\setlength{\tabcolsep}{3pt}
+\begin{tabular}{llrrrr}
+\toprule
+Window & Target & Usable & Missing & Open & Median (bp)\\
+\midrule
+SSU NS31--AM1        & MaarjAM VT       & 876 & 28 (3$'$) & 0  & 508\\
+SSU NS31--AML2       & SSU studies      & 904 & 0         & 0  & 522\\
+SSU WANDA--AML2      & SSU V4           & 903 & 1 (5$'$)  & 0  & 500\\
+SSU AMV4.5NF--AMDGR  & SSU V4, short    & 904 & 0         & 0  & 216\\
+LSU LROR--FLR2       & Delavaux LSU     & 904 & 0         & 0  & 735\\
+LSU FLR3--FLR4 (D2)  & LSU D2           & 904 & 0         & 26 (3$'$) & 330\\
+AML1--LSUmBr         & full amplicon    & 0   & 904 (both) & 0 & --\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Usable = complete plus open-ended windows; missing = primer absent although the copy covers its position; open = site beyond the copy end. The 28 missing NS31--AM1 windows are all
+the Paraglomerales copies, in which AM1 does not bind; the one missing WANDA window is
+the copy dropped from the reference (PX215117.1). The 26 open D2 windows are copies that end
+before the FLR4 site. The outer amplicon primers are absent because the deposited copies are
+trimmed inside them. No window crosses an ITSxRust anchor, and none of the 904 copies is
+flagged as a concatemer.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

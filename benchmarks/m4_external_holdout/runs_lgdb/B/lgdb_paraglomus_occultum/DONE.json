@@ -1,0 +1,22 @@
+{
+  "key": "3729790a7a73623adc80cd25b9fcfbae6267225faf7cf5e4f4d69bf43884d444",
+  "placements_sha256": "09b8968225001a4020c5759836e6fcdea6deb7f96bc02f1e16c3f2d3bbfe6fe5",
+  "plan": {
+    "key": "lgdb_paraglomus_occultum",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Paraglomus_occultum_CU126_ZUII_ASV1356_INVAM",
+      "Paraglomus_occultum_CU126_ZUII_ASV1357_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0393",
+      "R0394"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Paraglomus occultum",
+    "target_cultures": [
+      "Paraglomus occultum | LGDB CU126"
+    ],
+    "v18_label": "Paraglomus occultum"
+  }
+}

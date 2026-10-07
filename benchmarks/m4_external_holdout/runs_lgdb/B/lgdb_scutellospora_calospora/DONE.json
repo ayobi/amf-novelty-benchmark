@@ -1,0 +1,36 @@
+{
+  "key": "d3b03a16159b28be4b8428e0292eb3195c2fcf318fc1b61f1c4e12eb3bcbbba2",
+  "placements_sha256": "c11fbaca6f7c0bb41ae55450df9e0936ff0103ee7aff67493bb9d83c37c49e33",
+  "plan": {
+    "key": "lgdb_scutellospora_calospora",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Scutellospora_calospora_AU212B_ZUII_ASV1413_INVAM",
+      "Scutellospora_calospora_AU212B_ZUII_ASV1414_INVAM",
+      "Scutellospora_calospora_BEG245_ZUII_ASV1409_BEG",
+      "Scutellospora_calospora_BEG245_ZUII_ASV1410_BEG",
+      "Scutellospora_calospora_BEG245_ZUII_ASV1411_BEG",
+      "Scutellospora_calospora_BEG245_ZUII_ASV1412_BEG",
+      "Scutellospora_calospora_IL209_ZU_ASV1415_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1416_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1417_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1418_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1419_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1420_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1421_INVAM",
+      "Scutellospora_calospora_IL209_ZU_ASV1422_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0423",
+      "R0424"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "target": "Scutellospora calospora",
+    "target_cultures": [
+      "Scutellospora calospora | LGDB AU212B",
+      "Scutellospora calospora | LGDB BEG245",
+      "Scutellospora calospora | LGDB IL209"
+    ],
+    "v18_label": "Scutellospora calospora"
+  }
+}

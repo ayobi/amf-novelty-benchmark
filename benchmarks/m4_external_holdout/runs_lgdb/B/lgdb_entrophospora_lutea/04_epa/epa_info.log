@@ -1,0 +1,26 @@
+INFO Selected: Output dir: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_entrophospora_lutea/04_epa/
+INFO Selected: Query file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_entrophospora_lutea/03_queries/queries.aligned.fasta
+INFO Selected: Tree file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_entrophospora_lutea/02_model/fit.raxml.bestTree
+INFO Selected: Reference MSA: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_entrophospora_lutea/01_reference/aligned.fasta
+INFO Selected: Filtering by minimum threshold: 0
+INFO Selected: Maximum number of placements per query: 2000
+INFO Selected: Custom output floating point precision: 12
+INFO Selected: Disabling pre-masking. (repeats enabled!)
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_entrophospora_lutea/02_model/fit.raxml.bestModel
+INFO Selected: Using threads: 4
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.679933 (user),  weights&rates: (0.25,0.0699081) (0.25,0.353906) (0.25,0.917199) (0.25,2.65899) 
+        Base frequencies (user): 0.205312 0.21503 0.298422 0.281236 
+        Substitution rates (user): 0.957287 4.54518 1.94886 0.387429 6.56091 1
+INFO Output file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_entrophospora_lutea/04_epa/epa_result.jplace
+INFO 1183 Sequences done!
+INFO Time spent placing: 373s
+INFO Elapsed Time: 373s

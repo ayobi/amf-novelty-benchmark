@@ -1,0 +1,10 @@
+{
+  "key": "daf091bfb33a2389454fd72f586325a79fea058f82448fcdab0a8c7d4bd88d39:evidence",
+  "outputs": {
+    "SH.queries.fasta": "dd93a201fa5eaf963b3bf7bb5b54aaad17238690ac05186c94a7c7cf68936abd",
+    "VT.queries.fasta": "c9098ed8bcd6c6db65fd2a3d76b931af1a0b6602312f97966b4375b322f13714",
+    "evidence_report.json": "88d43a078723f29a854ec94fc713ade9506cebc6d90895566c72f716466b68d2",
+    "test_evidence.json.gz": "543f61883c4116ea1107495da67588bc47725900c0d5c6889e183762a02cf5fe"
+  },
+  "seconds": 302.74655035045
+}

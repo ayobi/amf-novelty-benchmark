@@ -1,0 +1,14 @@
+{
+  "files": {
+    "FROZEN_M2B.json": "e728daf65efa5893eb2edf59c8dc4a2c2a4ae4ea6e3413c1121f2fac3669d1d9",
+    "PROTOCOL.md": "37e9b239af20c7508ff3cf8d81c3684ae4e29ab64dff4b2e1200bf2f4987ee91",
+    "environment.yml": "0e08dedd431f77ca16dfc8d20281eadda8249badcfc15d58e034038df12f9199",
+    "external_holdout.py": "90cf3f36240155fef633b324bca5da4b719988166cbde55428f85ddb61f518b2",
+    "holdout_plan.json": "69528b1a3f0a65521ba2cb07c0e93d481ee02483cf84c1ed206d96779c92db21",
+    "requirements.txt": "4ea86052d82cf8d79dbcb3954c94f6ba4efcf2b3adb88a3f6f91304b09a24f68",
+    "run_pilot.py": "2e1b9f0ce5030937b20e643c1217413c4b642a4622c0d3ca39583c14e8c9ea51",
+    "run_pilot.sh": "6572b27c97c49e9859d9021ec9548caaed0bcfa4abe26a01315a8febfe196e07",
+    "species_exclusions.tsv": "a871ce253b0e65348d7bedc9818a60d4290696f4aeb21dc75902054154bd550a",
+    "verify_code.py": "5c0eda9bd6f743ab17eb340269082096b53fbf5836c2b5ea25c052ec752ef966"
+  }
+}

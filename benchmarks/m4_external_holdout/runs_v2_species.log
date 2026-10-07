@@ -1,0 +1,267 @@
+nohup: ignoring input
+Starting Ambispora callosa (0 external tips removed)
+Starting Acaulospora morrowiae (2 external tips removed)
+Starting Dentiscutata heterogama (2 external tips removed)
+Starting Cetraspora gilmorei (2 external tips removed)
+Starting Diversispora aestuarii (2 external tips removed)
+Starting Ambispora leptoticha (2 external tips removed)
+Starting Diversispora celata (2 external tips removed)
+Starting Diversispora arenaria (2 external tips removed)
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+Completed Ambispora callosa
+Starting Diversispora eburnea (2 external tips removed)
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Dentiscutata heterogama
+Starting Diversispora epigaea (2 external tips removed)
+  01_reference: mafft
+Completed Ambispora leptoticha
+Completed Diversispora eburnea
+Starting Diversispora jakucsiae (2 external tips removed)
+  01_reference: mafft
+Starting Diversispora spurca (2 external tips removed)
+  01_reference: mafft
+Completed Diversispora celata
+Completed Diversispora arenaria
+Completed Acaulospora morrowiae
+Starting Diversispora varaderana (2 external tips removed)
+  01_reference: mafft
+Completed Diversispora aestuarii
+Starting Dominikia bonfanteae (2 external tips removed)
+  01_reference: mafft
+Starting Dominikia duoreactiva (2 external tips removed)
+  01_reference: mafft
+Completed Cetraspora gilmorei
+Starting Funneliformis caledonium (3 external tips removed)
+  01_reference: mafft
+Starting Funneliformis coronatus (2 external tips removed)
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Diversispora epigaea
+Starting Funneliformis geosporum (1 external tips removed)
+  01_reference: mafft
+Completed Diversispora spurca
+Starting Funneliformis mosseae (2 external tips removed)
+  01_reference: mafft
+Completed Diversispora jakucsiae
+Starting Gigaspora rosea (2 external tips removed)
+  01_reference: mafft
+Completed Funneliformis coronatus
+Starting Glomus chinense (2 external tips removed)
+Completed Glomus chinense
+Starting Glomus macrocarpum (2 external tips removed)
+  01_reference: mafft
+Completed Dominikia bonfanteae
+Starting Glomus rugosae (2 external tips removed)
+Completed Glomus rugosae
+Starting Glomus tetrastratosum (2 external tips removed)
+  01_reference: mafft
+Completed Diversispora varaderana
+Starting Microdominikia litorea (2 external tips removed)
+  01_reference: mafft
+Completed Dominikia duoreactiva
+Starting Oehlia diaphana (2 external tips removed)
+  01_reference: mafft
+Completed Funneliformis caledonium
+Starting Paraglomus brasilianum (2 external tips removed)
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Funneliformis geosporum
+Starting Paraglomus laccatum (2 external tips removed)
+  01_reference: mafft
+Completed Funneliformis mosseae
+Starting Rhizophagus intraradices (2 external tips removed)
+  01_reference: mafft
+  04_epa: epa-ng
+Completed Paraglomus brasilianum
+Starting Rhizophagus irregularis (2 external tips removed)
+  01_reference: mafft
+Completed Glomus macrocarpum
+Completed Gigaspora rosea
+Starting Rhizophagus prolifer (2 external tips removed)
+  01_reference: mafft
+Starting Rhizophagus silesianus (2 external tips removed)
+  01_reference: mafft
+Completed Microdominikia litorea
+Starting Sclerocystis sinuosa (2 external tips removed)
+  01_reference: mafft
+Completed Oehlia diaphana
+Starting Septoglomus africanum (2 external tips removed)
+  01_reference: mafft
+Completed Glomus tetrastratosum
+Starting Septoglomus turnauae (2 external tips removed)
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed Rhizophagus intraradices
+Starting Septoglomus viscosum (2 external tips removed)
+  01_reference: mafft
+Completed Paraglomus laccatum
+Starting [Rhizoglomus] vesiculiferum (2 external tips removed)
+  01_reference: mafft
+  04_epa: epa-ng
+Completed Septoglomus africanum
+Completed Rhizophagus irregularis
+Completed Rhizophagus silesianus
+Completed Rhizophagus prolifer
+Completed Sclerocystis sinuosa
+Completed Septoglomus turnauae
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed [Rhizoglomus] vesiculiferum
+Completed Septoglomus viscosum
+{
+  "rank": "species",
+  "complete": true,
+  "completed_folds": [
+    "Acaulospora morrowiae",
+    "Ambispora callosa",
+    "Ambispora leptoticha",
+    "Cetraspora gilmorei",
+    "Dentiscutata heterogama",
+    "Diversispora aestuarii",
+    "Diversispora arenaria",
+    "Diversispora celata",
+    "Diversispora eburnea",
+    "Diversispora epigaea",
+    "Diversispora jakucsiae",
+    "Diversispora spurca",
+    "Diversispora varaderana",
+    "Dominikia bonfanteae",
+    "Dominikia duoreactiva",
+    "Funneliformis caledonium",
+    "Funneliformis coronatus",
+    "Funneliformis geosporum",
+    "Funneliformis mosseae",
+    "Gigaspora rosea",
+    "Glomus chinense",
+    "Glomus macrocarpum",
+    "Glomus rugosae",
+    "Glomus tetrastratosum",
+    "Microdominikia litorea",
+    "Oehlia diaphana",
+    "Paraglomus brasilianum",
+    "Paraglomus laccatum",
+    "Rhizophagus intraradices",
+    "Rhizophagus irregularis",
+    "Rhizophagus prolifer",
+    "Rhizophagus silesianus",
+    "Sclerocystis sinuosa",
+    "Septoglomus africanum",
+    "Septoglomus turnauae",
+    "Septoglomus viscosum",
+    "[Rhizoglomus] vesiculiferum"
+  ],
+  "expected_folds": 37,
+  "missing_folds": []
+}
+species: 37/37 folds scored under version 2
+  stratum                            copies  false known v1  false known v2   full-V18 control v1 -> v2
+  all                                   803       201 ( 25%)      120 ( 15%)            71 -> 18
+  all / already_absent_by_label          20        20 (100%)        0 (  0%)            20 -> 0
+  all / removed                         783       181 ( 23%)      120 ( 15%)            51 -> 18
+  first_outcomes                        693        98 ( 14%)       53 (  8%)            39 -> 9
+  first_outcomes / already_absent_by_label     20        20 (100%)        0 (  0%)            20 -> 0
+  first_outcomes / removed              673        78 ( 12%)       53 (  8%)            19 -> 9
+  development                           110       103 ( 94%)       67 ( 61%)            32 -> 9
+  development / removed                 110       103 ( 94%)       67 ( 61%)            32 -> 9
+  first-outcome false known under v2: Diversispora aestuarii -> Diversispora varaderana (20), Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum (18), Diversispora arenaria -> Diversispora jakucsiae (4), Diversispora jakucsiae -> Diversispora arenaria (4), Glomus macrocarpum -> Glomus rugosae (4), Diversispora varaderana -> Diversispora aestuarii (3)

@@ -1,0 +1,21 @@
+{
+  "key": "8fa4d2b45f629c6c3efc8cc011bb9b65705fd2b44c442defe95ddaee1caa6878",
+  "placements_sha256": "956f22b366132626e251de526bf2de5af2b4e91e3b9c85e7de0c352af9925606",
+  "plan": {
+    "key": "lgdb_entrophospora_lutea",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Entrophospora_lutea_CR308_ZUII_ASV1212_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0211",
+      "R0437"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "target": "Entrophospora lutea",
+    "target_cultures": [
+      "Entrophospora lutea | LGDB CR308"
+    ],
+    "v18_label": "Entrophospora lutea"
+  }
+}

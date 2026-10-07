@@ -1,0 +1,39 @@
+{
+  "total_reads": 904,
+  "kept": {
+    "total": 904,
+    "confident": 904,
+    "ambiguous": 0,
+    "ambiguous_diverted": 0,
+    "partial": 0
+  },
+  "skipped": {
+    "total": 0,
+    "by_reason": {}
+  },
+  "regions": {
+    "full": 904,
+    "its1": 904,
+    "its2": 904
+  },
+  "tblout": {
+    "total_hits": 193354,
+    "anchor_hits": 193354,
+    "stored_topk": 21638,
+    "reads_with_hits": 904
+  },
+  "params": {
+    "preset": "hifi",
+    "region": "all",
+    "inc_e": 0.001,
+    "max_per_anchor": 6,
+    "min_anchor_score": 15.0,
+    "max_anchor_evalue": 0.001,
+    "min_its1": 50,
+    "max_its1": 1500,
+    "min_its2": 50,
+    "max_its2": 2000,
+    "min_full": 150,
+    "max_full": 4000
+  }
+}

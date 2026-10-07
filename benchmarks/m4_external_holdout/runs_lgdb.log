@@ -1,0 +1,121 @@
+nohup: ignoring input
+evidence: frozen VT and SH evidence reproduced for all reference copies
+  03_queries: mafft
+  04_epa: epa-ng
+condition A placed
+Starting B Acaulospora laevis (2 V18 records removed)
+Starting B Acaulospora kentinensis (2 V18 records removed)
+Starting B Ambispora fennica (2 V18 records removed)
+Starting B Acaulospora koskei (2 V18 records removed)
+Starting B Corymbiglomus corymbiforme (2 V18 records removed)
+Starting B Archaeospora trappei (2 V18 records removed)
+Starting B Archaeospora schenckii (2 V18 records removed)
+Starting B Dentiscutata erythropa (2 V18 records removed)
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  02_model: raxml-ng
+  02_model: raxml-ng
+  03_queries: mafft
+  03_queries: mafft
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed B Acaulospora koskei
+Starting B Entrophospora lutea (2 V18 records removed)
+  01_reference: mafft
+Completed B Acaulospora laevis
+Starting B Gigaspora decipiens (2 V18 records removed)
+  01_reference: mafft
+Completed B Corymbiglomus corymbiforme
+Starting B Gigaspora gigantea (2 V18 records removed)
+  01_reference: mafft
+Completed B Archaeospora trappei
+Starting B Gigaspora margarita (2 V18 records removed)
+  01_reference: mafft
+Completed B Archaeospora schenckii
+Starting B Paraglomus occultum (2 V18 records removed)
+  01_reference: mafft
+Completed B Ambispora fennica
+Starting B Racocetra gregaria (2 V18 records removed)
+  01_reference: mafft
+Completed B Acaulospora kentinensis
+Starting B Rhizophagus clarus (2 V18 records removed)
+  01_reference: mafft
+Completed B Dentiscutata erythropa
+Starting B Rhizophagus dimorphicus (2 V18 records removed)
+  01_reference: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed B Gigaspora gigantea
+Starting B Scutellospora calospora (2 V18 records removed)
+  01_reference: mafft
+Completed B Entrophospora lutea
+Starting B Septoglomus constrictum (2 V18 records removed)
+  01_reference: mafft
+Completed B Gigaspora decipiens
+Starting B Septoglomus deserticola (2 V18 records removed)
+  01_reference: mafft
+Completed B Rhizophagus clarus
+Completed B Gigaspora margarita
+Completed B Racocetra gregaria
+Completed B Paraglomus occultum
+Completed B Rhizophagus dimorphicus
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  02_model: raxml-ng
+  03_queries: mafft
+  04_epa: epa-ng
+  04_epa: epa-ng
+  04_epa: epa-ng
+Completed B Scutellospora calospora
+Completed B Septoglomus constrictum
+Completed B Septoglomus deserticola
+M4 parity: 850 copies in 37 folds reproduced exactly
+scores written to /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/06_scores; next: python3 lgdb_test.py report --lgdb ../bench/longglodb

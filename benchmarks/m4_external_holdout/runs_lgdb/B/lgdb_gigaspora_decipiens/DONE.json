@@ -1,0 +1,23 @@
+{
+  "key": "fd9c8eb6f85d0b5fe2abc2bdcc605e7cbffea39a5a6b4f1dfe9a04c033b637bc",
+  "placements_sha256": "c36161db703c0f8af272711c45e6c530287858b203a16907ae75ff362e1c8831",
+  "plan": {
+    "key": "lgdb_gigaspora_decipiens",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Gigaspora_decipiens_AU102_9_KU_ASV1301_INVAM",
+      "Gigaspora_decipiens_AU102_9_KU_ASV1302_INVAM",
+      "Gigaspora_decipiens_AU102_9_KU_ASV1303_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0398",
+      "R0399"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Gigaspora decipiens",
+    "target_cultures": [
+      "Gigaspora decipiens | LGDB AU102_9"
+    ],
+    "v18_label": "Gigaspora decipiens"
+  }
+}

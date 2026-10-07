@@ -1,0 +1,48 @@
+arm LSU: 903 copies, 151 cultures; V18_LSUDB_052025_AMFONLY.fasta 460 sequences, 234 units; query LSU_LROR-FLR2
+
+1. within-culture LSU_LROR-FLR2 spread, main-type copy pairs (n = 3052): median 0.67%, 90th 2.17%, 95th 3.87%, 99th 6.06%, max 7.99%
+
+2. merged units: units that split one culture's main-type copies at δ = 0, closest copies across the split <= 1.00% apart in the SSU flank
+      Diversispora bareai+Diversispora varaderana: Diversispora varaderana | CW0016_4015A (0.00%)
+      Diversispora epigaea+Diversispora versiformis: Diversispora epigaea | BEG47_1140C (0.47%)
+      Funneliformis caledonium+Funneliformis fragilistratum: Funneliformis caledonium | VDHK150A_21A (0.07%)
+      Gigaspora albida+Gigaspora gigantea: Gigaspora rosea | CU131_1018E (0.34%)
+      Septoglomus africanum+Septoglomus altomontanum: Septoglomus sp. | Blasz_17_2277A (0.00%)
+
+3. calibration: a culture is consistent when its main-type copies' sets share a unit
+      δ    consistent  one unit  mean set  species resolved
+    0.0   128/128 100%       81%      1.19         27 of 37   <- consistency, spread, chosen
+    0.2   128/128 100%       75%      1.26         27 of 37 
+    0.3   128/128 100%       64%      1.38         27 of 37 
+    0.5   128/128 100%       56%      1.52         27 of 37 
+    0.7   128/128 100%       48%      1.64         26 of 37 
+    1.0   128/128 100%       45%      1.81         24 of 37 
+    1.5   128/128 100%       41%      2.02         23 of 37 
+    2.0   128/128 100%       38%      2.15         23 of 37 
+    3.0   128/128 100%       37%      2.21         23 of 37 
+  chosen δ = 0 (fixed by --delta)
+  at δ = 0 the crosswalk best-hit LSU is in the set for 750 of 750 assigned copies
+
+4. at δ = 0
+  culture sets with > 1 unit: 12 cultures in 5 distinct sets
+      Glomus mongioiense/Glomus rugosae: Glomus rugosae (4)
+      Gigaspora albida+Gigaspora gigantea/Gigaspora rosea: Gigaspora rosea (4)
+      Glomus chinense/Glomus mongioiense: Glomus chinense (2)
+      Funneliformis caledonium+Funneliformis fragilistratum/Funneliformis coronatus: Funneliformis mosseae (1)
+      Diversispora celata/Diversispora trimurales: Diversispora celata (1)
+  cultures still inconsistent: 0
+  unit groups shared by > 1 named species: 4 of 34
+      Funneliformis caledonium+Funneliformis fragilistratum/Funneliformis coronatus: Funneliformis caledonium, Funneliformis coronatus, Funneliformis mosseae
+      Glomus chinense/Glomus mongioiense/Glomus rugosae: Glomus chinense, Glomus rugosae
+      Ambispora leptoticha: Ambispora callosa, Ambispora leptoticha
+      Diversispora bareai+Diversispora varaderana: Diversispora aestuarii, Diversispora varaderana
+
+5. non-main copies at δ = 0: does the copy's set contain a unit of its culture's set?
+  divergent (short_5.8S): 43 copies; shares a culture unit 5, other units only 1, no unit 37, culture has no unit 0
+      PX214816.1 Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A: Rhizophagus irregularis (culture Rhizophagus fasciculatus)
+  divergent (same_length): 8 copies; shares a culture unit 4, other units only 3, no unit 1, culture has no unit 0
+      PX214595.1 Septoglomus sp. | 4404_2057A: Septoglomus nigrum (culture Septoglomus africanum+Septoglomus altomontanum)
+      PX214601.1 Septoglomus sp. | FS_9_2328B: Septoglomus africanum+Septoglomus altomontanum (culture Septoglomus nigrum)
+      PX214602.1 Septoglomus sp. | FS_9_2328B: Septoglomus africanum+Septoglomus altomontanum (culture Septoglomus nigrum)
+
+tables: ../bench/stefani/sets_LSU_v4.copies.tsv, .cultures.tsv, .calibration.tsv (arm LSU, δ = 0, merge auto)

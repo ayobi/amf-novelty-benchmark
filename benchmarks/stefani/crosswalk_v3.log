@@ -1,0 +1,102 @@
+culture_ref v3 (fingerprint de87e5fe9dbc0bb4): 903 copies, 149 cultures, 0 on name hold
+
+arm  reference                                         seqs   units           query  copies  ref-set seqs  best hit dropped
+VT   maarjam.fasta                                     3081     384       ssu_flank     903             0                 0
+SH   sh_general_release_dynamic_19.02.2025.fasta [     2048    2048        full_its     903             0                 0
+LSU  V18_LSUDB_052025_AMFONLY.fasta                     460     234   LSU_LROR-FLR2     903             0                 0
+  ref-set seqs: reference records that are copies of the culture reference. Hits to them are dropped;
+  best hit dropped: copies whose top hit was one of them (their call comes from the next hit)
+
+1. assignment: copies assigned (%) | cultures with a label (%) | median best-hit identity
+order             cultures                        VT                        SH                       LSU
+Archaeosporales          5         100 | 100 |  99.8          43 |  80 |  97.8         100 | 100 |  97.6
+Diversisporales         42         100 | 100 |  99.8          44 |  81 |  98.3          82 |  93 |  98.5
+Glomerales              93          99 | 100 |  99.8          41 |  68 |  98.2          84 |  95 |  99.0
+Paraglomerales           9         100 | 100 |  99.8          46 |  67 |  98.2          57 |  78 |  97.6
+all                    149          99 | 100 |  99.8          42 |  72 |  98.3          83 |  93 |  98.9
+  VT: assigned 895, unassigned 5, ambiguous 3
+  SH: unassigned 514, assigned 383, ambiguous 6
+  LSU: assigned 750, unassigned 124, ambiguous 29
+
+2. VT arm vs Stage 1 vt_check calls in the reference: 903/903 identical
+
+3. many-to-many, counting cultures by their modal label (136 cultures of 36 named species; name holds and 'sp.' left out)
+  VT: 3 of 36 species span > 1 VT; 7 of 30 VTs hold > 1 species
+      Microdominikia litorea: VTX00222 (1), VTX00125 (1)
+      Rhizophagus irregularis: VTX00114 (9), VTX00113 (2)
+      [Rhizoglomus] vesiculiferum: VTX00113 (6), VTX00115 (2)
+      VTX00199: Glomus rugosae (9), Glomus tetrastratosum (5), Glomus chinense (4), Glomus macrocarpum (1)
+      VTX00054: Diversispora arenaria (1), Diversispora jakucsiae (1)
+      VTX00060: Diversispora celata (2), Diversispora eburnea (2)
+      VTX00065: Funneliformis caledonium (2), Funneliformis geosporum (2)
+  SH: 17 of 33 species span > 1 SH; 0 of 66 SHs hold > 1 species
+      Funneliformis mosseae: SH1077164.10FU (Funneliformis mosseae) (3), SH1077279.10FU (Glomeraceae sp) (2), SH1077091.10FU (Funneliformis mosseae) (2), SH1077231.10FU (Funneliformis mosseae) (2), SH1077256.10FU (Funneliformis sp) (1), SH1077055.10FU (Funneliformis sp) (1), SH1076987.10FU (Funneliformis mosseae) (1)
+      Gigaspora rosea: SH1076683.10FU (Gigaspora rosea) (2), SH1076709.10FU (Gigaspora margarita) (2), SH1481055.10FU (Gigaspora candida) (2), SH1076862.10FU (Gigaspora rosea) (1), SH1076860.10FU (Gigaspora rosea) (1), SH1076834.10FU (Gigaspora gigantea) (1)
+      Rhizophagus irregularis: SH1337270.10FU (Glomeromycetes sp) (6), SH1337152.10FU (Rhizophagus irregularis) (2), SH1337353.10FU (Rhizophagus irregularis) (1), SH1364138.10FU (Rhizophagus irregularis) (1), SH1337164.10FU (Glomeraceae sp) (1)
+      [Rhizoglomus] vesiculiferum: SH1337520.10FU (Rhizophagus irregularis) (2), SH1337446.10FU (Glomeraceae sp) (1), SH1337284.10FU (Glomeraceae sp) (1), SH1337393.10FU (Rhizoglomus intraradices) (1)
+  LSU: 3 of 35 species span > 1 LSU; 3 of 35 LSUs hold > 1 species
+      Diversispora varaderana: Diversispora varaderana (6), Diversispora bareai (1)
+      Funneliformis caledonium: Funneliformis fragilistratum (1), Funneliformis caledonium (1)
+      Gigaspora rosea: Gigaspora rosea (5), Gigaspora albida (4)
+      Ambispora leptoticha: Ambispora callosa (3), Ambispora leptoticha (2)
+      Diversispora varaderana: Diversispora varaderana (6), Diversispora aestuarii (2)
+      Funneliformis coronatus: Funneliformis mosseae (12), Funneliformis coronatus (4)
+
+4. within-culture splits: main-type copies of one culture assigned to two units
+  VT: 2 unit pairs in 5 cultures
+      VTX00113 / VTX00115: 3 culture(s) ([Rhizoglomus] vesiculiferum (3)); closest pair across the split 0.34% median, 0.88% max (ssu_flank)
+      VTX00125 / VTX00222: 2 culture(s) (Microdominikia litorea (2)); closest pair across the split 0.71% median, 0.75% max (ssu_flank)
+  SH: 104 unit pairs in 51 cultures
+      SH1077164.10FU (Funneliformis mosseae) / SH1077224.10FU (Funneliformis sp): 4 culture(s) (Funneliformis mosseae (4)); closest pair across the split 0.72% median, 1.23% max (full_its)
+      SH1077164.10FU (Funneliformis mosseae) / SH1077279.10FU (Glomeraceae sp): 4 culture(s) (Funneliformis mosseae (4)); closest pair across the split 0.92% median, 1.23% max (full_its)
+      SH1076683.10FU (Gigaspora rosea) / SH1076860.10FU (Gigaspora rosea): 4 culture(s) (Gigaspora rosea (4)); closest pair across the split 3.04% median, 3.54% max (full_its)
+      SH1076683.10FU (Gigaspora rosea) / SH1076862.10FU (Gigaspora rosea): 4 culture(s) (Gigaspora rosea (4)); closest pair across the split 7.50% median, 7.50% max (full_its)
+      SH1076860.10FU (Gigaspora rosea) / SH1076862.10FU (Gigaspora rosea): 4 culture(s) (Gigaspora rosea (4)); closest pair across the split 8.86% median, 8.86% max (full_its)
+      SH1077224.10FU (Funneliformis sp) / SH1077279.10FU (Glomeraceae sp): 3 culture(s) (Funneliformis mosseae (3)); closest pair across the split 0.61% median, 0.82% max (full_its)
+  LSU: 9 unit pairs in 14 cultures
+      Diversispora bareai / Diversispora varaderana: 4 culture(s) (Diversispora varaderana (3), Diversispora aestuarii (1)); closest pair across the split 1.09% median, 1.23% max (LSU_LROR-FLR2)
+      Glomus mongioiense / Glomus rugosae: 2 culture(s) (Glomus rugosae (2)); closest pair across the split 1.71% median, 1.77% max (LSU_LROR-FLR2)
+      Gigaspora albida / Gigaspora rosea: 2 culture(s) (Gigaspora rosea (2)); closest pair across the split 0.96% median, 1.18% max (LSU_LROR-FLR2)
+      Gigaspora albida / Gigaspora gigantea: 1 culture(s) (Gigaspora rosea (1)); closest pair across the split 2.95% median, 2.95% max (LSU_LROR-FLR2)
+      Funneliformis caledonium / Funneliformis fragilistratum: 1 culture(s) (Funneliformis caledonium (1)); closest pair across the split 0.67% median, 0.67% max (LSU_LROR-FLR2)
+      Funneliformis caledonium / Funneliformis geosporum: 1 culture(s) (Funneliformis geosporum (1)); closest pair across the split 0.67% median, 0.67% max (LSU_LROR-FLR2)
+
+5. cross-arm: units of one arm whose cultures carry several modal labels of another
+  VT split by SH: 23 of 28 VTs
+      VTX00067: SH1077164.10FU (Funneliformis mosseae) (3), SH1077279.10FU (Glomeraceae sp) (2), SH1077091.10FU (Funneliformis mosseae) (2), SH1077231.10FU (Funneliformis mosseae) (2)
+      VTX00039: SH1076683.10FU (Gigaspora rosea) (2), SH1076709.10FU (Gigaspora margarita) (2), SH1481055.10FU (Gigaspora candida) (2), SH1076862.10FU (Gigaspora rosea) (1)
+      VTX00113: SH1337520.10FU (Rhizophagus irregularis) (2), SH1337152.10FU (Rhizophagus irregularis) (1), SH1337164.10FU (Glomeraceae sp) (1), SH1337446.10FU (Glomeraceae sp) (1)
+  VT split by LSU: 9 of 30 VTs
+      VTX00064: Septoglomus africanum (2), Septoglomus altomontanum (1), Septoglomus nigrum (1), Septoglomus turnauae (1)
+      VTX00199: Glomus rugosae (9), Glomus tetrastratosum (5), Glomus chinense (4), Glomus macrocarpum (1)
+      VTX00065: Funneliformis geosporum (2), Funneliformis fragilistratum (1), Funneliformis caledonium (1)
+  SH split by VT: 1 of 72 SHs
+      SH1337152.10FU (Rhizophagus irregularis): VTX00114 (1), VTX00113 (1)
+  SH split by LSU: 0 of 68 SHs
+  LSU split by VT: 4 of 40 LSUs
+      Funneliformis coronatus: VTX00067 (12), VTX00265 (4)
+      Microdominikia litorea: VTX00222 (1), VTX00125 (1)
+      Rhizophagus irregularis: VTX00114 (9), VTX00113 (2)
+  LSU split by SH: 19 of 33 LSUs
+      Funneliformis coronatus: SH1077164.10FU (Funneliformis mosseae) (3), SH1077091.10FU (Funneliformis mosseae) (2), SH1077231.10FU (Funneliformis mosseae) (2), SH1077025.10FU (Funneliformis coronatum) (1)
+      Rhizophagus irregularis: SH1337270.10FU (Glomeromycetes sp) (6), SH1337152.10FU (Rhizophagus irregularis) (2), SH1337353.10FU (Rhizophagus irregularis) (1), SH1364138.10FU (Rhizophagus irregularis) (1)
+      Gigaspora rosea: SH1076683.10FU (Gigaspora rosea) (2), SH1076862.10FU (Gigaspora rosea) (1), SH1076860.10FU (Gigaspora rosea) (1), SH1076834.10FU (Gigaspora gigantea) (1)
+
+6. divergent-class and SSU-outlier copies against their culture's main-type unit
+  43 divergent-class (short 5.8S) copies in 24 cultures
+    arm     same unit  other unit  no call  no culture unit   median best-hit identity (divergent vs main-type)
+    VT             35           7        1                0   100.0 vs 99.8
+    SH              0          21       10               12   98.9 vs 98.3
+    LSU             5           1       31                6   94.9 vs 98.9
+  10 divergent 5.8S, same length (substitutions) copies in 7 cultures
+    arm     same unit  other unit  no call  no culture unit   median best-hit identity (divergent vs main-type)
+    VT             10           0        0                0   99.4 vs 99.8
+    SH              0           1        5                4   96.0 vs 98.3
+    LSU             2           7        1                0   97.7 vs 98.9
+  no SSU-outlier copies
+
+7. culture genus vs genus of the best reference hit (main-type modal hit, counting cultures)
+  SH: 81/107 agree (Rhizophagus = Rhizoglomus (5) as synonyms); differ: Rhizophagus -> Glomeromycetes_gen_Incertae_sedis (6), Rhizoglomus -> Glomeraceae_gen_Incertae_sedis (4), Glomus -> Glomeraceae_gen_Incertae_sedis (3), Oehlia -> Rhizophagus (3), Funneliformis -> Glomeraceae_gen_Incertae_sedis (2), Septoglomus -> Glomus (2)
+  LSU: 139/139 agree (Rhizoglomus = Rhizophagus (7) as synonyms)
+
+tables: ../bench/stefani/crosswalk_v3.copies.tsv, .cultures.tsv, .species.tsv, .units.tsv, .run.json (reference v3, fingerprint de87e5fe9dbc0bb4)

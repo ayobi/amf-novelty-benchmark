@@ -1,0 +1,41 @@
+{
+  "python_packages": {
+    "biopython": "1.88",
+    "edlib": "1.3.9.post1",
+    "cmake": "4.4.3"
+  },
+  "epa_ng_version": "0.3.8",
+  "raxml_ng_version": "1.2.2",
+  "mafft_version": "7.526",
+  "tool_downloads": [
+    {
+      "file": "raxml-ng.zip",
+      "url": "https://github.com/amkozlov/raxml-ng/releases/download/1.2.2/raxml-ng_v1.2.2_linux_x86_64.zip",
+      "bytes": 1818443,
+      "sha256": "962be94d9b7469757fa27af05c32fad6c7605408e8975b13aa58e6ea91a48d81"
+    },
+    {
+      "file": "mafft.tgz",
+      "url": "https://mafft.cbrc.jp/alignment/software/mafft-7.526-linux.tgz",
+      "bytes": 16021747,
+      "sha256": "bf59d016f1b2030bc7fc83b7715ae1f0823570de3bd059c26eb522a72f9c2952"
+    }
+  ],
+  "protocol_sha256": "2d9e13bbeab96d95b8ab194a397b296b3925808323c07d4d2cd15dcc244a0836",
+  "epa_source_commit": "cff6a476ae2a7183d1b46a9000fb64c2878d322d",
+  "epa_submodules": [
+    "13becaddb657eacd090537719a669d66d393b8b2 libs/CLI11 (13becad)",
+    " ec44c6c1675c25b9827aacd08c02433cccde7780 libs/CLI11/extern/googletest (ec44c6c)",
+    " 1126c9ca74fdea22d2ce3a065ac0fcb5792cbdaf libs/CLI11/extern/json (1126c9c)",
+    " 99e159ec9bc8dd362b08d18436bd40ff0648417b libs/CLI11/extern/sanitizers (99e159e)",
+    " 51cbda5f30e56c801c07fe3d3aba5d7fb9e6cca4 libs/cereal (51cbda5)",
+    " 27a8806aff4dece0348bf7c86e4d0e4d748255f0 libs/genesis (27a8806)",
+    " d46415e07e7a2830ca0bda339263b5625ceae2ff libs/pll-modules (d46415e)",
+    " 69411e4b217a3de9940c96ffccc77916702bae92 libs/pll-modules/libs/libpll (69411e4)"
+  ],
+  "executables_sha256": {
+    "epa-ng": "b0c20c8fc47bfef9ea87fa3cc15140321594460d314a2a11b93067040fd153a3",
+    "raxml-ng": "b5038949eb005d14c48efe47f1ddb4fa750e89dbafeb30c46e05c651bacba6d5",
+    "mafft-launcher": "f5e516270c66e7b2fd71ebcb2ecc3f56a5b63a53f888a8f4112030ec272c5275"
+  }
+}

@@ -1,0 +1,26 @@
+\begin{table}[htbp]\centering
+\begin{threeparttable}
+\caption{Removing the target species from the LSU reference as well.}
+\label{tab:external}
+\small
+\begin{tabular}{llrr}
+\toprule
+Target & V18 & False known (v1) & With N6 (v2)\\
+\midrule
+\emph{G.\ chinense}$^{\dagger}$ & full & 28/35 & 5/35\\
+\emph{G.\ chinense}$^{\dagger}$ & target removed & 28/35 & 5/35\\
+\emph{G.\ rugosae}$^{\dagger}$ & full & 4/75 & 4/75\\
+\emph{G.\ rugosae}$^{\dagger}$ & target removed & 75/75 & 62/75\\
+\midrule
+34 first-outcome folds & full & 19/673 (2.8\%) & 9/673 (1.3\%)\\
+34 first-outcome folds & target removed & 78/673 (11.6\%) & 53/673 (7.9\%)\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item False-known calls among the main-type copies of each fold's target species.
+$^{\dagger}$\,Development folds: these two species informed the N6 rule. \emph{Full}: the fold's
+copies placed on the intact V18; \emph{target removed}: V18 realigned without the target's records, model
+refitted, all copies re-placed. First-outcome folds pool the species whose V18 records were removed; 1 further fold(s) whose species V18 does not hold by label are reported apart.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

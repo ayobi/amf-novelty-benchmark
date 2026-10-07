@@ -1,0 +1,26 @@
+INFO Selected: Output dir: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_archaeospora_schenckii/04_epa/
+INFO Selected: Query file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_archaeospora_schenckii/03_queries/queries.aligned.fasta
+INFO Selected: Tree file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_archaeospora_schenckii/02_model/fit.raxml.bestTree
+INFO Selected: Reference MSA: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_archaeospora_schenckii/01_reference/aligned.fasta
+INFO Selected: Filtering by minimum threshold: 0
+INFO Selected: Maximum number of placements per query: 2000
+INFO Selected: Custom output floating point precision: 12
+INFO Selected: Disabling pre-masking. (repeats enabled!)
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_archaeospora_schenckii/02_model/fit.raxml.bestModel
+INFO Selected: Using threads: 4
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.681942 (user),  weights&rates: (0.25,0.070336) (0.25,0.354884) (0.25,0.917988) (0.25,2.65679) 
+        Base frequencies (user): 0.203436 0.217288 0.297869 0.281407 
+        Substitution rates (user): 0.976866 4.67865 1.98757 0.393908 6.62183 1
+INFO Output file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_archaeospora_schenckii/04_epa/epa_result.jplace
+INFO 1183 Sequences done!
+INFO Time spent placing: 370s
+INFO Elapsed Time: 370s

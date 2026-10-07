@@ -1,0 +1,216 @@
+culture	genus	order	copies	anchored_pct	triage_AMF_pct	SSU_VT_NS31-AM1_pct	SSU_V4_AMV4.5NF-AMDGR_pct	LSU_LROR-FLR2_pct	LSU_D2_FLR3-FLR4_pct	ssu_flank_div_mean	ssu_flank_div_max	its1_div_mean	its1_div_max	s58_div_mean	s58_div_max	its2_div_mean	its2_div_max	SSU_VT_NS31-AM1_div_mean	SSU_VT_NS31-AM1_div_max	SSU_V4_AMV4.5NF-AMDGR_div_mean	SSU_V4_AMV4.5NF-AMDGR_div_max	LSU_LROR-FLR2_div_mean	LSU_LROR-FLR2_div_max	LSU_D2_FLR3-FLR4_div_mean	LSU_D2_FLR3-FLR4_div_max
+Acaulospora morrowiae	Acaulospora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	0.22	0.41	3.25	6.9	0.13	0.64	5.56	8.49	0.31	0.39	0.72	0.92	1.14	2.71	2.16	5.49
+Ambispora callosa	Ambispora	Archaeosporales	20	100.0	100.0	100.0	100.0	100.0	100.0	0.16	0.61	5.4	11.68	0.43	2.52	3.63	8.76	0.32	1.18	0.7	2.29	0.7	1.32	5.09	22.08
+Ambispora leptoticha	Ambispora	Archaeosporales	4	100.0	100.0	100.0	100.0	100.0	100.0	0.07	0.14	6.1	8.6	0.0	0.0	4.6	6.45	0.0	0.0	0.0	0.0	1.35	1.91	2.01	2.93
+Ambispora sp. isolate P4_bc1093_SPU_6_11_9_ON205_s107	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Ambispora sp. isolate P4_bc1093_SPU_6_11_9_ON205_s167	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Ambispora sp. isolate P4_bc1093_SPU_6_11_9_ON205_s52	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Ambispora sp. isolate P4_bc1093_SPU_6_11_9_ON205_s59	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Ambispora sp. isolate P4_bc1093_SPU_6_11_9_ON205_s60	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Ambispora sp. isolate P4_bc1093_SPU_6_11_9_ON205_s82	Ambispora	Archaeosporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei	Cetraspora	Diversisporales	50	100.0	100.0	100.0	100.0	100.0	100.0	0.09	0.34	2.72	11.18	0.2	1.27	5.06	12.05	0.21	0.79	0.31	1.41	0.83	1.92	1.63	3.73
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s121	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s124	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s153	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s5021	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s679	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s92	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1091_SPU_5_3_1_CW0008_2669B_s93	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1092_SPU_5_3_2_CW0008_2669B_s10351	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1092_SPU_5_3_2_CW0008_2669B_s1137	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Cetraspora gilmorei isolate P4_bc1092_SPU_5_3_2_CW0008_2669B_s2533	Cetraspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Dentiscutata heterogama	Dentiscutata	Diversisporales	6	100.0	100.0	100.0	100.0	100.0	100.0	0.11	0.27	9.59	12.33	0.93	1.9	3.86	6.21	0.32	0.79	0.75	1.88	1.34	2.22	2.45	4.12
+Diversispora aestuarii	Diversispora	Diversisporales	20	100.0	100.0	100.0	100.0	100.0	100.0	0.07	0.41	3.07	7.92	0.12	0.63	3.67	9.74	0.09	0.59	0.22	1.38	0.93	2.18	1.63	3.99
+Diversispora arenaria	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	0.06	0.07	4.39	6.83	0.42	0.63	1.96	2.93	0.16	0.2	0.38	0.46	0.55	0.82	1.25	1.87
+Diversispora celata	Diversispora	Diversisporales	10	100.0	100.0	100.0	100.0	100.0	100.0	0.16	0.27	3.3	6.09	0.55	1.27	5.9	8.95	0.33	0.79	0.5	1.38	1.44	3.41	3.01	7.36
+Diversispora eburnea	Diversispora	Diversisporales	15	100.0	100.0	100.0	100.0	100.0	100.0	0.08	0.2	4.11	8.29	0.92	1.9	4.07	10.74	0.2	0.59	0.47	1.38	0.6	1.23	1.15	2.45
+Diversispora epigaea	Diversispora	Diversisporales	13	100.0	100.0	100.0	100.0	100.0	100.0	0.27	0.68	3.59	7.84	0.57	1.9	3.35	7.29	0.42	1.18	0.72	1.83	1.52	4.09	5.07	22.69
+Diversispora jakucsiae	Diversispora	Diversisporales	4	100.0	100.0	100.0	100.0	100.0	100.0	0.05	0.07	0.0	0.0	0.0	0.0	2.8	5.6	0.0	0.0	0.0	0.0	0.25	0.41	0.41	0.62
+Diversispora spurca	Diversispora	Diversisporales	7	100.0	100.0	100.0	100.0	100.0	100.0	0.32	0.68	5.48	9.57	1.08	2.53	6.62	8.83	0.06	0.2	0.13	0.46	2.36	3.79	4.47	7.58
+Diversispora spurca isolate P4_bc1086_SPU_5_6_2_CW0006_4005B_s146	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1086_SPU_5_6_2_CW0006_4005B_s332	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1086_SPU_5_6_2_CW0006_4005B_s37	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1086_SPU_5_6_2_CW0006_4005B_s51	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s181	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s184	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s194	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s284	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s3099	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s5050	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora spurca isolate P4_bc1087_SPU_5_6_3_CW0006_4005B_s943	Diversispora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Diversispora varaderana	Diversispora	Diversisporales	31	100.0	100.0	100.0	100.0	100.0	100.0	0.07	0.27	8.5	15.31	0.0	0.0	4.2	8.06	0.1	0.2	0.24	0.46	1.04	1.91	2.04	3.68
+Dominikia bonfanteae	Dominikia	Glomerales	6	100.0	100.0	100.0	100.0	100.0	100.0	0.48	0.81	9.4	16.11	0.0	0.0	5.86	10.72	1.1	1.97	1.92	3.26	1.46	2.28	2.73	4.18
+Dominikia duoreactiva	Dominikia	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	0.41	0.82	35.21	74.52	0.81	1.9	6.93	12.01	0.56	1.38	1.32	3.26	1.43	4.73	2.42	9.04
+Funneliformis caledonium	Funneliformis	Glomerales	9	100.0	100.0	100.0	100.0	100.0	100.0	0.09	0.14	4.35	17.19	2.06	9.23	3.66	5.85	0.21	0.39	0.49	0.92	0.59	1.07	1.25	2.4
+Funneliformis coronatus	Funneliformis	Glomerales	24	100.0	100.0	100.0	100.0	100.0	100.0	0.07	0.2	10.96	21.43	0.82	9.17	2.3	4.38	0.1	0.2	0.24	0.46	1.25	2.41	1.68	3.29
+Funneliformis geosporum	Funneliformis	Glomerales	8	100.0	100.0	100.0	100.0	100.0	100.0	0.16	0.27	7.22	12.15	0.0	0.0	3.4	5.69	0.32	0.79	0.63	1.38	1.2	2.01	2.08	3.91
+Funneliformis mosseae	Funneliformis	Glomerales	91	100.0	100.0	100.0	100.0	100.0	100.0	0.04	0.2	4.82	9.22	0.63	1.9	5.51	11.21	0.11	0.39	0.23	0.92	0.71	1.88	1.24	3.61
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s1014	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s163_1	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s163_2	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s183	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s194	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s205	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s281	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s323	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s351	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1028_SPU4-89_FS-29_2726A_s525	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s1063	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s151	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s152	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s165	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s170	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s181	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s186	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s259	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s374	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1029_SPU4-92_FS-29_2726A_s381	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s124	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s132	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s135	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s177	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s178	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s214	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s239	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s446	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s522	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1030_SPU4-9_2231_1079F_s629	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s1051	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s1207	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s189	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s202	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s242	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s248_1	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s248_2	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s273	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Funneliformis mosseae isolate P2_bc1031_SPU4-12_2231_1079F_s607	Funneliformis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea	Gigaspora	Diversisporales	39	100.0	100.0	100.0	100.0	100.0	100.0	0.84	8.65	8.5	17.45	1.36	3.8	10.17	20.0	0.81	6.13	1.73	9.3	4.74	8.27	9.05	29.72
+Gigaspora rosea isolate P2_bc1032_SPU4-25_4292_708F_s125	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1032_SPU4-25_4292_708F_s143	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1032_SPU4-25_4292_708F_s2131	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1032_SPU4-25_4292_708F_s243	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1032_SPU4-25_4292_708F_s347	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s112	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s119	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s122	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s149	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s255	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s267	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P2_bc1033_SPU4-28_4292_708F_s3609	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P4_bc1089_SPU_5_4_1_CU131_1018E_s43	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P4_bc1089_SPU_5_4_1_CU131_1018E_s54	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P4_bc1089_SPU_5_4_1_CU131_1018E_s70	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Gigaspora rosea isolate P4_bc1089_SPU_5_4_1_CU131_1018E_s99	Gigaspora	Diversisporales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus chinense	Glomus	Glomerales	35	100.0	100.0	100.0	100.0	100.0	100.0	0.23	1.43	20.87	52.0	1.14	2.52	5.14	10.97	0.4	1.58	0.83	3.23	1.37	3.0	2.82	4.95
+Glomus macrocarpum	Glomus	Glomerales	7	100.0	100.0	100.0	100.0	100.0	100.0	0.12	0.27	4.34	6.67	0.0	0.0	5.59	9.82	0.19	0.39	0.44	0.93	0.74	1.23	1.24	2.17
+Glomus rugosae	Glomus	Glomerales	75	100.0	100.0	100.0	100.0	100.0	100.0	0.28	0.54	16.35	58.12	1.61	3.8	9.78	15.0	0.68	1.38	1.6	3.24	1.76	3.0	2.79	4.96
+Glomus sp.	Glomus	Glomerales	3	100.0	100.0	100.0	100.0	100.0	100.0	0.36	0.54	10.66	15.53	4.73	7.1	11.47	17.2	0.53	0.79	0.62	0.93	2.16	3.25	3.21	4.82
+Glomus tetrastratosum	Glomus	Glomerales	14	100.0	100.0	100.0	100.0	100.0	100.0	0.25	0.75	19.82	48.95	0.74	1.9	3.63	8.4	0.46	1.18	1.02	2.32	0.91	1.91	1.2	2.15
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s100	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s138_1	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s138_2	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s148	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s351	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s654	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Glomus tetrastratosum isolate P4_bc1084_SPU_5_12_3_5094_2349C_s94	Glomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Microdominikia litorea	Microdominikia	Glomerales	12	100.0	100.0	100.0	100.0	100.0	100.0	0.75	1.56	17.25	78.96	0.87	2.53	4.76	14.52	1.4	2.77	2.91	4.65	2.16	3.68	3.93	7.34
+Oehlia diaphana	Oehlia	Glomerales	29	100.0	100.0	100.0	100.0	100.0	100.0	0.27	0.88	4.12	9.39	0.8	1.98	6.64	15.31	0.22	1.19	0.49	2.78	0.9	2.04	1.61	3.95
+Paraglomus brasilianum	Paraglomus	Paraglomerales	11	100.0	100.0	0.0	100.0	100.0	100.0	0.33	0.75	14.55	32.07	0.0	0.0	13.44	29.78			1.0	2.3	5.3	11.97	15.28	34.64
+Paraglomus laccatum isolate P4_bc1083_SPU_5_13_1_CW0010_4009B_s1001	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0																
+Paraglomus laccatum isolate P4_bc1083_SPU_5_13_1_CW0010_4009B_s15657	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0																
+Paraglomus laccatum isolate P4_bc1083_SPU_5_13_1_CW0010_4009B_s1630	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0																
+Paraglomus laccatum isolate P4_bc1083_SPU_5_13_1_CW0010_4009B_s2483	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0																
+Paraglomus laccatum isolate P4_bc1083_SPU_5_13_1_CW0010_4009B_s802	Paraglomus	Paraglomerales	1	100.0	100.0	0.0	100.0	100.0	100.0																
+Paraglomus sp.	Paraglomus	Paraglomerales	12	100.0	100.0	0.0	100.0	100.0	100.0	0.04	0.07	1.62	3.62	0.0	0.0	5.5	10.09			0.0	0.0	0.09	0.29	0.09	0.3
+Rhizophagus intraradices	Rhizophagus	Glomerales	5	100.0	100.0	100.0	100.0	100.0	100.0	0.18	0.34	6.88	14.42	2.59	6.47	12.51	26.17	0.24	0.59	0.56	1.39	3.09	6.93	3.46	7.59
+Rhizophagus intraradices isolate P4_bc1015_SPU_7_2_3_UT126A_s10328	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1015_SPU_7_2_3_UT126A_s1212	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1015_SPU_7_2_3_UT126A_s2189	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1015_SPU_7_2_3_UT126A_s283	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1015_SPU_7_2_3_UT126A_s365	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1016_SPU_7_2_4_UT126A_s1939	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1016_SPU_7_2_4_UT126A_s3651	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1016_SPU_7_2_4_UT126A_s789	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1080_SPU_5_16_1_KS906_IVT156_s1556	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1080_SPU_5_16_1_KS906_IVT156_s2025	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1080_SPU_5_16_1_KS906_IVT156_s4057	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus intraradices isolate P4_bc1080_SPU_5_16_1_KS906_IVT156_s7829	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis	Rhizophagus	Glomerales	38	100.0	100.0	100.0	100.0	100.0	100.0	0.17	0.54	4.21	19.81	4.1	7.82	10.57	18.4	0.18	0.79	0.43	1.85	3.58	7.31	5.3	9.67
+Rhizophagus irregularis isolate P2_bc1026_SPU4-59_GC-2_IVT11_s1181	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1026_SPU4-59_GC-2_IVT11_s2634	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1026_SPU4-59_GC-2_IVT11_s494	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1026_SPU4-59_GC-2_IVT11_s703	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1026_SPU4-59_GC-2_IVT11_s894	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1027_SPU4-60_GC-2_IVT11_s1137	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1027_SPU4-60_GC-2_IVT11_s2097	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1027_SPU4-60_GC-2_IVT11_s377	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1027_SPU4-60_GC-2_IVT11_s596	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P2_bc1027_SPU4-60_GC-2_IVT11_s673	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1070_SPU_8_1_23_197198_s1322	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1070_SPU_8_1_23_197198_s292	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1070_SPU_8_1_23_197198_s405	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1070_SPU_8_1_23_197198_s461	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1071_SPU_8_2_16_197198_s219	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1071_SPU_8_2_16_197198_s485	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1071_SPU_8_2_16_197198_s644	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1071_SPU_8_2_16_197198_s85	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1095_SPU_8_1_24_197198_s156	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1095_SPU_8_1_24_197198_s190	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1095_SPU_8_1_24_197198_s216	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1095_SPU_8_1_24_197198_s472	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1095_SPU_8_1_24_197198_s629	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1096_SPU_8_1_22_197198_s218	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1096_SPU_8_1_22_197198_s286	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1096_SPU_8_1_22_197198_s359	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1096_SPU_8_1_22_197198_s816	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus irregularis isolate P4_bc1096_SPU_8_1_22_197198_s85	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1076_SPU_5_18_2_SD_5_IVT32_s142	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1076_SPU_5_18_2_SD_5_IVT32_s1447	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1076_SPU_5_18_2_SD_5_IVT32_s1737	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1076_SPU_5_18_2_SD_5_IVT32_s611	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1077_SPU_5_18_3_SD_5_IVT32_s1320	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1077_SPU_5_18_3_SD_5_IVT32_s1399	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1077_SPU_5_18_3_SD_5_IVT32_s236	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1077_SPU_5_18_3_SD_5_IVT32_s280	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1077_SPU_5_18_3_SD_5_IVT32_s694	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus prolifer isolate P4_bc1077_SPU_5_18_3_SD_5_IVT32_s965	Rhizophagus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Rhizophagus silesianus	Rhizophagus	Glomerales	10	100.0	100.0	100.0	100.0	100.0	100.0	0.12	0.27	4.65	10.23	3.67	7.74	9.78	19.57	0.24	0.59	0.57	1.39	2.79	5.84	2.8	5.77
+Rhizophagus sp. (in: glomeromycetes)	Rhizophagus	Glomerales	10	100.0	100.0	100.0	100.0	100.0	100.0	0.3	1.49	8.2	18.92	1.62	7.12	7.24	22.17	0.43	2.17	1.02	5.09	2.2	9.62	3.05	12.37
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s11870	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s1766	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s539	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s634	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s671	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s703	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1058_SPU_6_9_6_MT106A_s901	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1068_SPU_9_1_1_MT106_2767A_s1384	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1068_SPU_9_1_1_MT106_2767A_s1503	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1068_SPU_9_1_1_MT106_2767A_s15313	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1068_SPU_9_1_1_MT106_2767A_s2100	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1068_SPU_9_1_1_MT106_2767A_s5062	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1069_SPU_9_1_3_MT106_2767A_s1165	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1069_SPU_9_1_3_MT106_2767A_s12012	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1069_SPU_9_1_3_MT106_2767A_s421	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1069_SPU_9_1_3_MT106_2767A_s499	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1069_SPU_9_1_3_MT106_2767A_s509	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Sclerocystis sinuosa isolate P4_bc1069_SPU_9_1_3_MT106_2767A_s618	Sclerocystis	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus sp.	Septoglomus	Glomerales	31	100.0	100.0	100.0	100.0	100.0	100.0	1.87	3.12	17.73	32.11	4.81	11.88	24.61	39.07	2.86	5.31	5.67	10.65	7.45	12.58	10.28	16.54
+Septoglomus turnauae isolate P4_bc1088_SPU_5_5_1_Blasz_12_2272D_s1052	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus turnauae isolate P4_bc1088_SPU_5_5_1_Blasz_12_2272D_s172	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus turnauae isolate P4_bc1088_SPU_5_5_1_Blasz_12_2272D_s196	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus turnauae isolate P4_bc1088_SPU_5_5_1_Blasz_12_2272D_s4314	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus turnauae isolate P4_bc1088_SPU_5_5_1_Blasz_12_2272D_s820	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum	Septoglomus	Glomerales	12	100.0	100.0	100.0	100.0	100.0	100.0	1.25	4.34	5.97	11.62	1.9	9.65	7.61	12.95	1.87	5.1	3.47	7.41	2.08	3.9	3.58	5.72
+Septoglomus viscosum isolate P4_bc1013_SPU_7_1_2_Att1910_1_s1399	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1013_SPU_7_1_2_Att1910_1_s346	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1013_SPU_7_1_2_Att1910_1_s4078	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1013_SPU_7_1_2_Att1910_1_s483	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1013_SPU_7_1_2_Att1910_1_s918	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s1019	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s1209	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s281	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s57	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s71	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s78	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+Septoglomus viscosum isolate P4_bc1014_SPU_7_1_3_Att1910_1_s807	Septoglomus	Glomerales	1	100.0	100.0	100.0	100.0	100.0	100.0																
+[Rhizoglomus] vesiculiferum	[Rhizoglomus]	unassigned	41	100.0	100.0	100.0	100.0	100.0	100.0	0.59	1.29	11.19	25.35	3.32	7.79	10.84	19.48	0.69	1.77	1.59	3.7	4.25	8.94	6.06	13.6

@@ -1,0 +1,61 @@
+arm SH: 903 copies, 151 cultures; UNITE_public_19.02.2025.fasta.gz 16800 sequences, 7563 units; query full_its
+
+1. within-culture full_its spread, main-type copy pairs (n = 3052): median 2.00%, 90th 6.09%, 95th 8.61%, 99th 11.91%, max 14.84%
+
+2. merged units: units that split one culture's main-type copies at δ = 0, closest copies across the split <= 1.00% apart in the SSU flank
+      SH1076987.10FU (Funneliformis mosseae)+SH1077032.10FU (Funneliformis sp)+SH1077055.10FU (Funneliformis sp)+SH1077074.10FU (Funneliformis mosseae)+SH1077077.10FU (Funneliformis sp)+SH1077091.10FU (Funneliformis mosseae)+SH1077101.10FU (Funneliformis sp)+SH1077156.10FU (Funneliformis mosseae)+SH1077168.10FU (Funneliformis mosseae)+SH1077209.10FU (Funneliformis mosseae)+SH1077215.10FU (Funneliformis sp)+SH1077231.10FU (Funneliformis sp)+SH1077256.10FU (Funneliformis sp)+SH1077261.10FU (Funneliformis mosseae)+SH1077279.10FU (Funneliformis sp)+SH1077285.10FU (Funneliformis mosseae): Funneliformis mosseae | 2231_1079F (0.00%), Funneliformis mosseae | 4344_272A (0.07%), Funneliformis mosseae | C2 (0.00%), Funneliformis mosseae | CHB1_Fmos (0.00%) +3 more
+      SH1203475.10FU (Diversispora sp)+SH1203506.10FU (Diversispora sp)+SH1203550.10FU (Diversisporaceae sp)+SH1203557.10FU (Diversisporaceae sp)+SH1203558.10FU (Diversispora sp)+SH1203568.10FU (Diversispora sp)+SH1203618.10FU (Glomus versiforme)+SH1203670.10FU (Diversisporaceae sp)+SH1203731.10FU (Glomus versiforme): Diversispora varaderana | 3086_1170D (0.27%), Diversispora varaderana | 4393_830B (0.14%), Diversispora varaderana | 4394_1010A (0.07%), Diversispora varaderana | 4450_536A (0.07%) +2 more
+      SH1273382.10FU (Cetraspora nodosa)+SH1273387.10FU (Cetraspora gilmorei)+SH1273430.10FU (Cetraspora nodosa): Cetraspora gilmorei | 4385 (0.20%), Cetraspora gilmorei | 4397_453A (0.14%), Cetraspora gilmorei | 4398_831C (0.20%), Cetraspora gilmorei | 4414_1105C (0.20%) +2 more
+      SH1337152.10FU (Rhizophagus irregularis)+SH1337164.10FU (Glomeraceae sp)+SH1337270.10FU (Rhizophagus irregularis)+SH1337279.10FU (Rhizophagus sp)+SH1337353.10FU (Rhizophagus irregularis)+SH1337363.10FU (Rhizophagus irregularis)+SH1337439.10FU (Glomeraceae sp)+SH1337593.10FU (Glomeraceae sp): Rhizophagus irregularis | 4375_IVT88A (0.00%), Rhizophagus irregularis | 4569_1185B (0.00%), Rhizophagus irregularis | CC4_4A_IVT7A (0.14%), Rhizophagus irregularis | GC-2_IVT11 (0.00%) +1 more
+      SH1076683.10FU (Gigaspora rosea)+SH1076860.10FU (Gigaspora rosea)+SH1076862.10FU (Gigaspora rosea)+SH1076883.10FU (Gigaspora rosea): Gigaspora rosea | 194757_703A (0.88%), Gigaspora rosea | 4511_973A (0.88%), Gigaspora rosea | BEG9_770A (0.88%), Gigaspora rosea | CW0011_4010A (0.54%)
+      SH1196066.10FU (Ambispora callosa)+SH1196070.10FU (Ambispora callosa)+SH1196075.10FU (Ambispora callosa)+SH1196083.10FU (Ambispora callosa)+SH1196096.10FU (Ambispora callosa)+SH1196100.10FU (Ambispora callosa)+SH1196113.10FU (Ambispora callosa)+SH1196117.10FU (Ambispora callosa): Ambispora callosa | JA116_2012B (0.54%), Ambispora callosa | MAFF520057_2499A (0.27%), Ambispora callosa | MAFF520084_2504A (0.00%)
+      SH1196875.10FU (Rhizoglomus intraradices)+SH1196879.10FU (Rhizoglomus intraradices)+SH1196881.10FU (Rhizoglomus intraradices)+SH1196883.10FU (Rhizoglomus intraradices): Rhizophagus intraradices | FL208_553A (0.27%), Rhizophagus intraradices | KS906_IVT156 (0.00%), Rhizophagus intraradices | UT126A (0.27%)
+      SH1339655.10FU (Rhizophagus diaphanus)+SH1339656.10FU (Oehlia diaphana)+SH1339659.10FU (Rhizophagus sp)+SH1339663.10FU (Rhizophagus sp)+SH1339666.10FU (Glomeromycota sp)+SH1339677.10FU (Glomeraceae sp)+SH1339679.10FU (Rhizophagus diaphanus): Oehlia diaphana | 4835_562B (0.82%), Oehlia diaphana | JS1_IVT19A (0.48%), Oehlia diaphana | WV579_765A (0.14%)
+      SH1051242.10FU (Glomeraceae sp)+SH1051262.10FU (Glomus sp)+SH1051271.10FU (Glomus macrocarpum)+SH1051334.10FU (Glomus macrocarpum)+SH1051349.10FU (Glomus macrocarpum): Glomus macrocarpum | W6285_2347C (0.14%), Glomus rugosae | 2101_IVT46 (0.00%)
+      SH1051255.10FU (Glomeraceae sp)+SH1051269.10FU (Glomus sp)+SH1051280.10FU (Glomus tetrastratosum)+SH1051311.10FU (Glomus tetrastratosum): Glomus tetrastratosum | 5094_2349C (0.20%), Glomus tetrastratosum | 5105_2444A (0.07%)
+      SH1076673.10FU (Scutellospora heterogama)+SH1076740.10FU (Dentiscutata sp)+SH1076749.10FU (Scutellospora heterogama)+SH1076790.10FU (Dentiscutata heterogama)+SH1076811.10FU (Scutellospora heterogama): Dentiscutata heterogama | BEG_35_2003A (0.14%), Dentiscutata heterogama | CL157_2013B (0.20%)
+      SH1076674.10FU (Gigaspora albida)+SH1076770.10FU (Gigaspora albida)+SH1076806.10FU (Gigaspora candida)+SH1076835.10FU (Gigaspora albida): Gigaspora rosea | CU131_1018C (0.48%), Gigaspora rosea | CU131_1018E (0.82%)
+      SH1203556.10FU (Diversispora epigaea)+SH1203632.10FU (Diversispora sp)+SH1203662.10FU (Diversispora epigaea)+SH1203671.10FU (Diversisporaceae sp)+SH1203673.10FU (Diversispora epigaea)+SH1203728.10FU (Diversispora epigaea)+SH1203750.10FU (Diversispora epigaea): Diversispora epigaea | BEG47_1140C (0.47%), Diversispora epigaea | FS16_2427A (0.54%)
+      SH1203583.10FU (Diversispora spurca)+SH1203684.10FU (Diversispora spurca): Diversispora spurca | CW0006_4005B (0.07%), Diversispora spurca | W246_28_9A (0.14%)
+      SH1297156.10FU (Glomus cubense)+SH1297158.10FU (Glomus cubense)+SH1297159.10FU (Rhizoglomus intraradices): Septoglomus sp. | 5070_5024A (0.75%), Septoglomus sp. | C4 (0.88%)
+      ... 20 more merged units (listed per culture in ../bench/stefani/sets_SH_v4.cultures.tsv)
+      not merged, 1.16% apart in SSU (mixed culture?): Gigaspora rosea | 4752_496A: SH1076709.10FU vs SH1076712.10FU vs SH1076762.10FU
+
+3. calibration: a culture is consistent when its main-type copies' sets share a unit
+      δ    consistent  one unit  mean set  species resolved
+    0.0   106/107  99%      100%      1.00         32 of 37   <- consistency, spread, chosen
+    0.2   106/107  99%       97%      1.03         32 of 37 
+    0.3   106/107  99%       95%      1.08         32 of 37 
+    0.5   106/107  99%       89%      1.16         32 of 37 
+    0.7   106/107  99%       85%      1.23         32 of 37 
+    1.0   106/107  99%       77%      1.35         32 of 37 
+    1.5   106/107  99%       60%      1.78         32 of 37 
+    2.0   106/107  99%       60%      1.78         32 of 37 
+    3.0   106/107  99%       60%      1.78         32 of 37 
+  consistency: smallest δ with >= 99% of cultures consistent = 0; no spread floor
+  chosen δ = 0 (the larger)
+  at δ = 0 the crosswalk best-hit SH is in the set for 592 of 592 assigned copies
+
+4. at δ = 0
+  culture sets with > 1 unit: 1 cultures in 1 distinct sets
+      SH1076709.10FU/SH1076712.10FU/SH1076762.10FU: Gigaspora rosea (1)
+  cultures still inconsistent: 1
+      Gigaspora rosea | 4752_496A: - x2, SH1076709.10FU x2, SH1076762.10FU x1, SH1076712.10FU x1
+  unit groups shared by > 1 named species: 1 of 57
+      SH1051242.10FU+SH1051262.10FU+SH1051271.10FU+SH1051334.10FU+SH1051349.10FU: Glomus macrocarpum, Glomus rugosae
+
+5. non-main copies at δ = 0: does the copy's set contain a unit of its culture's set?
+  divergent (short_5.8S): 43 copies; shares a culture unit 10, other units only 18, no unit 8, culture has no unit 7
+      PX207190.1 Rhizophagus prolifer | SD5_IVT32: SH1081549.10FU (culture SH1196889.10FU+SH1196915.10FU)
+      PX207191.1 Rhizophagus prolifer | SD5_IVT32: SH1081549.10FU (culture SH1196889.10FU+SH1196915.10FU)
+      PX207192.1 Rhizophagus prolifer | SD5_IVT32: SH1081549.10FU (culture SH1196889.10FU+SH1196915.10FU)
+      PX207193.1 Rhizophagus prolifer | SD5_IVT32: SH1081549.10FU (culture SH1196889.10FU+SH1196915.10FU)
+      PX207195.1 Rhizophagus intraradices | UT126A: SH1081557.10FU (culture SH1196875.10FU+SH1196879.10FU+SH1196881.10FU+SH1196883.10FU)
+      PX207196.1 Rhizophagus intraradices | UT126A: SH1081557.10FU (culture SH1196875.10FU+SH1196879.10FU+SH1196881.10FU+SH1196883.10FU)
+  divergent (same_length): 8 copies; shares a culture unit 0, other units only 4, no unit 4, culture has no unit 0
+      PX207138.1 Gigaspora rosea | 4292_708F: SH1076712.10FU (culture SH1076709.10FU)
+      PX207139.1 Gigaspora rosea | 4292_708F: SH1076762.10FU (culture SH1076709.10FU)
+      PX207140.1 Gigaspora rosea | 4292_708F: SH1076762.10FU (culture SH1076709.10FU)
+      PX207194.1 Rhizophagus intraradices | UT126A: SH1196937.10FU (culture SH1196875.10FU+SH1196879.10FU+SH1196881.10FU+SH1196883.10FU)
+
+tables: ../bench/stefani/sets_SH_v4.copies.tsv, .cultures.tsv, .calibration.tsv (arm SH, δ = 0, merge auto)

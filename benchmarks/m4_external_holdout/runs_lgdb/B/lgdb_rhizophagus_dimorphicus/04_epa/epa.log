@@ -1,0 +1,26 @@
+INFO Selected: Output dir: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_dimorphicus/04_epa/
+INFO Selected: Query file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_dimorphicus/03_queries/queries.aligned.fasta
+INFO Selected: Tree file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_dimorphicus/02_model/fit.raxml.bestTree
+INFO Selected: Reference MSA: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_dimorphicus/01_reference/aligned.fasta
+INFO Selected: Filtering by minimum threshold: 0
+INFO Selected: Maximum number of placements per query: 2000
+INFO Selected: Custom output floating point precision: 12
+INFO Selected: Disabling pre-masking. (repeats enabled!)
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_dimorphicus/02_model/fit.raxml.bestModel
+INFO Selected: Using threads: 4
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.681781 (user),  weights&rates: (0.25,0.0703017) (0.25,0.354806) (0.25,0.917925) (0.25,2.65697) 
+        Base frequencies (user): 0.204855 0.214637 0.3013 0.279208 
+        Substitution rates (user): 0.99665 4.58232 1.98391 0.393729 6.72127 1
+INFO Output file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_dimorphicus/04_epa/epa_result.jplace
+INFO 1183 Sequences done!
+INFO Time spent placing: 320s
+INFO Elapsed Time: 320s

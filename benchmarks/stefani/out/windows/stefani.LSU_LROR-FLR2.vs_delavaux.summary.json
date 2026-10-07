@@ -1,0 +1,31 @@
+{
+ "windows": 904,
+ "with_hit": 904,
+ "with_hit_pct": 100.0,
+ "best_identity_median": 97.8,
+ "query_coverage_median": 93.2,
+ "target_coverage_median": 100.0,
+ "identity_ge_97_pct": 69.6,
+ "top_targets": [
+  [
+   "FR750526_Glomus_macrocarpum",
+   113
+  ],
+  [
+   "MT832181_Funneliformis_mosseae",
+   105
+  ],
+  [
+   "MT832195_Rhizophagus_irregularis",
+   68
+  ],
+  [
+   "MT832222_Cetraspora_pellucida",
+   60
+  ],
+  [
+   "FR865445.1_Otospora_bareae",
+   51
+  ]
+ ]
+}

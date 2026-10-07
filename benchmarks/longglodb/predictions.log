@@ -1,0 +1,32 @@
+within-species spread T (99th pct, recomputed from v4): ITS 5.98% (paper 6.0), LSU 2.91% (paper 3.0), SSU 0.75% (paper 0.8)
+  WARNING: LSU, SSU differ from the paper's values; check the reference version, or pass --thresholds to use the paper's
+test: 280 ASVs in 52 cultures; ITS 279, LSU 276, SSU 280
+
+region check: 784 reprocessed Stefani ASVs identical in ITS to a v4 copy, against that culture
+  ITS: median 0.00%, 95th 0.00%, share <= 0.5%: 100% (n 784)
+  LSU: median 0.00%, 95th 0.14%, share <= 0.5%: 98% (n 784)
+  SSU: median 0.00%, 95th 0.00%, share <= 0.5%: 100% (n 784)
+  near 0% means LongGloDB's files and the v4 regions cover comparable stretches
+  50 ASVs (2 s)
+  100 ASVs (3 s)
+  150 ASVs (4 s)
+  200 ASVs (5 s)
+  250 ASVs (6 s)
+
+predictions (per ASV, then per culture)
+  novel species, genus in v4: 59 ASVs; possible false known (inside a v4 species) 4; cultures with any such ASV 1 of 17
+      Gigaspora gigantea KS302: 4/4 ASVs inside Gigaspora rosea (4)
+  novel lineage, genus not in v4: 43 ASVs; possible false known (inside a v4 species) 0; cultures with any such ASV 0 of 9
+  known species: 164 ASVs; inside own species 139; inside another species too 0
+      outside own: Dentiscutata heterogama FL728 (ITS 6.42%, LSU 0.74%, SSU 0.0% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 8.44%, LSU 3.09%, SSU 0.87% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 7.91%, LSU 3.09%, SSU 0.87% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 8.12%, LSU 3.23%, SSU 0.87% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 8.37%, LSU 3.09%, SSU 0.87% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 8.1%, LSU 3.09%, SSU 0.87% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 8.23%, LSU 3.09%, SSU 0.65% to own species)
+      outside own: Funneliformis coronatus MR101 (ITS 8.3%, LSU 3.23%, SSU 0.87% to own species)
+  genus only: 14 ASVs; inside a v4 species 3
+
+falsifiable claim: no novel-species or novel-lineage ASV outside the 'inside' set is called a known species once the frozen pipeline runs.
+files: ../bench/longglodb/predictions.predictions.tsv, ../bench/longglodb/predictions.cultures.tsv, ../bench/longglodb/predictions.lock (7 s)

@@ -1,0 +1,53 @@
+organism	code	role	asvs	asvs_inside_any	inside_species	own_inside
+Acaulospora kentinensis	FL709_10	novel species, genus in v4	1	0		
+Acaulospora koskei	SC705	novel species, genus in v4	1	0		
+Acaulospora laevis	BEG13	novel species, genus in v4	3	0		
+Acaulospora laevis	BEG242	novel species, genus in v4	2	0		
+Acaulospora laevis	BEG26	novel species, genus in v4	1	0		
+Acaulospora morrowiae	BR983A	known species	2	0		0
+Acaulospora sp.	WV685	genus only	7	1	Acaulospora morrowiae (1)	
+Ambispora fennica	Af2	novel species, genus in v4	5	0		
+Ambispora leptoticha	CR312	known species	5	4	Ambispora leptoticha (4)	4
+Ambispora leptoticha	MX982A	known species	8	0		0
+Archaeospora schenckii	CL401	novel lineage, genus not in v4	2	0		
+Archaeospora trappei	SF124_22	novel lineage, genus not in v4	4	0		
+Corymbiglomus corymbiforme	Blaszk5	novel lineage, genus not in v4	4	0		
+Dentiscutata erythropa	RI275_31	novel species, genus in v4	9	0		
+Dentiscutata heterogama	BR154	known species	16	16	Dentiscutata heterogama (16)	16
+Dentiscutata heterogama	FL225_25	known species	1	1	Dentiscutata heterogama (1)	1
+Dentiscutata heterogama	FL728	known species	7	6	Dentiscutata heterogama (6)	6
+Dentiscutata heterogama	IL203A	known species	18	16	Dentiscutata heterogama (16)	16
+Diversispora epigaea	KS210	known species	3	3	Diversispora epigaea (3)	3
+Diversispora epigaea	KS212	known species	1	1	Diversispora epigaea (1)	1
+Diversispora sp.	W6227	genus only	2	2	Diversispora spurca (2)	
+Entrophospora lutea	CR308	novel lineage, genus not in v4	1	0		
+Funneliformis coronatus	MR101	known species	8	8	Funneliformis mosseae (8)	0
+Funneliformis mosseae	510_4A	known species	7	7	Funneliformis mosseae (7)	7
+Funneliformis mosseae	87_11	known species	13	13	Funneliformis mosseae (13)	13
+Funneliformis mosseae	BEG12	known species	16	15	Funneliformis mosseae (15)	15
+Funneliformis mosseae	BEG161	known species	8	8	Funneliformis mosseae (8)	8
+Funneliformis mosseae	BEG95	known species	4	4	Funneliformis mosseae (4)	4
+Funneliformis mosseae	NC302C	known species	14	14	Funneliformis mosseae (14)	14
+Funneliformis mosseae	WY107	known species	15	15	Funneliformis mosseae (15)	15
+Gigaspora decipiens	AU102_9	novel species, genus in v4	3	0		
+Gigaspora gigantea	KS302	novel species, genus in v4	4	4	Gigaspora rosea (4)	
+Gigaspora margarita	120_7A	novel species, genus in v4	3	0		
+Gigaspora margarita	NC114B	novel species, genus in v4	5	0		
+Gigaspora rosea	BR155B	known species	5	3	Gigaspora rosea (3)	3
+Gigaspora rosea	FL105_11	known species	2	2	Gigaspora rosea (2)	2
+Gigaspora rosea	KS885	known species	1	1	Gigaspora rosea (1)	1
+Gigaspora sp.	JAY1	genus only	2	0		
+Paraglomus brasilianum	FL710_19	known species	3	3	Paraglomus brasilianum (3)	3
+Paraglomus occultum	CU126	novel species, genus in v4	2	0		
+Racocetra gregaria	BEG243	novel lineage, genus not in v4	16	0		
+Racocetra gregaria	NC210	novel lineage, genus not in v4	2	0		
+Racocetra sp.	179_Blask4	genus only	3	0		
+Rhizophagus clarus	BR147B	novel species, genus in v4	5	0		
+Rhizophagus clarus	FL879N	novel species, genus in v4	6	0		
+Rhizophagus dimorphicus	FL912N	novel species, genus in v4	5	0		
+Sclerocystis sinuosa	MD126	known species	7	7	Sclerocystis sinuosa (7)	7
+Scutellospora calospora	AU212B	novel lineage, genus not in v4	2	0		
+Scutellospora calospora	BEG245	novel lineage, genus not in v4	4	0		
+Scutellospora calospora	IL209	novel lineage, genus not in v4	8	0		
+Septoglomus constrictum	KS890	novel species, genus in v4	1	0		
+Septoglomus deserticola	NC302A	novel species, genus in v4	3	0		

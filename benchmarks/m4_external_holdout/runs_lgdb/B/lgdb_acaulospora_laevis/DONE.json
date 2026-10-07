@@ -1,0 +1,28 @@
+{
+  "key": "9d568b4f0ff8c5d57fd6ebd119606f049482651b49096f5bf942ede5d2cd8b80",
+  "placements_sha256": "bba7e0f104a9687b4e8d47e41cf901d33eca3e20a4ac5aae32ecaf8cfd21c10f",
+  "plan": {
+    "key": "lgdb_acaulospora_laevis",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Acaulospora_laevis_BEG13_ZUII_ASV1083_BEG",
+      "Acaulospora_laevis_BEG13_ZUII_ASV1086_BEG",
+      "Acaulospora_laevis_BEG13_ZUII_ASV1087_BEG",
+      "Acaulospora_laevis_BEG242_ZUII_ASV1081_BEG",
+      "Acaulospora_laevis_BEG242_ZUII_ASV1085_BEG",
+      "Acaulospora_laevis_BEG26_ZUII_ASV1084_BEG"
+    ],
+    "removed_ref_ids": [
+      "R0335",
+      "R0476"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Acaulospora laevis",
+    "target_cultures": [
+      "Acaulospora laevis | LGDB BEG13",
+      "Acaulospora laevis | LGDB BEG242",
+      "Acaulospora laevis | LGDB BEG26"
+    ],
+    "v18_label": "Acaulospora laevis"
+  }
+}

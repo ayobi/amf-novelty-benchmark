@@ -1,0 +1,24 @@
+{
+  "key": "863fc88309233fd3fb4332280ffe64435e8fd8955f14dc0850293026d3a6f584",
+  "placements_sha256": "ef0373984d5b3cb9410a6fab6d16277042f36e40e9a9ecf92ca6d19a6209d72e",
+  "plan": {
+    "key": "lgdb_corymbiglomus_corymbiforme",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1145_Blaszkowski",
+      "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1146_Blaszkowski",
+      "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1147_Blaszkowski",
+      "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1148_Blaszkowski"
+    ],
+    "removed_ref_ids": [
+      "R0245",
+      "R0246"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "target": "Corymbiglomus corymbiforme",
+    "target_cultures": [
+      "Corymbiglomus corymbiforme | LGDB Blaszk5"
+    ],
+    "v18_label": "Corymbiglomus corymbiforme"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "SH": {
+    "blast_task": "blastn",
+    "min_cov": 0.9,
+    "min_id": 98.5,
+    "reference_copies_reproduced": 903,
+    "reference_records": 16800,
+    "test_queries": 280,
+    "test_with_anchor": 209,
+    "test_with_any_unit": 280
+  },
+  "VT": {
+    "blast_task": "megablast",
+    "min_cov": 0.95,
+    "min_id": 97.0,
+    "reference_copies_reproduced": 903,
+    "reference_records": 3081,
+    "test_queries": 280,
+    "test_with_anchor": 33,
+    "test_with_any_unit": 279
+  },
+  "VT_spanned": {
+    "reference_copies_whose_evidence_would_change": 0,
+    "test_with_anchor": 280,
+    "test_with_any_unit": 280
+  }
+}

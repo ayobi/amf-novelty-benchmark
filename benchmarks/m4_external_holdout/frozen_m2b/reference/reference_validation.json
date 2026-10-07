@@ -1,0 +1,11 @@
+{
+  "taxa": 495,
+  "alignment_columns": 1844,
+  "backbone_splits_preserved": true,
+  "optimized_model": "GTR{0.988260/4.637908/2.010720/0.399514/6.710853/1.000000}+FU{0.204229/0.215461/0.299841/0.280469}+G4m{0.683572}, noname = 1-1844",
+  "reference_alignment_sha256": "1cd6426557f842d9e0085b95f02f3156406d43fb71f840a2c6891bece769ce33",
+  "optimized_tree_sha256": "d3da113b83e3d185ebfe10fd1958aa121e401c0dd035c74350ef607a74abf11b",
+  "model_sha256": "2e7a4dd93fd75c60586bad52a2fd4e4c5a73043289e89ad87f686df21e2a6194",
+  "near_zero_branches": 7,
+  "old_bootstrap_comments_used_as_new_support": false
+}

@@ -1,0 +1,38 @@
+culture_species	v18_label	ref_tips	records	mapping	source
+Acaulospora morrowiae	Acaulospora morrowiae	R0479;R0480	2	exact frozen label	frozen V18 reference metadata
+Ambispora callosa			0	already_absent_by_label	frozen V18 reference metadata
+Ambispora leptoticha	Ambispora leptoticha	R0306;R0455	2	exact frozen label	frozen V18 reference metadata
+Cetraspora gilmorei	Cetraspora gilmorei	R0166;R0167	2	exact frozen label	frozen V18 reference metadata
+Dentiscutata heterogama	Dentiscutata heterogama	R0420;R0421	2	exact frozen label	frozen V18 reference metadata
+Diversispora aestuarii	Diversispora aestuarii	R0251;R0252	2	exact frozen label	frozen V18 reference metadata
+Diversispora arenaria	Diversispora arenaria	R0255;R0256	2	exact frozen label	frozen V18 reference metadata
+Diversispora celata	Diversispora celata	R0259;R0260	2	exact frozen label	frozen V18 reference metadata
+Diversispora eburnea	Diversispora eburnea	R0267;R0441	2	exact frozen label	frozen V18 reference metadata
+Diversispora epigaea	Diversispora epigaea	R0268;R0442	2	exact frozen label	frozen V18 reference metadata
+Diversispora jakucsiae	Diversispora jakucsiae	R0271;R0272	2	exact frozen label	frozen V18 reference metadata
+Diversispora spurca	Diversispora spurca	R0445;R0446	2	exact frozen label	frozen V18 reference metadata
+Diversispora varaderana	Diversispora varaderana	R0287;R0288	2	exact frozen label	frozen V18 reference metadata
+Dominikia bonfanteae	Dominikia bonfanteae	R0225;R0226	2	exact frozen label	frozen V18 reference metadata
+Dominikia duoreactiva	Dominikia duoreactiva	R0231;R0232	2	exact frozen label	frozen V18 reference metadata
+Funneliformis caledonium	Funneliformis caledonium	R0038;R0363;R0364	3	exact frozen label	frozen V18 reference metadata
+Funneliformis coronatus	Funneliformis coronatus	R0039;R0365	2	exact frozen label	frozen V18 reference metadata
+Funneliformis geosporum	Funneliformis geosporum	R0368	1	exact frozen label	frozen V18 reference metadata
+Funneliformis mosseae	Funneliformis mosseae	R0040;R0041	2	exact frozen label	frozen V18 reference metadata
+Gigaspora rosea	Gigaspora rosea	R0404;R0405	2	exact frozen label	frozen V18 reference metadata
+Glomus chinense	Glomus chinense	R0136;R0137	2	exact frozen label	frozen V18 reference metadata
+Glomus macrocarpum	Glomus macrocarpum	R0140;R0141	2	exact frozen label	frozen V18 reference metadata
+Glomus rugosae	Glomus rugosae	R0144;R0145	2	exact frozen label	frozen V18 reference metadata
+Glomus tetrastratosum	Glomus tetrastratosum	R0146;R0147	2	exact frozen label	frozen V18 reference metadata
+Microdominikia litorea	Microdominikia litorea	R0217;R0218	2	exact frozen label	frozen V18 reference metadata
+Oehlia diaphana	Oehlia diaphana	R0377;R0378	2	exact frozen label	frozen V18 reference metadata
+Paraglomus brasilianum	Paraglomus brasilianum	R0108;R0392	2	exact frozen label	frozen V18 reference metadata
+Paraglomus laccatum	Paraglomus laccatum	R0109;R0110	2	exact frozen label	frozen V18 reference metadata
+Rhizophagus intraradices	Rhizophagus intraradices	R0383;R0384	2	exact frozen label	frozen V18 reference metadata
+Rhizophagus irregularis	Rhizophagus irregularis	R0385;R0386	2	exact frozen label	frozen V18 reference metadata
+Rhizophagus prolifer	Rhizophagus proliferus	R0086;R0087	2	orthographic variant	https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=803201
+Rhizophagus silesianus	Rhizophagus silesianus	R0088;R0089	2	exact frozen label	frozen V18 reference metadata
+Sclerocystis sinuosa	Sclerocystis sinuosa	R0389;R0390	2	exact frozen label	frozen V18 reference metadata
+Septoglomus africanum	Septoglomus africanum	R0044;R0045	2	exact frozen label	frozen V18 reference metadata
+Septoglomus turnauae	Septoglomus turnauae	R0062;R0063	2	exact frozen label	frozen V18 reference metadata
+Septoglomus viscosum	Septoglomus Viscospora viscosa	R0375;R0376	2	composite V18 header includes homotypic synonym Viscospora viscosa	https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=518471
+[Rhizoglomus] vesiculiferum	Rhizophagus vesiculiferus	R0094;R0095	2	same basionym / genus combination and orthographic variant	https://doi.org/10.1127/nova_hedwigia/2018/0488

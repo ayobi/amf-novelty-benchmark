@@ -1,0 +1,42 @@
+{
+  "b_folds": [
+    "lgdb_acaulospora_kentinensis",
+    "lgdb_acaulospora_koskei",
+    "lgdb_acaulospora_laevis",
+    "lgdb_ambispora_fennica",
+    "lgdb_archaeospora_schenckii",
+    "lgdb_archaeospora_trappei",
+    "lgdb_corymbiglomus_corymbiforme",
+    "lgdb_dentiscutata_erythropa",
+    "lgdb_entrophospora_lutea",
+    "lgdb_gigaspora_decipiens",
+    "lgdb_gigaspora_gigantea",
+    "lgdb_gigaspora_margarita",
+    "lgdb_paraglomus_occultum",
+    "lgdb_racocetra_gregaria",
+    "lgdb_rhizophagus_clarus",
+    "lgdb_rhizophagus_dimorphicus",
+    "lgdb_scutellospora_calospora",
+    "lgdb_septoglomus_constrictum",
+    "lgdb_septoglomus_deserticola"
+  ],
+  "its_threshold_n": 755,
+  "its_threshold_pct": 5.992549889135255,
+  "parity_m4": {
+    "copies": 850,
+    "folds": 37,
+    "seconds": 38.8
+  },
+  "tables": {
+    "A_primary_v1": 280,
+    "A_primary_v2": 280,
+    "A_secondary_vt_v1": 280,
+    "A_secondary_vt_v2": 280,
+    "B_primary_v1": 102,
+    "B_primary_v2": 102,
+    "B_secondary_vt_v1": 102,
+    "B_secondary_vt_v2": 102
+  },
+  "test_copies": 280,
+  "test_cultures": 52
+}

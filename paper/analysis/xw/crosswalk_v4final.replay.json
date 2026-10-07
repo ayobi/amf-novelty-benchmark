@@ -1,0 +1,95 @@
+{
+ "culture_ref": {
+  "path": "/tmp/chk/p4/phase4_nested_validation/inputs/ref",
+  "version": "v4",
+  "fingerprint": "181938d695f3df40"
+ },
+ "arms": "replayed from stored calls; see replay",
+ "max_evalue": 1e-50,
+ "refset_hits": "dropped",
+ "script_sha256": "replay",
+ "args": {
+  "ref": "/tmp/chk/p4/phase4_nested_validation/inputs/ref",
+  "maarjam": "/mnt/user-data/uploads/crosswalk_v4_copies.tsv",
+  "unite": "/mnt/user-data/uploads/crosswalk_v4_copies.tsv",
+  "unite_keep": "Glomeromycota",
+  "lsu": "/mnt/user-data/uploads/crosswalk_v4_copies.tsv",
+  "threads": 4,
+  "max_evalue": 1e-50,
+  "vt_min_id": 97.0,
+  "vt_min_cov": 0.95,
+  "vt_task": "megablast",
+  "sh_min_id": 98.5,
+  "sh_min_cov": 0.9,
+  "sh_task": "blastn",
+  "lsu_min_id": 97.0,
+  "lsu_min_cov": 0.9,
+  "lsu_task": "blastn",
+  "out": "/tmp/claude-0/xw/crosswalk_v4final",
+  "keep_refset_hits": false,
+  "keep_db": false
+ },
+ "replay": {
+  "calls": "/mnt/user-data/uploads/crosswalk_v4_copies.tsv",
+  "calls_sha256": "cbc36aa301a74a2329999fe4fedb765649faf84a4f9553e3e5153d0add525463",
+  "crosswalk_sha256": "f993307aab75fb98451aa696d29f4cf0e0571c5ffb9aca23a13d893bf141238f",
+  "arms_sha256": "1f57380a5feb59827adf6422f15116449d59947fdb8d0912f0703d8e9cbd3599",
+  "changed_copies": [
+   {
+    "accession": "PX214608.1",
+    "copy_class": "divergent -> main"
+   },
+   {
+    "accession": "PX214609.1",
+    "culture": "Septoglomus sp. | Blasz_17_2277A -> Septoglomus africanum | Blasz_17_2277A",
+    "organism": "Septoglomus sp. -> Septoglomus africanum",
+    "copy_class": "divergent -> main"
+   },
+   {
+    "accession": "PX214610.1",
+    "culture": "Septoglomus sp. | SO43BL -> Septoglomus africanum | SO43BL",
+    "organism": "Septoglomus sp. -> Septoglomus africanum"
+   },
+   {
+    "accession": "PX214611.1",
+    "culture": "Septoglomus sp. | SO43BL -> Septoglomus africanum | SO43BL",
+    "organism": "Septoglomus sp. -> Septoglomus africanum"
+   },
+   {
+    "accession": "PX214612.1",
+    "culture": "Septoglomus sp. | SO43BL -> Septoglomus africanum | SO43BL",
+    "organism": "Septoglomus sp. -> Septoglomus africanum"
+   },
+   {
+    "accession": "PX214613.1",
+    "culture": "Septoglomus sp. | SO43BL -> Septoglomus africanum | SO43BL",
+    "organism": "Septoglomus sp. -> Septoglomus africanum"
+   },
+   {
+    "accession": "PX214614.1",
+    "culture": "Septoglomus sp. | SO43BL -> Septoglomus africanum | SO43BL",
+    "organism": "Septoglomus sp. -> Septoglomus africanum"
+   }
+  ],
+  "evidence_check": {
+   "VT": {
+    "copies": 903,
+    "call_identity_equals_anchor": 903,
+    "best_unit_in_evidence": 903,
+    "examples_of_disagreement": []
+   },
+   "SH": {
+    "copies": 903,
+    "call_identity_equals_anchor": 903,
+    "best_unit_in_evidence": 903,
+    "examples_of_disagreement": []
+   },
+   "LSU": {
+    "copies": 903,
+    "call_identity_equals_anchor": 903,
+    "best_unit_in_evidence": 903,
+    "examples_of_disagreement": []
+   }
+  }
+ }
+}

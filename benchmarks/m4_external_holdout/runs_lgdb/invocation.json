@@ -1,0 +1,67 @@
+{
+  "argv": [
+    "lgdb_test.py",
+    "run",
+    "--lgdb",
+    "../bench/longglodb",
+    "--maarjam",
+    "../ref/maarjam/maarjam.fasta",
+    "--unite",
+    "../ref/unite/UNITE_public_19.02.2025.fasta.gz",
+    "--threads",
+    "4",
+    "--jobs",
+    "8"
+  ],
+  "base_key": "1137fbef56413b7ed8dab38ac0470531b1249e3594f8cd210761b0edf0754b80",
+  "inputs": {
+    "lgdb/PROTOCOL_LGDB.md": "bf16ed1d3e5f3b967c7bdc1a56a39e492026c178705dd75df57f16807b347061",
+    "lgdb/PROTOCOL_LGDB_amendment1.md": "f2672f7d591a2379ac451ec70ee9cf7626a8fdce04e2658e1b04b9ea21994b49",
+    "lgdb/PROTOCOL_LGDB_amendment2.md": "9c17ac8dbd01e5e03e53b858b5ea9cc834ff86ad89f495e17fe7652145d60c92",
+    "lgdb/overlap.asvs.tsv": "e39919cc5118abd0a24ed738028b8032fdc4aba497be78bdc6deb2ebe8096501",
+    "lgdb/overlap.cultures.tsv": "77a9d842df24f47d3b435924e0e842e2ab74d57f8d6e2117afb394bc7941382f",
+    "lgdb/predictions.cultures.tsv": "0cf2cb4f087ab1f14bd27626f3908149ec5abeae4faeb5a5669fa93e58dae0a8",
+    "lgdb/predictions.lock": "c1aaed69ec3ef6e2d3813710fed2bfa79145e1a7888fe73ae8ea2373fc13d445",
+    "lgdb/predictions.predictions.tsv": "d8f1e7d564b0df2ecd5bb641ebd2d155b43164633208ccf7a2da4ae0e8266d24",
+    "lgdb/protocol_hashes.txt": "21d4295742102af7178c491bad0e09feffb7b4bff6cade0b049307f9374fb8ab",
+    "window/LSU_LROR-FLR2": "82b147d60e796c4d172702c9f3f7979f0b660a5015bca8d827e7bd151f9ca190",
+    "window/full_its": "bc1ae16bf4d7491e6c0be7f0c138f1200ca38282dab726a2bcb9f7c8be6d6465",
+    "window/s58": "46da4e66960256f86066a7d7670c4316a3d78b380395dabc25bb05dfb20886f7",
+    "window/ssu_flank": "d76e02fd1ee62d649de794e0519c8fae15c5d39229c441b4b7fc3d0538be4d9e"
+  },
+  "jobs": 8,
+  "python": "3.12.14 (main, Sep  2 2026, 23:27:36) [GCC 15.3.0]",
+  "script_sha256": "50d2e59bc095b03519137639f06962c3f0a9a5b12253ec7f8a0cd1a38e16d22b",
+  "started": "2026-10-06 13:07:22",
+  "threads_per_job": 4,
+  "tools": {
+    "blastn": {
+      "executable": "/home/csb/miniforge3/envs/amfsplit/bin/blastn",
+      "executable_sha256": "5315f017257c48d794a7f1ec48433f135bd97cd50531bea6d0b25af69366f17f",
+      "version": "blastn: 2.17.0+"
+    },
+    "epa_ng": {
+      "executable": "/home/csb/miniforge3/envs/amf-m4/bin/epa-ng",
+      "executable_sha256": "15cec2d27d96dbefc4c71fb47f580e99d4422ae49238206ab489f235e7f14611",
+      "version": "0.3.8",
+      "version_output": "EPA-ng v0.3.8"
+    },
+    "mafft": {
+      "executable": "/home/csb/miniforge3/envs/amf-m4/bin/mafft",
+      "executable_sha256": "102ab5e0b5e5f2a4e4baa0db9df4244e4113bd15539a831ec0bf47c9201bcb1d",
+      "version": "7.526",
+      "version_output": "v7.526 (2024/Apr/26)"
+    },
+    "makeblastdb": {
+      "executable": "/home/csb/miniforge3/envs/amfsplit/bin/makeblastdb",
+      "executable_sha256": "b4a5bf8a217322a3c00158e79a17f2d1fa4c25808789ec4155aa335ac4579944",
+      "version": "makeblastdb: 2.17.0+"
+    },
+    "raxml_ng": {
+      "executable": "/home/csb/miniforge3/envs/amf-m4/bin/raxml-ng",
+      "executable_sha256": "326a2b30eef5b1b39cf2363507559e5f22abb803f5ab2e1e3f315e6e93d51b1e",
+      "version": "1.2.2",
+      "version_output": "RAxML-NG v. 1.2.2 released on 11.04.2024 by The Exelixis Lab.\nDeveloped by: Alexey M. Kozlov and Alexandros Stamatakis.\nContributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth, Julia Haag, Anastasis Togkousidis.\nLatest version: https://github.com/amkozlov/raxml-ng\nQuestions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml\n\nSystem: AMD Ryzen 9 9950X 16-Core Processor, 16 cores, 60 GB RAM"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+903 copies, 151 cultures; MaarjAM 3081 sequences, 384 VT
+
+1. within-culture SSU flank spread, main-type copy pairs (n = 3052): median 0.07%, 90th 0.34%, 95th 0.54%, 99th 0.95%, max 1.83%
+
+2. merged units: VTs that split one culture's main-type copies at δ = 0, closest copies across the split <= 1.00% apart in SSU
+      VTX00113+VTX00115: [Rhizoglomus] vesiculiferum | 3628_IVT65A (0.34%), [Rhizoglomus] vesiculiferum | 4374_IVT87A (0.27%), [Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A (0.88%)
+      VTX00125+VTX00222: Microdominikia litorea | 3647_963E (0.68%), Microdominikia litorea | 5274 (0.75%)
+
+3. calibration: a culture is consistent when its main-type copies' sets share a unit
+      δ    consistent  one unit  mean set  species resolved
+    0.0   138/138 100%       94%      1.06         19 of 37   <- consistency
+    0.2   138/138 100%       91%      1.09         17 of 37 
+    0.3   138/138 100%       91%      1.10         17 of 37 
+    0.5   138/138 100%       84%      1.23         16 of 37 
+    0.6   138/138 100%       74%      1.40         16 of 37   <- spread, chosen
+    0.7   138/138 100%       73%      1.43         16 of 37 
+    1.0   138/138 100%       30%      2.42          9 of 37 
+    1.5   138/138 100%       15%      4.20          5 of 37 
+    2.0   138/138 100%       10%      7.33          4 of 37 
+    3.0   138/138 100%        2%     13.02          2 of 37 
+  consistency: smallest δ with >= 99% of cultures consistent = 0; spread: 95th percentile of within-culture SSU spread, rounded up = 0.6
+  chosen δ = 0.6 (the larger)
+  at δ = 0 the Stage 1 best-hit VT is in the set for 895 of 895 assigned copies
+
+4. at δ = 0.6
+  culture sets with > 1 unit: 35 cultures in 9 distinct sets
+      VTX00113+VTX00115/VTX00114: Rhizophagus irregularis (9)
+      VTX00062/VTX00306: Diversispora varaderana (7), Diversispora aestuarii (2)
+      VTX00054/VTX00061/VTX00263: Diversispora spurca (3)
+      VTX00100/VTX00390: Rhizophagus intraradices (3)
+      VTX00111/VTX00113+VTX00115/VTX00114/VTX00295/VTX00387: Rhizophagus irregularis (2), [Rhizoglomus] vesiculiferum (1)
+      VTX00104/VTX00197/VTX00199: Glomus chinense (2)
+      VTX00113+VTX00115/VTX00114/VTX00295/VTX00387: [Rhizoglomus] vesiculiferum (2)
+      VTX00105/VTX00295/VTX00388: Rhizophagus silesianus (2)
+      VTX00054/VTX00263: Diversispora jakucsiae (1), Diversispora arenaria (1)
+  cultures still inconsistent: 0
+  unit groups shared by > 1 named species: 8 of 26
+      VTX00104/VTX00197/VTX00199: Glomus chinense, Glomus macrocarpum, Glomus rugosae, Glomus tetrastratosum
+      VTX00054/VTX00061/VTX00263: Diversispora arenaria, Diversispora epigaea, Diversispora jakucsiae, Diversispora spurca
+      VTX00105/VTX00111/VTX00113+VTX00115/VTX00114/VTX00295/VTX00387/VTX00388: Rhizophagus irregularis, Rhizophagus silesianus, [Rhizoglomus] vesiculiferum
+      VTX00242: Ambispora callosa, Ambispora leptoticha
+      VTX00064: Septoglomus africanum, Septoglomus turnauae
+      VTX00060: Diversispora celata, Diversispora eburnea
+      VTX00062/VTX00306: Diversispora aestuarii, Diversispora varaderana
+      VTX00065: Funneliformis caledonium, Funneliformis geosporum
+
+5. non-main copies at δ = 0.6: does the copy's set contain a unit of its culture's set?
+  divergent (short_5.8S): 43 copies; shares a culture unit 39, other units only 4, no VT 0, culture has no VT 0
+      PX207263.1 Septoglomus viscosum | CW0026_Att1910-1: VTX00409 (culture VTX00063)
+      PX207264.1 Septoglomus viscosum | CW0026_Att1910-1: VTX00409 (culture VTX00063)
+      PX214583.1 Septoglomus viscosum | W375_18_642E: VTX00409 (culture VTX00063)
+      PX214816.1 Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A: VTX00113+VTX00115/VTX00114 (culture VTX00248)
+  divergent (same_length): 8 copies; shares a culture unit 8, other units only 0, no VT 0, culture has no VT 0
+
+tables: ../bench/stefani/vt_sets_v4.copies.tsv, .cultures.tsv, .calibration.tsv (δ = 0.6, merge auto)

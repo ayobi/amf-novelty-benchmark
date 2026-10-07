@@ -1,0 +1,15 @@
+# Primer sequences of the Stage 1 window panel (amfsplit_stage1/panels/amf_legacy_windows.tsv), checked against published sources, 7 October 2026.
+# Every sequence in the panel matches. The panel file is unchanged (its hash is recorded in the Stage 1 runs).
+primer	panel_sequence_5to3	matches	cited_source	checked_against	note
+NS31	TTGGAGGGCAAGTCTGGTGCC	yes	Simon et al. 1992	Morgan & Egerton 2017, Applications in Plant Sciences 5:apps.1700017 (Table 1); Plant and Soil 2023, doi:10.1007/s11104-023-06197-y	
+AM1	GTTTCCCGTAAGGCGCCGAA	yes	Helgason et al. 1998	Microbial Ecology 2023, doi:10.1007/s00248-023-02223-9; Plant and Soil 2023, doi:10.1007/s11104-023-06197-y	
+AML1	ATCAACTTTCGATGGTAGGATAGA	yes	Lee et al. 2008	Lee et al. 2008, FEMS Microbiology Ecology 65:339, methods (doi:10.1111/j.1574-6941.2008.00531.x)	checked in the source paper itself
+AML2	GAACCCAAACACTTTGGTTTCC	yes	Lee et al. 2008	Lee et al. 2008 (as above); Morgan & Egerton 2017	checked in the source paper itself
+WANDA	CAGCCGCGGTAATTCCAGCT	yes	Dumbrell et al. 2011	Western Sydney University NGS facility primer list (2025)	
+AMV4.5NF	AAGCTCGTAGTTGAATTTCG	yes	Sato et al. 2005	Western Sydney University NGS facility primer list (2025)	
+AMDGR	CCCAACTATCCCTATTAATCAT	yes	Sato et al. 2005	Western Sydney University NGS facility primer list (2025)	22-mer; one protocol page gives a 21-mer without the final T
+LROR	ACCCGCTGAACTTAAGC	yes	Bunyard et al. 1994 (as cited by Delavaux et al. 2024)	BIO Web of Conferences 2020, primer table (bioconf_vizr2020_00027)	also known as LR0R; the paper now cites Bunyard et al. 1994 as the database authors do
+FLR2	GTCGTTTAAAGCCATTACGTC	yes	Trouvelot et al. 1999 (as cited by Delavaux et al. 2024)	Williams et al. 2017, New Phytologist, doi:10.1111/nph.14196	some studies credit van Tuinen et al. 1998
+FLR3	TTGAAAGGGAAACGATTGAAGT	yes	Gollotte et al. 2004	Williams et al. 2017, New Phytologist, doi:10.1111/nph.14196	original 22-mer; a 21-mer without the final T is a later modification
+FLR4	TACGTCAACATCCTTAACGAA	yes	Gollotte et al. 2004	Williams et al. 2017, New Phytologist, doi:10.1111/nph.14196	
+LSUmBr	AACACTCGCAYAYATGYTAGA	yes (consensus)	Krueger et al. 2009	LSUmBr1-5 as tabulated in Krueger (2010, LMU dissertation); wLSUmBr in Schlaeppi et al. 2016, New Phytologist	the panel uses the wobble consensus (wLSUmBr) of the five LSUmBr variants, not the equimolar mix

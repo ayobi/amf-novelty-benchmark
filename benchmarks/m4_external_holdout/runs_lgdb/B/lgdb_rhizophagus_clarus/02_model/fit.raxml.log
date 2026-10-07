@@ -1,0 +1,107 @@
+
+RAxML-NG v. 1.2.2 released on 11.04.2024 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth, Julia Haag, Anastasis Togkousidis.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: AMD Ryzen 9 9950X 16-Core Processor, 16 cores, 60 GB RAM
+
+RAxML-NG was called at 06-Oct-2026 13:59:43 as follows:
+
+/home/csb/miniforge3/envs/amf-m4/bin/raxml-ng --evaluate --msa /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/01_reference/aligned.fasta --tree /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/01_reference/topology.newick --model GTR+G4 --threads 4 --seed 20260929 --prefix /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit --force perf_threads
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 20260929
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  logLH epsilon: general: 0.100000, brlen-triplet: 1000.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (4 threads), thread pinning: OFF
+
+WARNING: Running in FORCE mode: some safety checks are disabled!
+
+[00:00:00] Reading alignment from file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/01_reference/aligned.fasta
+[00:00:00] Loaded alignment with 493 taxa and 1901 sites
+
+WARNING: Fully undetermined columns found: 140
+
+WARNING: Sequences R0042 and R0043 are exactly identical!
+WARNING: Sequences R0054 and R0055 are exactly identical!
+WARNING: Sequences R0102 and R0103 are exactly identical!
+WARNING: Sequences R0122 and R0123 are exactly identical!
+WARNING: Sequences R0134 and R0135 are exactly identical!
+WARNING: Sequences R0154 and R0155 are exactly identical!
+WARNING: Sequences R0179 and R0180 are exactly identical!
+WARNING: Sequences R0183 and R0184 are exactly identical!
+WARNING: Sequences R0187 and R0188 are exactly identical!
+WARNING: Sequences R0203 and R0204 are exactly identical!
+WARNING: Sequences R0255 and R0256 are exactly identical!
+WARNING: Sequences R0348 and R0349 are exactly identical!
+WARNING: Sequences R0406 and R0407 are exactly identical!
+WARNING: Sequences R0408 and R0409 are exactly identical!
+WARNING: Sequences R0481 and R0482 are exactly identical!
+WARNING: Duplicate sequences found: 15
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 1151 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 1761 / 1151
+Gaps: 59.18 %
+Invariant sites: 45.09 %
+
+
+NOTE: Binary MSA file created: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit.raxml.rba
+
+Parallelization scheme autoconfig: 1 worker(s) x 4 thread(s)
+
+[00:00:00] Loading user starting tree(s) from: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/01_reference/topology.newick
+Parallel reduction/worker buffer size: 1 KB  / 0 KB
+
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 288 / 4608
+[00:00:00] Data distribution: max. searches per worker: 1
+
+Evaluating 1 trees
+
+[00:00:00] Tree #1, initial LogLikelihood: -58248.649442
+
+[00:00:00 -58248.649442] Initial branch length optimization
+[00:00:00 -58044.057541] Model parameter optimization (eps = 0.100000)
+
+[00:00:01] Tree #1, final logLikelihood: -54776.036295
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.680664 (ML),  weights&rates: (0.250000,0.070064) (0.250000,0.354262) (0.250000,0.917487) (0.250000,2.658187) 
+   Base frequencies (ML): 0.204932 0.214312 0.300800 0.279957 
+   Substitution rates (ML): 0.980907 4.576797 1.965829 0.396387 6.701128 1.000000 
+
+
+Final LogLikelihood: -54776.036295
+
+AIC score: 111536.072591 / AICc score: 114101.322591 / BIC score: 116965.920603
+Free parameters (model + branch lengths): 992
+
+WARNING: Best ML tree contains 7 near-zero branches!
+
+Best ML tree with collapsed near-zero branches saved to: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit.raxml.bestTreeCollapsed
+Best ML tree saved to: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit.raxml.bestTree
+Optimized model saved to: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit.raxml.bestModel
+
+Execution log saved to: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_rhizophagus_clarus/02_model/fit.raxml.log
+
+Analysis started: 06-Oct-2026 13:59:43 / finished: 06-Oct-2026 13:59:44
+
+Elapsed time: 1.382 seconds
+

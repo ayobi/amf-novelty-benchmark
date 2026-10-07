@@ -1,0 +1,22 @@
+\begin{table}[htbp]\centering
+\begin{threeparttable}
+\caption{The three assignment arms. Each copy is searched with BLAST+ against one
+external reference per arm; all arms require e-value $\le10^{-50}$.}
+\label{tab:arms}
+\small
+\begin{tabular}{lllp{0.30\linewidth}rr}
+\toprule
+Arm & Query region & Task & Reference & Identity & Coverage\\
+\midrule
+VT  & SSU flank  & megablast & MaarjAM (gDAT, July 2020; 3{,}081 seq., 384 VT) & $\ge97\%$   & $\ge95\%$\\
+SH  & full ITS   & blastn & UNITE 10.0, UNITE+INSD (16{,}800 Glomeromycota seq., 7{,}563 SH) & $\ge98.5\%$ & $\ge90\%$\\
+LSU & LROR--FLR2 & blastn & Delavaux V18 (460 AMF records, 234 species labels) & $\ge97\%$ & $\ge90\%$\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Coverage is of the shorter sequence, with reference Ns not counted. Hits to
+any accession of the culture reference are dropped. The SH arm was also run
+against the UNITE general release (2{,}048 Glomeromycota representatives).
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

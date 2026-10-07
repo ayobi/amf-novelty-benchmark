@@ -1,0 +1,21 @@
+{
+  "key": "8ba512bc82ea47f345c5c362b8ba2de44b1c5a9bc0e0ada8c55b199a1fb8234f",
+  "placements_sha256": "c43925671364ab62cd68f1a623f0802f668700123cedcf3a91e602ea96e7942c",
+  "plan": {
+    "key": "lgdb_septoglomus_constrictum",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Septoglomus_constrictum_KS890_KU_ASV1425_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0369",
+      "R0370"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Septoglomus constrictum",
+    "target_cultures": [
+      "Septoglomus constrictum | LGDB KS890"
+    ],
+    "v18_label": "Septoglomus constrictum"
+  }
+}

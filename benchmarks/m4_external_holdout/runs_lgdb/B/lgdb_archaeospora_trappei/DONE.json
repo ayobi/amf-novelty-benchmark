@@ -1,0 +1,24 @@
+{
+  "key": "caf9ec5ac73e6067929090ba7cf27bd18c13c4aa83a0f1c31dc7196d3aa0e548",
+  "placements_sha256": "8dc99ca04a447f72e61498f24b4aa2550218d274016501ac8e62db445c6f001a",
+  "plan": {
+    "key": "lgdb_archaeospora_trappei",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Archaeospora_trappei_SF124_22_KU_ASV1140_INVAM",
+      "Archaeospora_trappei_SF124_22_KU_ASV1141_INVAM",
+      "Archaeospora_trappei_SF124_22_KU_ASV1142_INVAM",
+      "Archaeospora_trappei_SF124_22_KU_ASV1143_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0452",
+      "R0453"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "target": "Archaeospora trappei",
+    "target_cultures": [
+      "Archaeospora trappei | LGDB SF124_22"
+    ],
+    "v18_label": "Archaeospora trappei"
+  }
+}

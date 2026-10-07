@@ -1,0 +1,866 @@
+organism	code	lab	collection	asvs	role	stefani_code_match	identical_to_stefani_same_species	nearest_v4_culture	nearest_its_pct	v18_best_pct	v18_best_species
+Acaulospora kentinensis	FL709_10	KU	INVAM	1	novel species, genus in v4			Acaulospora morrowiae | CR315B_2019A	16.74	99.54	Acaulospora kentinensis
+Acaulospora koskei	SC705	ZU	INVAM	1	novel species, genus in v4			Acaulospora morrowiae | BF_TM_1197A	20.14	95.39	Acaulospora intravesiculata
+Acaulospora laevis	BEG13	ZUII	BEG	3	novel species, genus in v4			Acaulospora morrowiae | CR315B_2019A	21.33	98.3	Acaulospora laevis
+Acaulospora laevis	BEG242	ZUII	BEG	2	novel species, genus in v4			Acaulospora morrowiae | BF_TM_1197A	15.77	96.54	Acaulospora spinulifera
+Acaulospora laevis	BEG26	ZUII	BEG	1	novel species, genus in v4			Acaulospora morrowiae | CR315B_2019A	23.62	96.3	Acaulospora laevis
+Acaulospora morrowiae	BR983A	ZUII	INVAM	2	known species			Acaulospora morrowiae | CR315B_2019A	6.11	97.33	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1034-993-s105	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | CR315B_2019A	0.0	95.55	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1034-993-s53	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | CR315B_2019A	0.0	95.85	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1034-993-s90	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | CR315B_2019A	0.0	95.99	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1043-845-s139	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.58	Acaulospora papillosa
+Acaulospora morrowiae	P1-bc1043-845-s152	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.44	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1043-845-s60	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.29	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1043-845-s75	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.59	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1043-845-s82	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.74	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1043-845-s85	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.44	Acaulospora dilatata
+Acaulospora morrowiae	P1-bc1043-845-s93	STFP	CCAMF	1	Stefani reprocessed		yes	Acaulospora morrowiae | BF_TM_1197A	0.0	96.87	Acaulospora papillosa
+Acaulospora sp.	WV685	ZU	INVAM	7	genus only			Acaulospora morrowiae | CR315B_2019A	4.75	96.29	Acaulospora dilatata
+Ambispora callosa	P1-bc1090-1100-s200	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P1-bc1090-1100-s28	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P1-bc1090-1100-s30	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P1-bc1090-1100-s319	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P1-bc1090-1100-s52	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P1-bc1090-1100-s65	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P1-bc1090-1100-s66	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1036-1582-s11	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | MAFF520057_2499A	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P2-bc1036-1582-s27	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1036-1582-s28	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | MAFF520057_2499A	0.0	97.78	Ambispora leptoticha
+Ambispora callosa	P2-bc1036-1582-s33	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | MAFF520057_2499A	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-2	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s13	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | MAFF520084_2504A	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s14	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s17	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s21	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s312	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.62	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s34	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	98.1	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s37	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | JA116_2012B	0.0	97.46	Ambispora leptoticha
+Ambispora callosa	P2-bc1037-1584-s57	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora callosa | MAFF520084_2504A	0.0	97.46	Ambispora leptoticha
+Ambispora fennica	Af2	ZU	KrugerWalker	5	novel species, genus in v4			Ambispora callosa | MAFF520057_2499A	19.56	96.93	Ambispora fennica
+Ambispora gerdemannii	ON205A	ZUII	INVAM	9	code shared with Stefani, names differ	Ambispora leptoticha | ON205A		Ambispora callosa | MAFF520057_2499A	18.36	99.52	Ambispora gerdemannii
+Ambispora leptoticha	CR312	ZUII	INVAM	5	known species		yes	Ambispora leptoticha | ON205A	0.0	98.89	Ambispora leptoticha
+Ambispora leptoticha	MT106	KU	INVAM	5	code shared with Stefani, names differ	Sclerocystis sinuosa | MT106_2767A	yes	Ambispora leptoticha | ON205A	0.0	98.89	Ambispora leptoticha
+Ambispora leptoticha	MX982A	KU	INVAM	8	known species			Ambispora leptoticha | ON205A	7.77	97.46	Ambispora leptoticha
+Ambispora leptoticha	P2-bc1038-1583-s199	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora leptoticha | MAFF520090_2501A	0.0	97.3	Ambispora leptoticha
+Ambispora leptoticha	P2-bc1044-1635-s51	STFP	CCAMF	1	Stefani reprocessed		yes	Ambispora leptoticha | ON205A	0.0	98.73	Ambispora leptoticha
+Ambispora sp.	P4-bc1093-SPU-6-11-9-ON205-s167	STFI	CCAMF	1	Stefani reprocessed			Ambispora leptoticha | ON205A	0.0	98.73	Ambispora leptoticha
+Archaeospora schenckii	CL401	KU	INVAM	2	novel lineage, genus not in v4			Cetraspora gilmorei | 4436_787A	30.53	99.53	Archaeospora schenckii
+Archaeospora trappei	SF124_22	KU	INVAM	4	novel lineage, genus not in v4			Dominikia duoreactiva | 4412	32.03		
+Cetraspora gilmorei	P1-bc1049-651-s138	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4430_2047A	0.0	96.75	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1049-651-s149	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4430_2047A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1049-651-s243	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4430_2047A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1049-651-s297	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4430_2047A	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1049-651-s99	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4430_2047A	0.0	96.01	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1053-605-s101	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4436_787A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1053-605-s163	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4436_787A	0.0	97.05	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1053-605-s173	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4436_787A	0.0	97.05	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1053-605-s193	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4436_787A	0.0	96.49	Cetraspora pellucida
+Cetraspora gilmorei	P1-bc1053-605-s255	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4436_787A	0.0	96.9	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1067-501-s117	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1067-501-s91	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s133	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s137	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s180	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s275	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s282	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.01	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s31	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s32	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.01	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s33	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s55	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.46	Cetraspora gilmorei
+Cetraspora gilmorei	P1-bc1091-1080-s80	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s173	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s174	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.46	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s242	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s381	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s392	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s509	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s749	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.01	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1009-172-s952	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1042-1613-s278	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.61	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1042-1613-s33	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.61	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1042-1613-s36	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.75	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1042-1613-s65	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.9	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s105	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s361	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s377	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s476	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s492	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s533	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P2-bc1063-1193-s955	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.01	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s1069	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.33	Cetraspora pellucida
+Cetraspora gilmorei	P4-bc1040-1065-s1255	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s1914	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s244	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4419_860D	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s3043	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s353	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.45	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s3836	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.01	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s3941	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4397_453A	0.0	96.6	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1040-1065-s936	STFP	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | 4414_1105C	0.0	96.31	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s121	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.61	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s124	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.33	Cetraspora pellucida
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s153	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.75	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s5021	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.61	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s679	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.75	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s92	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.49	Cetraspora pellucida
+Cetraspora gilmorei	P4-bc1091-SPU-5-3-1-CW0008-2669B-s93	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.49	Cetraspora pellucida
+Cetraspora gilmorei	P4-bc1092-SPU-5-3-2-CW0008-2669B-s10351	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.61	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1092-SPU-5-3-2-CW0008-2669B-s1137	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.9	Cetraspora gilmorei
+Cetraspora gilmorei	P4-bc1092-SPU-5-3-2-CW0008-2669B-s2533	STFI	CCAMF	1	Stefani reprocessed		yes	Cetraspora gilmorei | CW0008_2669B	0.0	96.75	Cetraspora gilmorei
+Corymbiglomus corymbiforme	Blaszk5	ZU	Blaszkowski	4	novel lineage, genus not in v4			Diversispora celata | 4381_68A	22.47	95.67	Corymbiglomus corymbiforme
+Dentiscutata erythropa	RI275_31	KU	INVAM	9	novel species, genus in v4			Dentiscutata heterogama | CL157_2013B	6.67	99.68	Dentiscutata erythropus
+Dentiscutata heterogama	BEG35	ZUII	BEG	10	code shared with Stefani	Dentiscutata heterogama | BEG_35_2003A	yes	Dentiscutata heterogama | BEG_35_2003A	0.0	99.2	Dentiscutata heterogama
+Dentiscutata heterogama	BR154	ZUII	INVAM	16	known species		yes	Dentiscutata heterogama | CL157_2013B	0.0	99.04	Dentiscutata heterogama
+Dentiscutata heterogama	FL225_25	KU	INVAM	1	known species			Dentiscutata heterogama | BEG_35_2003A	1.47	98.17	Dentiscutata Fuscutata
+Dentiscutata heterogama	FL728	KU	INVAM	7	known species			Dentiscutata heterogama | CL157_2013B	0.73	99.04	Dentiscutata heterogama
+Dentiscutata heterogama	IL203A	ZU	INVAM	18	known species		yes	Dentiscutata heterogama | CL157_2013B	0.0	99.04	Dentiscutata heterogama
+Diversispora aestuarii	P4-bc1041-1202-s13	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.88	Diversispora insculpta
+Diversispora aestuarii	P4-bc1041-1202-s21	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.31	Diversispora insculpta
+Diversispora aestuarii	P4-bc1041-1202-s2831	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.88	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s102	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.74	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s124	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.88	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s134	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.88	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s138	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.45	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s27384	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.88	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s55	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.6	Diversispora insculpta
+Diversispora aestuarii	P4-bc1061-1202-s76	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4403_745C	0.0	97.6	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s1454	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	97.88	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s198	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	96.89	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s209	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	97.45	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s230	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	97.31	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s390	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	98.16	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s478	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	97.31	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s534	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	97.45	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s656	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	98.16	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s954	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	96.89	Diversispora insculpta
+Diversispora aestuarii	P4-bc1062-1485-s957	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora aestuarii | 4485_952D	0.0	97.03	Diversispora insculpta
+Diversispora arenaria	P2-bc1068-1135-s498	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora arenaria | Blasz_14_2274A	0.0	97.26	Diversispora arenaria
+Diversispora arenaria	P2-bc1068-1135-s52	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora arenaria | Blasz_14_2274A	0.0	97.26	Diversispora arenaria
+Diversispora arenaria	P2-bc1068-1135-s559	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora arenaria | Blasz_14_2274A	0.0	96.69	Diversispora arenaria
+Diversispora arenaria	P2-bc1068-1135-s92	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora arenaria | Blasz_14_2274A	0.0	96.69	Diversispora arenaria
+Diversispora celata	P1-bc1069-487-s162	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | 4381_68A	0.0	98.98	Diversispora trimurales
+Diversispora celata	P1-bc1069-487-s169	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | 4381_68A	0.0	98.84	Diversispora trimurales
+Diversispora celata	P1-bc1069-487-s177	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | 4381_68A	0.0	98.84	Diversispora trimurales
+Diversispora celata	P1-bc1069-487-s218	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | 4381_68A	0.0	98.98	Diversispora trimurales
+Diversispora celata	P1-bc1069-487-s224	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | 4381_68A	0.0	98.98	Diversispora trimurales
+Diversispora celata	P3-bc1073-1107-2	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | SC2	0.0	96.07	Diversispora trimurales
+Diversispora celata	P3-bc1073-1107-s16	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | SC2	0.0	98.84	Diversispora trimurales
+Diversispora celata	P3-bc1073-1107-s18	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | SC2	0.0	98.84	Diversispora trimurales
+Diversispora celata	P3-bc1073-1107-s66	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | SC2	0.0	98.98	Diversispora trimurales
+Diversispora celata	P3-bc1073-1107-s74	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora celata | SC2	0.0	96.07	Diversispora trimurales
+Diversispora eburnea	P1-bc1027-1384-s155	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | FS_12_2334B	0.0	99.15	Diversispora eburnea
+Diversispora eburnea	P1-bc1027-1384-s167	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | FS_12_2334B	0.0	98.87	Diversispora eburnea
+Diversispora eburnea	P1-bc1027-1384-s202	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | FS_12_2334B	0.0	99.01	Diversispora eburnea
+Diversispora eburnea	P1-bc1027-1384-s218	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | FS_12_2334B	0.0	99.29	Diversispora eburnea
+Diversispora eburnea	P1-bc1027-1384-s471	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | FS_12_2334B	0.0	99.29	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-2	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.86	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s114	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.58	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s123	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.29	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s134	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.58	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s161	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.15	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s173	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.44	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s23	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.29	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s29	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.15	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s36	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.58	Diversispora eburnea
+Diversispora eburnea	P1-bc1059-529-s37	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora eburnea | AZ414A_356A	0.0	99.58	Diversispora eburnea
+Diversispora epigaea	KS210	ZU	INVAM	3	known species		yes	Diversispora epigaea | BEG47_1140C	0.0	98.73	Diversispora versiformis
+Diversispora epigaea	KS212	ZU	INVAM	1	known species		yes	Diversispora epigaea | BEG47_1140C	0.0	97.24	Diversispora epigaea
+Diversispora epigaea	P2-bc1073-1145-2	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | BEG47_1140C	0.0	97.74	Diversispora versiformis
+Diversispora epigaea	P2-bc1073-1145-s22	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | BEG47_1140C	0.0	98.44	Diversispora versiformis
+Diversispora epigaea	P2-bc1073-1145-s41	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | BEG47_1140C	0.0	98.3	Diversispora versiformis
+Diversispora epigaea	P2-bc1073-1145-s44	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | BEG47_1140C	0.0	98.3	Diversispora versiformis
+Diversispora epigaea	P2-bc1073-1145-s48	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | BEG47_1140C	0.0	100.0	Diversispora epigaea
+Diversispora epigaea	P3-bc1057-1525-2	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	98.16	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s109	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	98.87	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s186	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	98.44	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s27	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	98.87	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s28	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	98.87	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s83	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	98.73	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s94	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	97.88	Diversispora versiformis
+Diversispora epigaea	P3-bc1057-1525-s98	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora epigaea | FS16_2427A	0.0	97.6	Diversispora versiformis
+Diversispora jakucsiae	P2-bc1067-1020-s142	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora jakucsiae | Blasz_11_2271A	0.0	97.26	Diversispora jakucsiae
+Diversispora jakucsiae	P2-bc1067-1020-s1514	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora jakucsiae | Blasz_11_2271A	0.0	96.84	Diversispora jakucsiae
+Diversispora jakucsiae	P2-bc1067-1020-s237	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora jakucsiae | Blasz_11_2271A	0.0	97.26	Diversispora jakucsiae
+Diversispora jakucsiae	P2-bc1067-1020-s2399	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora jakucsiae | Blasz_11_2271A	0.0	96.98	Diversispora jakucsiae
+Diversispora sp.	W6227	ZUII	INVAM	2	genus only			Diversispora spurca | CW0006_4005B	0.0	94.79	Diversispora spurca
+Diversispora spurca	P3-bc1059-1392-s40	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | Algerie_2_1072C	0.0	95.07	Diversispora spurca
+Diversispora spurca	P3-bc1059-1392-s56	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | Algerie_2_1072C	0.0	94.79	Diversispora spurca
+Diversispora spurca	P3-bc1059-1392-s84	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | Algerie_2_1072C	0.0	94.93	Diversispora spurca
+Diversispora spurca	P4-bc1005-444-s210	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.23	Diversispora spurca
+Diversispora spurca	P4-bc1005-444-s34	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.08	Diversispora spurca
+Diversispora spurca	P4-bc1005-444-s81	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.37	Diversispora spurca
+Diversispora spurca	P4-bc1086-SPU-5-6-2-CW0006-4005B-s146	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.79	Diversispora spurca
+Diversispora spurca	P4-bc1086-SPU-5-6-2-CW0006-4005B-s332	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.08	Diversispora spurca
+Diversispora spurca	P4-bc1086-SPU-5-6-2-CW0006-4005B-s37	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.23	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s181	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.37	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s184	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.08	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s194	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.23	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s284	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.08	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s3099	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.23	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s5050	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.08	Diversispora spurca
+Diversispora spurca	P4-bc1087-SPU-5-6-3-CW0006-4005B-s943	STFI	CCAMF	1	Stefani reprocessed		yes	Diversispora spurca | CW0006_4005B	0.0	94.37	Diversispora spurca
+Diversispora varaderana	P1-bc1042-903-s103	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P1-bc1042-903-s108	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	98.02	Diversispora insculpta
+Diversispora varaderana	P1-bc1042-903-s245	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	98.16	Diversispora insculpta
+Diversispora varaderana	P1-bc1042-903-s76	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.88	Diversispora insculpta
+Diversispora varaderana	P2-bc1043-1630-s15	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | CW0016_4015A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P2-bc1043-1630-s16	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	98.02	Diversispora insculpta
+Diversispora varaderana	P2-bc1043-1630-s30	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | CW0016_4015A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P2-bc1043-1630-s390	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | CW0016_4015A	0.0	97.88	Diversispora insculpta
+Diversispora varaderana	P3-bc1055-692-s533	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P3-bc1060-513-s1610	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P3-bc1060-513-s20	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4450_536A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P3-bc1060-513-s21	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.31	Diversispora insculpta
+Diversispora varaderana	P3-bc1060-513-s26	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.31	Diversispora insculpta
+Diversispora varaderana	P3-bc1060-513-s30	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4450_536A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P3-bc1060-513-s56	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4450_536A	0.0	97.6	Diversispora insculpta
+Diversispora varaderana	P4-bc1055-1217-s29	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | SASK_50	0.0	98.02	Diversispora insculpta
+Diversispora varaderana	P4-bc1055-1217-s49	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | SASK_50	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P4-bc1055-1217-s623	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.88	Diversispora insculpta
+Diversispora varaderana	P4-bc1055-1217-s652	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P4-bc1059-1015-s158	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4393_830B	0.0	97.88	Diversispora insculpta
+Diversispora varaderana	P4-bc1059-1015-s241	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.31	Diversispora insculpta
+Diversispora varaderana	P4-bc1059-1015-s442	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4393_830B	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P4-bc1059-1015-s5890	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s1076	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 3086_1170D	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s1098	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	98.16	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s11021	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.74	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s1318	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4393_830B	0.0	97.88	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s382	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 4394_1010A	0.0	97.31	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s889	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 3086_1170D	0.0	98.02	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s900	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | SASK_50	0.0	98.02	Diversispora insculpta
+Diversispora varaderana	P4-bc1063-1521-s938	STFP	CCAMF	1	Stefani reprocessed		yes	Diversispora varaderana | 3086_1170D	0.0	97.74	Diversispora insculpta
+Dominikia bonfanteae	P2-bc1095-754-s1072	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia bonfanteae | 4351_1077A	0.0	94.77	Dominikia bonfanteae
+Dominikia bonfanteae	P2-bc1095-754-s155	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia bonfanteae | 4351_1077A	0.0	95.3	Dominikia bonfanteae
+Dominikia bonfanteae	P2-bc1095-754-s274	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia bonfanteae | 4351_1077A	0.0	95.16	Dominikia bonfanteae
+Dominikia bonfanteae	P2-bc1096-1522-s46	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia bonfanteae | C10660_2264B	0.0	96.77	Dominikia bonfanteae
+Dominikia bonfanteae	P2-bc1096-1522-s69	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia bonfanteae | C10660_2264B	0.0	95.17	Dominikia bonfanteae
+Dominikia duoreactiva	P2-bc1080-348-s175	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	95.81	Dominikia duoreactiva
+Dominikia duoreactiva	P2-bc1080-348-s188	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	95.54	Dominikia duoreactiva
+Dominikia duoreactiva	P2-bc1080-348-s268	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	96.09	Dominikia duoreactiva
+Dominikia duoreactiva	P2-bc1080-348-s4127	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	96.09	Dominikia duoreactiva
+Dominikia duoreactiva	P2-bc1080-348-s531	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	95.81	Dominikia duoreactiva
+Dominikia duoreactiva	P3-bc1062-1141-s21	STFP	CCAMF	2	Stefani reprocessed		yes	Dominikia bonfanteae | C10660_2264B	0.0	96.9	Dominikia bonfanteae
+Dominikia duoreactiva	P3-bc1062-1141-s469	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	96.09	Dominikia duoreactiva
+Dominikia duoreactiva	P3-bc1062-1141-s8	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4412	0.0	96.09	Dominikia duoreactiva
+Dominikia duoreactiva	P3-bc1062-1141-s9	STFP	CCAMF	1	Stefani reprocessed		yes	Dominikia duoreactiva | 4392_1156C	0.0	94.06	Dominikia achra
+Entrophospora lutea	CR308	ZUII	INVAM	1	novel lineage, genus not in v4			Glomus tetrastratosum | 5105_2444A	30.02	99.85	Entrophospora lutea
+Funneliformis caledonium	P1-bc1008-81-s114	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | VDHK150A_21A	0.0	98.75	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1008-81-s129	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | VDHK150A_21A	0.0	99.03	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1008-81-s59	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | VDHK150A_21A	0.0	98.75	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1008-81-s61	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | VDHK150A_21A	0.0	99.16	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1008-81-s73	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | VDHK150A_21A	0.0	99.16	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1068-498-s107	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | CW0030_822A	0.0	99.16	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1068-498-s138	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | CW0030_822A	0.0	99.16	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1068-498-s68	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | CW0030_822A	0.0	99.44	Funneliformis fragilistratum
+Funneliformis caledonium	P1-bc1068-498-s70	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis caledonium | CW0030_822A	0.0	99.44	Funneliformis fragilistratum
+Funneliformis coronatus	MR101	KU	INVAM	8	known species			Funneliformis mosseae | CHB4_Fmos	0.0	100.0	Funneliformis coronatus
+Funneliformis coronatus	P1-bc1040-974-s104	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | Algerie_2_1072A	0.0	97.01	Funneliformis pilosus
+Funneliformis coronatus	P1-bc1040-974-s113	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | Algerie_2_1072A	0.0	97.16	Funneliformis pilosus
+Funneliformis coronatus	P1-bc1040-974-s133	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | Algerie_2_1072A	0.0	97.16	Funneliformis pilosus
+Funneliformis coronatus	P1-bc1040-974-s201	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | Algerie_2_1072A	0.0	97.16	Funneliformis pilosus
+Funneliformis coronatus	P1-bc1040-974-s84	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | Algerie_2_1072A	0.0	96.87	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s165	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	98.21	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s174	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	98.06	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s176	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	97.91	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s182	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	97.76	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s206	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	97.91	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s2396	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	98.06	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s300	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	97.91	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1004-402-s439	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W111_12_886A	0.0	98.21	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s1117	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.46	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s1335	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.46	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s1546	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.31	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s176	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.31	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s181	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.46	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s195	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.46	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1005-405-s794	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W143_5_12A	0.0	97.31	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1007-408-s13291	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W699_21_3A	0.0	97.76	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1007-408-s3658	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W699_21_3A	0.0	97.61	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1007-408-s401	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W699_21_3A	0.0	97.46	Funneliformis pilosus
+Funneliformis coronatus	P2-bc1007-408-s524	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis coronatus | W699_21_3A	0.0	97.61	Funneliformis pilosus
+Funneliformis geosporum	P1-bc1048-738-s123	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | ALBG_A3	0.0	98.31	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1048-738-s177	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | ALBG_A3	0.0	98.45	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1048-738-s61	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | ALBG_A3	0.0	98.87	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1048-738-s70	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | ALBG_A3	0.0	98.59	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1048-738-s75	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | ALBG_A3	0.0	98.59	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1064-518-s125	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | W681_7_10A	0.0	98.59	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1064-518-s87	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | W681_7_10A	0.0	98.17	Funneliformis geosporum
+Funneliformis geosporum	P1-bc1064-518-s89	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis geosporum | W681_7_10A	0.0	99.02	Funneliformis geosporum
+Funneliformis mosseae	510_4A	KU	BeverSchultz	7	known species		yes	Funneliformis mosseae | CHB4_Fmos	0.0	100.0	Funneliformis coronatus
+Funneliformis mosseae	87_11	KU	BeverSchultz	13	known species		yes	Funneliformis mosseae | CHB4_Fmos	0.0	100.0	Funneliformis coronatus
+Funneliformis mosseae	BEG12	ZUII	BEG	16	known species			Funneliformis mosseae | CHB1_Fmos	1.02	99.44	Funneliformis coronatus
+Funneliformis mosseae	BEG161	ZU	BEG	8	known species			Funneliformis mosseae | 2101_50A	0.61	99.58	Funneliformis caledonium
+Funneliformis mosseae	BEG95	ZU	BEG	4	known species		yes	Funneliformis mosseae | 2252_723A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	NC302C	KU	INVAM	14	known species		yes	Funneliformis mosseae | 4344_272A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P1-bc1070-483-s121	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | C2	0.0	99.72	Funneliformis coronatus
+Funneliformis mosseae	P1-bc1070-483-s156	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | C2	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P1-bc1070-483-s212	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | C2	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P1-bc1070-483-s313	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | C2	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P1-bc1070-483-s94	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | C2	0.0	99.86	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s1051	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s2024	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s369	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s406	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s452	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s462	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s4798	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	98.89	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s765	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1001-314-s988	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1003-398-s1153	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	98.89	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1003-398-s145	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1003-398-s150	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1003-398-s156	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	98.89	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1003-398-s170	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	98.89	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1003-398-s176	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	98.89	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1003-398-s1825	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1003-398-s268	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1003-398-s632	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 4344_272A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1010-180-s101	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 3502	0.0	99.58	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1010-180-s103	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 3502	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1010-180-s126	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2101_50A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1010-180-s146	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 3502	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1010-180-s445	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1012-306-s1320	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1012-306-s373	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1012-306-s411	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.58	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1012-306-s445	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1012-306-s502	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.16	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1012-306-s7626	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1012-306-s899	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s1014	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s163-1	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s163-2	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s183	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s194	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s205	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s281	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s323	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s351	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1028-SPU4-89-FS-29-2726A-s525	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s1063	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s151	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s152	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s165	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s170	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s181	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.72	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s186	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s259	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s374	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1029-SPU4-92-FS-29-2726A-s381	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s124	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s132	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s135	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s177	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s178	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s214	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s239	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s446	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s522	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1030-SPU4-9-2231-1079F-s629	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s1051	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s1207	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s189	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s202	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s242	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s248-1	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s248-2	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s273	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2231_1079F	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P2-bc1031-SPU4-12-2231-1079F-s607	STFI	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FS-29_2726A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1026-CH-s1345	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB3_Fmos	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1026-CH-s3274	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB3_Fmos	0.0	99.86	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1026-CH-s7597	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB3_Fmos	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s101	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.33	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s112	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s115	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s133	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s164	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.61	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s167	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.75	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s208	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s237	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s259	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.89	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s415	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.89	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s426	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.89	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s499	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s541	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.47	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s91	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.89	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s93	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	98.75	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s96	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1027-CH-s99	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB1_Fmos	0.0	99.03	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1030-448-s1506	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s18163	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s258	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s315	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s342	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s393	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s418	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s779	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.44	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1030-448-s800	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | W32_9_13A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1031-242-s1979	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2252_723A	0.0	99.3	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1031-242-s21094	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2252_723A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1031-242-s3231	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.16	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1031-242-s636	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.58	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1031-242-s655	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2252_723A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1031-242-s844	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 2252_723A	0.0	99.16	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1031-242-s944	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | 198394_123A	0.0	99.16	Funneliformis caledonium
+Funneliformis mosseae	P4-bc1032-CH-s117	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	98.89	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s122	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s170	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s205	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.86	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s418	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s477	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.86	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s89	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.86	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1032-CH-s96	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | CHB4_Fmos	0.0	99.86	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1053-394-s1540	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FEC30_219A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1053-394-s15679	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FEC30_219A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1053-394-s1888	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FEC30_219A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1053-394-s2081	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FEC30_219A	0.0	99.3	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1053-394-s3506	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FEC30_219A	0.0	99.44	Funneliformis coronatus
+Funneliformis mosseae	P4-bc1053-394-s3772	STFP	CCAMF	1	Stefani reprocessed		yes	Funneliformis mosseae | FEC30_219A	0.0	99.58	Funneliformis coronatus
+Funneliformis mosseae	WY107	KU	INVAM	15	known species		yes	Funneliformis mosseae | 198394_123A	0.0	99.44	Funneliformis coronatus
+Gigaspora decipiens	AU102_9	KU	INVAM	3	novel species, genus in v4			Gigaspora rosea | BEG9_770A	5.94	98.89	Gigaspora margarita
+Gigaspora gigantea	KS302	KU	INVAM	4	novel species, genus in v4			Gigaspora rosea | woodslee_203A	0.49	99.36	Gigaspora gigantea
+Gigaspora margarita	120_7A	KU	BeverSchultz	3	novel species, genus in v4			Gigaspora rosea | BEG9_770A	7.0	98.41	Gigaspora margarita
+Gigaspora margarita	BEG9	ZUII	BEG	8	code shared with Stefani, names differ	Gigaspora rosea | BEG9_770A		Gigaspora rosea | BEG9_770A	6.93	99.04	Gigaspora margarita
+Gigaspora margarita	NC114B	KU	INVAM	5	novel species, genus in v4			Gigaspora rosea | BEG9_770A	6.93	99.04	Gigaspora margarita
+Gigaspora rosea	BR155B	KU	INVAM	5	known species		yes	Gigaspora rosea | BEG9_770A	0.0	97.93	Gigaspora albida
+Gigaspora rosea	FL105_11	KU	INVAM	2	known species		yes	Gigaspora rosea | BEG9_770A	0.0	98.08	Gigaspora gigantea
+Gigaspora rosea	KS885	ZUII	INVAM	1	known species		yes	Gigaspora rosea | BEG9_770A	0.0	98.08	Gigaspora gigantea
+Gigaspora rosea	P1-bc1055-590-s57	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.33	Gigaspora albida
+Gigaspora rosea	P1-bc1055-590-s74	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.65	Gigaspora rosea
+Gigaspora rosea	P1-bc1066-506-s103	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	97.29	Gigaspora albida
+Gigaspora rosea	P1-bc1066-506-s123	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	97.77	Gigaspora albida
+Gigaspora rosea	P1-bc1066-506-s126	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	98.24	Gigaspora gigantea
+Gigaspora rosea	P1-bc1066-506-s155	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P1-bc1066-506-s280	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	98.09	Gigaspora albida
+Gigaspora rosea	P1-bc1066-506-s66	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	95.69	Gigaspora rosea
+Gigaspora rosea	P1-bc1084-1155-s54	STFP	CCAMF	1	Stefani reprocessed			Gigaspora rosea | 4752_496A	6.17	93.61	Gigaspora rosea
+Gigaspora rosea	P1-bc1084-1155-s60	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | CU131_1018E	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P1-bc1084-1155-s78	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | CU131_1018E	0.0	99.2	Gigaspora albida
+Gigaspora rosea	P2-bc1006-407-s1076	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | woodslee_203A	0.0	98.09	Gigaspora albida
+Gigaspora rosea	P2-bc1006-407-s381	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | woodslee_203A	0.0	95.37	Gigaspora gigantea
+Gigaspora rosea	P2-bc1006-407-s54	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | woodslee_203A	0.0	97.45	Gigaspora albida
+Gigaspora rosea	P2-bc1006-407-s66	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | woodslee_203A	0.0	98.09	Gigaspora albida
+Gigaspora rosea	P2-bc1006-407-s920	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | woodslee_203A	0.0	98.41	Gigaspora albida
+Gigaspora rosea	P2-bc1006-407-s939	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | woodslee_203A	0.0	97.45	Gigaspora albida
+Gigaspora rosea	P2-bc1032-SPU4-25-4292-708F-s125	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1032-SPU4-25-4292-708F-s143	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	98.08	Gigaspora gigantea
+Gigaspora rosea	P2-bc1032-SPU4-25-4292-708F-s2131	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1032-SPU4-25-4292-708F-s243	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	98.09	Gigaspora albida
+Gigaspora rosea	P2-bc1032-SPU4-25-4292-708F-s347	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s112	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s119	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s122	STFI	CCAMF	1	Stefani reprocessed			Gigaspora rosea | 4752_496A	0.24	97.45	Gigaspora albida
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s149	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s255	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	98.09	Gigaspora albida
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s267	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4752_496A	0.0	98.08	Gigaspora gigantea
+Gigaspora rosea	P2-bc1033-SPU4-28-4292-708F-s3609	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | 4292_708F	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P2-bc1040-1625-s116	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.33	Gigaspora rosea
+Gigaspora rosea	P2-bc1040-1625-s146	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	98.08	Gigaspora gigantea
+Gigaspora rosea	P2-bc1040-1625-s193	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.65	Gigaspora rosea
+Gigaspora rosea	P2-bc1040-1625-s45	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	98.08	Gigaspora gigantea
+Gigaspora rosea	P2-bc1040-1625-s455	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	97.93	Gigaspora albida
+Gigaspora rosea	P3-bc1021-694-s22	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.33	Gigaspora albida
+Gigaspora rosea	P3-bc1087-461-s17	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.65	Gigaspora rosea
+Gigaspora rosea	P3-bc1087-461-s20	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.65	Gigaspora rosea
+Gigaspora rosea	P3-bc1087-461-s26	STFP	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | BEG9_770A	0.0	96.81	Gigaspora rosea
+Gigaspora rosea	P4-bc1089-SPU-5-4-1-CU131-1018E-s43	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | CU131_1018E	0.0	97.93	Gigaspora albida
+Gigaspora rosea	P4-bc1089-SPU-5-4-1-CU131-1018E-s54	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | CU131_1018E	0.0	97.6	Gigaspora gigantea
+Gigaspora rosea	P4-bc1089-SPU-5-4-1-CU131-1018E-s70	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | CU131_1018E	0.0	96.01	Gigaspora rosea
+Gigaspora rosea	P4-bc1089-SPU-5-4-1-CU131-1018E-s99	STFI	CCAMF	1	Stefani reprocessed		yes	Gigaspora rosea | CU131_1018E	0.0	99.2	Gigaspora albida
+Gigaspora sp.	JAY1	KU	BeverSchultz	2	genus only			Gigaspora rosea | BEG9_770A	7.0	97.29	Gigaspora margarita
+Glomus chinense	P2-bc1087-1177-s112	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1087-1177-s136	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1087-1177-s1451	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1087-1177-s165	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1087-1177-s407	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1087-1177-s93	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1087-1177-s96	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1088-1329-s105	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4411_1096D	0.0	98.51	Glomus mongioiense
+Glomus chinense	P2-bc1088-1329-s38	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4411_1096D	0.0	97.57	Glomus ibericum
+Glomus chinense	P2-bc1088-1329-s417	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4411_1096D	0.0	98.88	Glomus mongioiense
+Glomus chinense	P2-bc1088-1329-s49	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4411_1096D	0.0	98.51	Glomus mongioiense
+Glomus chinense	P2-bc1088-1329-s706	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4411_1096D	0.0	98.51	Glomus mongioiense
+Glomus chinense	P3-bc1037-733-s1196	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1037-733-s37	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1037-733-s65	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1083-733-s164	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1083-733-s1940	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1083-733-s203	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1083-733-s51	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P3-bc1083-733-s72	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4419_1047A	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s1045	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s194	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s198	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s238	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s251	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s266	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s289	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.51	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s7031	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1001-1026-s858	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4036_906B	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1002-733-s197	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1002-733-s263	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1002-733-s269	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1002-733-s86	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4650_4654_2007C	0.0	98.88	Glomus mongioiense
+Glomus chinense	P4-bc1002-733-s88	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus chinense | 4419_1047A	0.0	98.88	Glomus mongioiense
+Glomus macrocarpum	P3-bc1031-1214-s13	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	98.88	Glomus mongioiense
+Glomus macrocarpum	P3-bc1031-1214-s38	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	99.63	Glomus mongioiense
+Glomus macrocarpum	P3-bc1094-1214-s140	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	98.88	Glomus mongioiense
+Glomus macrocarpum	P3-bc1094-1214-s51	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	99.63	Glomus mongioiense
+Glomus macrocarpum	P3-bc1094-1214-s53	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	98.88	Glomus mongioiense
+Glomus macrocarpum	P3-bc1094-1214-s54	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	99.25	Glomus mongioiense
+Glomus macrocarpum	P3-bc1094-1214-s68	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus macrocarpum | W6285_2347C	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P3-bc1033-65-s103	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	98.13	Glomus mongioiense
+Glomus rugosae	P3-bc1033-65-s155	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1033-65-s40	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s266	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s2787	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s377	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s380	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s444	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s63	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s67	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s68	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1063-1132-s71	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s119	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s133	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4384_IVT98	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s192	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s253	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s35	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4384_IVT98	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s38	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s39	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4415_1174B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s41	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4384_IVT98	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1064-146-s57	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4384_IVT98	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1065-1419-s1474	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1065-1419-s194	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1065-1419-s3331	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1065-1419-s3513	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1066-1128-s191	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1066-1128-s47	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P3-bc1066-1128-s77	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1068-1438-s232	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1068-1438-s2648	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1068-1438-s3346	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1068-1438-s4404	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 5103_2445A	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s12	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s13	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.13	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s14	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s247	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s317	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s34	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s42	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.13	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s47	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P3-bc1078-1128-s54	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P3-bc1095-65-s123	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P3-bc1095-65-s35	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s18384	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s2443	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4384_IVT98	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s2707	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s3037	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s3192	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s3311	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s448	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4487_957C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s475	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s580	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s636	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s8167	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1011-1220-s870	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s330	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s385	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	98.13	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s41	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s424	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s44	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s456	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s50	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s56	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s561	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s61	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1012-65-s715	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 2101_IVT46	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1017-1120-s269	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P4-bc1017-1120-s455	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.25	Glomus mongioiense
+Glomus rugosae	P4-bc1017-1120-s530	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1017-1120-s644	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1017-1120-s990	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4420_683B	0.0	98.88	Glomus mongioiense
+Glomus rugosae	P4-bc1018-1005-s1425	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1018-1005-s2112	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4431_805C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1018-1005-s8010	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4417_1160C	0.0	99.63	Glomus mongioiense
+Glomus rugosae	P4-bc1018-1005-s995	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus rugosae | 4415_1174B	0.0	99.63	Glomus mongioiense
+Glomus tetrastratosum	P2-bc1057-1631-s17	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | CW0020_4019A	0.0	96.45	Glomus tetrastratosum
+Glomus tetrastratosum	P2-bc1057-1631-s329	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | CW0020_4019A	0.0	96.45	Glomus tetrastratosum
+Glomus tetrastratosum	P2-bc1057-1631-s37	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | CW0020_4019A	0.0	96.86	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1050-1004-s191	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.86	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1050-1004-s4374	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	95.36	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1050-1004-s66	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	95.36	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1050-1004-s71	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	95.78	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1051-1240-s102	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.59	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1052-1413-s29	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5105_2444A	0.0	96.46	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1052-1413-s30	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5105_2444A	0.0	96.46	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1052-1413-s367	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5105_2444A	0.0	96.18	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1052-1413-s39	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5105_2444A	0.0	96.86	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1052-1413-s573	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.73	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1052-1413-s90	STFP	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.59	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s100	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.73	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s138-1	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	95.36	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s138-2	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.59	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s148	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.73	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s351	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.59	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s654	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.73	Glomus tetrastratosum
+Glomus tetrastratosum	P4-bc1084-SPU-5-12-3-5094-2349C-s94	STFI	CCAMF	1	Stefani reprocessed		yes	Glomus tetrastratosum | 5094_2349C	0.0	96.58	Glomus tetrastratosum
+Microdominikia litorea	P2-bc1092-1550-s107	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	93.84	Microdominikia litorea
+Microdominikia litorea	P2-bc1092-1550-s228	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	93.84	Microdominikia litorea
+Microdominikia litorea	P2-bc1092-1550-s28	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	93.84	Microdominikia litorea
+Microdominikia litorea	P2-bc1092-1550-s302	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	93.84	Microdominikia litorea
+Microdominikia litorea	P2-bc1092-1550-s31	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	95.39	Microdominikia litorea
+Microdominikia litorea	P2-bc1092-1550-s333	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	95.66	Microdominikia litorea
+Microdominikia litorea	P2-bc1092-1550-s67	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 3647_963E	0.0	93.84	Microdominikia litorea
+Microdominikia litorea	P2-bc1093-1557-2	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 5274	0.0	96.35	Microdominikia litorea
+Microdominikia litorea	P2-bc1093-1557-s13	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 5274	0.0	93.69	Microdominikia litorea
+Microdominikia litorea	P2-bc1093-1557-s34	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 5274	0.0	93.97	Microdominikia litorea
+Microdominikia litorea	P2-bc1093-1557-s35	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 5274	0.0	94.25	Microdominikia litorea
+Microdominikia litorea	P2-bc1093-1557-s37	STFP	CCAMF	1	Stefani reprocessed		yes	Microdominikia litorea | 5274	0.0	93.31	Microdominikia litorea
+Oehlia diaphana	P1-bc1020-JS-s32	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	99.12	Oehlia diaphana
+Oehlia diaphana	P1-bc1020-JS-s33	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	98.68	Oehlia diaphana
+Oehlia diaphana	P1-bc1020-JS-s36	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	99.27	Oehlia diaphana
+Oehlia diaphana	P1-bc1020-JS-s42	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	98.83	Oehlia diaphana
+Oehlia diaphana	P1-bc1020-JS-s55	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	98.83	Oehlia diaphana
+Oehlia diaphana	P1-bc1020-JS-s58	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	98.68	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-2	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	98.39	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-s37	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-s38	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	99.42	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-s40	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	98.83	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-s46	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	99.27	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-s47	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P1-bc1039-976-s75	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s148	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765A	0.0	99.13	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s155	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765A	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s194	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765A	0.0	99.56	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s204	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	99.27	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s250	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	99.27	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s263	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | JS1_IVT19A	0.0	98.54	Oehlia diaphana
+Oehlia diaphana	P4-bc1023-594-s278	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765A	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s128	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	99.12	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s144	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s148	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | 4835_562B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s170	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	99.56	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s185	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s203	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s210	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	98.83	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s233	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	98.98	Oehlia diaphana
+Oehlia diaphana	P4-bc1024-977-s309	STFP	CCAMF	1	Stefani reprocessed		yes	Oehlia diaphana | WV579_765B	0.0	98.98	Oehlia diaphana
+Paraglomus brasilianum	FL710_19	KU	INVAM	3	known species		yes	Paraglomus brasilianum | W260_5_933C	0.0	99.21	Paraglomus brasilianum
+Paraglomus brasilianum	P1-bc1080-1306-s1963	STFP	CCAMF	1	Stefani reprocessed		yes	Paraglomus brasilianum | 5274_2288B	0.0	98.73	Paraglomus brasilianum
+Paraglomus brasilianum	P1-bc1082-1203-s38	STFP	CCAMF	1	Stefani reprocessed		yes	Paraglomus brasilianum | W260_5_933C	0.0	98.89	Paraglomus brasilianum
+Paraglomus brasilianum	P3-bc1043-1464-s190	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | BR105_2435A	0.0	98.66	Paraglomus laccatum
+Paraglomus brasilianum	P3-bc1043-1464-s53	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | BR105_2435A	0.0	98.66	Paraglomus laccatum
+Paraglomus brasilianum	P3-bc1043-1464-s54	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | BR105_2435A	0.0	98.66	Paraglomus laccatum
+Paraglomus laccatum	P4-bc1083-SPU-5-13-1-CW0010-4009B-s1001	STFI	CCAMF	1	Stefani reprocessed		yes	Paraglomus laccatum | CW0010_4009B	0.0	99.47	Paraglomus laccatum
+Paraglomus laccatum	P4-bc1083-SPU-5-13-1-CW0010-4009B-s15657	STFI	CCAMF	1	Stefani reprocessed		yes	Paraglomus laccatum | CW0010_4009B	0.0	99.47	Paraglomus laccatum
+Paraglomus laccatum	P4-bc1083-SPU-5-13-1-CW0010-4009B-s1630	STFI	CCAMF	1	Stefani reprocessed		yes	Paraglomus laccatum | CW0010_4009B	0.0	99.47	Paraglomus laccatum
+Paraglomus laccatum	P4-bc1083-SPU-5-13-1-CW0010-4009B-s2483	STFI	CCAMF	1	Stefani reprocessed		yes	Paraglomus laccatum | CW0010_4009B	0.0	98.93	Paraglomus laccatum
+Paraglomus laccatum	P4-bc1083-SPU-5-13-1-CW0010-4009B-s802	STFI	CCAMF	1	Stefani reprocessed		yes	Paraglomus laccatum | CW0010_4009B	0.0	98.93	Paraglomus laccatum
+Paraglomus occultum	CU126	ZUII	INVAM	2	novel species, genus in v4			Paraglomus sp. | 4423_1159D	20.12	94.12	Paraglomus laccatum
+Paraglomus sp.	P1-bc1079-1319-s1510	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 5088_2360A	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P1-bc1079-1319-s188	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 5088_2360A	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P1-bc1079-1319-s30	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 5088_2360A	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s202	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 4423_1159D	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s221	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 4423_1159D	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s276	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 4423_1159D	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s286	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 4423_1159D	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s290	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 4423_1159D	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s490	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 5088_2360A	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s554	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 4423_1159D	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s7043	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 5088_2360A	0.0	96.2	Paraglomus brasilianum
+Paraglomus sp.	P3-bc1067-1569-s870	STFP	CCAMF	1	Stefani reprocessed			Paraglomus sp. | 5088_2360A	0.0	96.2	Paraglomus brasilianum
+Racocetra gregaria	BEG243	ZUII	BEG	16	novel lineage, genus not in v4			Cetraspora gilmorei | 4414_1105C	10.98	99.24	Racocetra alborosea
+Racocetra gregaria	NC210	KU	INVAM	2	novel lineage, genus not in v4			Cetraspora gilmorei | 4414_1105C	12.2	98.48	Racocetra alborosea
+Racocetra sp.	179_Blask4	ZU	Blaszkowski	3	genus only			Cetraspora gilmorei | 4414_1105C	11.22	98.93	Racocetra alborosea
+Rhizophagus clarus	BR147B	KU	INVAM	5	novel species, genus in v4			Rhizophagus intraradices | UT126A	15.3	99.56	Rhizophagus clarus
+Rhizophagus clarus	FL879N	KU	INVAM	6	novel species, genus in v4			Rhizophagus intraradices | UT126A	14.66	99.27	Rhizophagus clarus
+Rhizophagus dimorphicus	FL912N	KU	INVAM	5	novel species, genus in v4			Rhizophagus irregularis | CC4_4A_IVT7A	13.64	99.42	Rhizophagus dimorphicus
+Rhizophagus intraradices	P1-bc1017-FL208-s127	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | FL208_553A	0.0	98.69	Rhizophagus intraradices
+Rhizophagus intraradices	P1-bc1017-FL208-s138	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.71	Rhizophagus intraradices
+Rhizophagus intraradices	P1-bc1017-FL208-s69	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	15.33	94.16	Rhizophagus intraradices
+Rhizophagus intraradices	P1-bc1017-FL208-s86	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.85	Rhizophagus intraradices
+Rhizophagus intraradices	P3-bc1004-23-s60	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.56	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1015-SPU-7-2-3-UT126A-s10328	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.71	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1015-SPU-7-2-3-UT126A-s1212	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | UT126A	0.0	99.85	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1015-SPU-7-2-3-UT126A-s2189	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	15.33	94.01	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1015-SPU-7-2-3-UT126A-s283	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.71	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1015-SPU-7-2-3-UT126A-s365	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | UT126A	0.0	98.83	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1016-SPU-7-2-4-UT126A-s1939	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus intraradices | KS906_IVT156	17.03	90.82	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1016-SPU-7-2-4-UT126A-s3651	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	15.33	94.01	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1016-SPU-7-2-4-UT126A-s789	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | UT126A	0.0	99.85	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1080-SPU-5-16-1-KS906-IVT156-s1556	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	15.33	94.16	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1080-SPU-5-16-1-KS906-IVT156-s2025	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	98.98	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1080-SPU-5-16-1-KS906-IVT156-s4057	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.85	Rhizophagus intraradices
+Rhizophagus intraradices	P4-bc1080-SPU-5-16-1-KS906-IVT156-s7829	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus intraradices | KS906_IVT156	0.0	99.71	Rhizophagus intraradices
+Rhizophagus irregularis	P1-bc1013-1002-s58	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1013-1002-s78	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1019-SD-s118	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | SD1_IVT29A	0.0	99.71	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1019-SD-s120	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | SD1_IVT29A	0.0	100.0	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1019-SD-s136	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | T3_IVT34A	6.14	98.55	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1019-SD-s141	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | SD1_IVT29A	0.0	99.71	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1021-T3-s133	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | 4569_1185B	2.98	95.78	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1021-T3-s222	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | T3_IVT34A	0.0	99.56	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1021-T3-s71	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | T3_IVT34A	0.0	97.82	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1021-T3-s78	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | T3_IVT34A	0.0	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1023-4341-s108	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1023-4341-s116	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1023-4341-s394	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1023-4341-s51	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1024-4348-s101	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1024-4348-s182	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1024-4348-s548	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1024-4348-s82	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1026-1454-s107	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1026-1454-s115	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.24	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1026-1454-s178	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1026-1454-s271	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1026-1454-s285	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1089-1105-s178	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | GC-2_IVT11	10.06	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1089-1105-s219	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1089-1105-s253	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1089-1105-s260	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1089-1105-s387	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1096-CC4-s152	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | CC4_4A_IVT7A	0.0	99.42	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1096-CC4-s161	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | 4569_1185B	2.55	95.78	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1096-CC4-s162	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | CC4_4A_IVT7A	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P1-bc1096-CC4-s53	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | CC4_4A_IVT7A	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1026-SPU4-59-GC-2-IVT11-s1181	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1026-SPU4-59-GC-2-IVT11-s2634	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1026-SPU4-59-GC-2-IVT11-s494	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1026-SPU4-59-GC-2-IVT11-s703	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1026-SPU4-59-GC-2-IVT11-s894	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1027-SPU4-60-GC-2-IVT11-s1137	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1027-SPU4-60-GC-2-IVT11-s2097	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1027-SPU4-60-GC-2-IVT11-s377	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1027-SPU4-60-GC-2-IVT11-s596	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P2-bc1027-SPU4-60-GC-2-IVT11-s673	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1038-25-s1063	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1038-25-s115	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4375_IVT88A	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1038-25-s172	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4375_IVT88A	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1038-25-s186	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1038-25-s294	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.67	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1038-25-s96	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4375_IVT88A	0.0	97.24	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1070-SPU-8-1-23-197198-s1322	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1070-SPU-8-1-23-197198-s292	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1070-SPU-8-1-23-197198-s405	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1070-SPU-8-1-23-197198-s461	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1071-SPU-8-2-16-197198-s219	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1071-SPU-8-2-16-197198-s485	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1071-SPU-8-2-16-197198-s644	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1071-SPU-8-2-16-197198-s85	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1095-SPU-8-1-24-197198-s156	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1095-SPU-8-1-24-197198-s190	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1095-SPU-8-1-24-197198-s216	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | 4569_1185B	0.0	95.49	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1095-SPU-8-1-24-197198-s472	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1095-SPU-8-1-24-197198-s629	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1096-SPU-8-1-22-197198-s218	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.38	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1096-SPU-8-1-22-197198-s286	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.09	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1096-SPU-8-1-22-197198-s359	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	96.95	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1096-SPU-8-1-22-197198-s816	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | GC-2_IVT11	0.0	97.53	Rhizophagus irregularis
+Rhizophagus irregularis	P4-bc1096-SPU-8-1-22-197198-s85	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus irregularis | DAOMC 197198	0.0	97.24	Rhizophagus irregularis
+Rhizophagus prolifer	P4-bc1076-SPU-5-18-2-SD-5-IVT32-s142	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus prolifer | SD5_IVT32	0.0	97.29	Rhizophagus proliferus
+Rhizophagus prolifer	P4-bc1076-SPU-5-18-2-SD-5-IVT32-s1447	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	14.69	92.12	Rhizophagus intraradices
+Rhizophagus prolifer	P4-bc1076-SPU-5-18-2-SD-5-IVT32-s1737	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	14.25	92.12	Rhizophagus intraradices
+Rhizophagus prolifer	P4-bc1076-SPU-5-18-2-SD-5-IVT32-s611	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus prolifer | SD5_IVT32	0.0	97.29	Rhizophagus proliferus
+Rhizophagus prolifer	P4-bc1077-SPU-5-18-3-SD-5-IVT32-s1320	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	14.69	92.12	Rhizophagus intraradices
+Rhizophagus prolifer	P4-bc1077-SPU-5-18-3-SD-5-IVT32-s1399	STFI	CCAMF	1	Stefani reprocessed			Rhizophagus prolifer | SD5_IVT32	14.25	92.12	Rhizophagus intraradices
+Rhizophagus prolifer	P4-bc1077-SPU-5-18-3-SD-5-IVT32-s236	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus prolifer | SD5_IVT32	0.0	97.29	Rhizophagus proliferus
+Rhizophagus prolifer	P4-bc1077-SPU-5-18-3-SD-5-IVT32-s280	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus prolifer | SD5_IVT32	0.0	95.93	Rhizophagus proliferus
+Rhizophagus prolifer	P4-bc1077-SPU-5-18-3-SD-5-IVT32-s694	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus prolifer | SD5_IVT32	0.0	97.29	Rhizophagus proliferus
+Rhizophagus prolifer	P4-bc1077-SPU-5-18-3-SD-5-IVT32-s965	STFI	CCAMF	1	Stefani reprocessed		yes	Rhizophagus prolifer | SD5_IVT32	0.0	97.29	Rhizophagus proliferus
+Rhizophagus silesianus	P1-bc1015-ECU32-s117	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | ECU32_IVT8A	0.0	97.47	Rhizophagus natalensis
+Rhizophagus silesianus	P1-bc1015-ECU32-s120	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | 4569_1185B	8.72	95.71	Rhizophagus natalensis
+Rhizophagus silesianus	P1-bc1015-ECU32-s151	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | ECU32_IVT8A	0.0	97.66	Rhizophagus natalensis
+Rhizophagus silesianus	P1-bc1015-ECU32-s30	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | ECU32_IVT8A	0.0	97.66	Rhizophagus natalensis
+Rhizophagus silesianus	P1-bc1015-ECU32-s33	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | 4569_1185B	8.72	95.71	Rhizophagus natalensis
+Rhizophagus silesianus	P1-bc1015-ECU32-s43	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | ECU32_IVT8A	0.0	97.47	Rhizophagus natalensis
+Rhizophagus silesianus	P1-bc1015-ECU32-s46	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | ECU32_IVT8A	0.0	97.47	Rhizophagus natalensis
+Rhizophagus silesianus	P4-bc1021-340-s1131	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | 3628_206A	0.0	97.86	Rhizophagus natalensis
+Rhizophagus silesianus	P4-bc1021-340-s12336	STFP	CCAMF	1	Stefani reprocessed		yes	Rhizophagus silesianus | 3628_206A	0.0	97.66	Rhizophagus natalensis
+Rhizophagus silesianus	P4-bc1021-340-s5410	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | 4569_1185B	10.85	94.93	Rhizophagus natalensis
+Rhizophagus sp.	P1-bc1018-212607-s18	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus irregularis | T3_IVT34A	6.14	98.55	Rhizophagus irregularis
+Rhizophagus sp.	P1-bc1018-212607-s20	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.29	Rhizophagus fasciculatus
+Rhizophagus sp.	P1-bc1018-212607-s208	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.02	Rhizophagus fasciculatus
+Rhizophagus sp.	P1-bc1018-212607-s28	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.29	Rhizophagus fasciculatus
+Rhizophagus sp.	P1-bc1018-212607-s30	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	96.47	Rhizophagus fasciculatus
+Rhizophagus sp.	P1-bc1018-212607-s438	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.15	Rhizophagus fasciculatus
+Rhizophagus sp.	P1-bc1018-212607-s817	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.43	Rhizophagus fasciculatus
+Rhizophagus sp.	P3-bc1005-74-s151	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.15	Rhizophagus fasciculatus
+Rhizophagus sp.	P3-bc1005-74-s30	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.02	Rhizophagus fasciculatus
+Rhizophagus sp.	P3-bc1005-74-s33	STFP	CCAMF	1	Stefani reprocessed			Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	0.0	97.43	Rhizophagus fasciculatus
+Sclerocystis sinuosa	MD126	KU	INVAM	7	known species		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.42	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1058-SPU-6-9-6-MT106A-s1766	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1058-SPU-6-9-6-MT106A-s539	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.42	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1058-SPU-6-9-6-MT106A-s634	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1058-SPU-6-9-6-MT106A-s671	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1068-SPU-9-1-1-MT106-2767A-s1384	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1068-SPU-9-1-1-MT106-2767A-s5062	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1069-SPU-9-1-3-MT106-2767A-s1165	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1069-SPU-9-1-3-MT106-2767A-s421	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.28	Sclerocystis sinuosa
+Sclerocystis sinuosa	P4-bc1069-SPU-9-1-3-MT106-2767A-s618	STFI	CCAMF	1	Stefani reprocessed		yes	Sclerocystis sinuosa | MT106_2767A	0.0	99.86	Sclerocystis sinuosa
+Scutellospora calospora	AU212B	ZUII	INVAM	2	novel lineage, genus not in v4			Dentiscutata heterogama | BEG_35_2003A	14.0	98.81	Scutellospora dipurpurescens
+Scutellospora calospora	BEG245	ZUII	BEG	4	novel lineage, genus not in v4			Dentiscutata heterogama | BEG_35_2003A	14.74	99.39	Scutellospora deformata
+Scutellospora calospora	IL209	ZU	INVAM	8	novel lineage, genus not in v4			Dentiscutata heterogama | CL157_2013B	13.83	99.11	Scutellospora dipurpurescens
+Septoglomus constrictum	KS890	KU	INVAM	1	novel species, genus in v4			Septoglomus sp. | FS_9_2328B	1.06	97.98	Septoglomus constrictum
+Septoglomus deserticola	NC302A	ZUII	INVAM	3	novel species, genus in v4			Septoglomus viscosum | CW0026_Att1910-1	18.47	99.56	Septoglomus deserticola
+Septoglomus sp.	P2-bc1084-652-s204	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 4404_2057A	0.0	97.4	Septoglomus constrictum
+Septoglomus sp.	P2-bc1084-652-s420	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | FS_9_2328B	5.53	98.55	Septoglomus constrictum
+Septoglomus sp.	P2-bc1084-652-s70	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 4404_2057A	0.0	97.4	Septoglomus constrictum
+Septoglomus sp.	P2-bc1086-960-s229	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	95.3	Septoglomus Viscospora
+Septoglomus sp.	P2-bc1086-960-s35	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	97.04	Septoglomus Viscospora
+Septoglomus sp.	P2-bc1086-960-s88	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	97.05	Septoglomus Viscospora
+Septoglomus sp.	P3-bc1056-1387-s156	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | FS_9_2328B	0.0	97.69	Septoglomus constrictum
+Septoglomus sp.	P3-bc1056-1387-s1715	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | FS_9_2328B	0.0	97.69	Septoglomus constrictum
+Septoglomus sp.	P3-bc1056-1387-s184	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 4404_2057A	2.6	97.69	Septoglomus constrictum
+Septoglomus sp.	P3-bc1056-1387-s37	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | FS_9_2328B	0.0	97.69	Septoglomus constrictum
+Septoglomus sp.	P3-bc1056-1387-s56	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 4404_2057A	3.6	97.69	Septoglomus constrictum
+Septoglomus sp.	P4-bc1042-1197-s100	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | Blasz_17_2277A	0.0	96.68	Septoglomus constrictum
+Septoglomus sp.	P4-bc1042-1197-s11593	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | Blasz_17_2277A	0.0	96.77	Septoglomus altomontanum
+Septoglomus sp.	P4-bc1042-1197-s158	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | Blasz_17_2277A	0.0	96.97	Septoglomus constrictum
+Septoglomus sp.	P4-bc1042-1197-s77	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | Blasz_17_2277A	0.0	96.54	Septoglomus constrictum
+Septoglomus sp.	P4-bc1042-1197-s83	STFP	CCAMF	1	Stefani reprocessed			Septoglomus africanum | Blasz_17_2277A	0.0	97.31	Septoglomus africanum
+Septoglomus sp.	P4-bc1042-1197-s88	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | Blasz_17_2277A	0.0	96.77	Septoglomus altomontanum
+Septoglomus sp.	P4-bc1043-1218-s1044	STFP	CCAMF	1	Stefani reprocessed			Septoglomus africanum | SO43BL	0.0	97.26	Septoglomus constrictum
+Septoglomus sp.	P4-bc1043-1218-s1327	STFP	CCAMF	1	Stefani reprocessed			Septoglomus africanum | SO43BL	0.0	97.4	Septoglomus constrictum
+Septoglomus sp.	P4-bc1043-1218-s1506	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | SO43BL	0.0	96.77	Septoglomus altomontanum
+Septoglomus sp.	P4-bc1043-1218-s3438	STFP	CCAMF	1	Stefani reprocessed			Septoglomus africanum | SO43BL	0.0	97.11	Septoglomus constrictum
+Septoglomus sp.	P4-bc1043-1218-s541	STFP	CCAMF	1	Stefani reprocessed			Septoglomus africanum | SO43BL	0.0	97.4	Septoglomus constrictum
+Septoglomus sp.	P4-bc1043-1218-s688	STFP	CCAMF	1	Stefani reprocessed			Septoglomus africanum | SO43BL	0.0	97.26	Septoglomus constrictum
+Septoglomus sp.	P4-bc1047-484-s2079	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	97.05	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s28	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | C4	0.0	95.59	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s30	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	97.05	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s3584	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | C4	0.0	95.19	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s54	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	97.05	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s63	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | C4	0.0	95.3	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s72	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | C4	0.0	95.47	Septoglomus Viscospora
+Septoglomus sp.	P4-bc1047-484-s73	STFP	CCAMF	1	Stefani reprocessed			Septoglomus sp. | 5070_5024A	0.0	97.05	Septoglomus Viscospora
+Septoglomus turnauae	P4-bc1088-SPU-5-5-1-Blasz-12-2272D-s1052	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus turnauae | Blasz_12_2272D	0.0	97.05	Septoglomus xanthium
+Septoglomus turnauae	P4-bc1088-SPU-5-5-1-Blasz-12-2272D-s172	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus turnauae | Blasz_12_2272D	0.0	96.91	Septoglomus turnauae
+Septoglomus turnauae	P4-bc1088-SPU-5-5-1-Blasz-12-2272D-s196	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus turnauae | Blasz_12_2272D	0.0	96.91	Septoglomus turnauae
+Septoglomus turnauae	P4-bc1088-SPU-5-5-1-Blasz-12-2272D-s4314	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus turnauae | Blasz_12_2272D	0.0	97.44	Septoglomus turnauae
+Septoglomus turnauae	P4-bc1088-SPU-5-5-1-Blasz-12-2272D-s820	STFI	CCAMF	1	Stefani reprocessed			Septoglomus turnauae | Blasz_12_2272D	9.48	97.24	Septoglomus xanthium
+Septoglomus viscosum	P2-bc1053-1618-s45	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.49	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1053-1618-s50	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1055-1605-s247	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | W375_18_642E	0.0	97.49	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1055-1605-s707	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | W375_18_642E	0.0	98.05	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1055-1605-s91	STFP	CCAMF	1	Stefani reprocessed			Septoglomus viscosum | W375_18_642E	6.52	98.88	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1055-1605-s99	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | W375_18_642E	0.0	98.05	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1056-1614-s161	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0002_4001A	0.0	96.82	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1056-1614-s2194	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0002_4001A	0.0	96.82	Septoglomus Viscospora
+Septoglomus viscosum	P2-bc1056-1614-s324	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0002_4001A	0.0	96.82	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1013-SPU-7-1-2-Att1910-1-s1399	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1013-SPU-7-1-2-Att1910-1-s346	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.49	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1013-SPU-7-1-2-Att1910-1-s4078	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1013-SPU-7-1-2-Att1910-1-s483	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1013-SPU-7-1-2-Att1910-1-s918	STFI	CCAMF	1	Stefani reprocessed			Septoglomus viscosum | W375_18_642E	5.53	97.35	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s1019	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.49	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s1209	STFI	CCAMF	1	Stefani reprocessed			Septoglomus viscosum | W375_18_642E	5.53	97.35	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s281	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s57	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.49	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s71	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s78	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1014-SPU-7-1-3-Att1910-1-s807	STFI	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | CW0026_Att1910-1	0.0	97.77	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1036-514-s1456	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | MD215_360A	0.0	97.91	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1036-514-s2579	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | MD215_360A	0.0	97.91	Septoglomus Viscospora
+Septoglomus viscosum	P4-bc1036-514-s837	STFP	CCAMF	1	Stefani reprocessed		yes	Septoglomus viscosum | MD215_360A	0.0	97.77	Septoglomus Viscospora

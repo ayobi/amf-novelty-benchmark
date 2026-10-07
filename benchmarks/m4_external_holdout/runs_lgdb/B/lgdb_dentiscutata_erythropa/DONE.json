@@ -1,0 +1,29 @@
+{
+  "key": "512549cdcd37deb38dfc77b39c8b704545653554d260032fdc24eac81a8afe01",
+  "placements_sha256": "b8faeadf0237467c3967d13e04a6bcbc9c3a5c0b33af85b83ccfe4f1038eb5cf",
+  "plan": {
+    "key": "lgdb_dentiscutata_erythropa",
+    "mapping": "orthographic variant",
+    "query_ids": [
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1149_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1150_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1151_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1152_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1153_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1154_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1155_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1156_INVAM",
+      "Dentiscutata_erythropa_RI275_31_KU_ASV1157_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0418",
+      "R0419"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Dentiscutata erythropa",
+    "target_cultures": [
+      "Dentiscutata erythropa | LGDB RI275_31"
+    ],
+    "v18_label": "Dentiscutata erythropus"
+  }
+}

@@ -1,0 +1,42 @@
+LongGloDB: 1122 sequences (length median 2463, 2295-2563 bp); in ITS file 1121, LSU 1118, SSU 1122
+  names changed to match v4: Funneliformis coronatum -> Funneliformis coronatus; Sclerocystis sinuos -> Sclerocystis sinuosa
+v4: 903 copies, 151 cultures, 37 named species, 15 genera
+  250 ASVs compared (2 s)
+  500 ASVs compared (3 s)
+  750 ASVs compared (4 s)
+  1000 ASVs compared (6 s)
+
+0. sources: share of ASVs identical in ITS to a Stefani copy
+  STFP   CCAMF           646 ASVs   0.0%:  632   median 0.00%  <- Stefani cultures reprocessed
+  STFI   CCAMF           164 ASVs   0.0%:  152   median 0.00%  <- Stefani cultures reprocessed
+  KU     INVAM           120 ASVs   0.0%:   28   median 1.23%
+  ZU     INVAM            47 ASVs   0.0%:    6   median 4.98%
+  ZU     BEG              47 ASVs   0.0%:    4   median 2.11%
+  ZUII   INVAM            36 ASVs   0.0%:   10   median 1.83%
+  KU     BeverSchultz     25 ASVs   0.0%:    7   median 0.41%
+  ZUII   BEG              25 ASVs   0.0%:    0   median 12.20%
+  ZU     Blaszkowski       7 ASVs   0.0%:    0   median 22.47%
+  ZU     KrugerWalker      5 ASVs   0.0%:    0   median 19.96%
+
+1. culture codes shared with the Stefani set (outside the reprocessed part)
+  Ambispora gerdemannii ON205A [ZUII/INVAM] -> Ambispora leptoticha | ON205A (nearest ITS 18.36% to Ambispora callosa | MAFF520057_2499A)
+  Ambispora leptoticha MT106 [KU/INVAM] -> Sclerocystis sinuosa | MT106_2767A (nearest ITS 0.0% to Ambispora leptoticha | ON205A)
+  Dentiscutata heterogama BEG35 [ZUII/BEG] -> Dentiscutata heterogama | BEG_35_2003A (nearest ITS 0.0% to Dentiscutata heterogama | BEG_35_2003A)
+  Gigaspora margarita BEG9 [ZUII/BEG] -> Gigaspora rosea | BEG9_770A (nearest ITS 6.93% to Gigaspora rosea | BEG9_770A)
+
+2. what is left for a test
+  role                                     cultures  ASVs species  identical ASV  V18 >=99.5%
+  Stefani reprocessed                           809   810      38            730           89
+  code shared with Stefani                        1    10       1              1            0
+  code shared with Stefani, names differ          3    22       3              1            1
+  known species                                  22   164       9             15            4
+  novel species, genus in v4                     17    59      13              0            4
+  novel lineage, genus not in v4                  9    43       6              0            2
+  genus only                                      4    14       4              0            0
+    novel species, genus in v4: Acaulospora kentinensis FL709_10; Acaulospora koskei SC705; Acaulospora laevis BEG13; Acaulospora laevis BEG242; Acaulospora laevis BEG26; Ambispora fennica Af2; Dentiscutata erythropa RI275_31; Gigaspora decipiens AU102_9; Gigaspora gigantea KS302; Gigaspora margarita 120_7A; Gigaspora margarita NC114B; Paraglomus occultum CU126; Rhizophagus clarus BR147B; Rhizophagus clarus FL879N; Rhizophagus dimorphicus FL912N; Septoglomus constrictum KS890; Septoglomus deserticola NC302A
+    novel lineage, genus not in v4: Archaeospora schenckii CL401; Archaeospora trappei SF124_22; Corymbiglomus corymbiforme Blaszk5; Entrophospora lutea CR308; Racocetra gregaria BEG243; Racocetra gregaria NC210; Scutellospora calospora AU212B; Scutellospora calospora BEG245; Scutellospora calospora IL209
+    genus only: Acaulospora sp. WV685; Diversispora sp. W6227; Gigaspora sp. JAY1; Racocetra sp. 179_Blask4
+  identical ASV: an ASV 0.0% in ITS from a Stefani copy of the same species (perhaps the same isolate held in another collection, or a species with uniform ITS)
+  V18 >=99.5%: the LSU arm may see a record from the same culture; drop or report it in the test
+
+tables: ../bench/longglodb/overlap.cultures.tsv, ../bench/longglodb/overlap.asvs.tsv; test sequences: ../bench/longglodb/overlap.test_{full,ssu,its,lsu}.fasta (280 ASVs)  (7 s)

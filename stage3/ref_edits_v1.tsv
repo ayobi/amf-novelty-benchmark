@@ -1,0 +1,13 @@
+# Culture reference edits, v1 (28 Sep 2026): the Stage 1 close-out changes from amfsplit_stage3_roadmap.md.
+# Columns are tab-separated. Every edit states what the data must look like before it is applied;
+# freeze_ref.py stops without writing anything if an expectation fails.
+action	target	value	expect	reason
+drop	PX215117.1		organism=Gigaspora rosea	SSU flank 4-6% and ITS 5.6-7.6% from the other G. rosea copies: SSU and ITS diverge at the same rate, so sequencing error or pseudogene (vt_followup check 3)
+relabel	PX215162.1	Paraglomus sp.	organism=Paraglomus brasilianum;label=BR105_2435A;vt=VTX00281	second, laccatum-like Paraglomus in mixed culture BR105_2435A: 28-33% from P. brasilianum in ITS, 5-9% from the P. laccatum cultures (vt_followup check 1)
+relabel	PX215163.1	Paraglomus sp.	organism=Paraglomus brasilianum;label=BR105_2435A;vt=VTX00281	as PX215162.1
+relabel	PX215164.1	Paraglomus sp.	organism=Paraglomus brasilianum;label=BR105_2435A;vt=VTX00281	as PX215162.1
+name_culture	4375_IVT88A	Rhizophagus irregularis	n=10;groups=2;vt=VTX00114	one culture filed under two names (R. irregularis x6, [Rhizoglomus] vesiculiferum x4), all VTX00114; majority name, confirmed by the check_name below
+name_culture	ON205A	Ambispora leptoticha	n=9;groups=2;vt=VTX00242	one culture filed under two names (Ambispora sp. x6, A. leptoticha x3), all VTX00242
+check_name	4375_IVT88A	Rhizophagus irregularis,[Rhizoglomus] vesiculiferum	n=10	name of the merged culture
+check_name	T3_IVT34A	Rhizophagus irregularis,[Rhizoglomus] vesiculiferum	organism=Rhizophagus irregularis;groups=1	labelled R. irregularis but its copies fall in vesiculiferum's VTs (VTX00113/115)
+check_name	CC4_4A_IVT7A	Rhizophagus irregularis,[Rhizoglomus] vesiculiferum	organism=Rhizophagus irregularis;groups=1	as T3_IVT34A

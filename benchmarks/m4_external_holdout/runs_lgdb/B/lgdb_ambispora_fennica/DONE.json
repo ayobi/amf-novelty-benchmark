@@ -1,0 +1,25 @@
+{
+  "key": "16a60df16cc1f178f5b958ec6bf75650ce8063307e089621029a89c6f4eb6ba3",
+  "placements_sha256": "389e6e424016e3fa2f65969d999042e8110a014afcc4680580ce67be75148cc9",
+  "plan": {
+    "key": "lgdb_ambispora_fennica",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Ambispora_fennica_Af2_ZU_ASV1109_KrugerWalker",
+      "Ambispora_fennica_Af2_ZU_ASV1110_KrugerWalker",
+      "Ambispora_fennica_Af2_ZU_ASV1111_KrugerWalker",
+      "Ambispora_fennica_Af2_ZU_ASV1112_KrugerWalker",
+      "Ambispora_fennica_Af2_ZU_ASV1113_KrugerWalker"
+    ],
+    "removed_ref_ids": [
+      "R0303",
+      "R0304"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Ambispora fennica",
+    "target_cultures": [
+      "Ambispora fennica | LGDB Af2"
+    ],
+    "v18_label": "Ambispora fennica"
+  }
+}

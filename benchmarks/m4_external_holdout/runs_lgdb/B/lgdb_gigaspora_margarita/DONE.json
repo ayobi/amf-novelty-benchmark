@@ -1,0 +1,29 @@
+{
+  "key": "ea54ea91d2b2c47bec92e22608d49d98ae465f0fb11f31d3a6a9501e226c3d4b",
+  "placements_sha256": "bbbcba27279be0870072f1892e5b31492e4d4c8079a063e99f34882a9a8fd441",
+  "plan": {
+    "key": "lgdb_gigaspora_margarita",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Gigaspora_margarita_120_7A_KU_ASV1308_BeverSchultz",
+      "Gigaspora_margarita_120_7A_KU_ASV1309_BeverSchultz",
+      "Gigaspora_margarita_120_7A_KU_ASV1311_BeverSchultz",
+      "Gigaspora_margarita_NC114B_KU_ASV1003_INVAM",
+      "Gigaspora_margarita_NC114B_KU_ASV1040_INVAM",
+      "Gigaspora_margarita_NC114B_KU_ASV1045_INVAM",
+      "Gigaspora_margarita_NC114B_KU_ASV1053_INVAM",
+      "Gigaspora_margarita_NC114B_KU_ASV1310_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0402",
+      "R0403"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Gigaspora margarita",
+    "target_cultures": [
+      "Gigaspora margarita | LGDB 120_7A",
+      "Gigaspora margarita | LGDB NC114B"
+    ],
+    "v18_label": "Gigaspora margarita"
+  }
+}

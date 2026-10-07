@@ -1,0 +1,13 @@
+[
+  [
+    "/home/csb/miniforge3/envs/amf-m4/bin/mafft",
+    "--localpair",
+    "--maxiterate",
+    "1000",
+    "--thread",
+    "4",
+    "--threadit",
+    "0",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_racocetra_gregaria/01_reference/raw.fasta"
+  ]
+]

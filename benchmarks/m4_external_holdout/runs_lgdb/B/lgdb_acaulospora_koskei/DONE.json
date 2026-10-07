@@ -1,0 +1,21 @@
+{
+  "key": "89c6c3a87ff915894e2207858768e6ae06d31b8dbdd4173aaa1a91396d8026c4",
+  "placements_sha256": "01501f2a9ff8b1bc7f8f4040c16c16e6b23d8d1c029a006ec97695377c29fd05",
+  "plan": {
+    "key": "lgdb_acaulospora_koskei",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Acaulospora_koskei_SC705_ZU_ASV1057_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0472",
+      "R0473"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Acaulospora koskei",
+    "target_cultures": [
+      "Acaulospora koskei | LGDB SC705"
+    ],
+    "v18_label": "Acaulospora koskei"
+  }
+}

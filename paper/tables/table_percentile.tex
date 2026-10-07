@@ -1,0 +1,24 @@
+\begin{table}[htbp]\centering
+\begin{threeparttable}
+\caption{The ITS rule and the species complexes moved to the same percentile.}
+\label{tab:percentile}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrrr}
+\toprule
+Percentile & ITS limit & Complexes & Known demoted & False known, & False known, & Outside\\
+ & (median) & (species) & (of 755) & species holdout (of 803) & V18 removed (of 673) & a complex\\
+\midrule
+95th & 4.4\% & 3 (6) & 32 (4.2\%) & 9 (1.1\%) & 37 (5.5\%) & 5\\
+97.5th & 5.0\% & 3 (7) & 22 (2.9\%) & 13 (1.6\%) & 53 (7.9\%) & 18\\
+99th & 6.0\% & 4 (9) & 6 (0.8\%) & 18 (2.2\%) & 53 (7.9\%) & 0\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item The ITS rule is re-applied to the stored decision-tree rows at each percentile, with the limit fitted
+on each fold's training cultures, and the complexes are those of the distance rule at the same percentile
+(\texttt{percentile\_sensitivity.py}). \emph{Known demoted}: known-species copies the rule demotes in the
+culture holdout. \emph{V18 removed}: first-outcome M4 folds. The 99th-percentile row reproduces the reported
+results exactly. Every error outside a complex is \emph{R.\ irregularis} called \emph{{[}R.{]}\ vesiculiferum}.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

@@ -1,0 +1,25 @@
+{
+  "key": "7343f42962c3f3b7941a33ee7c37d13c39b4f320e0f1dce704394fbe03f4070d",
+  "placements_sha256": "6901723c8bd928474936687eee846767ed1048bdef3a1eba3d545b1f1b2a0a9e",
+  "plan": {
+    "key": "lgdb_rhizophagus_dimorphicus",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Rhizophagus_dimorphicus_FL912N_KU_ASV1391_INVAM",
+      "Rhizophagus_dimorphicus_FL912N_KU_ASV1392_INVAM",
+      "Rhizophagus_dimorphicus_FL912N_KU_ASV1393_INVAM",
+      "Rhizophagus_dimorphicus_FL912N_KU_ASV1394_INVAM",
+      "Rhizophagus_dimorphicus_FL912N_KU_ASV1395_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0381",
+      "R0382"
+    ],
+    "role": "novel species, genus in v4",
+    "target": "Rhizophagus dimorphicus",
+    "target_cultures": [
+      "Rhizophagus dimorphicus | LGDB FL912N"
+    ],
+    "v18_label": "Rhizophagus dimorphicus"
+  }
+}

@@ -1,0 +1,53 @@
+accession	culture	check	pct_from_medoid
+PX215117.1	Gigaspora rosea | CU131_1018C	ssu_outlier	8.59
+PX214583.1	Septoglomus viscosum | W375_18_642E	ssu_outlier	3.94
+PX207138.1	Gigaspora rosea | 4292_708F	divergent_5.8S	3.80
+PX207139.1	Gigaspora rosea | 4292_708F	divergent_5.8S	4.43
+PX207140.1	Gigaspora rosea | 4292_708F	divergent_5.8S	4.43
+PX214870.1	Rhizophagus intraradices | FL208_553A	divergent_5.8S	6.58
+PX207197.1	Rhizophagus intraradices | KS906_IVT156	divergent_5.8S	6.58
+PX207194.1	Rhizophagus intraradices | UT126A	divergent_5.8S	7.01
+PX207195.1	Rhizophagus intraradices | UT126A	divergent_5.8S	6.58
+PX207196.1	Rhizophagus intraradices | UT126A	divergent_5.8S	6.58
+PX214781.1	Rhizophagus irregularis | 4292_708C	divergent_5.8S	6.58
+PX214841.1	Rhizophagus irregularis | 4292_708C	divergent_5.8S	7.95
+PX214778.1	Rhizophagus irregularis | 4341_IVT72A	divergent_5.8S	6.58
+PX214779.1	Rhizophagus irregularis | 4348_IVT77A	divergent_5.8S	6.58
+PX214782.1	Rhizophagus irregularis | 4375_IVT88A	divergent_5.8S	5.92
+PX214780.1	Rhizophagus irregularis | 4674_1184D	divergent_5.8S	5.92
+PX214784.1	Rhizophagus irregularis | CC4_4A_IVT7A	divergent_5.8S	5.92
+PX207164.1	Rhizophagus irregularis | DAOMC 197198	divergent_5.8S	5.92
+PX207165.1	Rhizophagus irregularis | DAOMC 197198	divergent_5.8S	5.92
+PX207162.1	Rhizophagus irregularis | GC-2_IVT11	divergent_5.8S	6.58
+PX207163.1	Rhizophagus irregularis | GC-2_IVT11	divergent_5.8S	6.58
+PX214817.1	Rhizophagus irregularis | SD1_IVT29A	divergent_5.8S	5.92
+PX214783.1	Rhizophagus irregularis | T3_IVT34A	divergent_5.8S	5.26
+PX207206.1	Rhizophagus prolifer | SD5_IVT32	divergent_5.8S	5.26
+PX207207.1	Rhizophagus prolifer | SD5_IVT32	divergent_5.8S	5.26
+PX207208.1	Rhizophagus prolifer | SD5_IVT32	divergent_5.8S	5.26
+PX207209.1	Rhizophagus prolifer | SD5_IVT32	divergent_5.8S	5.26
+PX207210.1	Rhizophagus prolifer | SD5_IVT32	divergent_5.8S	7.24
+PX207211.1	Rhizophagus prolifer | SD5_IVT32	divergent_5.8S	7.24
+PX214865.1	Rhizophagus silesianus | 3628_206A	divergent_5.8S	7.89
+PX214863.1	Rhizophagus silesianus | ECU32_IVT8A	divergent_5.8S	7.24
+PX214864.1	Rhizophagus silesianus | ECU32_IVT8A	divergent_5.8S	7.24
+PX214816.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	divergent_5.8S	6.58
+PX214595.1	Septoglomus sp. | 4404_2057A	divergent_5.8S	5.70
+PX214609.1	Septoglomus sp. | Blasz_17_2277A	divergent_5.8S	5.70
+PX214601.1	Septoglomus sp. | FS_9_2328B	divergent_5.8S	5.06
+PX214602.1	Septoglomus sp. | FS_9_2328B	divergent_5.8S	5.06
+PX214608.1	Septoglomus sp. | SO43BL	divergent_5.8S	5.70
+PX207258.1	Septoglomus turnauae | Blasz_12_2272D	divergent_5.8S	4.43
+PX207263.1	Septoglomus viscosum | CW0026_Att1910-1	divergent_5.8S	5.81
+PX207264.1	Septoglomus viscosum | CW0026_Att1910-1	divergent_5.8S	5.81
+PX214583.1	Septoglomus viscosum | W375_18_642E	divergent_5.8S	8.50
+PX214839.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	divergent_5.8S	7.28
+PX214854.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	divergent_5.8S	7.28
+PX214844.1	[Rhizoglomus] vesiculiferum | 4086_IVT68A	divergent_5.8S	7.24
+PX214777.1	[Rhizoglomus] vesiculiferum | 4375_IVT88A	divergent_5.8S	6.58
+PX214842.1	[Rhizoglomus] vesiculiferum | 5074_2353A	divergent_5.8S	6.58
+PX214847.1	[Rhizoglomus] vesiculiferum | 5074_2353A	divergent_5.8S	7.28
+PX214848.1	[Rhizoglomus] vesiculiferum | 5074_2353A	divergent_5.8S	7.28
+PX214845.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	divergent_5.8S	6.58
+PX214846.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	divergent_5.8S	5.92
+PX214855.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	divergent_5.8S	7.28

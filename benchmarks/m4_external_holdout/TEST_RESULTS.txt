@@ -1,0 +1,11 @@
+test_aliases_are_removed_and_absent_species_is_explicit (test_holdout.HoldoutTests.test_aliases_are_removed_and_absent_species_is_explicit) ... ok
+test_completed_stage_detects_tampering_and_configuration_changes (test_holdout.HoldoutTests.test_completed_stage_detects_tampering_and_configuration_changes) ... ok
+test_exclusion_plan_covers_all_named_main_copies_once (test_holdout.HoldoutTests.test_exclusion_plan_covers_all_named_main_copies_once) ... ok
+test_genus_excludes_unnamed_cultures_and_physical_companions (test_holdout.HoldoutTests.test_genus_excludes_unnamed_cultures_and_physical_companions) ... ok
+test_interrupted_stage_is_restarted_not_accepted (test_holdout.HoldoutTests.test_interrupted_stage_is_restarted_not_accepted) ... ok
+test_pruning_removes_exact_taxa_and_preserves_others (test_holdout.HoldoutTests.test_pruning_removes_exact_taxa_and_preserves_others) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.802s
+
+OK

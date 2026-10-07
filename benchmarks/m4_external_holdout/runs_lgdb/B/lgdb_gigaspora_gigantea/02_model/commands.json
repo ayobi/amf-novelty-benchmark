@@ -1,0 +1,20 @@
+[
+  [
+    "/home/csb/miniforge3/envs/amf-m4/bin/raxml-ng",
+    "--evaluate",
+    "--msa",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_gigantea/01_reference/aligned.fasta",
+    "--tree",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_gigantea/01_reference/topology.newick",
+    "--model",
+    "GTR+G4",
+    "--threads",
+    "4",
+    "--seed",
+    "20260929",
+    "--prefix",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_gigaspora_gigantea/02_model/fit",
+    "--force",
+    "perf_threads"
+  ]
+]

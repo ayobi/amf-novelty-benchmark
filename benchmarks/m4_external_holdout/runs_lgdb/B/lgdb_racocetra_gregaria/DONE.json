@@ -1,0 +1,39 @@
+{
+  "key": "fc160ddc585857c3ad14556fbceac89d28a8cebd88d33c322ed71f04208b4d1a",
+  "placements_sha256": "02b5de96d8afb5cbecba3fe3babd3d7910d847dad79a10b5517222d3cabda505",
+  "plan": {
+    "key": "lgdb_racocetra_gregaria",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Racocetra_gregaria_BEG243_ZUII_ASV1002_BEG",
+      "Racocetra_gregaria_BEG243_ZUII_ASV1026_BEG",
+      "Racocetra_gregaria_BEG243_ZUII_ASV1029_BEG",
+      "Racocetra_gregaria_BEG243_ZUII_ASV1035_BEG",
+      "Racocetra_gregaria_BEG243_ZUII_ASV1051_BEG",
+      "Racocetra_gregaria_BEG243_ZUII_ASV1364_BEG",
+      "Racocetra_gregaria_BEG243_ZUII_ASV1365_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1002_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1026_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1029_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1035_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1051_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1366_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1367_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1368_BEG",
+      "Racocetra_gregaria_BEG243_ZU_ASV1369_BEG",
+      "Racocetra_gregaria_NC210_KU_ASV1370_INVAM",
+      "Racocetra_gregaria_NC210_KU_ASV1371_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0161",
+      "R0412"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "target": "Racocetra gregaria",
+    "target_cultures": [
+      "Racocetra gregaria | LGDB BEG243",
+      "Racocetra gregaria | LGDB NC210"
+    ],
+    "v18_label": "Racocetra gregaria"
+  }
+}

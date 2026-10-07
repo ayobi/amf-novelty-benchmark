@@ -1,0 +1,38 @@
+% ============================================================================
+% Static result numbers: curation and compatible-set counts, typed by hand from the
+% Stage 3 logs (culture reference v4, fingerprint 181938d695f3df40). Benchmark and M4 numbers are NOT here: they are written by
+% analysis/make_numbers.py into numbers_generated.tex.
+% ============================================================================
+% Culture reference (freeze_ref.py; culture_ref/v4, fingerprint 181938d695f3df40)
+\newcommand{\NCopiesIn}{904}
+\newcommand{\NCopiesRetained}{903}
+\newcommand{\NCultures}{151}
+\newcommand{\NSpecies}{37}
+\newcommand{\NDivergent}{51}
+\newcommand{\NShort}{43}
+\newcommand{\NShortCultures}{24}
+\newcommand{\NSameLen}{8}
+\newcommand{\RefFingerprint}{\texttt{181938d695f3df40}}
+
+% Crosswalk: the counts on culture reference v4 are generated (make_numbers.py, crosswalk section).
+% The general UNITE release was run on an earlier version of the reference (same 903 windows);
+% per-copy calls do not depend on culture labels, so the count holds for v4.
+\newcommand{\SHAssignedGen}{383}
+\newcommand{\SHAssignedGenPct}{42\%}
+
+% Compatible sets (arm_sets.py on v4)
+\newcommand{\VTDelta}{0.6}
+\newcommand{\VTResolved}{16}
+\newcommand{\VTResolvedZero}{19}
+\newcommand{\SHMerged}{35}
+\newcommand{\SHResolved}{32}
+\newcommand{\LSUResolved}{27}
+
+
+
+% Stefani et al. (2025), New Phytologist: PacBio rDNA of 148 cultures of 44 species; glomalin,
+% H+-ATPase and RPB1 for 143 cultures of 39 species (abstract and Methods)
+\newcommand{\StefaniCultures}{148}
+\newcommand{\StefaniSpecies}{44}
+\newcommand{\StefaniPCCultures}{143}
+\newcommand{\StefaniPCSpecies}{39}

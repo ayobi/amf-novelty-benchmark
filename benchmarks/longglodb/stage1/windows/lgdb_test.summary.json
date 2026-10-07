@@ -1,0 +1,243 @@
+{
+ "reads": 280,
+ "reads_processed": 280,
+ "orientation_source": {
+  "itsxrust": 280
+ },
+ "itsxrust_regions": {
+  "ssu_flank": {
+   "reads": 280,
+   "length": {
+    "n": 280,
+    "median": 1180.0,
+    "q1": 1175.0,
+    "q3": 1181.0,
+    "min": 1149,
+    "max": 1188
+   }
+  },
+  "its1": {
+   "reads": 280,
+   "length": {
+    "n": 280,
+    "median": 102.0,
+    "q1": 73.25,
+    "q3": 109.0,
+    "min": 65,
+    "max": 149
+   }
+  },
+  "s58": {
+   "reads": 280,
+   "length": {
+    "n": 280,
+    "median": 158.0,
+    "q1": 157.25,
+    "q3": 158.0,
+    "min": 151,
+    "max": 162
+   }
+  },
+  "its2": {
+   "reads": 280,
+   "length": {
+    "n": 280,
+    "median": 201.0,
+    "q1": 179.0,
+    "q3": 222.0,
+    "min": 165,
+    "max": 242
+   }
+  },
+  "full_its": {
+   "reads": 280,
+   "length": {
+    "n": 280,
+    "median": 462.0,
+    "q1": 411.0,
+    "q3": 489.0,
+    "min": 394,
+    "max": 524
+   }
+  },
+  "lsu_flank": {
+   "reads": 280,
+   "length": {
+    "n": 280,
+    "median": 789.0,
+    "q1": 764.0,
+    "q3": 832.0,
+    "min": 762,
+    "max": 834
+   }
+  }
+ },
+ "windows": {
+  "AMPLICON_AML1-LSUmBr": {
+   "target": "QC: full nested amplicon (AAFC / Kolarikova-style)",
+   "primers": "AML1/LSUmBr",
+   "ok": 0,
+   "open": 0,
+   "usable": 0,
+   "ok_pct": 0.0,
+   "usable_pct": 0.0,
+   "status": {
+    "both_missing": 280
+   },
+   "length": null,
+   "crosses_its_anchor": 0
+  },
+  "SSU_VT_NS31-AM1": {
+   "target": "MaarjAM virtual taxa (VT defined on NS31-AM1)",
+   "primers": "NS31/AM1",
+   "ok": 0,
+   "open": 275,
+   "usable": 275,
+   "ok_pct": 0.0,
+   "usable_pct": 98.2,
+   "status": {
+    "open_5p": 275,
+    "both_missing": 5
+   },
+   "length": {
+    "n": 275,
+    "median": 446,
+    "q1": 442.0,
+    "q3": 447.0,
+    "min": 441,
+    "max": 452
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_NS31-AML2": {
+   "target": "SSU studies using NS31-AML2",
+   "primers": "NS31/AML2",
+   "ok": 0,
+   "open": 280,
+   "usable": 280,
+   "ok_pct": 0.0,
+   "usable_pct": 100.0,
+   "status": {
+    "open_5p": 280
+   },
+   "length": {
+    "n": 280,
+    "median": 460.0,
+    "q1": 456.0,
+    "q3": 461.0,
+    "min": 455,
+    "max": 466
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_V4_WANDA-AML2": {
+   "target": "SSU V4 datasets (WANDA-AML2 studies)",
+   "primers": "WANDA/AML2",
+   "ok": 0,
+   "open": 280,
+   "usable": 280,
+   "ok_pct": 0.0,
+   "usable_pct": 100.0,
+   "status": {
+    "open_5p": 280
+   },
+   "length": {
+    "n": 280,
+    "median": 460.0,
+    "q1": 456.0,
+    "q3": 461.0,
+    "min": 455,
+    "max": 466
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_V4_AMV4.5NF-AMDGR": {
+   "target": "SSU V4 short amplicon (AMV4.5NF-AMDGR studies)",
+   "primers": "AMV4.5NF/AMDGR",
+   "ok": 0,
+   "open": 280,
+   "usable": 280,
+   "ok_pct": 0.0,
+   "usable_pct": 100.0,
+   "status": {
+    "open_5p": 280
+   },
+   "length": {
+    "n": 280,
+    "median": 229.0,
+    "q1": 226.0,
+    "q3": 230.0,
+    "min": 225,
+    "max": 235
+   },
+   "crosses_its_anchor": 0
+  },
+  "LSU_LROR-FLR2": {
+   "target": "Delavaux AMF-LSU backbone (LROR-FLR2 database)",
+   "primers": "LROR/FLR2",
+   "ok": 280,
+   "open": 0,
+   "usable": 280,
+   "ok_pct": 100.0,
+   "usable_pct": 100.0,
+   "status": {
+    "ok": 280
+   },
+   "length": {
+    "n": 280,
+    "median": 700.0,
+    "q1": 676.0,
+    "q3": 744.0,
+    "min": 674,
+    "max": 745
+   },
+   "crosses_its_anchor": 0
+  },
+  "LSU_D2_FLR3-FLR4": {
+   "target": "LSU D2 datasets (FLR3-FLR4 studies)",
+   "primers": "FLR3/FLR4",
+   "ok": 268,
+   "open": 12,
+   "usable": 280,
+   "ok_pct": 95.7,
+   "usable_pct": 100.0,
+   "status": {
+    "ok": 268,
+    "open_3p": 12
+   },
+   "length": {
+    "n": 280,
+    "median": 291.0,
+    "q1": 268.0,
+    "q3": 332.0,
+    "min": 267,
+    "max": 370
+   },
+   "crosses_its_anchor": 0
+  }
+ },
+ "concatemers": {
+  "flagged": 0,
+  "pct": 0.0,
+  "full": 0,
+  "partial": 0,
+  "kept_in_fasta": false
+ },
+ "region_limited_reads": 280,
+ "params": {
+  "version": "0.3.1",
+  "max_err_frac": 0.15,
+  "keep_primers": false,
+  "open_ends": true,
+  "only_anchored": true,
+  "region_margin": 50,
+  "region_limit": true,
+  "concat_screen": true,
+  "concat_min_primers": 2,
+  "concat_min_sep": 150,
+  "concat_tol": 0.05,
+  "concat_sim": 0.4,
+  "concat_strong": 3,
+  "concat_err_frac": 0.15
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "key": "e74c8ba82efc817ce59a41312b615979a720eda314631b93e9d1fe681336a55b",
+  "placements_sha256": "323209027a4143d2f8b5960b593c5879b18de667700d9947c27d30b435483369",
+  "plan": {
+    "key": "lgdb_archaeospora_schenckii",
+    "mapping": "exact frozen label",
+    "query_ids": [
+      "Archaeospora_schenckii_CL401_KU_ASV1137_INVAM",
+      "Archaeospora_schenckii_CL401_KU_ASV1138_INVAM"
+    ],
+    "removed_ref_ids": [
+      "R0300",
+      "R0451"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "target": "Archaeospora schenckii",
+    "target_cultures": [
+      "Archaeospora schenckii | LGDB CL401"
+    ],
+    "v18_label": "Archaeospora schenckii"
+  }
+}

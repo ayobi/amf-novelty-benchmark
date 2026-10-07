@@ -1,0 +1,36 @@
+{
+ "reads": 904,
+ "calls": {
+  "AMF": {
+   "n": 904,
+   "pct": 100.0
+  }
+ },
+ "non_AMF_best_hits": [],
+ "params": {
+  "min_id": 90.0,
+  "amf_pattern": null,
+  "outgroups": [
+   "Citrus",
+   "Exophiala",
+   "Mortierella",
+   "Rhodotorula"
+  ],
+  "keep_unresolved": false
+ },
+ "amf_fastas": {
+  "stefani.AMPLICON_AML1-LSUmBr.amf.fasta": 0,
+  "stefani.LSU_D2_FLR3-FLR4.amf.fasta": 904,
+  "stefani.LSU_LROR-FLR2.amf.fasta": 904,
+  "stefani.SSU_NS31-AML2.amf.fasta": 904,
+  "stefani.SSU_V4_AMV4.5NF-AMDGR.amf.fasta": 904,
+  "stefani.SSU_V4_WANDA-AML2.amf.fasta": 903,
+  "stefani.SSU_VT_NS31-AM1.amf.fasta": 876,
+  "stefani.full_its.amf.fasta": 904,
+  "stefani.its1.amf.fasta": 904,
+  "stefani.its2.amf.fasta": 904,
+  "stefani.lsu_flank.amf.fasta": 904,
+  "stefani.s58.amf.fasta": 904,
+  "stefani.ssu_flank.amf.fasta": 904
+ }
+}

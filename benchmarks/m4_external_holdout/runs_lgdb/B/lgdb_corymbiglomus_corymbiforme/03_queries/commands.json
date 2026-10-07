@@ -1,0 +1,13 @@
+[
+  [
+    "/home/csb/miniforge3/envs/amf-m4/bin/mafft",
+    "--auto",
+    "--addfragments",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_corymbiglomus_corymbiforme/03_queries/queries.fasta",
+    "--keeplength",
+    "--mapout",
+    "--thread",
+    "4",
+    "/home/csb/Downloads/AMF_test/amf_m4_step1/runs_lgdb/B/lgdb_corymbiglomus_corymbiforme/01_reference/aligned.fasta"
+  ]
+]

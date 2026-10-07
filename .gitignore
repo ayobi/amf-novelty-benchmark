@@ -1,0 +1,33 @@
+# LaTeX build files
+paper/*.aux
+paper/*.out
+paper/*.log
+paper/*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Third-party sequences are never committed (LongGloDB, MaarjAM, UNITE, V18)
+**/LongGloDB_*.fasta
+benchmarks/longglodb/**/*.fasta
+benchmarks/longglodb/**/*.fa
+external_refs/*.fasta
+external_refs/*.fasta.gz
+
+# Raw reads and bulky outputs
+*.fastq
+*.fq
+*.bam
+runs/
+
+# Local working files
+dryrun.txt
+.DS_Store
+stage3/amfsplit_stage3_roadmap.md
+# third-party BLAST databases; own-library results kept for the tool paper
+*.blastdb/
+stage1/prototypes/check/
+stage1/prototypes/results/
+paper/tables/table_stage1_libs.tex

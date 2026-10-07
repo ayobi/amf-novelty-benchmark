@@ -1,0 +1,418 @@
+{
+  "absent_by_label": [],
+  "b_folds": [
+    {
+      "key": "lgdb_acaulospora_kentinensis",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Acaulospora_kentinensis_FL709_10_KU_ASV1056_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0470",
+        "R0471"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Acaulospora kentinensis",
+      "target_cultures": [
+        "Acaulospora kentinensis | LGDB FL709_10"
+      ],
+      "v18_label": "Acaulospora kentinensis"
+    },
+    {
+      "key": "lgdb_acaulospora_koskei",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Acaulospora_koskei_SC705_ZU_ASV1057_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0472",
+        "R0473"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Acaulospora koskei",
+      "target_cultures": [
+        "Acaulospora koskei | LGDB SC705"
+      ],
+      "v18_label": "Acaulospora koskei"
+    },
+    {
+      "key": "lgdb_acaulospora_laevis",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Acaulospora_laevis_BEG13_ZUII_ASV1083_BEG",
+        "Acaulospora_laevis_BEG13_ZUII_ASV1086_BEG",
+        "Acaulospora_laevis_BEG13_ZUII_ASV1087_BEG",
+        "Acaulospora_laevis_BEG242_ZUII_ASV1081_BEG",
+        "Acaulospora_laevis_BEG242_ZUII_ASV1085_BEG",
+        "Acaulospora_laevis_BEG26_ZUII_ASV1084_BEG"
+      ],
+      "removed_ref_ids": [
+        "R0335",
+        "R0476"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Acaulospora laevis",
+      "target_cultures": [
+        "Acaulospora laevis | LGDB BEG13",
+        "Acaulospora laevis | LGDB BEG242",
+        "Acaulospora laevis | LGDB BEG26"
+      ],
+      "v18_label": "Acaulospora laevis"
+    },
+    {
+      "key": "lgdb_ambispora_fennica",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Ambispora_fennica_Af2_ZU_ASV1109_KrugerWalker",
+        "Ambispora_fennica_Af2_ZU_ASV1110_KrugerWalker",
+        "Ambispora_fennica_Af2_ZU_ASV1111_KrugerWalker",
+        "Ambispora_fennica_Af2_ZU_ASV1112_KrugerWalker",
+        "Ambispora_fennica_Af2_ZU_ASV1113_KrugerWalker"
+      ],
+      "removed_ref_ids": [
+        "R0303",
+        "R0304"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Ambispora fennica",
+      "target_cultures": [
+        "Ambispora fennica | LGDB Af2"
+      ],
+      "v18_label": "Ambispora fennica"
+    },
+    {
+      "key": "lgdb_archaeospora_schenckii",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Archaeospora_schenckii_CL401_KU_ASV1137_INVAM",
+        "Archaeospora_schenckii_CL401_KU_ASV1138_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0300",
+        "R0451"
+      ],
+      "role": "novel lineage, genus not in v4",
+      "target": "Archaeospora schenckii",
+      "target_cultures": [
+        "Archaeospora schenckii | LGDB CL401"
+      ],
+      "v18_label": "Archaeospora schenckii"
+    },
+    {
+      "key": "lgdb_archaeospora_trappei",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Archaeospora_trappei_SF124_22_KU_ASV1140_INVAM",
+        "Archaeospora_trappei_SF124_22_KU_ASV1141_INVAM",
+        "Archaeospora_trappei_SF124_22_KU_ASV1142_INVAM",
+        "Archaeospora_trappei_SF124_22_KU_ASV1143_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0452",
+        "R0453"
+      ],
+      "role": "novel lineage, genus not in v4",
+      "target": "Archaeospora trappei",
+      "target_cultures": [
+        "Archaeospora trappei | LGDB SF124_22"
+      ],
+      "v18_label": "Archaeospora trappei"
+    },
+    {
+      "key": "lgdb_corymbiglomus_corymbiforme",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1145_Blaszkowski",
+        "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1146_Blaszkowski",
+        "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1147_Blaszkowski",
+        "Corymbiglomus_corymbiforme_Blaszk5_ZU_ASV1148_Blaszkowski"
+      ],
+      "removed_ref_ids": [
+        "R0245",
+        "R0246"
+      ],
+      "role": "novel lineage, genus not in v4",
+      "target": "Corymbiglomus corymbiforme",
+      "target_cultures": [
+        "Corymbiglomus corymbiforme | LGDB Blaszk5"
+      ],
+      "v18_label": "Corymbiglomus corymbiforme"
+    },
+    {
+      "key": "lgdb_dentiscutata_erythropa",
+      "mapping": "orthographic variant",
+      "query_ids": [
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1149_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1150_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1151_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1152_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1153_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1154_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1155_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1156_INVAM",
+        "Dentiscutata_erythropa_RI275_31_KU_ASV1157_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0418",
+        "R0419"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Dentiscutata erythropa",
+      "target_cultures": [
+        "Dentiscutata erythropa | LGDB RI275_31"
+      ],
+      "v18_label": "Dentiscutata erythropus"
+    },
+    {
+      "key": "lgdb_entrophospora_lutea",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Entrophospora_lutea_CR308_ZUII_ASV1212_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0211",
+        "R0437"
+      ],
+      "role": "novel lineage, genus not in v4",
+      "target": "Entrophospora lutea",
+      "target_cultures": [
+        "Entrophospora lutea | LGDB CR308"
+      ],
+      "v18_label": "Entrophospora lutea"
+    },
+    {
+      "key": "lgdb_gigaspora_decipiens",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Gigaspora_decipiens_AU102_9_KU_ASV1301_INVAM",
+        "Gigaspora_decipiens_AU102_9_KU_ASV1302_INVAM",
+        "Gigaspora_decipiens_AU102_9_KU_ASV1303_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0398",
+        "R0399"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Gigaspora decipiens",
+      "target_cultures": [
+        "Gigaspora decipiens | LGDB AU102_9"
+      ],
+      "v18_label": "Gigaspora decipiens"
+    },
+    {
+      "key": "lgdb_gigaspora_gigantea",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Gigaspora_gigantea_KS302_KU_ASV1304_INVAM",
+        "Gigaspora_gigantea_KS302_KU_ASV1305_INVAM",
+        "Gigaspora_gigantea_KS302_KU_ASV1306_INVAM",
+        "Gigaspora_gigantea_KS302_KU_ASV1307_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0400",
+        "R0401"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Gigaspora gigantea",
+      "target_cultures": [
+        "Gigaspora gigantea | LGDB KS302"
+      ],
+      "v18_label": "Gigaspora gigantea"
+    },
+    {
+      "key": "lgdb_gigaspora_margarita",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Gigaspora_margarita_120_7A_KU_ASV1308_BeverSchultz",
+        "Gigaspora_margarita_120_7A_KU_ASV1309_BeverSchultz",
+        "Gigaspora_margarita_120_7A_KU_ASV1311_BeverSchultz",
+        "Gigaspora_margarita_NC114B_KU_ASV1003_INVAM",
+        "Gigaspora_margarita_NC114B_KU_ASV1040_INVAM",
+        "Gigaspora_margarita_NC114B_KU_ASV1045_INVAM",
+        "Gigaspora_margarita_NC114B_KU_ASV1053_INVAM",
+        "Gigaspora_margarita_NC114B_KU_ASV1310_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0402",
+        "R0403"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Gigaspora margarita",
+      "target_cultures": [
+        "Gigaspora margarita | LGDB 120_7A",
+        "Gigaspora margarita | LGDB NC114B"
+      ],
+      "v18_label": "Gigaspora margarita"
+    },
+    {
+      "key": "lgdb_paraglomus_occultum",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Paraglomus_occultum_CU126_ZUII_ASV1356_INVAM",
+        "Paraglomus_occultum_CU126_ZUII_ASV1357_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0393",
+        "R0394"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Paraglomus occultum",
+      "target_cultures": [
+        "Paraglomus occultum | LGDB CU126"
+      ],
+      "v18_label": "Paraglomus occultum"
+    },
+    {
+      "key": "lgdb_racocetra_gregaria",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Racocetra_gregaria_BEG243_ZUII_ASV1002_BEG",
+        "Racocetra_gregaria_BEG243_ZUII_ASV1026_BEG",
+        "Racocetra_gregaria_BEG243_ZUII_ASV1029_BEG",
+        "Racocetra_gregaria_BEG243_ZUII_ASV1035_BEG",
+        "Racocetra_gregaria_BEG243_ZUII_ASV1051_BEG",
+        "Racocetra_gregaria_BEG243_ZUII_ASV1364_BEG",
+        "Racocetra_gregaria_BEG243_ZUII_ASV1365_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1002_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1026_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1029_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1035_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1051_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1366_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1367_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1368_BEG",
+        "Racocetra_gregaria_BEG243_ZU_ASV1369_BEG",
+        "Racocetra_gregaria_NC210_KU_ASV1370_INVAM",
+        "Racocetra_gregaria_NC210_KU_ASV1371_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0161",
+        "R0412"
+      ],
+      "role": "novel lineage, genus not in v4",
+      "target": "Racocetra gregaria",
+      "target_cultures": [
+        "Racocetra gregaria | LGDB BEG243",
+        "Racocetra gregaria | LGDB NC210"
+      ],
+      "v18_label": "Racocetra gregaria"
+    },
+    {
+      "key": "lgdb_rhizophagus_clarus",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Rhizophagus_clarus_BR147B_KU_ASV1382_INVAM",
+        "Rhizophagus_clarus_BR147B_KU_ASV1383_INVAM",
+        "Rhizophagus_clarus_BR147B_KU_ASV1385_INVAM",
+        "Rhizophagus_clarus_BR147B_KU_ASV1386_INVAM",
+        "Rhizophagus_clarus_BR147B_KU_ASV1388_INVAM",
+        "Rhizophagus_clarus_FL879N_KU_ASV1378_INVAM",
+        "Rhizophagus_clarus_FL879N_KU_ASV1379_INVAM",
+        "Rhizophagus_clarus_FL879N_KU_ASV1380_INVAM",
+        "Rhizophagus_clarus_FL879N_KU_ASV1381_INVAM",
+        "Rhizophagus_clarus_FL879N_KU_ASV1384_INVAM",
+        "Rhizophagus_clarus_FL879N_KU_ASV1387_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0379",
+        "R0380"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Rhizophagus clarus",
+      "target_cultures": [
+        "Rhizophagus clarus | LGDB BR147B",
+        "Rhizophagus clarus | LGDB FL879N"
+      ],
+      "v18_label": "Rhizophagus clarus"
+    },
+    {
+      "key": "lgdb_rhizophagus_dimorphicus",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Rhizophagus_dimorphicus_FL912N_KU_ASV1391_INVAM",
+        "Rhizophagus_dimorphicus_FL912N_KU_ASV1392_INVAM",
+        "Rhizophagus_dimorphicus_FL912N_KU_ASV1393_INVAM",
+        "Rhizophagus_dimorphicus_FL912N_KU_ASV1394_INVAM",
+        "Rhizophagus_dimorphicus_FL912N_KU_ASV1395_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0381",
+        "R0382"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Rhizophagus dimorphicus",
+      "target_cultures": [
+        "Rhizophagus dimorphicus | LGDB FL912N"
+      ],
+      "v18_label": "Rhizophagus dimorphicus"
+    },
+    {
+      "key": "lgdb_scutellospora_calospora",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Scutellospora_calospora_AU212B_ZUII_ASV1413_INVAM",
+        "Scutellospora_calospora_AU212B_ZUII_ASV1414_INVAM",
+        "Scutellospora_calospora_BEG245_ZUII_ASV1409_BEG",
+        "Scutellospora_calospora_BEG245_ZUII_ASV1410_BEG",
+        "Scutellospora_calospora_BEG245_ZUII_ASV1411_BEG",
+        "Scutellospora_calospora_BEG245_ZUII_ASV1412_BEG",
+        "Scutellospora_calospora_IL209_ZU_ASV1415_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1416_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1417_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1418_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1419_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1420_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1421_INVAM",
+        "Scutellospora_calospora_IL209_ZU_ASV1422_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0423",
+        "R0424"
+      ],
+      "role": "novel lineage, genus not in v4",
+      "target": "Scutellospora calospora",
+      "target_cultures": [
+        "Scutellospora calospora | LGDB AU212B",
+        "Scutellospora calospora | LGDB BEG245",
+        "Scutellospora calospora | LGDB IL209"
+      ],
+      "v18_label": "Scutellospora calospora"
+    },
+    {
+      "key": "lgdb_septoglomus_constrictum",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Septoglomus_constrictum_KS890_KU_ASV1425_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0369",
+        "R0370"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Septoglomus constrictum",
+      "target_cultures": [
+        "Septoglomus constrictum | LGDB KS890"
+      ],
+      "v18_label": "Septoglomus constrictum"
+    },
+    {
+      "key": "lgdb_septoglomus_deserticola",
+      "mapping": "exact frozen label",
+      "query_ids": [
+        "Septoglomus_deserticola_NC302A_ZUII_ASV1438_INVAM",
+        "Septoglomus_deserticola_NC302A_ZUII_ASV1440_INVAM",
+        "Septoglomus_deserticola_NC302A_ZUII_ASV1441_INVAM"
+      ],
+      "removed_ref_ids": [
+        "R0371",
+        "R0372"
+      ],
+      "role": "novel species, genus in v4",
+      "target": "Septoglomus deserticola",
+      "target_cultures": [
+        "Septoglomus deserticola | LGDB NC302A"
+      ],
+      "v18_label": "Septoglomus deserticola"
+    }
+  ]
+}
