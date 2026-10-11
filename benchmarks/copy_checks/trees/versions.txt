@@ -1,0 +1,6 @@
+mafft	v7.505 (2022/Apr/10)
+iqtree	IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+python	Python 3.13.16
+started	2026-10-11 14:19:09
+host	vm
+finished	2026-10-11 14:44:52

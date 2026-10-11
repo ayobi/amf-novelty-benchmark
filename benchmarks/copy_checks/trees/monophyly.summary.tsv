@@ -1,0 +1,145 @@
+tree	copy_set	level	order	tested	monophyletic	unresolved	non_monophyletic	strongly_non_monophyletic	pct_monophyletic	pct_not_strongly_rejected
+ssu_flank	all	culture	all	139	17	12	110	46	12.2	66.9
+ssu_flank	all	culture	Archaeosporales	4	0	0	4	0	0.0	100.0
+ssu_flank	all	culture	Paraglomerales	6	1	0	5	0	16.7	100.0
+ssu_flank	all	culture	Diversisporales	41	3	3	35	22	7.3	46.3
+ssu_flank	all	culture	Glomerales	88	13	9	66	24	14.8	72.7
+ssu_flank	all	species	all	37	28	2	7	2	75.7	94.6
+ssu_flank	all	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+ssu_flank	all	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+ssu_flank	all	species	Diversisporales	12	8	1	3	1	66.7	91.7
+ssu_flank	all	species	Glomerales	21	16	1	4	1	76.2	95.2
+ssu_flank	all	species, >= 2 cultures	all	30	23	1	6	2	76.7	93.3
+ssu_flank	all	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+ssu_flank	all	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+ssu_flank	all	species, >= 2 cultures	Diversisporales	10	7	0	3	1	70.0	90.0
+ssu_flank	all	species, >= 2 cultures	Glomerales	17	13	1	3	1	76.5	94.1
+ssu_flank	all	complex	all	4	3	0	1	1	75.0	75.0
+ssu_flank	all	complex	Diversisporales	2	2	0	0	0	100.0	100.0
+ssu_flank	all	complex	Glomerales	2	1	0	1	1	50.0	50.0
+ssu_flank	main	culture	all	138	19	16	103	40	13.8	71.0
+ssu_flank	main	culture	Archaeosporales	4	0	0	4	0	0.0	100.0
+ssu_flank	main	culture	Paraglomerales	6	1	0	5	0	16.7	100.0
+ssu_flank	main	culture	Diversisporales	41	3	3	35	22	7.3	46.3
+ssu_flank	main	culture	Glomerales	87	15	13	59	18	17.2	79.3
+ssu_flank	main	species	all	37	28	2	7	1	75.7	97.3
+ssu_flank	main	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+ssu_flank	main	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+ssu_flank	main	species	Diversisporales	12	8	1	3	1	66.7	91.7
+ssu_flank	main	species	Glomerales	21	16	1	4	0	76.2	100.0
+ssu_flank	main	species, >= 2 cultures	all	30	23	1	6	1	76.7	96.7
+ssu_flank	main	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+ssu_flank	main	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+ssu_flank	main	species, >= 2 cultures	Diversisporales	10	7	0	3	1	70.0	90.0
+ssu_flank	main	species, >= 2 cultures	Glomerales	17	13	1	3	0	76.5	100.0
+ssu_flank	main	complex	all	4	4	0	0	0	100.0	100.0
+ssu_flank	main	complex	Diversisporales	2	2	0	0	0	100.0	100.0
+ssu_flank	main	complex	Glomerales	2	2	0	0	0	100.0	100.0
+full_its	all	culture	all	139	18	4	117	86	12.9	38.1
+full_its	all	culture	Archaeosporales	4	1	0	3	0	25.0	100.0
+full_its	all	culture	Paraglomerales	6	1	1	4	0	16.7	100.0
+full_its	all	culture	Diversisporales	41	3	1	37	32	7.3	22.0
+full_its	all	culture	Glomerales	88	13	2	73	54	14.8	38.6
+full_its	all	species	all	37	24	0	13	9	64.9	75.7
+full_its	all	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+full_its	all	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+full_its	all	species	Diversisporales	12	8	0	4	2	66.7	83.3
+full_its	all	species	Glomerales	21	12	0	9	7	57.1	66.7
+full_its	all	species, >= 2 cultures	all	30	21	0	9	7	70.0	76.7
+full_its	all	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+full_its	all	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+full_its	all	species, >= 2 cultures	Diversisporales	10	7	0	3	2	70.0	80.0
+full_its	all	species, >= 2 cultures	Glomerales	17	11	0	6	5	64.7	70.6
+full_its	all	complex	all	4	2	0	2	0	50.0	100.0
+full_its	all	complex	Diversisporales	2	1	0	1	0	50.0	100.0
+full_its	all	complex	Glomerales	2	1	0	1	0	50.0	100.0
+full_its	main	culture	all	138	24	4	110	75	17.4	45.7
+full_its	main	culture	Archaeosporales	4	1	0	3	0	25.0	100.0
+full_its	main	culture	Paraglomerales	6	1	1	4	0	16.7	100.0
+full_its	main	culture	Diversisporales	41	3	1	37	32	7.3	22.0
+full_its	main	culture	Glomerales	87	19	2	66	43	21.8	50.6
+full_its	main	species	all	37	29	0	8	5	78.4	86.5
+full_its	main	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+full_its	main	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+full_its	main	species	Diversisporales	12	8	0	4	2	66.7	83.3
+full_its	main	species	Glomerales	21	17	0	4	3	81.0	85.7
+full_its	main	species, >= 2 cultures	all	30	24	0	6	4	80.0	86.7
+full_its	main	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+full_its	main	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+full_its	main	species, >= 2 cultures	Diversisporales	10	7	0	3	2	70.0	80.0
+full_its	main	species, >= 2 cultures	Glomerales	17	14	0	3	2	82.4	88.2
+full_its	main	complex	all	4	3	0	1	0	75.0	100.0
+full_its	main	complex	Diversisporales	2	1	0	1	0	50.0	100.0
+full_its	main	complex	Glomerales	2	2	0	0	0	100.0	100.0
+lsu_flank	all	culture	all	139	19	3	117	84	13.7	39.6
+lsu_flank	all	culture	Archaeosporales	4	1	0	3	0	25.0	100.0
+lsu_flank	all	culture	Paraglomerales	6	2	0	4	0	33.3	100.0
+lsu_flank	all	culture	Diversisporales	41	5	1	35	31	12.2	24.4
+lsu_flank	all	culture	Glomerales	88	11	2	75	53	12.5	39.8
+lsu_flank	all	species	all	37	28	1	8	4	75.7	89.2
+lsu_flank	all	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+lsu_flank	all	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+lsu_flank	all	species	Diversisporales	12	11	0	1	1	91.7	91.7
+lsu_flank	all	species	Glomerales	21	13	1	7	3	61.9	85.7
+lsu_flank	all	species, >= 2 cultures	all	30	22	1	7	3	73.3	90.0
+lsu_flank	all	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+lsu_flank	all	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+lsu_flank	all	species, >= 2 cultures	Diversisporales	10	9	0	1	1	90.0	90.0
+lsu_flank	all	species, >= 2 cultures	Glomerales	17	10	1	6	2	58.8	88.2
+lsu_flank	all	complex	all	4	3	0	1	1	75.0	75.0
+lsu_flank	all	complex	Diversisporales	2	2	0	0	0	100.0	100.0
+lsu_flank	all	complex	Glomerales	2	1	0	1	1	50.0	50.0
+lsu_flank	main	culture	all	138	22	5	111	75	15.9	45.7
+lsu_flank	main	culture	Archaeosporales	4	1	0	3	0	25.0	100.0
+lsu_flank	main	culture	Paraglomerales	6	2	0	4	0	33.3	100.0
+lsu_flank	main	culture	Diversisporales	41	5	1	35	31	12.2	24.4
+lsu_flank	main	culture	Glomerales	87	14	4	69	44	16.1	49.4
+lsu_flank	main	species	all	37	30	1	6	1	81.1	97.3
+lsu_flank	main	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+lsu_flank	main	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+lsu_flank	main	species	Diversisporales	12	11	0	1	1	91.7	91.7
+lsu_flank	main	species	Glomerales	21	15	1	5	0	71.4	100.0
+lsu_flank	main	species, >= 2 cultures	all	30	24	1	5	1	80.0	96.7
+lsu_flank	main	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+lsu_flank	main	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+lsu_flank	main	species, >= 2 cultures	Diversisporales	10	9	0	1	1	90.0	90.0
+lsu_flank	main	species, >= 2 cultures	Glomerales	17	12	1	4	0	70.6	100.0
+lsu_flank	main	complex	all	4	4	0	0	0	100.0	100.0
+lsu_flank	main	complex	Diversisporales	2	2	0	0	0	100.0	100.0
+lsu_flank	main	complex	Glomerales	2	2	0	0	0	100.0	100.0
+linked	all	culture	all	139	23	2	114	94	16.5	32.4
+linked	all	culture	Archaeosporales	4	1	0	3	0	25.0	100.0
+linked	all	culture	Paraglomerales	6	2	0	4	0	33.3	100.0
+linked	all	culture	Diversisporales	41	5	1	35	34	12.2	17.1
+linked	all	culture	Glomerales	88	15	1	72	60	17.0	31.8
+linked	all	species	all	37	31	0	6	4	83.8	89.2
+linked	all	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+linked	all	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+linked	all	species	Diversisporales	12	11	0	1	0	91.7	100.0
+linked	all	species	Glomerales	21	16	0	5	4	76.2	81.0
+linked	all	species, >= 2 cultures	all	30	25	0	5	3	83.3	90.0
+linked	all	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+linked	all	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+linked	all	species, >= 2 cultures	Diversisporales	10	9	0	1	0	90.0	100.0
+linked	all	species, >= 2 cultures	Glomerales	17	13	0	4	3	76.5	82.4
+linked	all	complex	all	4	3	0	1	1	75.0	75.0
+linked	all	complex	Diversisporales	2	2	0	0	0	100.0	100.0
+linked	all	complex	Glomerales	2	1	0	1	1	50.0	50.0
+linked	main	culture	all	138	28	2	108	84	20.3	39.1
+linked	main	culture	Archaeosporales	4	1	0	3	0	25.0	100.0
+linked	main	culture	Paraglomerales	6	2	0	4	0	33.3	100.0
+linked	main	culture	Diversisporales	41	5	1	35	34	12.2	17.1
+linked	main	culture	Glomerales	87	20	1	66	50	23.0	42.5
+linked	main	species	all	37	35	0	2	1	94.6	97.3
+linked	main	species	Archaeosporales	2	2	0	0	0	100.0	100.0
+linked	main	species	Paraglomerales	2	2	0	0	0	100.0	100.0
+linked	main	species	Diversisporales	12	11	0	1	0	91.7	100.0
+linked	main	species	Glomerales	21	20	0	1	1	95.2	95.2
+linked	main	species, >= 2 cultures	all	30	28	0	2	1	93.3	96.7
+linked	main	species, >= 2 cultures	Archaeosporales	2	2	0	0	0	100.0	100.0
+linked	main	species, >= 2 cultures	Paraglomerales	1	1	0	0	0	100.0	100.0
+linked	main	species, >= 2 cultures	Diversisporales	10	9	0	1	0	90.0	100.0
+linked	main	species, >= 2 cultures	Glomerales	17	16	0	1	1	94.1	94.1
+linked	main	complex	all	4	4	0	0	0	100.0	100.0
+linked	main	complex	Diversisporales	2	2	0	0	0	100.0	100.0
+linked	main	complex	Glomerales	2	2	0	0	0	100.0	100.0

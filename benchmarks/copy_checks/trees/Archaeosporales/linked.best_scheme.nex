@@ -1,0 +1,10 @@
+#nexus
+begin sets;
+  charset ssu_flank = 1-1478;
+  charset full_its = 1479-2008;
+  charset lsu_flank = 2009-2778;
+  charpartition mymodels =
+    K2P+I: ssu_flank,
+    HKY+F+G4: full_its,
+    TVM+F+I: lsu_flank;
+end;

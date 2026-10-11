@@ -1,0 +1,432 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    vm (AVX512, FMA3, 7 GB RAM)
+Command: /home/claude/tools/iqtree-2.3.6-Linux-intel/bin/iqtree2 -s benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.aln.fasta -m MFP -B 1000 --alrt 1000 -czb --seed 20261011 -T 1 --prefix benchmarks/copy_checks/trees/Archaeosporales/lsu_flank --quiet
+Seed:    20261011 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Oct 11 13:38:49 2026
+Kernel:  AVX+FMA - 1 threads (2 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 2 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.aln.fasta ... Fasta format detected
+Reading fasta file: done in 0.000211792 secs using 99.15% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 21 sequences with 770 columns, 44 distinct patterns
+22 parsimony-informative, 20 singleton sites, 728 constant sites
+            Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.27e-06 secs using 94.88% CPU
+   1  PX207101.1    0.26%    passed     99.61%
+   2  PX207102.1    0.26%    passed     99.89%
+   3  PX207103.1    0.26%    passed     99.77%
+   4  PX207104.1    0.26%    passed     99.87%
+   5  PX207105.1    0.26%    passed     99.76%
+   6  PX215118.1    0.39%    passed     99.97%
+   7  PX215120.1    0.26%    passed     99.74%
+   8  PX215121.1    0.39%    passed     99.78%
+   9  PX215122.1    0.13%    passed     99.95%
+  10  PX215124.1    0.13%    passed     99.95%
+  11  PX215126.1    0.39%    passed     99.99%
+  12  PX215129.1    0.39%    passed     99.61%
+  13  PX215130.1    0.39%    passed     99.81%
+  14  PX215132.1    0.26%    passed     99.88%
+  15  PX215133.1    0.26%    passed     99.94%
+  16  PX215134.1    0.26%    passed     99.97%
+  17  PX215135.1    0.26%    passed     99.95%
+  18  PX215136.1    0.26%    passed     99.95%
+  19  PX215137.1    0.26%    passed     99.85%
+  20  PX215138.1    0.26%    passed     99.21%
+  21  PX215141.1    0.26%    passed     99.98%
+****  TOTAL         0.28%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.000 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -1464.466
+2. Current log-likelihood: -1463.274
+Optimal log-likelihood: -1462.406
+Rate parameters:  A-C: 0.00010  A-G: 7.34684  A-T: 7.42109  C-G: 1.88349  C-T: 18.56394  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.279  C: 0.189  G: 0.296  T: 0.237
+Proportion of invariable sites: 0.492
+Gamma shape alpha: 0.020
+Parameters optimization took 2 rounds (0.013 sec)
+Time for fast ML tree search: 0.029 seconds
+
+NOTE: ModelFinder requires 0 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 770 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         1494.849     47  3083.698     3089.947     3302.078
+  2  GTR+F+I       1460.977     48  3017.953     3024.478     3240.980
+  3  GTR+F+G4      1470.681     48  3037.363     3043.887     3260.390
+  4  GTR+F+I+G4    1462.208     49  3022.417     3029.222     3250.090
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+Pattern 37 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+Pattern 37 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+Pattern 37 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+Pattern 37 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+Pattern 37 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+Pattern 37 likelihood is underflown
+  5  GTR+F+R2      1460.982     49  3019.963     3026.769     3247.636
+  6  GTR+F+R3      1459.556     51  3021.111     3028.498     3258.077
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 20 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 20 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 20 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 20 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 20 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 20 likelihood is underflown
+ 14  GTR+F+I+R2    1461.001     50  3022.002     3029.095     3254.321
+ 15  GTR+F+I+R3    1459.759     52  3023.518     3031.205     3265.130
+ 24  SYM+I         1472.467     45  3034.933     3040.651     3244.021
+ 26  SYM+I+G4      1473.220     46  3038.441     3044.421     3252.175
+ 27  SYM+R2        1472.023     46  3036.045     3042.026     3249.779
+ 46  TVM+F+I       1463.058     47  3020.115     3026.365     3238.496
+ 48  TVM+F+I+G4    1464.334     48  3024.668     3031.192     3247.694
+ 49  TVM+F+R2      1463.069     48  3022.137     3028.661     3245.164
+ 68  TVMe+I        1472.932     44  3033.864     3039.326     3238.305
+ 70  TVMe+I+G4     1474.016     45  3038.032     3043.750     3247.120
+ 71  TVMe+R2       1472.935     45  3035.871     3041.589     3244.958
+ 90  TIM3+F+I      1467.200     46  3026.400     3032.381     3240.134
+ 92  TIM3+F+I+G4   1467.772     47  3029.545     3035.794     3247.925
+ 93  TIM3+F+R2     1467.204     47  3028.408     3034.657     3246.788
+112  TIM3e+I       1478.532     43  3043.063     3048.275     3242.858
+114  TIM3e+I+G4    1479.135     44  3046.270     3051.732     3250.711
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 31 likelihood is underflown
+115  TIM3e+R2      1478.532     44  3045.064     3050.526     3249.505
+134  TIM2+F+I      1468.733     46  3029.466     3035.446     3243.200
+136  TIM2+F+I+G4   1469.217     47  3032.435     3038.684     3250.815
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 11 likelihood is underflown
+Pattern 31 likelihood is underflown
+Pattern 34 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 11 likelihood is underflown
+Pattern 31 likelihood is underflown
+Pattern 34 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 11 likelihood is underflown
+Pattern 31 likelihood is underflown
+Pattern 34 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 11 likelihood is underflown
+Pattern 31 likelihood is underflown
+Pattern 34 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 11 likelihood is underflown
+Pattern 31 likelihood is underflown
+Pattern 34 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 11 likelihood is underflown
+Pattern 31 likelihood is underflown
+Pattern 34 likelihood is underflown
+137  TIM2+F+R2     1468.735     47  3031.471     3037.720     3249.851
+156  TIM2e+I       1480.718     43  3047.437     3052.649     3247.232
+158  TIM2e+I+G4    1481.280     44  3050.561     3056.023     3255.002
+159  TIM2e+R2      1480.716     44  3049.433     3054.895     3253.874
+178  TIM+F+I       1465.292     46  3022.584     3028.565     3236.318
+180  TIM+F+I+G4    1465.610     47  3025.219     3031.469     3243.600
+181  TIM+F+R2      1465.301     47  3024.602     3030.851     3242.982
+200  TIMe+I        1477.493     43  3040.985     3046.197     3240.780
+202  TIMe+I+G4     1477.850     44  3043.700     3049.163     3248.142
+203  TIMe+R2       1477.493     44  3042.986     3048.449     3247.428
+222  TPM3u+F+I     1469.792     45  3029.585     3035.303     3238.673
+224  TPM3u+F+I+G4  1470.370     46  3032.740     3038.721     3246.474
+225  TPM3u+F+R2    1469.799     46  3031.599     3037.579     3245.333
+244  TPM3+I        1479.571     42  3043.142     3048.110     3238.290
+246  TPM3+I+G4     1480.071     43  3046.142     3051.355     3245.937
+247  TPM3+R2       1479.571     43  3045.141     3050.353     3244.936
+266  TPM2u+F+I     1471.317     45  3032.634     3038.353     3241.722
+268  TPM2u+F+I+G4  1471.813     46  3035.626     3041.607     3249.360
+269  TPM2u+F+R2    1471.318     46  3034.635     3040.616     3248.369
+288  TPM2+I        1481.696     42  3047.393     3052.361     3242.541
+290  TPM2+I+G4     1482.161     43  3050.322     3055.534     3250.117
+291  TPM2+R2       1481.696     43  3049.392     3054.604     3249.186
+310  K3Pu+F+I      1467.938     45  3025.877     3031.595     3234.965
+312  K3Pu+F+I+G4   1468.260     46  3028.521     3034.501     3242.255
+313  K3Pu+F+R2     1467.941     46  3027.882     3033.863     3241.616
+332  K3P+I         1478.507     42  3041.015     3045.983     3236.163
+334  K3P+I+G4      1478.777     43  3043.554     3048.766     3243.349
+335  K3P+R2        1478.510     43  3043.019     3048.231     3242.814
+354  TN+F+I        1470.418     45  3030.837     3036.555     3239.924
+356  TN+F+I+G4     1470.532     46  3033.064     3039.044     3246.798
+357  TN+F+R2       1470.432     46  3032.864     3038.845     3246.598
+376  TNe+I         1482.461     42  3048.922     3053.890     3244.070
+378  TNe+I+G4      1482.617     43  3051.234     3056.446     3251.029
+379  TNe+R2        1482.462     43  3050.924     3056.136     3250.719
+398  HKY+F+I       1473.064     44  3034.128     3039.590     3238.569
+400  HKY+F+I+G4    1473.278     45  3036.556     3042.274     3245.644
+401  HKY+F+R2      1473.064     45  3036.129     3041.847     3245.216
+420  K2P+I         1483.476     41  3048.953     3053.683     3239.455
+422  K2P+I+G4      1483.657     42  3051.314     3056.283     3246.463
+423  K2P+R2        1483.476     42  3050.952     3055.920     3246.100
+442  F81+F+I       1488.629     43  3063.259     3068.471     3263.054
+444  F81+F+I+G4    1488.769     44  3065.538     3071.000     3269.980
+445  F81+F+R2      1488.630     44  3065.260     3070.722     3269.701
+464  JC+I          1499.578     40  3079.155     3083.655     3265.011
+466  JC+I+G4       1499.712     41  3081.425     3086.155     3271.927
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 6 likelihood is underflown
+Pattern 7 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 10 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 39 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 43 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 6 likelihood is underflown
+Pattern 7 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 10 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 39 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 43 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 6 likelihood is underflown
+Pattern 7 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 10 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 39 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 43 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 6 likelihood is underflown
+Pattern 7 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 10 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 39 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 43 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 6 likelihood is underflown
+Pattern 7 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 10 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 39 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 43 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 6 likelihood is underflown
+Pattern 7 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 10 likelihood is underflown
+Pattern 13 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 39 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 43 likelihood is underflown
+467  JC+R2         1499.578     41  3081.155     3085.886     3271.657
+Akaike Information Criterion:           GTR+F+I
+Corrected Akaike Information Criterion: GTR+F+I
+Bayesian Information Criterion:         K3Pu+F+I
+Best-fit model: K3Pu+F+I chosen according to BIC
+
+All model information printed to benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.model.gz
+CPU time for ModelFinder: 0.244 seconds (0h:0m:0s)
+Wall-clock time for ModelFinder: 0.252 seconds (0h:0m:0s)
+Generating 1000 samples for ultrafast bootstrap (seed: 20261011)...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1488.630
+2. Current log-likelihood: -1467.969
+Optimal log-likelihood: -1467.938
+Rate parameters:  A-C: 1.00000  A-G: 19.39151  A-T: 7.50557  C-G: 7.50557  C-T: 19.39151  G-T: 1.00000
+Base frequencies:  A: 0.279  C: 0.189  G: 0.296  T: 0.237
+Proportion of invariable sites: 0.908
+Parameters optimization took 2 rounds (0.001 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.000425731 secs using 96.77% CPU
+Computing ML distances took 0.000441 sec (of wall-clock time) 0.000430 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 4.4001e-05 secs using 95.45% CPU
+Computing RapidNJ tree took 0.000133 sec (of wall-clock time) 0.000126 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -1471.417
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.042 second
+Computing log-likelihood of 98 initial trees ... 0.026 seconds
+Current best score: -1463.355
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1463.304
+UPDATE BEST LOG-LIKELIHOOD: -1463.304
+Iteration 10 / LogL: -1464.725 / Time: 0h:0m:0s
+Iteration 20 / LogL: -1464.946 / Time: 0h:0m:0s
+Finish initializing candidate tree set (13)
+Current best tree score: -1463.304 / CPU time: 0.150
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -1463.531 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 40 / LogL: -1464.718 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 50 / LogL: -1463.310 / Time: 0h:0m:0s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -1478.856
+Iteration 60 / LogL: -1465.234 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 70 / LogL: -1466.601 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 80 / LogL: -1465.448 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 90 / LogL: -1463.938 / Time: 0h:0m:0s (0h:0m:0s left)
+Iteration 100 / LogL: -1463.310 / Time: 0h:0m:1s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -1480.890
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1463.304
+2. Current log-likelihood: -1463.294
+Optimal log-likelihood: -1463.294
+Rate parameters:  A-C: 1.00000  A-G: 17.19346  A-T: 6.96232  C-G: 6.96232  C-T: 17.19346  G-T: 1.00000
+Base frequencies:  A: 0.279  C: 0.189  G: 0.296  T: 0.237
+Proportion of invariable sites: 0.903
+Parameters optimization took 2 rounds (0.001 sec)
+BEST SCORE FOUND : -1463.294
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.036 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.splits.nex
+Collapsing near-zero internal branches... 4 collapsed
+Total tree length: 0.082
+
+Total number of iterations: 102
+CPU time used for tree search: 0.735 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.793 sec (0h:0m:0s)
+Total CPU time used: 1.062 sec (0h:0m:1s)
+Total wall-clock time used: 1.134 sec (0h:0m:1s)
+
+Computing bootstrap consensus tree...
+Reading input file benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.splits.nex...
+21 taxa and 166 splits.
+Consensus tree written to benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.contree
+Reading input trees file benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.contree
+Log-likelihood of consensus tree: -1463.304
+
+Analysis results written to: 
+  IQ-TREE report:                benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.iqtree
+  Maximum-likelihood tree:       benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.treefile
+  Likelihood distances:          benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.splits.nex
+  Consensus tree:                benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.contree
+  Screen log file:               benchmarks/copy_checks/trees/Archaeosporales/lsu_flank.log
+
+Date and Time: Sun Oct 11 13:38:50 2026

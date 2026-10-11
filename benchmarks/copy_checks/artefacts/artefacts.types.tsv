@@ -1,0 +1,26 @@
+type	copies	classes	cultures	labels	species	libraries	s58_len	long_deletion_regions	SH_units	VT_units	other_label_copies_same_type	verdicts	accessions
+T01	10	short_5.8S:10	7	7	Rhizophagus irregularis	9	152	s58	SH1337353.10FU	VTX00114	7	recurrent deleted copy:10	PX207162.1,PX207163.1,PX207164.1,PX207165.1,PX214777.1,PX214778.1,PX214779.1,PX214780.1,PX214781.1,PX214782.1
+T02	7	short_5.8S:7	2	2	[Rhizoglomus] vesiculiferum	2	151	s58	SH1364117.10FU	VTX00115	1	probable artefact:1,recurrent deleted copy:6	PX214847.1,PX214848.1,PX214849.1,PX214850.1,PX214851.1,PX214852.1,PX214853.1
+T03	4	short_5.8S:4	1	1	Rhizophagus prolifer	2	152	its2,s58	SH1081549.10FU	VTX00099	0	probable artefact:4	PX207190.1,PX207191.1,PX207192.1,PX207193.1
+T04	4	short_5.8S:4	3	3	Rhizophagus intraradices	4	152	s58	SH1081557.10FU	VTX00100	2	recurrent deleted copy:4	PX207195.1,PX207196.1,PX207197.1,PX214870.1
+T05	2	same_length:2	1	1	Gigaspora rosea	2	158		SH1076762.10FU	VTX00039	1	paralog:2	PX207139.1,PX207140.1
+T06	2	short_5.8S:2	1	1	Septoglomus viscosum	2	155	s58	SH1389224.10FU	VTX00409	0	probable artefact:2	PX207263.1,PX207264.1
+T07	2	short_5.8S:2	2	2	Rhizophagus irregularis,Rhizophagus sp. (in: glomeromycetes)	2	152	its2,s58	SH1337340.10FU	VTX00114	1	recurrent deleted copy:2	PX214816.1,PX214817.1
+T08	2	short_5.8S:2	1	1	[Rhizoglomus] vesiculiferum	1	152	its1,s58		VTX00113	0	probable artefact:2	PX214845.1,PX214846.1
+T09	2	short_5.8S:2	1	1	Rhizophagus silesianus	1	152	s58	SH1337458.10FU	VTX00105	0	probable artefact:2	PX214863.1,PX214864.1
+T10	1	same_length:1	1	1	Gigaspora rosea	1	158		SH1076712.10FU	VTX00039	1	paralog:1	PX207138.1
+T11	1	same_length:1	1	1	Rhizophagus intraradices	1	158	its2	SH1196937.10FU	VTX00100	0	probable artefact:1	PX207194.1
+T12	1	same_length:1	1	1	Septoglomus turnauae	1	158	its2		VTX00064	0	probable artefact:1	PX207258.1
+T13	1	short_5.8S:1	1	1	Septoglomus viscosum	1	153	s58		VTX00409	0	probable artefact:1	PX214583.1
+T14	1	same_length:1	1	1	Septoglomus sp.	1	158	its2		VTX00064	0	probable artefact:1	PX214595.1
+T15	1	same_length:1	1	1	Septoglomus sp.	1	158			VTX00064	0	unresolved:1	PX214601.1
+T16	1	same_length:1	1	1	Septoglomus sp.	1	158			VTX00064	0	unresolved:1	PX214602.1
+T17	1	short_5.8S:1	1	1	Rhizophagus irregularis	1	152	s58	SH1337480.10FU	VTX00113	0	probable artefact:1	PX214783.1
+T18	1	short_5.8S:1	1	1	Rhizophagus irregularis	1	152	s58	SH1337463.10FU		0	probable artefact:1	PX214784.1
+T19	1	short_5.8S:1	1	1	Rhizophagus irregularis	1	151	s58	SH1337247.10FU	VTX00114	0	probable artefact:1	PX214841.1
+T20	1	short_5.8S:1	1	1	[Rhizoglomus] vesiculiferum	1	152	s58		VTX00113	0	probable artefact:1	PX214842.1
+T21	1	short_5.8S:1	1	1	[Rhizoglomus] vesiculiferum	1	152	s58		VTX00115	0	probable artefact:1	PX214843.1
+T22	1	short_5.8S:1	1	1	[Rhizoglomus] vesiculiferum	1	152	s58	SH1364178.10FU	VTX00113	0	probable artefact:1	PX214844.1
+T23	1	short_5.8S:1	1	1	[Rhizoglomus] vesiculiferum	1	151	s58		VTX00115	0	probable artefact:1	PX214854.1
+T24	1	short_5.8S:1	1	1	[Rhizoglomus] vesiculiferum	1	151	s58		VTX00115	0	probable artefact:1	PX214855.1
+T25	1	short_5.8S:1	1	1	Rhizophagus silesianus	1	152	s58		VTX00105	0	probable artefact:1	PX214865.1

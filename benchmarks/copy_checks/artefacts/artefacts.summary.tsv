@@ -1,0 +1,13 @@
+reading	class	copies	paralog	recurrent deleted copy	unresolved	probable artefact	single but reproduced
+primary (same type <= 1%, long deletion >= L_R)	short_5.8S	43	0	22	0	21	11
+primary (same type <= 1%, long deletion >= L_R)	same_length	8	3	0	2	3	1
+primary (same type <= 1%, long deletion >= L_R)	all	51	3	22	2	24	12
+same type <= 0.5%	short_5.8S	43	0	16	0	27	
+same type <= 0.5%	same_length	8	3	0	2	3	
+same type <= 0.5%	all	51	3	16	2	30	
+same type <= 2.0%	short_5.8S	43	0	25	0	18	
+same type <= 2.0%	same_length	8	3	0	2	3	
+same type <= 2.0%	all	51	3	25	2	21	
+long deletion >= 10 nt	short_5.8S	43	22	0	19	2	
+long deletion >= 10 nt	same_length	8	3	0	5	0	
+long deletion >= 10 nt	all	51	25	0	24	2	

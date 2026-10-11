@@ -1,0 +1,120 @@
+{
+ "finished": "2026-10-11 14:44:52",
+ "reference": "/home/claude/ayobi/amf-novelty-benchmark/reference/culture_ref_v4",
+ "reference_manifest_sha256": "0c87060958bd1f1af58fc5c769b8b0ca2de861751660fb5ba32c8000d27d632a",
+ "copies_tsv_sha256": "181938d695f3df406c9da0af5e95f51b726b6931b71fd7217c430a085df65e94",
+ "complexes_sha256": "5c82cace7f379cb76b1e6be2af7b4223fa6f37f160a5767b69e7e1ab1d7683fd",
+ "strong_support": {
+  "SH-aLRT": 80.0,
+  "UFBoot": 95.0
+ },
+ "versions": {
+  "mafft": "v7.505 (2022/Apr/10)",
+  "iqtree": "IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024",
+  "python": "Python 3.13.16",
+  "started": "2026-10-11 14:19:09",
+  "host": "vm"
+ },
+ "trees": {
+  "Archaeosporales/ssu_flank": {
+   "tips": 16,
+   "copies": 30,
+   "model": "K2P+I",
+   "treefile_sha256": "8d455a6ee1806e68c3c63b2ff403f594efdd4d0cbc5ddbaaa2ad8ec0221fe446"
+  },
+  "Archaeosporales/full_its": {
+   "tips": 19,
+   "copies": 30,
+   "model": "HKY+F+G4",
+   "treefile_sha256": "0837eb5ebcd9057bbdee48e892b408e5d054f0d26444cf7aa0745558c36d9017"
+  },
+  "Archaeosporales/lsu_flank": {
+   "tips": 21,
+   "copies": 30,
+   "model": "K3Pu+F+I",
+   "treefile_sha256": "99b25ccec44da4bd230e939eec303397b01cae2032ea3a9da97a49b728296e1b"
+  },
+  "Archaeosporales/linked": {
+   "tips": 25,
+   "copies": 30,
+   "model": "K2P+I:ssu_flank,HKY+F+G4:full_its,TVM+F+I:lsu_flank",
+   "treefile_sha256": "5505b87ccc35b2af305cb4ad74416feefd1cc05e0005babda383c4c498f575d0"
+  },
+  "Paraglomerales/ssu_flank": {
+   "tips": 9,
+   "copies": 28,
+   "model": "TNe",
+   "treefile_sha256": "b018c4f29d2453befd2632a66500f861895ff11adeba7b5bbbfcf315248e4dab"
+  },
+  "Paraglomerales/full_its": {
+   "tips": 21,
+   "copies": 28,
+   "model": "K2P+G4",
+   "treefile_sha256": "d55e3c770432c8ef040b2965aac81cf50a2a2471cdd6c293051ba5e634122865"
+  },
+  "Paraglomerales/lsu_flank": {
+   "tips": 13,
+   "copies": 28,
+   "model": "TIM3e+G4",
+   "treefile_sha256": "be45bac918ad5baed1fc63c450407c6e52231a086bf6dbbc4396b3c68736a9e4"
+  },
+  "Paraglomerales/linked": {
+   "tips": 22,
+   "copies": 28,
+   "model": "K2P+I:ssu_flank,HKY+F+G4:full_its,TIM3e+G4:lsu_flank",
+   "treefile_sha256": "bb47e8750d031d1348aa7fa023f6baebcdd4cc22fee624b7ff94efbf40d40e4f"
+  },
+  "Diversisporales/ssu_flank": {
+   "tips": 105,
+   "copies": 245,
+   "model": "TIM2+F+R3",
+   "treefile_sha256": "fd2aea621c2bc527b8370708d2942ad31ca0e347f676923dc5bcf05694bf47f4"
+  },
+  "Diversisporales/full_its": {
+   "tips": 141,
+   "copies": 245,
+   "model": "TVM+F+R3",
+   "treefile_sha256": "670763d3f361eb5f5c588ce4dc39c23927f6880826394330ba6f4f26e200ec0e"
+  },
+  "Diversisporales/lsu_flank": {
+   "tips": 133,
+   "copies": 245,
+   "model": "TIM3+F+I+R2",
+   "treefile_sha256": "5d53b798eae440c02c7895123877554e7618b4b06be6de6d3892a296b37877d0"
+  },
+  "Diversisporales/linked": {
+   "tips": 185,
+   "copies": 245,
+   "model": "TIM2+F+R3:ssu_flank,TVM+F+R3:full_its,TIM3+F+R3:lsu_flank",
+   "treefile_sha256": "43db5234fe16ade177a8981e7f25cd2bcef77d903d199966f319ee76abb4659b"
+  },
+  "Glomerales/ssu_flank": {
+   "tips": 207,
+   "copies": 600,
+   "model": "GTR+F+I+R3",
+   "treefile_sha256": "1af0093284c89ca80a516e244fabc583c574da31ef7c4729f1783dc734d4e78c"
+  },
+  "Glomerales/full_its": {
+   "tips": 376,
+   "copies": 600,
+   "model": "GTR+F+I+R3",
+   "treefile_sha256": "e66d6c6800cbbd2595cd14785ec1dff64e7d233db56d2e2083e0f11e6785b446"
+  },
+  "Glomerales/lsu_flank": {
+   "tips": 364,
+   "copies": 600,
+   "model": "GTR+F+I+G4",
+   "treefile_sha256": "36f58c52e77f808588900ff9580638a2257a0c5ce98ff50c898cf07f30275351"
+  },
+  "Glomerales/linked": {
+   "tips": 476,
+   "copies": 600,
+   "model": "GTR+F+I+R3:ssu_flank,GTR+F+I+R4:full_its,GTR+F+I+G4:lsu_flank",
+   "treefile_sha256": "7287b69998f7ab00cbeae716cf052d5749487679c5148ee12bfc737ad28fac7b"
+  }
+ },
+ "outputs": {
+  "monophyly.groups.tsv": "dd274b80fa789f7c6ab8cf2c46d45f4d42c70a033bb09aef3847430fd7e89981",
+  "monophyly.summary.tsv": "567e208c18b08916e7f127779d9fc851155f3be5223efbc61495b8653c937bbd"
+ }
+}

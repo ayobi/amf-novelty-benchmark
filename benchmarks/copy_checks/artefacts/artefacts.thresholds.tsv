@@ -1,0 +1,6 @@
+region	main_copies	with_deletion	max_deletion	p99	L_R
+ssu_flank	839	74	3	1.00	3.00
+its1	839	222	19	5.00	5.00
+s58	839	8	6	0.60	3.00
+its2	839	224	13	5.00	5.00
+lsu_flank	839	132	11	1.00	3.00

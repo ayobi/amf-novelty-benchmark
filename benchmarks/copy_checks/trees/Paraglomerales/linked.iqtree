@@ -1,0 +1,231 @@
+IQ-TREE 2.3.6 built Aug  1 2024
+
+Partition file name: benchmarks/copy_checks/trees/Paraglomerales/linked.partitions.nex
+Input file name: benchmarks/copy_checks/trees/Paraglomerales/linked.aln.fasta
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 20261011
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+Since you used partition models please also cite:
+
+Olga Chernomor, Arndt von Haeseler, and Bui Quang Minh (2016)
+Terrace aware data structure for phylogenomic inference from
+supermatrices. Syst. Biol., 65:997-1008.
+https://doi.org/10.1093/sysbio/syw037
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 22 taxa with 3 partitions and 2793 total sites (0% missing data)
+
+  ID	Type	Seq	Site	Unique	Infor	Invar	Const	Name
+   1	DNA	22	1474	17	15	1457	1457	ssu_flank
+   2	DNA	22	538	124	112	418	418	full_its
+   3	DNA	22	781	58	98	680	680	lsu_flank
+
+Column meanings:
+  Unique: Number of unique site patterns
+  Infor:  Number of parsimony-informative sites
+  Invar:  Number of invariant sites
+  Const:  Number of constant sites (can be subset of invariant sites)
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: K2P+I:ssu_flank,HKY+F+G4:full_its,TIM3e+G4:lsu_flank
+
+List of best-fit models per partition:
+
+  ID  Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+   1  K2P+I             -2200.316    4406.631 + 4.37e-315    4406.648 - 5.35e-317    4422.518 - 7.18e-317
+   2  HKY+F+G4          -1569.482    3150.963 + 4.37e-315    3151.121 - 5.35e-317    3176.690 - 7.18e-317
+   3  TIM3e+G4          -1691.226    3392.453 + 4.37e-315    3392.530 - 5.35e-317    3415.756 - 7.18e-317
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Edge-linked-proportional partition model with separate substitution models and separate rates across sites
+
+  ID  Model           Speed  Parameters
+   1  K2P+I          0.1207  K2P{15.6437}+FQ+I{0.977264}
+   2  HKY+F+G4       3.2355  HKY{3.05818}+F{0.289338,0.203191,0.217303,0.290168}+G4{0.191212}
+   3  TIM3e+G4       1.1195  TIM3e{0.237032,1.53886,4.02499}+FQ+G4{0.348278}
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -5460.2188 (s.e. 97.7482)
+Unconstrained log-likelihood (without tree): -5465.6862
+Number of free parameters (#branches + #model parameters): 51
+Akaike information criterion (AIC) score: 11022.4375
+Corrected Akaike information criterion (AICc) score: 11024.3726
+Bayesian information criterion (BIC) score: 11325.1160
+
+Total tree length (sum of branch lengths): 0.1613
+Sum of internal branch lengths: 0.1468 (90.9873% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'PX207096.1' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++--PX207096.1
+|
+|     +--PX207097.1
+|  +--| (89/51)
+|  |  +**PX207100.1
+|  |  |
+|  |  |                                                      +--PX215142.1
+|  |  |                                                   +--| (90.6/93)
+|  |  |                                                   |  +--PX215146.1
+|  |  |                                                   |  |
+|  |  |                                                   |  +**PX215148.1
+|  |  |                                             +-----| (88.6/90)
+|  |  |                                             |     +--PX215149.1
+|  |  |  +------------------------------------------| (100/100)
+|  |  |  |                                          |                   +**PX215150.1
+|  |  |  |                                          |                +--| (93.6/30)
+|  |  |  |                                          |                |  |  +**PX215152.1
+|  |  |  |                                          |                |  +--| (93.5/40)
+|  |  |  |                                          |                |     |  +**PX215153.1
+|  |  |  |                                          |                |     +--| (98.1/82)
+|  |  |  |                                          |                |        +--PX215154.1
+|  |  |  |                                          |                |        |
+|  |  |  |                                          |                |        |  +--PX215157.1
+|  |  |  |                                          |                |        +--| (98.6/83)
+|  |  |  |                                          |                |           +**PX215159.1
+|  |  |  |                                          |             +--| (76.2/26)
+|  |  |  |                                          |             |  +**PX215156.1
+|  |  |  |                                          |          +--| (88.9/38)
+|  |  |  |                                          |          |  +--PX215155.1
+|  |  |  |                                          |       +--| (93.2/90)
+|  |  |  |                                          |       |  +**PX215160.1
+|  |  |  |                                          +-------| (98.1/99)
+|  |  |  |                                                  +--PX215161.1
+|  |  +--| (97.4/100)
+|  |     |     +--PX215162.1
+|  |     |  +--| (88.1/92)
+|  |     |  |  +**PX215163.1
+|  |     +--| (86.3/92)
+|  |        +--PX215164.1
++--| (83.6/55)
+|  +--PX207099.1
+|
++**PX207098.1
+
+Tree in newick format:
+
+(PX207096.1:0.0023227992,((PX207097.1:0.0003802026,PX207100.1:0.0000010051,((((PX215142.1:0.0004030635,PX215146.1:0.0011937982,PX215148.1:0.0000010051)90.6/93:0.0019883089,PX215149.1:0.0017015222)88.6/90:0.0127579624,(((((PX215150.1:0.0000010051,(PX215152.1:0.0000010051,(PX215153.1:0.0000010051,PX215154.1:0.0008451918,(PX215157.1:0.0007960163,PX215159.1:0.0000010051)98.6/83:0.0016153131)98.1/82:0.0020201795)93.5/40:0.0008023129)93.6/30:0.0003993240,PX215156.1:0.0000010051)76.2/26:0.0003895599,PX215155.1:0.0028634355)88.9/38:0.0008307236,PX215160.1:0.0000010051)93.2/90:0.0021326378,PX215161.1:0.0004528714)98.1/99:0.0173005723)100/100:0.0921734289,((PX215162.1:0.0011376803,PX215163.1:0.0000010051)88.1/92:0.0016572043,PX215164.1:0.0020510385)86.3/92:0.0036673312)97.4/100:0.0083076584)89/51:0.0003789411,PX207099.1:0.0003823124)83.6/55:0.0003814235,PX207098.1:0.0000024833);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -5460.243712
+Robinson-Foulds distance between ML tree and consensus tree: 6
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--PX207096.1
+|
+|        +--PX207097.1
+|     +--| (83)
+|     |  +--PX207100.1
+|  +--| (51)
+|  |  |                                                     +--PX215142.1
+|  |  |                                                  +--| (93)
+|  |  |                                                  |  |  +--PX215146.1
+|  |  |                                                  |  +--| (74)
+|  |  |                                                  |     +--PX215148.1
+|  |  |                                             +----| (90)
+|  |  |                                             |    +--PX215149.1
+|  |  |  +------------------------------------------| (100)
+|  |  |  |                                          |                   +--PX215150.1
+|  |  |  |                                          |                +--| (30)
+|  |  |  |                                          |                |  |  +--PX215152.1
+|  |  |  |                                          |                |  +--| (40)
+|  |  |  |                                          |                |     |     +--PX215153.1
+|  |  |  |                                          |                |     |  +--| (77)
+|  |  |  |                                          |                |     |  |  +--PX215154.1
+|  |  |  |                                          |                |     +--| (82)
+|  |  |  |                                          |                |        |  +--PX215157.1
+|  |  |  |                                          |                |        +--| (83)
+|  |  |  |                                          |                |           +--PX215159.1
+|  |  |  |                                          |             +--| (26)
+|  |  |  |                                          |             |  +--PX215156.1
+|  |  |  |                                          |          +--| (38)
+|  |  |  |                                          |          |  +--PX215155.1
+|  |  |  |                                          |       +--| (90)
+|  |  |  |                                          |       |  +--PX215160.1
+|  |  |  |                                          +-------| (99)
+|  |  |  |                                                  +--PX215161.1
+|  |  +--| (100)
+|  |     |     +--PX215162.1
+|  |     |  +--| (92)
+|  |     |  |  +--PX215163.1
+|  |     +--| (92)
+|  |        +--PX215164.1
++--| (55)
+|  +--PX207099.1
+|
++--PX207098.1
+
+
+Consensus tree in newick format: 
+
+(PX207096.1:0.0023219118,(((PX207097.1:0.0003803072,PX207100.1:0.0000020520)83:0.0000020520,((((PX215142.1:0.0004026248,(PX215146.1:0.0011922062,PX215148.1:0.0000020520)74:0.0000020520)93:0.0019867099,PX215149.1:0.0017008414)90:0.0127392352,(((((PX215150.1:0.0000020520,(PX215152.1:0.0000020520,((PX215153.1:0.0000020520,PX215154.1:0.0008444229)77:0.0000020520,(PX215157.1:0.0007953731,PX215159.1:0.0000020520)83:0.0016124510)82:0.0020166998)40:0.0008016101)30:0.0003989757,PX215156.1:0.0000020520)26:0.0003890901,PX215155.1:0.0028585763)38:0.0008299323,PX215160.1:0.0000020520)90:0.0021310990,PX215161.1:0.0004526581)99:0.0172950551)100:0.0921228340,((PX215162.1:0.0011372245,PX215163.1:0.0000020520)92:0.0016567307,PX215164.1:0.0020505533)92:0.0036873877)100:0.0082940537)51:0.0003792233,PX207099.1:0.0003824725)55:0.0003816130,PX207098.1:0.0000020520);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t benchmarks/copy_checks/trees/Paraglomerales/linked.treefile -p benchmarks/copy_checks/trees/Paraglomerales/linked.best_model.nex
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s benchmarks/copy_checks/trees/Paraglomerales/linked.aln.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s benchmarks/copy_checks/trees/Paraglomerales/linked.aln.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Oct 11 14:06:17 2026
+Total CPU time used: 5.306686 seconds (0h:0m:5s)
+Total wall-clock time used: 5.997346234 seconds (0h:0m:5s)
+

@@ -1,0 +1,13 @@
+name: amf-copy
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.12
+  - mafft=7.505
+  - iqtree=2.3.6
+  - pip
+  - pip:
+      - biopython==1.88
+      - edlib==1.3.9.post1

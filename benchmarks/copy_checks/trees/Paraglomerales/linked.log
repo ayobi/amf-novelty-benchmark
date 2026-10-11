@@ -1,0 +1,202 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    vm (AVX512, FMA3, 7 GB RAM)
+Command: /home/claude/tools/iqtree-2.3.6-Linux-intel/bin/iqtree2 -s benchmarks/copy_checks/trees/Paraglomerales/linked.aln.fasta -p benchmarks/copy_checks/trees/Paraglomerales/linked.partitions.nex -m MFP -B 1000 --alrt 1000 -czb --seed 20261011 -T 1 --prefix benchmarks/copy_checks/trees/Paraglomerales/linked --quiet
+Seed:    20261011 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Oct 11 14:06:11 2026
+Kernel:  AVX+FMA - 1 threads (2 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 2 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading partition model file benchmarks/copy_checks/trees/Paraglomerales/linked.partitions.nex ...
+Reading alignment file benchmarks/copy_checks/trees/Paraglomerales/linked.aln.fasta ... Fasta format detected
+Reading fasta file: done in 0.000491656 secs using 99.87% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 22 sequences with 2793 columns, 164 distinct patterns
+225 parsimony-informative, 13 singleton sites, 2555 constant sites
+            Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.4822e-05 secs using 94.45% CPU
+   1  PX207096.1    1.18%    passed     90.73%
+   2  PX207097.1    1.29%    passed     89.43%
+   3  PX207098.1    1.22%    passed     88.51%
+   4  PX207099.1    1.32%    passed     87.73%
+   5  PX207100.1    1.36%    passed     86.28%
+   6  PX215142.1    2.26%    passed     99.98%
+   7  PX215146.1    2.33%    passed     99.95%
+   8  PX215148.1    2.29%    passed     99.97%
+   9  PX215149.1    2.22%    passed     99.92%
+  10  PX215150.1    2.61%    passed     91.25%
+  11  PX215152.1    2.61%    passed     90.86%
+  12  PX215153.1    2.58%    passed     90.47%
+  13  PX215154.1    2.54%    passed     91.31%
+  14  PX215155.1    2.33%    passed     92.52%
+  15  PX215156.1    2.69%    passed     93.47%
+  16  PX215157.1    2.08%    passed     94.13%
+  17  PX215159.1    2.08%    passed     94.13%
+  18  PX215160.1    2.11%    passed     94.97%
+  19  PX215161.1    2.47%    passed     93.02%
+  20  PX215162.1    0.93%    passed     87.80%
+  21  PX215163.1    0.97%    passed     86.27%
+  22  PX215164.1    1.68%    passed     85.46%
+****  TOTAL         1.96%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: No CharPartition defined, use all CharSets
+
+Loading 3 partitions...
+Subset	Type	Seqs	Sites	Infor	Invar	Model	Name
+1		22	1474	15	1457	MFP	ssu_flank
+2		22	538	112	418	MFP	full_its
+3		22	781	98	680	MFP	lsu_flank
+Degree of missing data: 0.000
+Info: multi-threading strategy over partitions
+
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.000 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Initial log-likelihood: -5681.530
+Current log-likelihood at step 1: -5442.604
+Current log-likelihood at step 2: -5435.278
+Current log-likelihood at step 3: -5435.214
+Parameters optimization took 2 rounds (0.048 sec)
+
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+Initial log-likelihood: -5435.214
+Current log-likelihood at step 1: -5435.188
+Partition-specific rates:  0.102 3.263 1.135
+Parameters optimization took 0 rounds (0.005 sec)
+
+Time for fast ML tree search: 0.060 seconds
+
+NOTE: ModelFinder requires 1 MB RAM!
+Selecting individual models for 3 charsets using BIC...
+Full partition model BIC score: 11350.530 (LnL: -5461.024  df:54)
+Partition information was printed to benchmarks/copy_checks/trees/Paraglomerales/linked.best_scheme.nex
+Partition information in Raxml format was printed to benchmarks/copy_checks/trees/Paraglomerales/linked.best_scheme
+
+All model information printed to benchmarks/copy_checks/trees/Paraglomerales/linked.model.gz
+CPU time for ModelFinder: 0.913 seconds (0h:0m:0s)
+Wall-clock time for ModelFinder: 0.943 seconds (0h:0m:0s)
+Generating 1000 samples for ultrafast bootstrap (seed: 20261011)...
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -5526.701
+Current log-likelihood at step 1: -5484.613
+Current log-likelihood at step 2: -5461.651
+Current log-likelihood at step 3: -5460.943
+Current log-likelihood at step 4: -5460.903
+Partition-specific rates:  0.123 3.179 1.153
+Parameters optimization took 3 rounds (0.033 sec)
+
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 3.6122e-05 secs using 96.89% CPU
+Computing ML distances took 0.000048 sec (of wall-clock time) 0.000050 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 2.3963e-05 secs using 95.98% CPU
+Computing RapidNJ tree took 0.000093 sec (of wall-clock time) 0.000093 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -6340.234
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.089 second
+Computing log-likelihood of 98 initial trees ... 0.132 seconds
+Current best score: -5460.903
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -5460.903
+Current log-likelihood at step 1: -5460.900
+Parameters optimization took 0 rounds (0.005 sec)
+
+BETTER TREE FOUND at iteration 1: -5460.900
+UPDATE BEST LOG-LIKELIHOOD: -5460.893
+UPDATE BEST LOG-LIKELIHOOD: -5460.893
+Iteration 10 / LogL: -5461.531 / Time: 0h:0m:1s
+UPDATE BEST LOG-LIKELIHOOD: -5460.892
+UPDATE BEST LOG-LIKELIHOOD: -5460.892
+UPDATE BEST LOG-LIKELIHOOD: -5460.891
+UPDATE BEST LOG-LIKELIHOOD: -5460.891
+UPDATE BEST LOG-LIKELIHOOD: -5460.891
+UPDATE BEST LOG-LIKELIHOOD: -5460.891
+Iteration 20 / LogL: -5460.891 / Time: 0h:0m:1s
+Finish initializing candidate tree set (2)
+Current best tree score: -5460.891 / CPU time: 0.716
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -5460.519
+Current log-likelihood at step 1: -5460.246
+Current log-likelihood at step 2: -5460.231
+Parameters optimization took 1 rounds (0.008 sec)
+
+BETTER TREE FOUND at iteration 23: -5460.231
+UPDATE BEST LOG-LIKELIHOOD: -5460.227
+Iteration 30 / LogL: -5460.857 / Time: 0h:0m:2s (0h:0m:3s left)
+Iteration 40 / LogL: -5460.861 / Time: 0h:0m:2s (0h:0m:3s left)
+Iteration 50 / LogL: -5468.532 / Time: 0h:0m:2s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -5491.200
+Iteration 60 / LogL: -5460.237 / Time: 0h:0m:3s (0h:0m:2s left)
+Iteration 70 / LogL: -5460.856 / Time: 0h:0m:3s (0h:0m:2s left)
+Iteration 80 / LogL: -5463.343 / Time: 0h:0m:3s (0h:0m:1s left)
+Iteration 90 / LogL: -5461.167 / Time: 0h:0m:4s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -5460.223
+Iteration 100 / LogL: -5460.927 / Time: 0h:0m:4s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -5492.700
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 110 / LogL: -5461.165 / Time: 0h:0m:5s (0h:0m:3s left)
+Iteration 120 / LogL: -5460.929 / Time: 0h:0m:5s (0h:0m:3s left)
+TREE SEARCH COMPLETED AFTER 124 ITERATIONS / Time: 0h:0m:5s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+Initial log-likelihood: -5460.223
+Current log-likelihood at step 1: -5460.219
+Partition-specific rates:  0.121 3.235 1.120
+Parameters optimization took 0 rounds (0.004 sec)
+
+Partition information was printed to benchmarks/copy_checks/trees/Paraglomerales/linked.best_model.nex
+BEST SCORE FOUND : -5460.219
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.255 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file benchmarks/copy_checks/trees/Paraglomerales/linked.splits.nex
+Collapsing near-zero internal branches... 3 collapsed
+Total tree length: 0.161
+
+Total number of iterations: 124
+CPU time used for tree search: 4.041 sec (0h:0m:4s)
+Wall-clock time used for tree search: 4.669 sec (0h:0m:4s)
+Total CPU time used: 5.307 sec (0h:0m:5s)
+Total wall-clock time used: 5.976 sec (0h:0m:5s)
+
+Computing bootstrap consensus tree...
+Reading input file benchmarks/copy_checks/trees/Paraglomerales/linked.splits.nex...
+22 taxa and 131 splits.
+Consensus tree written to benchmarks/copy_checks/trees/Paraglomerales/linked.contree
+Reading input trees file benchmarks/copy_checks/trees/Paraglomerales/linked.contree
+Log-likelihood of consensus tree: -5460.244
+
+Analysis results written to: 
+  IQ-TREE report:                benchmarks/copy_checks/trees/Paraglomerales/linked.iqtree
+  Maximum-likelihood tree:       benchmarks/copy_checks/trees/Paraglomerales/linked.treefile
+  Likelihood distances:          benchmarks/copy_checks/trees/Paraglomerales/linked.mldist
+  Best partitioning scheme:      benchmarks/copy_checks/trees/Paraglomerales/linked.best_scheme.nex
+           in RAxML format:      benchmarks/copy_checks/trees/Paraglomerales/linked.best_scheme
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          benchmarks/copy_checks/trees/Paraglomerales/linked.splits.nex
+  Consensus tree:                benchmarks/copy_checks/trees/Paraglomerales/linked.contree
+  Screen log file:               benchmarks/copy_checks/trees/Paraglomerales/linked.log
+
+Date and Time: Sun Oct 11 14:06:17 2026

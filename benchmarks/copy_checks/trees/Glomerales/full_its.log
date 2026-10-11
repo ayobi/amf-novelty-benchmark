@@ -1,0 +1,658 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    vm (AVX512, FMA3, 7 GB RAM)
+Command: /home/claude/tools/iqtree-2.3.6-Linux-intel/bin/iqtree2 -s benchmarks/copy_checks/trees/Glomerales/full_its.aln.fasta -m MFP -B 1000 --alrt 1000 -czb --seed 20261011 -T 1 --prefix benchmarks/copy_checks/trees/Glomerales/full_its --quiet
+Seed:    20261011 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Oct 11 13:46:00 2026
+Kernel:  AVX+FMA - 1 threads (2 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 2 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file benchmarks/copy_checks/trees/Glomerales/full_its.aln.fasta ... Fasta format detected
+Reading fasta file: done in 0.00330835 secs using 99.96% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 376 sequences with 901 columns, 627 distinct patterns
+432 parsimony-informative, 82 singleton sites, 387 constant sites
+            Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000347914 secs using 100% CPU
+   1  PX207144.1   47.95%    passed     66.10%
+   2  PX207151.1   48.06%    passed     65.90%
+   3  PX207156.1   47.95%    passed     65.07%
+   4  PX207158.1   48.06%    passed     79.36%
+   5  PX207160.1   47.95%    passed     68.23%
+   6  PX207162.1   47.84%    passed     47.49%
+   7  PX207166.1   48.17%    passed     52.98%
+   8  PX207171.1   47.17%    passed     43.50%
+   9  PX207173.1   48.50%    passed     60.34%
+  10  PX207174.1   48.39%    passed     65.04%
+  11  PX207178.1   48.39%    passed     55.87%
+  12  PX207182.1   48.39%    passed     55.87%
+  13  PX207184.1   48.39%    passed     60.75%
+  14  PX207190.1   48.95%    passed     78.59%
+  15  PX207192.1   48.95%    passed     80.10%
+  16  PX207194.1   49.72%    passed     19.36%
+  17  PX207195.1   49.17%    passed     70.25%
+  18  PX207198.1   48.50%    passed     66.08%
+  19  PX207201.1   48.50%    passed     59.15%
+  20  PX207203.1   48.28%    passed     71.18%
+  21  PX207204.1   48.06%    passed     55.64%
+  22  PX207205.1   48.06%    passed     57.61%
+  23  PX207206.1   47.50%    passed     75.65%
+  24  PX207209.1   48.61%    passed     56.05%
+  25  PX207210.1   47.61%    passed     89.84%
+  26  PX207211.1   48.50%    passed     90.39%
+  27  PX207212.1   50.17%    passed     72.53%
+  28  PX207213.1   49.83%    passed     72.05%
+  29  PX207214.1   46.28%    passed     35.70%
+  30  PX207215.1   49.72%    passed     61.93%
+  31  PX207216.1   49.72%    passed     67.44%
+  32  PX207217.1   49.72%    passed     61.93%
+  33  PX207218.1   49.61%    passed     40.77%
+  34  PX207219.1   45.84%    passed     47.05%
+  35  PX207221.1   45.84%    passed     43.71%
+  36  PX207222.1   45.84%    passed     45.06%
+  37  PX207224.1   45.95%    passed     54.06%
+  38  PX207226.1   45.95%    passed     56.41%
+  39  PX207228.1   45.95%    passed     50.64%
+  40  PX207230.1   46.06%    passed     52.82%
+  41  PX207232.1   45.84%    passed     51.17%
+  42  PX207234.1   45.73%    passed     52.25%
+  43  PX207236.1   45.84%    passed     53.15%
+  44  PX207238.1   46.17%    passed     48.12%
+  45  PX207240.1   45.62%    passed     62.00%
+  46  PX207243.1   45.50%    passed     60.66%
+  47  PX207244.1   45.84%    passed     40.99%
+  48  PX207249.1   45.95%    passed     56.38%
+  49  PX207251.1   45.95%    passed     55.64%
+  50  PX207253.1   46.06%    passed     52.57%
+  51  PX207254.1   46.06%    passed     51.32%
+  52  PX207256.1   46.06%    passed     51.86%
+  53  PX207258.1   46.17%    passed     56.18%
+  54  PX207259.1   44.95%    passed     56.11%
+  55  PX207260.1   44.84%    passed     50.41%
+  56  PX207261.1   44.84%    passed     57.10%
+  57  PX207262.1   44.95%    passed     59.95%
+  58  PX207263.1   44.40%    passed     23.52%
+  59  PX207265.1   44.17%    passed     61.55%
+  60  PX207268.1   43.51%    passed     15.62%
+  61  PX207270.1   43.51%    passed     15.08%
+  62  PX207274.1   43.73%    passed     18.05%
+  63  PX214440.1   43.62%    passed     64.44%
+  64  PX214441.1   43.29%    passed     67.86%
+  65  PX214442.1   43.17%    passed     65.81%
+  66  PX214443.1   43.17%    passed     54.38%
+  67  PX214444.1   43.29%    passed     61.39%
+  68  PX214445.1   43.17%    passed     60.84%
+  69  PX214446.1   43.29%    passed     61.39%
+  70  PX214447.1   42.95%    passed     73.63%
+  71  PX214448.1   43.51%    passed     66.87%
+  72  PX214449.1   43.73%    passed     64.53%
+  73  PX214450.1   43.73%    passed     86.83%
+  74  PX214451.1   43.73%    passed     82.10%
+  75  PX214452.1   43.62%    passed     81.60%
+  76  PX214453.1   43.84%    passed     79.25%
+  77  PX214454.1   43.84%    passed     82.58%
+  78  PX214455.1   42.95%    passed     87.62%
+  79  PX214456.1   43.06%    passed     88.61%
+  80  PX214457.1   46.06%    passed     72.77%
+  81  PX214458.1   46.06%    passed     70.43%
+  82  PX214459.1   46.06%    passed     66.36%
+  83  PX214460.1   45.95%    passed     60.74%
+  84  PX214461.1   46.06%    passed     77.54%
+  85  PX214462.1   45.73%    passed     90.73%
+  86  PX214464.1   45.62%    passed     89.62%
+  87  PX214465.1   45.73%    passed     80.42%
+  88  PX214466.1   45.73%    passed     88.73%
+  89  PX214467.1   45.62%    passed     87.60%
+  90  PX214468.1   45.73%    passed     84.58%
+  91  PX214469.1   45.73%    passed     63.13%
+  92  PX214470.1   45.73%    passed     64.97%
+  93  PX214471.1   45.73%    passed     70.05%
+  94  PX214472.1   45.73%    passed     59.33%
+  95  PX214473.1   43.73%    passed     91.58%
+  96  PX214474.1   43.73%    passed     93.51%
+  97  PX214475.1   43.73%    passed     93.51%
+  98  PX214476.1   43.95%    passed     94.51%
+  99  PX214477.1   43.84%    passed     87.53%
+ 100  PX214478.1   44.06%    passed     84.54%
+ 101  PX214479.1   43.73%    passed     89.43%
+ 102  PX214480.1   43.40%    passed     92.47%
+ 103  PX214481.1   45.50%    passed     54.99%
+ 104  PX214482.1   45.84%    passed     66.19%
+ 105  PX214483.1   46.17%    passed     33.57%
+ 106  PX214484.1   46.61%    passed     33.78%
+ 107  PX214485.1   45.73%    passed     69.62%
+ 108  PX214486.1   45.84%    passed     48.33%
+ 109  PX214487.1   45.84%    passed     54.42%
+ 110  PX214490.1   45.84%    passed     57.76%
+ 111  PX214491.1   45.95%    passed     55.64%
+ 112  PX214492.1   45.95%    passed     54.06%
+ 113  PX214494.1   45.84%    passed     53.86%
+ 114  PX214495.1   45.84%    passed     51.76%
+ 115  PX214496.1   45.95%    passed     49.42%
+ 116  PX214497.1   45.95%    passed     56.38%
+ 117  PX214498.1   45.73%    passed     61.60%
+ 118  PX214499.1   45.39%    passed     47.85%
+ 119  PX214500.1   45.50%    passed     49.82%
+ 120  PX214501.1   45.62%    passed     56.85%
+ 121  PX214502.1   45.62%    passed     45.68%
+ 122  PX214503.1   45.73%    passed     41.57%
+ 123  PX214504.1   45.73%    passed     52.06%
+ 124  PX214506.1   45.62%    passed     40.33%
+ 125  PX214508.1   45.84%    passed     43.55%
+ 126  PX214509.1   45.62%    passed     45.17%
+ 127  PX214510.1   45.73%    passed     41.57%
+ 128  PX214511.1   45.39%    passed     47.57%
+ 129  PX214514.1   45.50%    passed     48.86%
+ 130  PX214515.1   45.39%    passed     47.57%
+ 131  PX214516.1   45.62%    passed     50.96%
+ 132  PX214518.1   45.62%    passed     56.85%
+ 133  PX214519.1   45.95%    passed     56.41%
+ 134  PX214520.1   46.06%    passed     57.82%
+ 135  PX214521.1   45.84%    passed     54.42%
+ 136  PX214522.1   45.62%    passed     45.68%
+ 137  PX214523.1   45.62%    passed     62.49%
+ 138  PX214525.1   45.50%    passed     55.31%
+ 139  PX214526.1   45.73%    passed     41.07%
+ 140  PX214527.1   45.73%    passed     39.54%
+ 141  PX214528.1   45.73%    passed     43.85%
+ 142  PX214529.1   45.73%    passed     43.85%
+ 143  PX214530.1   45.95%    passed     47.55%
+ 144  PX214531.1   45.62%    passed     44.64%
+ 145  PX214532.1   45.95%    passed     54.21%
+ 146  PX214534.1   45.95%    passed     64.86%
+ 147  PX214535.1   45.95%    passed     55.07%
+ 148  PX214536.1   45.84%    passed     47.29%
+ 149  PX214537.1   45.95%    passed     41.10%
+ 150  PX214538.1   45.84%    passed     33.12%
+ 151  PX214539.1   45.84%    passed     48.33%
+ 152  PX214540.1   45.95%    passed     50.13%
+ 153  PX214541.1   45.73%    passed     52.06%
+ 154  PX214542.1   46.61%    passed     38.40%
+ 155  PX214543.1   46.17%    passed     43.22%
+ 156  PX214544.1   45.95%    passed     38.70%
+ 157  PX214545.1   46.06%    passed     39.66%
+ 158  PX214546.1   45.95%    passed     56.38%
+ 159  PX214547.1   45.62%    passed     57.02%
+ 160  PX214548.1   45.73%    passed     47.72%
+ 161  PX214549.1   46.17%    passed     46.70%
+ 162  PX214550.1   46.28%    passed     48.67%
+ 163  PX214551.1   45.84%    passed     43.41%
+ 164  PX214552.1   45.95%    passed     50.64%
+ 165  PX214553.1   45.73%    passed     58.41%
+ 166  PX214554.1   45.84%    passed     60.50%
+ 167  PX214555.1   45.50%    passed     38.48%
+ 168  PX214556.1   45.84%    passed     43.94%
+ 169  PX214558.1   45.62%    passed     44.79%
+ 170  PX214559.1   45.62%    passed     48.67%
+ 171  PX214560.1   45.50%    passed     53.99%
+ 172  PX214561.1   45.50%    passed     47.08%
+ 173  PX214562.1   45.50%    passed     44.31%
+ 174  PX214563.1   45.50%    passed     49.55%
+ 175  PX214566.1   45.62%    passed     51.49%
+ 176  PX214567.1   45.28%    passed     45.35%
+ 177  PX214568.1   45.62%    passed     51.40%
+ 178  PX214569.1   45.73%    passed     58.22%
+ 179  PX214570.1   45.73%    passed     49.71%
+ 180  PX214571.1   46.17%    passed     54.73%
+ 181  PX214573.1   44.40%    passed     14.57%
+ 182  PX214575.1   43.62%    passed     11.31%
+ 183  PX214576.1   43.84%    passed     16.09%
+ 184  PX214577.1   43.95%    passed     17.24%
+ 185  PX214579.1   44.17%    passed     38.55%
+ 186  PX214580.1   44.73%    passed     47.19%
+ 187  PX214583.1   44.40%    failed      0.67%
+ 188  PX214584.1   44.73%    passed     10.81%
+ 189  PX214585.1   44.62%    passed     10.21%
+ 190  PX214586.1   44.06%    failed      3.74%
+ 191  PX214591.1   44.40%    failed      3.95%
+ 192  PX214592.1   42.73%    failed      1.99%
+ 193  PX214595.1   48.28%    passed     48.03%
+ 194  PX214596.1   47.84%    passed     52.79%
+ 195  PX214599.1   44.51%    passed     23.28%
+ 196  PX214600.1   44.28%    passed     21.07%
+ 197  PX214601.1   44.84%    passed     30.57%
+ 198  PX214602.1   44.51%    passed     32.07%
+ 199  PX214603.1   45.95%    passed     19.56%
+ 200  PX214608.1   45.84%    passed     27.72%
+ 201  PX214609.1   43.40%    passed     35.79%
+ 202  PX214610.1   42.95%    passed     31.19%
+ 203  PX214611.1   43.29%    passed     35.95%
+ 204  PX214612.1   43.29%    passed     41.07%
+ 205  PX214613.1   43.06%    passed     37.60%
+ 206  PX214614.1   42.95%    passed     35.59%
+ 207  PX214615.1   50.17%    passed     60.96%
+ 208  PX214616.1   49.94%    passed     53.47%
+ 209  PX214620.1   49.83%    passed     49.16%
+ 210  PX214621.1   50.17%    passed     56.75%
+ 211  PX214623.1   50.06%    passed     64.93%
+ 212  PX214624.1   50.06%    passed     69.39%
+ 213  PX214625.1   49.72%    passed     50.17%
+ 214  PX214629.1   47.84%    passed     72.04%
+ 215  PX214633.1   47.84%    passed     78.28%
+ 216  PX214636.1   48.39%    passed     78.04%
+ 217  PX214638.1   48.50%    passed     74.62%
+ 218  PX214639.1   48.39%    passed     81.89%
+ 219  PX214643.1   48.61%    passed     72.45%
+ 220  PX214645.1   50.83%    passed     99.36%
+ 221  PX214648.1   50.06%    passed     87.55%
+ 222  PX214649.1   50.06%    passed     89.89%
+ 223  PX214651.1   49.83%    passed     88.17%
+ 224  PX214652.1   48.17%    passed     88.11%
+ 225  PX214653.1   48.61%    passed     91.56%
+ 226  PX214656.1   48.17%    passed     97.35%
+ 227  PX214657.1   48.06%    passed     99.96%
+ 228  PX214658.1   48.06%    passed     99.97%
+ 229  PX214659.1   47.95%    passed     94.07%
+ 230  PX214660.1   43.51%    passed     78.07%
+ 231  PX214661.1   43.29%    passed     77.29%
+ 232  PX214662.1   43.29%    passed     99.24%
+ 233  PX214663.1   43.84%    passed     98.73%
+ 234  PX214664.1   51.61%    passed     96.05%
+ 235  PX214665.1   50.39%    passed     96.66%
+ 236  PX214666.1   51.72%    passed     97.19%
+ 237  PX214667.1   51.28%    passed     91.27%
+ 238  PX214669.1   50.61%    passed     95.50%
+ 239  PX214670.1   50.50%    passed     92.56%
+ 240  PX214671.1   51.05%    passed     98.96%
+ 241  PX214673.1   51.05%    passed     98.82%
+ 242  PX214675.1   48.39%    passed     97.68%
+ 243  PX214678.1   50.50%    passed     98.13%
+ 244  PX214680.1   50.50%    passed     97.70%
+ 245  PX214681.1   50.28%    passed     96.56%
+ 246  PX214682.1   50.06%    passed     97.29%
+ 247  PX214683.1   49.39%    passed     94.99%
+ 248  PX214684.1   50.39%    passed     72.28%
+ 249  PX214693.1   50.28%    passed     74.60%
+ 250  PX214694.1   50.50%    passed     76.28%
+ 251  PX214696.1   50.39%    passed     78.52%
+ 252  PX214701.1   50.28%    passed     80.54%
+ 253  PX214709.1   50.17%    passed     72.53%
+ 254  PX214710.1   50.06%    passed     97.84%
+ 255  PX214712.1   50.06%    passed     94.53%
+ 256  PX214713.1   50.50%    passed     82.26%
+ 257  PX214715.1   50.28%    passed     92.27%
+ 258  PX214718.1   48.28%    passed     97.17%
+ 259  PX214722.1   48.17%    passed     92.10%
+ 260  PX214726.1   48.17%    passed     93.47%
+ 261  PX214727.1   48.28%    passed     88.51%
+ 262  PX214729.1   50.28%    passed     74.60%
+ 263  PX214730.1   50.61%    passed     79.83%
+ 264  PX214731.1   48.39%    passed     95.45%
+ 265  PX214733.1   47.28%    passed     96.99%
+ 266  PX214734.1   48.17%    passed     93.01%
+ 267  PX214735.1   47.61%    passed     97.93%
+ 268  PX214743.1   43.51%    passed     97.51%
+ 269  PX214745.1   44.40%    passed     99.36%
+ 270  PX214746.1   49.28%    passed     62.96%
+ 271  PX214750.1   51.83%    passed     23.63%
+ 272  PX214751.1   50.28%    passed     35.18%
+ 273  PX214752.1   42.40%    passed     12.40%
+ 274  PX214755.1   49.61%    passed     48.24%
+ 275  PX214757.1   49.83%    passed     67.49%
+ 276  PX214758.1   50.17%    passed     32.91%
+ 277  PX214759.1   49.83%    passed     50.01%
+ 278  PX214760.1   50.72%    passed     46.06%
+ 279  PX214761.1   50.39%    passed     98.19%
+ 280  PX214762.1   50.50%    passed     96.51%
+ 281  PX214763.1   51.17%    passed     99.13%
+ 282  PX214765.1   50.83%    passed     98.00%
+ 283  PX214768.1   50.94%    passed     97.80%
+ 284  PX214769.1   51.17%    passed     99.51%
+ 285  PX214770.1   50.61%    passed     99.73%
+ 286  PX214771.1   51.39%    passed     98.79%
+ 287  PX214772.1   37.96%    passed     56.81%
+ 288  PX214773.1   48.17%    passed     48.93%
+ 289  PX214774.1   48.06%    passed     53.02%
+ 290  PX214775.1   49.39%    passed     91.69%
+ 291  PX214783.1   47.50%    passed     57.74%
+ 292  PX214784.1   47.61%    passed     59.80%
+ 293  PX214785.1   48.50%    passed     64.13%
+ 294  PX214796.1   48.72%    passed     48.97%
+ 295  PX214797.1   48.72%    passed     64.04%
+ 296  PX214798.1   48.83%    passed     68.40%
+ 297  PX214799.1   47.50%    passed     61.47%
+ 298  PX214801.1   47.39%    passed     54.95%
+ 299  PX214804.1   47.61%    passed     47.83%
+ 300  PX214805.1   47.50%    passed     50.88%
+ 301  PX214806.1   47.72%    passed     59.45%
+ 302  PX214813.1   46.50%    passed     84.89%
+ 303  PX214814.1   46.95%    passed     87.36%
+ 304  PX214815.1   46.95%    passed     87.51%
+ 305  PX214816.1   48.61%    passed     44.55%
+ 306  PX214818.1   48.06%    passed     64.98%
+ 307  PX214819.1   48.28%    passed     77.04%
+ 308  PX214820.1   48.28%    passed     75.79%
+ 309  PX214821.1   47.17%    passed     69.95%
+ 310  PX214822.1   47.06%    passed     65.33%
+ 311  PX214823.1   47.17%    passed     68.77%
+ 312  PX214824.1   47.61%    passed     63.12%
+ 313  PX214825.1   49.06%    passed     80.13%
+ 314  PX214826.1   48.28%    passed     73.60%
+ 315  PX214827.1   47.72%    passed     57.94%
+ 316  PX214828.1   47.61%    passed     66.83%
+ 317  PX214829.1   47.50%    passed     69.21%
+ 318  PX214830.1   47.50%    passed     63.60%
+ 319  PX214831.1   47.95%    passed     58.57%
+ 320  PX214832.1   48.61%    passed     54.08%
+ 321  PX214833.1   47.95%    passed     71.32%
+ 322  PX214834.1   47.84%    passed     66.85%
+ 323  PX214835.1   48.17%    passed     69.62%
+ 324  PX214836.1   49.06%    passed     80.84%
+ 325  PX214837.1   48.39%    passed     80.87%
+ 326  PX214838.1   48.39%    passed     84.87%
+ 327  PX214839.1   48.06%    passed     78.27%
+ 328  PX214840.1   48.39%    passed     84.64%
+ 329  PX214841.1   49.72%    passed     28.83%
+ 330  PX214842.1   48.17%    passed     73.32%
+ 331  PX214843.1   47.39%    passed     52.89%
+ 332  PX214844.1   47.72%    passed     67.46%
+ 333  PX214845.1   48.17%    passed     62.94%
+ 334  PX214846.1   48.17%    passed     62.92%
+ 335  PX214847.1   48.17%    passed     67.51%
+ 336  PX214848.1   48.28%    passed     67.72%
+ 337  PX214849.1   48.50%    passed     67.42%
+ 338  PX214854.1   47.95%    passed     68.39%
+ 339  PX214855.1   47.17%    passed     36.45%
+ 340  PX214856.1   48.06%    passed     75.91%
+ 341  PX214858.1   48.06%    passed     67.12%
+ 342  PX214859.1   48.06%    passed     73.35%
+ 343  PX214860.1   47.61%    passed     68.34%
+ 344  PX214862.1   47.84%    passed     65.77%
+ 345  PX214863.1   48.06%    passed     34.79%
+ 346  PX214865.1   47.28%    passed     28.24%
+ 347  PX214869.1   48.06%    passed     63.05%
+ 348  PX214871.1   46.39%    passed     58.83%
+ 349  PX214873.1   46.73%    passed     58.81%
+ 350  PX214874.1   46.50%    passed     61.51%
+ 351  PX214876.1   46.28%    passed     62.08%
+ 352  PX214877.1   45.28%    passed     68.90%
+ 353  PX214879.1   45.28%    passed     72.32%
+ 354  PX214880.1   49.17%    passed     17.94%
+ 355  PX214882.1   49.28%    passed     20.63%
+ 356  PX214884.1   49.28%    passed     16.60%
+ 357  PX214886.1   49.50%    passed      9.14%
+ 358  PX214887.1   49.17%    passed      8.49%
+ 359  PX214888.1   49.17%    passed      8.33%
+ 360  PX214889.1   49.61%    passed     13.77%
+ 361  PX214891.1   49.39%    passed     18.74%
+ 362  PX214893.1   50.39%    passed     17.76%
+ 363  PX214894.1   49.50%    passed     31.59%
+ 364  PX214896.1   49.72%    passed     34.16%
+ 365  PX214897.1   49.72%    passed     21.31%
+ 366  PX214898.1   49.61%    passed     15.69%
+ 367  PX214899.1   50.06%    passed      8.87%
+ 368  PX214900.1   50.50%    passed     28.35%
+ 369  PX214901.1   50.83%    passed     15.47%
+ 370  PX214902.1   50.72%    passed     19.00%
+ 371  PX214903.1   49.50%    passed      9.50%
+ 372  PX214904.1   49.50%    passed     17.81%
+ 373  PX214905.1   50.28%    passed     14.33%
+ 374  PX214906.1   49.94%    passed     15.32%
+ 375  PX214907.1   50.17%    passed     30.53%
+ 376  PX214908.1   49.83%    passed     11.78%
+WARNING: 51 sequences contain more than 50% gaps/ambiguity
+****  TOTAL        47.06%  4 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.037 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -15981.046
+Optimal log-likelihood: -15980.940
+Rate parameters:  A-C: 0.84555  A-G: 3.34576  A-T: 1.85119  C-G: 0.47317  C-T: 4.48792  G-T: 1.00000
+Base frequencies:  A: 0.295  C: 0.174  G: 0.196  T: 0.334
+Proportion of invariable sites: 0.209
+Gamma shape alpha: 1.510
+Parameters optimization took 1 rounds (0.326 sec)
+Time for fast ML tree search: 2.969 seconds
+
+NOTE: ModelFinder requires 79 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 901 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         16969.761    757 35453.521    43478.780    39089.775
+  2  GTR+F+I       16276.350    758 34068.701    42171.827    37709.758
+  3  GTR+F+G4      16031.999    758 33579.999    41683.125    37221.056
+  4  GTR+F+I+G4    15980.930    759 33479.860    41661.987    37125.720
+  5  GTR+F+R2      16113.656    759 33745.312    41927.440    37391.172
+  6  GTR+F+R3      15994.988    761 33511.976    41855.602    37167.443
+  7  GTR+F+R4      15970.865    763 33467.730    41977.686    37132.805
+  8  GTR+F+R5      15969.218    765 33468.435    42149.768    37143.117
+ 14  GTR+F+I+R2    16034.148    760 33588.296    41850.582    37238.960
+ 15  GTR+F+I+R3    15970.340    762 33464.679    41890.853    37124.950
+ 16  GTR+F+I+R4    15966.088    764 33460.175    42055.175    37130.053
+ 26  SYM+I+G4      16167.589    756 33847.178    41795.678    37478.628
+ 29  SYM+R4        16166.015    760 33852.030    42114.316    37502.694
+ 37  SYM+I+R3      16162.670    759 33843.340    42025.467    37489.200
+ 38  SYM+I+R4      16157.495    761 33836.991    42180.616    37492.458
+ 48  TVM+F+I+G4    15991.334    758 33498.668    41601.795    37139.725
+ 51  TVM+F+R4      15977.596    762 33479.192    41905.366    37139.463
+ 59  TVM+F+I+R3    15979.804    761 33481.609    41825.235    37137.076
+ 60  TVM+F+I+R4    15976.180    763 33478.360    41988.316    37143.434
+ 70  TVMe+I+G4     16173.992    755 33857.984    41730.812    37484.631
+ 73  TVMe+R4       16170.020    759 33858.039    42040.167    37503.900
+ 81  TVMe+I+R3     16168.636    758 33853.272    41956.399    37494.329
+ 82  TVMe+I+R4     16164.164    760 33848.329    42110.615    37498.993
+ 92  TIM3+F+I+G4   16016.260    757 33546.521    41571.779    37182.774
+ 95  TIM3+F+R4     16003.899    761 33529.797    41873.423    37185.265
+103  TIM3+F+I+R3   16005.340    760 33530.680    41792.966    37181.344
+104  TIM3+F+I+R4   16001.319    762 33526.639    41952.813    37186.910
+114  TIM3e+I+G4    16263.617    754 34035.235    41833.454    37657.078
+117  TIM3e+R4      16259.623    758 34035.246    42138.373    37676.303
+125  TIM3e+I+R3    16257.986    757 34029.972    42055.231    37666.226
+126  TIM3e+I+R4    16251.941    759 34021.882    42204.010    37667.743
+136  TIM2+F+I+G4   16024.475    757 33562.950    41588.208    37199.203
+139  TIM2+F+R4     16011.078    761 33544.156    41887.782    37199.623
+147  TIM2+F+I+R3   16014.968    760 33549.935    41812.221    37200.599
+148  TIM2+F+I+R4   16008.887    762 33541.773    41967.947    37202.044
+158  TIM2e+I+G4    16303.757    754 34115.514    41913.733    37737.357
+161  TIM2e+R4      16294.461    758 34104.923    42208.049    37745.980
+169  TIM2e+I+R3    16294.827    757 34103.654    42128.913    37739.907
+170  TIM2e+I+R4    16290.500    759 34098.999    42281.127    37744.860
+180  TIM+F+I+G4    16033.739    757 33581.479    41606.738    37217.732
+183  TIM+F+R4      16019.946    761 33561.892    41905.518    37217.360
+191  TIM+F+I+R3    16023.733    760 33567.466    41829.752    37218.130
+192  TIM+F+I+R4    16018.167    762 33560.333    41986.507    37220.604
+202  TIMe+I+G4     16335.140    754 34178.280    41976.499    37800.123
+205  TIMe+R4       16323.828    758 34163.655    42266.782    37804.712
+213  TIMe+I+R3     16324.508    757 34163.016    42188.275    37799.269
+214  TIMe+I+R4     16320.511    759 34159.022    42341.150    37804.883
+224  TPM3u+F+I+G4  16025.815    756 33563.630    41512.130    37195.080
+227  TPM3u+F+R4    16010.620    760 33541.240    41803.526    37191.904
+235  TPM3u+F+I+R3  16014.846    759 33547.692    41729.819    37193.552
+236  TPM3u+F+I+R4  16010.706    761 33543.412    41887.038    37198.879
+246  TPM3+I+G4     16270.634    753 34047.267    41771.920    37664.306
+249  TPM3+R4       16264.415    757 34042.831    42068.089    37679.084
+257  TPM3+I+R3     16264.325    756 34040.650    41989.150    37672.100
+258  TPM3+I+R4     16259.439    758 34034.878    42138.005    37675.935
+268  TPM2u+F+I+G4  16035.343    756 33582.686    41531.186    37214.136
+271  TPM2u+F+R4    16019.361    760 33558.723    41821.009    37209.387
+279  TPM2u+F+I+R3  16024.294    759 33566.587    41748.715    37212.448
+280  TPM2u+F+I+R4  16019.645    761 33561.289    41904.915    37216.757
+290  TPM2+I+G4     16308.932    753 34123.865    41848.518    37740.904
+293  TPM2+R4       16297.570    757 34109.139    42134.398    37745.393
+301  TPM2+I+R3     16299.796    756 34111.591    42060.091    37743.041
+302  TPM2+I+R4     16295.311    758 34106.621    42209.748    37747.678
+312  K3Pu+F+I+G4   16044.112    756 33600.224    41548.724    37231.674
+315  K3Pu+F+R4     16027.631    760 33575.262    41837.548    37225.926
+323  K3Pu+F+I+R3   16032.651    759 33583.302    41765.430    37229.163
+324  K3Pu+F+I+R4   16028.354    761 33578.707    41922.333    37234.175
+334  K3P+I+G4      16340.958    753 34187.915    41912.568    37804.955
+337  K3P+R4        16327.550    757 34169.100    42194.359    37805.354
+345  K3P+I+R3      16329.964    756 34171.928    42120.428    37803.378
+346  K3P+I+R4      16326.106    758 34168.213    42271.340    37809.270
+356  TN+F+I+G4     16058.265    756 33628.529    41577.029    37259.979
+359  TN+F+R4       16044.076    760 33608.152    41870.438    37258.816
+367  TN+F+I+R3     16047.883    759 33613.766    41795.894    37259.627
+368  TN+F+I+R4     16042.683    761 33607.367    41950.993    37262.834
+378  TNe+I+G4      16392.477    753 34290.955    42015.608    37907.994
+381  TNe+R4        16381.033    757 34276.066    42301.324    37912.319
+389  TNe+I+R3      16382.058    756 34276.115    42224.615    37907.565
+390  TNe+I+R4      16377.990    758 34271.980    42375.107    37913.037
+400  HKY+F+I+G4    16068.640    755 33647.280    41520.107    37273.926
+403  HKY+F+R4      16052.009    759 33622.019    41804.146    37267.879
+411  HKY+F+I+R3    16057.104    758 33630.207    41733.334    37271.264
+412  HKY+F+I+R4    16052.891    760 33625.782    41888.068    37276.446
+422  K2P+I+G4      16398.203    752 34300.406    41952.514    37912.642
+425  K2P+R4        16384.990    756 34281.979    42230.479    37913.429
+433  K2P+I+R3      16387.430    755 34284.860    42157.688    37911.507
+434  K2P+I+R4      16383.549    757 34281.099    42306.357    37917.352
+444  F81+F+I+G4    16478.324    754 34464.648    42262.867    38086.491
+447  F81+F+R4      16461.449    758 34438.897    42542.024    38079.954
+455  F81+F+I+R3    16465.010    757 34444.019    42469.278    38080.273
+456  F81+F+I+R4    16461.690    759 34441.379    42623.507    38087.240
+466  JC+I+G4       16719.291    751 34940.581    42521.145    38548.014
+469  JC+R4         16705.342    755 34920.685    42793.512    38547.331
+477  JC+I+R3       16707.613    754 34923.227    42721.446    38545.070
+478  JC+I+R4       16704.352    756 34920.703    42869.203    38552.153
+Akaike Information Criterion:           GTR+F+I+R4
+Corrected Akaike Information Criterion: TPM3u+F+I+G4
+Bayesian Information Criterion:         GTR+F+I+R3
+Best-fit model: GTR+F+I+R3 chosen according to BIC
+
+All model information printed to benchmarks/copy_checks/trees/Glomerales/full_its.model.gz
+CPU time for ModelFinder: 150.764 seconds (0h:2m:30s)
+Wall-clock time for ModelFinder: 152.885 seconds (0h:2m:32s)
+Generating 1000 samples for ultrafast bootstrap (seed: 20261011)...
+
+NOTE: 25 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -16468.200
+2. Current log-likelihood: -15974.510
+3. Current log-likelihood: -15970.506
+Optimal log-likelihood: -15970.457
+Rate parameters:  A-C: 0.84335  A-G: 3.36285  A-T: 1.83564  C-G: 0.48352  C-T: 4.40673  G-T: 1.00000
+Base frequencies:  A: 0.295  C: 0.174  G: 0.196  T: 0.334
+Proportion of invariable sites: 0.201
+Site proportion and rates:  (0.185,0.232) (0.456,1.108) (0.158,2.866)
+Parameters optimization took 3 rounds (1.535 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.394003 secs using 99.22% CPU
+Computing ML distances took 0.394937 sec (of wall-clock time) 0.391878 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0058158 secs using 99.92% CPU
+Computing RapidNJ tree took 0.016465 sec (of wall-clock time) 0.016455 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -16314.556
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 4.925 second
+Computing log-likelihood of 98 initial trees ... 4.846 seconds
+Current best score: -15970.457
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -15964.297
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -15920.692
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -15913.967
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -15910.482
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 9: -15908.111
+Iteration 10 / LogL: -15927.447 / Time: 0h:3m:17s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 18: -15906.457
+Iteration 20 / LogL: -15925.583 / Time: 0h:3m:48s
+Finish initializing candidate tree set (20)
+Current best tree score: -15906.457 / CPU time: 72.660
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -15903.879
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -15901.805
+Iteration 30 / LogL: -15919.262 / Time: 0h:4m:12s (0h:5m:36s left)
+Iteration 40 / LogL: -15914.105 / Time: 0h:4m:34s (0h:4m:34s left)
+Iteration 50 / LogL: -15903.003 / Time: 0h:4m:55s (0h:3m:47s left)
+Log-likelihood cutoff on original alignment: -15976.545
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 60: -15898.753
+Iteration 60 / LogL: -15898.753 / Time: 0h:5m:18s (0h:4m:40s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 64: -15894.368
+Iteration 70 / LogL: -15918.207 / Time: 0h:5m:40s (0h:4m:15s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 75: -15885.935
+Iteration 80 / LogL: -15898.382 / Time: 0h:6m:4s (0h:4m:14s left)
+Iteration 90 / LogL: -15902.674 / Time: 0h:6m:29s (0h:3m:45s left)
+Iteration 100 / LogL: -15942.803 / Time: 0h:6m:49s (0h:3m:14s left)
+Log-likelihood cutoff on original alignment: -15961.228
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.989
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -15892.161 / Time: 0h:7m:14s (0h:3m:52s left)
+Iteration 120 / LogL: -15933.784 / Time: 0h:7m:38s (0h:3m:25s left)
+Iteration 130 / LogL: -15898.531 / Time: 0h:8m:5s (0h:3m:0s left)
+Iteration 140 / LogL: -16030.742 / Time: 0h:8m:28s (0h:2m:33s left)
+Iteration 150 / LogL: -15925.816 / Time: 0h:8m:50s (0h:2m:6s left)
+Log-likelihood cutoff on original alignment: -15961.228
+Iteration 160 / LogL: -15920.834 / Time: 0h:9m:13s (0h:1m:40s left)
+Iteration 170 / LogL: -15944.248 / Time: 0h:9m:37s (0h:1m:15s left)
+Iteration 180 / LogL: -15938.876 / Time: 0h:10m:1s (0h:0m:50s left)
+Iteration 190 / LogL: -15938.176 / Time: 0h:10m:21s (0h:0m:24s left)
+Iteration 200 / LogL: -15915.864 / Time: 0h:10m:46s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -15961.228
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+TREE SEARCH COMPLETED AFTER 200 ITERATIONS / Time: 0h:10m:47s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -15885.935
+2. Current log-likelihood: -15885.919
+3. Current log-likelihood: -15885.904
+4. Current log-likelihood: -15885.889
+5. Current log-likelihood: -15885.874
+6. Current log-likelihood: -15885.860
+7. Current log-likelihood: -15885.849
+8. Current log-likelihood: -15885.836
+9. Current log-likelihood: -15885.826
+Optimal log-likelihood: -15885.811
+Rate parameters:  A-C: 0.88973  A-G: 3.53394  A-T: 1.89184  C-G: 0.55242  C-T: 4.68838  G-T: 1.00000
+Base frequencies:  A: 0.295  C: 0.174  G: 0.196  T: 0.334
+Proportion of invariable sites: 0.198
+Site proportion and rates:  (0.189,0.219) (0.474,1.124) (0.139,3.060)
+Parameters optimization took 9 rounds (2.554 sec)
+BEST SCORE FOUND : -15885.811
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+4.970 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file benchmarks/copy_checks/trees/Glomerales/full_its.splits.nex
+Collapsing near-zero internal branches... 98 collapsed
+Total tree length: 8.791
+
+Total number of iterations: 200
+CPU time used for tree search: 477.907 sec (0h:7m:57s)
+Wall-clock time used for tree search: 492.433 sec (0h:8m:12s)
+Total CPU time used: 639.792 sec (0h:10m:39s)
+Total wall-clock time used: 656.634 sec (0h:10m:56s)
+
+Computing bootstrap consensus tree...
+Reading input file benchmarks/copy_checks/trees/Glomerales/full_its.splits.nex...
+376 taxa and 4584 splits.
+Consensus tree written to benchmarks/copy_checks/trees/Glomerales/full_its.contree
+Reading input trees file benchmarks/copy_checks/trees/Glomerales/full_its.contree
+Log-likelihood of consensus tree: -15889.401
+
+Analysis results written to: 
+  IQ-TREE report:                benchmarks/copy_checks/trees/Glomerales/full_its.iqtree
+  Maximum-likelihood tree:       benchmarks/copy_checks/trees/Glomerales/full_its.treefile
+  Likelihood distances:          benchmarks/copy_checks/trees/Glomerales/full_its.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          benchmarks/copy_checks/trees/Glomerales/full_its.splits.nex
+  Consensus tree:                benchmarks/copy_checks/trees/Glomerales/full_its.contree
+  Screen log file:               benchmarks/copy_checks/trees/Glomerales/full_its.log
+
+Date and Time: Sun Oct 11 13:56:58 2026
