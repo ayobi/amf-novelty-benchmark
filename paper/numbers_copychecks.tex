@@ -1,0 +1,362 @@
+% written by analysis/copy_checks_numbers.py from benchmarks/copy_checks
+\newcommand{\MonoCultSSUAll}{17}
+\newcommand{\MonoSpSSUAll}{28}
+\newcommand{\MonoCultSSUMain}{19}
+\newcommand{\MonoSpSSUMain}{28}
+\newcommand{\MonoCultITSAll}{18}
+\newcommand{\MonoSpITSAll}{24}
+\newcommand{\MonoCultITSMain}{24}
+\newcommand{\MonoSpITSMain}{29}
+\newcommand{\MonoCultLSUAll}{19}
+\newcommand{\MonoSpLSUAll}{28}
+\newcommand{\MonoCultLSUMain}{22}
+\newcommand{\MonoSpLSUMain}{30}
+\newcommand{\MonoCultLinkedAll}{23}
+\newcommand{\MonoSpLinkedAll}{31}
+\newcommand{\MonoCultLinkedMain}{28}
+\newcommand{\MonoSpLinkedMain}{35}
+% cultures with >= 2 copies
+\newcommand{\MonoCultN}{139}
+\newcommand{\MonoCultPctMin}{12\%}
+\newcommand{\MonoCultPctMax}{20\%}
+% median share of a non-monophyletic culture's copies outside its largest pure clade (linked, main type)
+\newcommand{\MonoCultEscMedian}{67\%}
+% species monophyletic on the linked tree only once divergent copies are pruned
+\newcommand{\MonoFixedN}{4}
+\newcommand{\MonoComplexLinkedMain}{4/4}
+\newcommand{\ArtShortParalog}{0}
+\newcommand{\ArtShortRecDel}{22}
+\newcommand{\ArtShortUnres}{0}
+\newcommand{\ArtShortArtefact}{21}
+\newcommand{\ArtShortArtefactTen}{2}
+\newcommand{\ArtSameParalog}{3}
+\newcommand{\ArtSameRecDel}{0}
+\newcommand{\ArtSameUnres}{2}
+\newcommand{\ArtSameArtefact}{3}
+\newcommand{\ArtSameArtefactTen}{0}
+% long-deletion threshold, nt
+\newcommand{\ArtLConserved}{3}
+\newcommand{\ArtLSpacer}{5}
+\newcommand{\ArtMainFlagged}{5}
+% post hoc: short-5.8S copies whose 5.8S deletion (same length, start within 2 nt) occurs under another label
+\newcommand{\ShDelRecur}{43}
+\newcommand{\ShDelRecurArtefact}{21}
+\newcommand{\ShSixCopies}{40}
+\newcommand{\ShSixMain}{1}
+\newcommand{\ShSixCultures}{23}
+% function check, ssu_flank, short-5.8S copies
+\newcommand{\FnSSUIrr}{7}
+\newcommand{\FnSSUSubs}{0.07}
+\newcommand{\FnSSUSubsBase}{0.00}
+\newcommand{\FnSSUDeg}{3}
+\newcommand{\FnSSUBrokenShort}{10.0\%}
+\newcommand{\FnSSUBrokenBase}{10.6\%}
+\newcommand{\FnSSUDiff}{+0.0}
+\newcommand{\FnSSUP}{0.17}
+% function check, s58, short-5.8S copies
+\newcommand{\FnFiveIrr}{25}
+\newcommand{\FnFiveSubs}{2.00}
+\newcommand{\FnFiveSubsBase}{0.00}
+\newcommand{\FnFiveDeg}{2}
+\newcommand{\FnFiveBrokenShort}{16.0\%}
+\newcommand{\FnFiveBrokenBase}{4.0\%}
+\newcommand{\FnFiveDiff}{+12.0}
+\newcommand{\FnFiveP}{$<10^{-8}$}
+% function check, lsu_flank, short-5.8S copies
+\newcommand{\FnLSUIrr}{25}
+\newcommand{\FnLSUSubs}{4.62}
+\newcommand{\FnLSUSubsBase}{0.12}
+\newcommand{\FnLSUDeg}{12}
+\newcommand{\FnLSUBrokenShort}{7.6\%}
+\newcommand{\FnLSUBrokenBase}{8.5\%}
+\newcommand{\FnLSUDiff}{+0.8}
+\newcommand{\FnLSUP}{0.07}
+\newcommand{\FnLSUDegPct}{28\%}
+\newcommand{\FnShortN}{43}
+\newcommand{\FnSameSSUDeg}{0}
+\newcommand{\FnSameFiveDeg}{0}
+\newcommand{\FnSameLSUDeg}{0}
+\newcommand{\FnVerdictShort}{structurally degraded}
+\newcommand{\FnVerdictSame}{structurally intact}
+% short copies whose 5.8S deletion removes paired positions of the 121-130 hairpin
+\newcommand{\FnHairpinShort}{40}
+\newcommand{\FnHairpinMain}{2}
+% short copies whose 5.8S deletion removes only unpaired positions
+\newcommand{\FnUnpairedShort}{3}
+% loops of the shortened 5.8S hairpin in the short copies (post hoc)
+\newcommand{\FnLoopUUCG}{25}
+\newcommand{\FnLoopUUUG}{10}
+\newcommand{\FnLoopCUCG}{5}
+\newcommand{\FnLoopOther}{0}
+% short copies whose shortened 6-bp stem is all Watson-Crick
+\newcommand{\FnStemAllWC}{36}
+\newcommand{\FnITSTwoBPShort}{0.16}
+\newcommand{\FnITSTwoBPBase}{0.00}
+\newcommand{\FnITSTwoMFEShort}{-0.23}
+\newcommand{\FnITSTwoMFEBase}{-0.26}
+% ssu_flank: share of main-type copies with a congener within the within-species spread
+\newcommand{\ThrSSUCongener}{80.1\%}
+\newcommand{\ThrSSUSameCulture}{0.00\%}
+\newcommand{\ThrSSUSameSpecies}{0.00\%}
+\newcommand{\ThrSSUOtherGenus}{2.7\%}
+\newcommand{\ThrSSUOtherGenusSpread}{0.0\%}
+% full_its: share of main-type copies with a congener within the within-species spread
+\newcommand{\ThrITSCongener}{39.5\%}
+\newcommand{\ThrITSSameCulture}{0.41\%}
+\newcommand{\ThrITSSameSpecies}{0.66\%}
+\newcommand{\ThrITSOtherGenus}{21.8\%}
+\newcommand{\ThrITSOtherGenusSpread}{0.0\%}
+% LSU_LROR-FLR2: share of main-type copies with a congener within the within-species spread
+\newcommand{\ThrLSUCongener}{54.5\%}
+\newcommand{\ThrLSUSameCulture}{0.14\%}
+\newcommand{\ThrLSUSameSpecies}{0.14\%}
+\newcommand{\ThrLSUOtherGenus}{11.1\%}
+\newcommand{\ThrLSUOtherGenusSpread}{0.0\%}
+% SSU_VT_NS31-AM1: share of main-type copies with a congener within the within-species spread
+\newcommand{\ThrVTCongener}{93.7\%}
+\newcommand{\ThrVTSameCulture}{0.00\%}
+\newcommand{\ThrVTSameSpecies}{0.00\%}
+\newcommand{\ThrVTOtherGenus}{3.9\%}
+\newcommand{\ThrVTOtherGenusSpread}{13.5\%}
+% within-species spread on the VT fragment (99th pct)
+\newcommand{\ThrVTSpread}{1.7\%}
+% VT fragment: share of main-type copies with a congener / another genus within 3%
+\newcommand{\ThrVTCongenerDB}{98.7\%}
+\newcommand{\ThrVTOtherGenusDB}{15.2\%}
+\newcommand{\ThrVTOtherGenusN}{121}
+\newcommand{\ThrVTOtherGenusDen}{794}
+% of them, copies outside Cetraspora, Gigaspora and Dentiscutata
+\newcommand{\ThrVTOtherGenusNotGiga}{4}
+% full ITS: share of main-type copies more than 1.5% from every other main-type copy of their culture
+\newcommand{\ThrITSSameCultureAboveSH}{24.4\%}
+\newcommand{\ThrITSSameSpeciesAboveSH}{34.4\%}
+\newcommand{\ThrITSCongenerDB}{1.8\%}
+\newcommand{\ThrPairsN}{5{,}196}
+% culture pairs with SSU distance above half the ITS distance
+\newcommand{\ThrPairsAbove}{6}
+\newcommand{\ThrPairsAboveMaxSSU}{0.48\%}
+\newcommand{\ThrPairsRuleA}{0}
+% median SSU-flank / full-ITS distance, culture pairs >= 2% apart in ITS
+\newcommand{\ThrPairsRatio}{0.14}
+% clades made only of short-5.8S copies in the Rhizophagus clade (SH-aLRT/UFBoot)
+\newcommand{\TreeShortClades}{\spn{Rhizophagus irregularis} with \spn{{[}Rhizoglomus{]} vesiculiferum} (26 copies and 1 copy filed as main type; 100/92); \spn{Rhizophagus intraradices} with \spn{Rhizophagus prolifer} (8 copies; 100/99); \spn{Rhizophagus silesianus} (3 copies; 100/100); \spn{Rhizophagus irregularis} with \spn{Rhizophagus} sp. (2 copies; 100/100); \spn{Rhizophagus irregularis} (1 copy)}
+\newcommand{\TreeShortCladesN}{5}
+% short copies in the Rhizophagus clade; of them, in short-only clades of two or more tips; in such clades of two taxa
+\newcommand{\TreeShortTotal}{40}
+\newcommand{\TreeShortInMulti}{39}
+\newcommand{\TreeShortMultiN}{4}
+\newcommand{\TreeShortCross}{36}
+\newcommand{\TreeShortCrossN}{3}
+\newcommand{\TreeRhizTips}{103}
+\newcommand{\TreeRhizCopies}{154}
+% Kruger fragment (SSUmAf1 site to LSUmBr) and whole copy: lengths, nt
+\newcommand{\LongKrMedian}{1{,}577}
+\newcommand{\LongKrMin}{1{,}451}
+\newcommand{\LongKrMax}{1{,}678}
+\newcommand{\LongFullMedian}{2{,}758}
+% within-species spread (99th pct)
+\newcommand{\LongKrSpread}{3.3\%}
+\newcommand{\LongFullSpread}{1.9\%}
+% full_its at 97% identity: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongITSNSId}{97.00\%}
+\newcommand{\LongITSNSSplit}{10.6\%}
+\newcommand{\LongITSNSSplitSp}{3.4\%}
+\newcommand{\LongITSNSJoin}{6.5\%}
+\newcommand{\LongITSNSJoinX}{0.0\%}
+% full_its at 98.5% identity: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongITSNEId}{98.50\%}
+\newcommand{\LongITSNESplit}{24.4\%}
+\newcommand{\LongITSNESplitSp}{13.7\%}
+\newcommand{\LongITSNEJoin}{1.8\%}
+\newcommand{\LongITSNEJoinX}{0.0\%}
+% full_its at best single threshold: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongITSBestId}{96.55\%}
+\newcommand{\LongITSBestSplit}{8.7\%}
+\newcommand{\LongITSBestSplitSp}{2.1\%}
+\newcommand{\LongITSBestJoin}{7.8\%}
+\newcommand{\LongITSBestJoinX}{0.0\%}
+% full_its at best single threshold, complexes aside: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongITSBestXId}{94.95\%}
+\newcommand{\LongITSBestXSplit}{3.6\%}
+\newcommand{\LongITSBestXSplitSp}{0.7\%}
+\newcommand{\LongITSBestXJoin}{32.4\%}
+\newcommand{\LongITSBestXJoinX}{3.1\%}
+% full_its at within-species spread: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongITSSprId}{94.01\%}
+\newcommand{\LongITSSprSplit}{2.7\%}
+\newcommand{\LongITSSprSplitSp}{0.5\%}
+\newcommand{\LongITSSprJoin}{39.5\%}
+\newcommand{\LongITSSprJoinX}{11.8\%}
+% kruger at 97% identity: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongKrNSId}{97.00\%}
+\newcommand{\LongKrNSSplit}{4.1\%}
+\newcommand{\LongKrNSSplitSp}{0.6\%}
+\newcommand{\LongKrNSJoin}{19.1\%}
+\newcommand{\LongKrNSJoinX}{0.3\%}
+% kruger at 98.5% identity: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongKrNEId}{98.50\%}
+\newcommand{\LongKrNESplit}{9.3\%}
+\newcommand{\LongKrNESplitSp}{2.9\%}
+\newcommand{\LongKrNEJoin}{1.1\%}
+\newcommand{\LongKrNEJoinX}{0.0\%}
+% kruger at best single threshold: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongKrBestId}{98.15\%}
+\newcommand{\LongKrBestSplit}{6.7\%}
+\newcommand{\LongKrBestSplitSp}{1.7\%}
+\newcommand{\LongKrBestJoin}{7.0\%}
+\newcommand{\LongKrBestJoinX}{0.0\%}
+% kruger at best single threshold, complexes aside: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongKrBestXId}{96.55\%}
+\newcommand{\LongKrBestXSplit}{3.0\%}
+\newcommand{\LongKrBestXSplitSp}{0.5\%}
+\newcommand{\LongKrBestXJoin}{32.1\%}
+\newcommand{\LongKrBestXJoinX}{2.6\%}
+% kruger at within-species spread: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongKrSprId}{96.70\%}
+\newcommand{\LongKrSprSplit}{3.3\%}
+\newcommand{\LongKrSprSplitSp}{0.6\%}
+\newcommand{\LongKrSprJoin}{25.6\%}
+\newcommand{\LongKrSprJoinX}{2.1\%}
+% full at 97% identity: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongFullNSId}{97.00\%}
+\newcommand{\LongFullNSSplit}{1.1\%}
+\newcommand{\LongFullNSSplitSp}{0.1\%}
+\newcommand{\LongFullNSJoin}{77.1\%}
+\newcommand{\LongFullNSJoinX}{36.0\%}
+% full at 98.5% identity: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongFullNEId}{98.50\%}
+\newcommand{\LongFullNESplit}{5.1\%}
+\newcommand{\LongFullNESplitSp}{1.2\%}
+\newcommand{\LongFullNEJoin}{15.6\%}
+\newcommand{\LongFullNEJoinX}{0.0\%}
+% full at best single threshold: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongFullBestId}{98.90\%}
+\newcommand{\LongFullBestSplit}{7.0\%}
+\newcommand{\LongFullBestSplitSp}{2.0\%}
+\newcommand{\LongFullBestJoin}{7.0\%}
+\newcommand{\LongFullBestJoinX}{0.0\%}
+% full at best single threshold, complexes aside: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongFullBestXId}{97.90\%}
+\newcommand{\LongFullBestXSplit}{3.3\%}
+\newcommand{\LongFullBestXSplitSp}{0.4\%}
+\newcommand{\LongFullBestXJoin}{30.0\%}
+\newcommand{\LongFullBestXJoinX}{2.9\%}
+% full at within-species spread: identity, split from culture, split from species, joined (all; outside complexes)
+\newcommand{\LongFullSprId}{98.07\%}
+\newcommand{\LongFullSprSplit}{3.9\%}
+\newcommand{\LongFullSprSplitSp}{0.6\%}
+\newcommand{\LongFullSprJoin}{22.2\%}
+\newcommand{\LongFullSprJoinX}{1.9\%}
+% full_its at 98.5%: clusters of all copies, of main-type copies, short-only and same-length-only clusters
+\newcommand{\ParITSNEAll}{240}
+\newcommand{\ParITSNEMain}{220}
+\newcommand{\ParITSNEShort}{18}
+\newcommand{\ParITSNESame}{2}
+\newcommand{\ParITSNEJoin}{2}
+% full_its at 97%: clusters of all copies, of main-type copies, short-only and same-length-only clusters
+\newcommand{\ParITSNSAll}{110}
+\newcommand{\ParITSNSMain}{96}
+\newcommand{\ParITSNSShort}{12}
+\newcommand{\ParITSNSSame}{2}
+\newcommand{\ParITSNSJoin}{2}
+% kruger at 98.5%: clusters of all copies, of main-type copies, short-only and same-length-only clusters
+\newcommand{\ParKrNEAll}{110}
+\newcommand{\ParKrNEMain}{95}
+\newcommand{\ParKrNEShort}{13}
+\newcommand{\ParKrNESame}{2}
+\newcommand{\ParKrNEJoin}{1}
+% kruger at 97%: clusters of all copies, of main-type copies, short-only and same-length-only clusters
+\newcommand{\ParKrNSAll}{56}
+\newcommand{\ParKrNSMain}{46}
+\newcommand{\ParKrNSShort}{8}
+\newcommand{\ParKrNSSame}{2}
+\newcommand{\ParKrNSJoin}{4}
+% full at 98.5%: clusters of all copies, of main-type copies, short-only and same-length-only clusters
+\newcommand{\ParFullNEAll}{71}
+\newcommand{\ParFullNEMain}{58}
+\newcommand{\ParFullNEShort}{11}
+\newcommand{\ParFullNESame}{2}
+\newcommand{\ParFullNEJoin}{3}
+% full at 97%: clusters of all copies, of main-type copies, short-only and same-length-only clusters
+\newcommand{\ParFullNSAll}{36}
+\newcommand{\ParFullNSMain}{30}
+\newcommand{\ParFullNSShort}{5}
+\newcommand{\ParFullNSSame}{1}
+\newcommand{\ParFullNSJoin}{7}
+% full ITS at 98.5%: short-only clusters per species that carries the paralog
+\newcommand{\ParITSNESpMin}{1}
+\newcommand{\ParITSNESpMax}{7}
+\newcommand{\ParITSNESpN}{6}
+\newcommand{\ParITSNEShared}{0}
+% short copies by 5.8S sequence (Glomerales)
+\newcommand{\ParShortN}{44}
+% SSU flank: identical to a main-type copy
+\newcommand{\ParSSUIdentical}{21}
+\newcommand{\ParSSUPure}{12}
+\newcommand{\ParSSUCrossN}{0}
+% full_its: copies in short-only clades of 2+, clades joining taxa, their copies
+\newcommand{\ParITSPure}{43}
+\newcommand{\ParITSCrossN}{3}
+\newcommand{\ParITSCross}{37}
+% lsu_flank: copies in short-only clades of 2+, clades joining taxa, their copies
+\newcommand{\ParLSUPure}{42}
+\newcommand{\ParLSUCrossN}{2}
+\newcommand{\ParLSUCross}{10}
+% linked: copies in short-only clades of 2+, clades joining taxa, their copies
+\newcommand{\ParLinkedPure}{43}
+\newcommand{\ParLinkedCrossN}{3}
+\newcommand{\ParLinkedCross}{37}
+% LSU flank: the R. intraradices/R. prolifer short clade, its support, its sister
+\newcommand{\ParLSUIntraProlN}{8}
+\newcommand{\ParLSUIntraProlSup}{99/100}
+\newcommand{\ParLSUIntraProlSister}{\spn{Sclerocystis sinuosa}}
+\newcommand{\ParLSUIntraProlSisterSup}{100/100}
+% EUKARYOME long reads of named Glomeromycota species
+\newcommand{\LrReads}{347}
+\newcommand{\LrSpecies}{43}
+% its at 97% identity: identity, split, joined
+\newcommand{\LrITSNSId}{97.00\%}
+\newcommand{\LrITSNSSplit}{20.2\%}
+\newcommand{\LrITSNSJoin}{8.6\%}
+% its at 98.5% identity: identity, split, joined
+\newcommand{\LrITSNEId}{98.50\%}
+\newcommand{\LrITSNESplit}{59.4\%}
+\newcommand{\LrITSNEJoin}{1.7\%}
+% its at best single cut-off: identity, split, joined
+\newcommand{\LrITSBestId}{96.30\%}
+\newcommand{\LrITSBestSplit}{14.1\%}
+\newcommand{\LrITSBestJoin}{13.6\%}
+\newcommand{\LrITSSpread}{14.6\%}
+% kruger at 97% identity: identity, split, joined
+\newcommand{\LrKrNSId}{97.00\%}
+\newcommand{\LrKrNSSplit}{5.9\%}
+\newcommand{\LrKrNSJoin}{17.6\%}
+% kruger at 98.5% identity: identity, split, joined
+\newcommand{\LrKrNEId}{98.50\%}
+\newcommand{\LrKrNESplit}{26.1\%}
+\newcommand{\LrKrNEJoin}{5.7\%}
+% kruger at best single cut-off: identity, split, joined
+\newcommand{\LrKrBestId}{97.85\%}
+\newcommand{\LrKrBestSplit}{11.4\%}
+\newcommand{\LrKrBestJoin}{10.8\%}
+\newcommand{\LrKrSpread}{8.4\%}
+% read at 97% identity: identity, split, joined
+\newcommand{\LrReadNSId}{97.00\%}
+\newcommand{\LrReadNSSplit}{3.7\%}
+\newcommand{\LrReadNSJoin}{36.2\%}
+% read at 98.5% identity: identity, split, joined
+\newcommand{\LrReadNEId}{98.50\%}
+\newcommand{\LrReadNESplit}{10.1\%}
+\newcommand{\LrReadNEJoin}{15.3\%}
+% read at best single cut-off: identity, split, joined
+\newcommand{\LrReadBestId}{98.65\%}
+\newcommand{\LrReadBestSplit}{12.7\%}
+\newcommand{\LrReadBestJoin}{11.3\%}
+\newcommand{\LrReadSpread}{5.3\%}
+% whole read, best cut-off: species pairs behind the joins, and their reads
+\newcommand{\LrReadBestPairs}{4}
+\newcommand{\LrReadBestPairReads}{34}
+\newcommand{\LrReadNSPairs}{12}
+% whole read, best cut-off: reads split or joined, of all reads; and reads whose genus has another species
+\newcommand{\LrReadBestEither}{21.9\%}
+\newcommand{\LrCongenerN}{301}

@@ -1,0 +1,16 @@
+region	threshold	identity_pct	reads_with_conspecific	reads_with_congener	split_from_species_pct	joined_to_congener_pct	joined_to_congener_excl_complex_pct	joined_to_other_genus_pct
+its	98.5% identity	98.5	347	301	59.4	1.7	1.7	0.0
+its	97% identity	97.0	347	301	20.2	8.6	8.6	0.0
+its	within-species spread	85.44	347	301	1.2	80.4	80.4	0.0
+its	best single cut-off	96.3	347	301	14.1	13.6	13.6	0.0
+its	best single cut-off, complexes aside	96.3	347	301	14.1	13.6	13.6	0.0
+kruger	98.5% identity	98.5	341	296	26.1	5.7	5.7	0.0
+kruger	97% identity	97.0	341	296	5.9	17.6	17.6	0.0
+kruger	within-species spread	91.56	341	296	0.6	80.4	80.4	24.0
+kruger	best single cut-off	97.85	341	296	11.4	10.8	10.8	0.0
+kruger	best single cut-off, complexes aside	97.85	341	296	11.4	10.8	10.8	0.0
+read	98.5% identity	98.5	347	301	10.1	15.3	15.3	0.0
+read	97% identity	97.0	347	301	3.7	36.2	36.2	0.0
+read	within-species spread	94.65	347	301	0.6	85.0	85.0	2.9
+read	best single cut-off	98.65	347	301	12.7	11.3	11.3	0.0
+read	best single cut-off, complexes aside	98.65	347	301	12.7	11.3	11.3	0.0

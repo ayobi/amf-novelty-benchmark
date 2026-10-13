@@ -1,12 +1,13 @@
 \begin{table}[htbp]\centering
 \begin{threeparttable}
-\caption{The ITS rule and the species complexes moved to the same percentile.}
+\caption{The ITS distance rule and the species complexes recomputed together at three percentiles.}
 \label{tab:percentile}
 \footnotesize\setlength{\tabcolsep}{4pt}
 \begin{tabular}{lrrrrrr}
 \toprule
-Percentile & ITS limit & Complexes & Known demoted & False known, & False known, & Outside\\
- & (median) & (species) & (of 755) & species holdout (of 803) & V18 removed (of 673) & a complex\\
+Percentile & ITS limit & Complexes & Known demoted & False known & False known & Outside\\
+ & (median) & (species) & (of 755) & species withheld & also LSU-removed & a complex\\
+ & & & & (of 803) & (of 673) & \\
 \midrule
 95th & 4.4\% & 3 (6) & 32 (4.2\%) & 9 (1.1\%) & 37 (5.5\%) & 5\\
 97.5th & 5.0\% & 3 (7) & 22 (2.9\%) & 13 (1.6\%) & 53 (7.9\%) & 18\\
@@ -14,11 +15,12 @@ Percentile & ITS limit & Complexes & Known demoted & False known, & False known,
 \bottomrule
 \end{tabular}
 \begin{tablenotes}\footnotesize
-\item The ITS rule is re-applied to the stored decision-tree rows at each percentile, with the limit fitted
-on each fold's training cultures, and the complexes are those of the distance rule at the same percentile
-(\texttt{percentile\_sensitivity.py}). \emph{Known demoted}: known-species copies the rule demotes in the
-culture holdout. \emph{V18 removed}: first-outcome M4 folds. The 99th-percentile row reproduces the reported
-results exactly. Every error outside a complex is \emph{R.\ irregularis} called \emph{{[}R.{]}\ vesiculiferum}.
+\item The ITS distance rule is re-applied to the stored results of the decision steps at each percentile, with the
+limit fitted on the remaining cultures of each round, and the complexes are those of the complex rule at the same
+percentile. \emph{Known demoted}: copies of known species that the rule demotes with one culture withheld.
+\emph{Also LSU-removed}: the test species of the LSU-removal test. The 99th-percentile row reproduces
+the reported results exactly. Every error outside a complex is \emph{Rhizophagus irregularis} called
+\emph{{[}Rhizoglomus{]} vesiculiferum}.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}

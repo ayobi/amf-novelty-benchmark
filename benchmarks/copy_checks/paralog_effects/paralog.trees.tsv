@@ -1,0 +1,5 @@
+tree	short_copies	short_in_tips_with_main_copies	short_only_clades	short_only_clades_2plus	copies_in_short_only_clades_2plus	short_only_clades_joining_taxa	copies_in_clades_joining_taxa	short_copies_whose_sister_is_own_species_only	short_copies_whose_sister_has_other_species
+ssu_flank	44	21	15	4	12	0	0	22	1
+full_its	44	0	6	5	43	3	37	38	6
+lsu_flank	44	1	8	7	42	2	10	32	11
+linked	44	0	6	5	43	3	37	44	0

@@ -1,0 +1,44 @@
+region	cutoff	identity_pct	species	nearest_congener	reads_joined
+its	97% identity	97.00	Funneliformis_caledonium	Funneliformis_geosporum	13
+its	97% identity	97.00	Entrophospora_glacialis	Entrophospora_infrequens	10
+its	97% identity	97.00	Entrophospora_drummondii	Entrophospora_furrazolae	3
+its	98.5% identity	98.50	Funneliformis_caledonium	Funneliformis_geosporum	5
+its	best single cut-off	96.30	Entrophospora_glacialis	Entrophospora_infrequens	18
+its	best single cut-off	96.30	Funneliformis_caledonium	Funneliformis_geosporum	13
+its	best single cut-off	96.30	Entrophospora_drummondii	Entrophospora_furrazolae	4
+its	best single cut-off	96.30	Rhizoglomus_intraradices	Rhizoglomus_irregulare	3
+its	best single cut-off	96.30	Dominikia_indica	Dominikia_minuta	3
+kruger	97% identity	97.00	Entrophospora_glacialis	Entrophospora_infrequens	20
+kruger	97% identity	97.00	Funneliformis_caledonium	Funneliformis_geosporum	14
+kruger	97% identity	97.00	Entrophospora_drummondii	Entrophospora_furrazolae	12
+kruger	97% identity	97.00	Dominikia_bernensis	Dominikia_minuta	3
+kruger	97% identity	97.00	Dominikia_indica	Dominikia_minuta	3
+kruger	98.5% identity	98.50	Funneliformis_caledonium	Funneliformis_geosporum	13
+kruger	98.5% identity	98.50	Entrophospora_glacialis	Entrophospora_infrequens	2
+kruger	98.5% identity	98.50	Entrophospora_drummondii	Entrophospora_furrazolae	2
+kruger	best single cut-off	97.85	Funneliformis_caledonium	Funneliformis_geosporum	13
+kruger	best single cut-off	97.85	Entrophospora_glacialis	Entrophospora_infrequens	13
+kruger	best single cut-off	97.85	Entrophospora_drummondii	Entrophospora_furrazolae	3
+kruger	best single cut-off	97.85	Dominikia_indica	Dominikia_minuta	3
+read	97% identity	97.00	Funneliformis_caledonium	Funneliformis_geosporum	30
+read	97% identity	97.00	Entrophospora_glacialis	Entrophospora_infrequens	20
+read	97% identity	97.00	Entrophospora_drummondii	Entrophospora_furrazolae	14
+read	97% identity	97.00	Funneliformis_caledonium	Funneliformis_mosseae	11
+read	97% identity	97.00	Entrophospora_glacialis	Entrophospora_lutea	10
+read	97% identity	97.00	Rhizoglomus_intraradices	Rhizoglomus_irregulare	10
+read	97% identity	97.00	Gigaspora_margarita	Gigaspora_rosea	5
+read	97% identity	97.00	Dominikia_indica	Dominikia_minuta	3
+read	97% identity	97.00	Dominikia_bernensis	Dominikia_minuta	2
+read	97% identity	97.00	Entrophospora_etunicata	Entrophospora_lutea	2
+read	97% identity	97.00	Entrophospora_infrequens	Entrophospora_lutea	1
+read	97% identity	97.00	Dominikia_bernensis	Dominikia_indica	1
+read	98.5% identity	98.50	Entrophospora_glacialis	Entrophospora_infrequens	19
+read	98.5% identity	98.50	Funneliformis_caledonium	Funneliformis_geosporum	14
+read	98.5% identity	98.50	Entrophospora_drummondii	Entrophospora_furrazolae	6
+read	98.5% identity	98.50	Entrophospora_glacialis	Entrophospora_lutea	3
+read	98.5% identity	98.50	Dominikia_indica	Dominikia_minuta	3
+read	98.5% identity	98.50	Dominikia_bernensis	Dominikia_indica	1
+read	best single cut-off	98.65	Funneliformis_caledonium	Funneliformis_geosporum	14
+read	best single cut-off	98.65	Entrophospora_glacialis	Entrophospora_infrequens	13
+read	best single cut-off	98.65	Entrophospora_drummondii	Entrophospora_furrazolae	4
+read	best single cut-off	98.65	Dominikia_indica	Dominikia_minuta	3

@@ -1,0 +1,904 @@
+accession	culture	organism	group	comparator	ssu_flank_aligned	ssu_flank_subs_per100	ssu_flank_indels	ssu_flank_irregular	ssu_flank_pairs	ssu_flank_broken	ssu_flank_broken_frac	ssu_flank_degraded	ssu_flank_bits_per_nt	s58_aligned	s58_subs_per100	s58_indels	s58_irregular	s58_pairs	s58_broken	s58_broken_frac	s58_degraded	s58_bits_per_nt	lsu_flank_aligned	lsu_flank_subs_per100	lsu_flank_indels	lsu_flank_irregular	lsu_flank_pairs	lsu_flank_broken	lsu_flank_broken_frac	lsu_flank_degraded	lsu_flank_bits_per_nt	its2_mfe_per_nt	its2_bp_distance	its2_bp_distance_per_nt
+PX207096.1	Paraglomus laccatum | CW0010_4009B	Paraglomus laccatum	baseline	PX207098.1	1472	0.0	0		341	38	0.1114		1.0146	152	0.0	0		25	3	0.12		0.8464	771	0.0	1		118	9	0.0763		0.5796	-0.3207	1	0.0041
+PX207097.1	Paraglomus laccatum | CW0010_4009B	Paraglomus laccatum	baseline	PX207100.1	1472	0.068	0		341	38	0.1114		1.0136	152	0.0	0		25	3	0.12		0.8464	771	0.0	0		118	9	0.0763		0.5772	-0.3228	10	0.0415
+PX207098.1	Paraglomus laccatum | CW0010_4009B	Paraglomus laccatum	baseline	PX207099.1	1472	0.0	0		341	38	0.1114		1.0146	152	0.0	0		25	3	0.12		0.8464	771	0.259	1		118	9	0.0763		0.5707	-0.3303	0	0.0
+PX207099.1	Paraglomus laccatum | CW0010_4009B	Paraglomus laccatum	baseline	PX207100.1	1472	0.068	0		341	38	0.1114		1.0146	152	0.0	0		25	3	0.12		0.8464	771	0.13	0		118	9	0.0763		0.5772	-0.3321	0	0.0
+PX207100.1	Paraglomus laccatum | CW0010_4009B	Paraglomus laccatum	baseline	PX207099.1	1472	0.068	0		341	38	0.1114		1.0145	152	0.0	0		25	3	0.12		0.8464	771	0.13	0		118	9	0.0763		0.5772	-0.3321	0	0.0
+PX207101.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX215139.1	1475	0.0	0		341	31	0.0909		1.0154	158	0.0	0		25	1	0.04		0.9063	768	0.0	0		118	11	0.0932		0.5855	-0.2712	0	0.0
+PX207102.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207103.1	1475	0.203	0		341	31	0.0909		1.0166	158	0.0	0		25	1	0.04		0.9063	768	0.391	0		118	12	0.1017		0.5809	-0.2645	10	0.0474
+PX207103.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX215140.1	1475	0.0	0		341	31	0.0909		1.0154	158	0.0	0		25	1	0.04		0.9063	768	0.0	0		118	12	0.1017		0.581	-0.2722	0	0.0
+PX207104.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207106.1	1475	0.203	0		341	32	0.0938		1.0152	158	0.0	0		25	1	0.04		0.9063	768	0.521	0		118	11	0.0932		0.5841	-0.28	4	0.0195
+PX207105.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207106.1	1475	0.339	0		341	31	0.0909		1.0163	158	0.0	0		25	1	0.04		0.9063	768	0.0	0		118	12	0.1017		0.5826	-0.2595	0	0.0
+PX207106.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207105.1	1475	0.339	0		341	31	0.0909		1.017	158	0.0	0		25	1	0.04		0.9063	768	0.0	0		118	12	0.1017		0.5826	-0.2595	0	0.0
+PX207107.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207108.1	1475	0.0	0		341	36	0.1056		1.0186	158	0.0	0		25	1	0.04		0.8748	826	0.0	0		118	9	0.0763		0.5413	-0.2524	0	0.0
+PX207108.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207107.1	1475	0.0	0		341	36	0.1056		1.0186	158	0.0	0		25	1	0.04		0.8748	826	0.0	0		118	9	0.0763		0.5413	-0.2524	0	0.0
+PX207109.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207107.1	1475	0.0	0		341	36	0.1056		1.0186	158	0.0	0		25	1	0.04		0.8748	826	0.0	0		118	9	0.0763		0.5413	-0.2524	0	0.0
+PX207110.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207107.1	1475	0.136	0		341	36	0.1056		1.021	158	0.0	0		25	1	0.04		0.8748	826	0.0	0		118	9	0.0763		0.5413	-0.2524	0	0.0
+PX207111.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207110.1	1475	0.136	0		341	36	0.1056		1.022	158	0.0	0		25	1	0.04		0.8748	826	0.0	0		118	9	0.0763		0.5413	-0.2524	0	0.0
+PX207112.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207107.1	1475	0.0	0		341	36	0.1056		1.0186	158	0.0	0		25	1	0.04		0.8748	824	0.121	2		118	9	0.0763		0.5434	-0.2524	0	0.0
+PX207113.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207115.1	1475	0.203	0		341	36	0.1056		1.0216	158	0.633	0		25	1	0.04		0.8821	824	0.0	2		118	9	0.0763		0.5365	-0.2289	3	0.0155
+PX207114.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207115.1	1475	0.068	0		341	36	0.1056		1.0207	158	1.266	0		25	1	0.04		0.8675	824	0.607	1		118	10	0.0847		0.5398	-0.2272	0	0.0
+PX207115.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207116.1	1475	0.0	0		341	36	0.1056		1.0215	158	0.0	0		25	1	0.04		0.8684	825	0.0	0		118	9	0.0763		0.5419	-0.2272	0	0.0
+PX207116.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207115.1	1475	0.0	0		341	36	0.1056		1.0215	158	0.0	0		25	1	0.04		0.8684	825	0.0	0		118	9	0.0763		0.5419	-0.2272	0	0.0
+PX207117.1	Diversispora spurca | CW0006_4005B	Diversispora spurca	baseline	PX207115.1	1475	0.0	0		341	36	0.1056		1.0215	158	0.0	0		25	1	0.04		0.8684	825	0.0	0		118	9	0.0763		0.5419	-0.2272	0	0.0
+PX207118.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207119.1	1467	0.068	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.8856	765	0.0	0		118	9	0.0763		0.5854	-0.2249	0	0.0
+PX207119.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207118.1	1467	0.068	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8856	765	0.0	0		118	9	0.0763		0.5854	-0.2249	0	0.0
+PX207120.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207121.1	1466	0.0	0		341	36	0.1056		1.036	158	0.0	0		25	1	0.04		0.8937	765	0.131	2		118	9	0.0763		0.5854	-0.2249	0	0.0
+PX207121.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207120.1	1466	0.0	0		341	36	0.1056		1.036	158	0.0	0		25	1	0.04		0.8937	765	0.131	2		118	11	0.0932		0.584	-0.2249	0	0.0
+PX207122.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207124.1	1467	0.0	1		341	36	0.1056		1.0329	157	1.274	0		25	3	0.12		0.8089	765	0.131	3		118	9	0.0763		0.5827	-0.214	15	0.0838
+PX207123.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207125.1	1467	0.068	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8867	766	0.653	0		118	9	0.0763		0.5834	-0.2372	0	0.0
+PX207124.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207125.1	1467	0.0	0		341	36	0.1056		1.0339	157	1.274	1		25	3	0.12		0.8325	766	0.0	0		118	11	0.0932		0.5825	-0.2256	0	0.0
+PX207125.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207126.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8867	766	0.0	0		118	11	0.0932		0.5825	-0.2256	0	0.0
+PX207126.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207125.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8867	766	0.0	0		118	11	0.0932		0.5825	-0.2256	0	0.0
+PX207127.1	Cetraspora gilmorei | CW0008_2669B	Cetraspora gilmorei	baseline	PX207125.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8867	765	0.131	1		118	11	0.0932		0.5848	-0.2256	0	0.0
+PX207128.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207129.1	1470	0.0	0		341	34	0.0997		1.0303	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207129.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207128.1	1470	0.0	0		341	34	0.0997		1.0303	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207130.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207131.1	1470	0.0	0		341	34	0.0997		1.0304	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207131.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207130.1	1470	0.0	0		341	34	0.0997		1.0304	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207132.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207133.1	1472	0.0	0		341	34	0.0997		1.0296	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207133.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207132.1	1472	0.0	0		341	34	0.0997		1.0296	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207134.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207132.1	1471	0.068	1		341	34	0.0997		1.0302	158	0.0	0		25	2	0.08		0.8409	766	0.0	0		118	11	0.0932		0.5807	-0.1832	0	0.0
+PX207135.1	Gigaspora rosea | CU131_1018E	Gigaspora rosea	baseline	PX207141.1	1470	0.34	0		341	33	0.0968		1.0313	158	2.532	0	yes	25	2	0.08		0.8693	765	2.484	1		118	12	0.1017		0.587	-0.2167	44	0.2529
+PX207136.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207137.1	1470	0.0	0		341	33	0.0968		1.0324	158	0.0	0		25	2	0.08		0.8733	765	0.0	0		118	12	0.1017		0.5861	-0.2028	0	0.0
+PX207137.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	baseline	PX207136.1	1470	0.0	0		341	33	0.0968		1.0324	158	0.0	0		25	2	0.08		0.8733	765	0.0	0		118	12	0.1017		0.5861	-0.2028	0	0.0
+PX207138.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	same length	PX207136.1	1470	0.204	0		341	33	0.0968		1.0323	158	2.532	1	yes	25	2	0.08		0.8716	765	1.699	0		118	11	0.0932		0.5899	-0.187	16	0.0904
+PX207139.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	same length	PX207136.1	1469	0.272	1		341	33	0.0968		1.0338	158	1.899	1		25	2	0.08		0.8727	765	1.438	0		118	12	0.1017		0.5849	-0.1793	9	0.0517
+PX207140.1	Gigaspora rosea | 4292_708F	Gigaspora rosea	same length	PX207136.1	1469	0.272	1		341	33	0.0968		1.0338	158	1.899	1		25	2	0.08		0.8727	765	1.438	0		118	12	0.1017		0.5849	-0.1793	9	0.0517
+PX207141.1	Gigaspora rosea | CU131_1018E	Gigaspora rosea	baseline	PX207135.1	1470	0.34	0		341	33	0.0968		1.0337	158	2.532	0	yes	25	2	0.08		0.8687	765	2.484	1		118	11	0.0932		0.5863	-0.1966	42	0.2386
+PX207142.1	Gigaspora rosea | CU131_1018E	Gigaspora rosea	baseline	PX207143.1	1470	0.476	0		341	33	0.0968		1.0322	158	1.899	0		25	2	0.08		0.8452	765	5.621	2	yes	118	11	0.0932		0.5814	-0.2172	38	0.2249
+PX207143.1	Gigaspora rosea | CU131_1018E	Gigaspora rosea	baseline	PX207135.1	1470	0.816	0	yes	341	33	0.0968		1.0325	158	1.899	0		25	2	0.08		0.8708	765	1.569	1		118	11	0.0932		0.5856	-0.2254	34	0.2012
+PX207144.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207145.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.532	-0.2808	0	0.0
+PX207145.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207144.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.532	-0.2808	0	0.0
+PX207146.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207144.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.532	-0.2808	0	0.0
+PX207147.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207148.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	12	0.1017		0.5276	-0.2808	0	0.0
+PX207148.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207147.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	12	0.1017		0.5276	-0.2808	0	0.0
+PX207149.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207147.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	12	0.1017		0.5276	-0.2808	0	0.0
+PX207150.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207152.1	1473	0.068	0		341	35	0.1026		1.0185	158	0.0	0		25	1	0.04		0.8722	829	0.362	0		118	11	0.0932		0.5345	-0.2808	0	0.0
+PX207151.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207152.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5345	-0.2723	11	0.0545
+PX207152.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207153.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5345	-0.2808	0	0.0
+PX207153.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207152.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5345	-0.2808	0	0.0
+PX207154.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207152.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5345	-0.2808	0	0.0
+PX207155.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207152.1	1473	0.0	0		341	35	0.1026		1.0197	158	0.0	0		25	1	0.04		0.8722	829	0.121	1		118	11	0.0932		0.5322	-0.2808	0	0.0
+PX207156.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207157.1	1473	0.0	0		341	35	0.1026		1.0206	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5372	-0.266	0	0.0
+PX207157.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207156.1	1473	0.0	0		341	35	0.1026		1.0206	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5372	-0.266	0	0.0
+PX207158.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207159.1	1473	0.0	0		341	35	0.1026		1.0209	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	12	0.1017		0.5359	-0.2719	0	0.0
+PX207159.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207158.1	1473	0.0	0		341	35	0.1026		1.0209	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	12	0.1017		0.5359	-0.2719	0	0.0
+PX207160.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207161.1	1473	0.0	0		341	35	0.1026		1.0209	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5349	-0.2635	0	0.0
+PX207161.1	Sclerocystis sinuosa | MT106_2767A	Sclerocystis sinuosa	baseline	PX207160.1	1473	0.0	0		341	35	0.1026		1.0209	158	0.0	0		25	1	0.04		0.8722	829	0.0	0		118	11	0.0932		0.5349	-0.2635	0	0.0
+PX207162.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	short 5.8S	PX207184.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.144	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX207163.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	short 5.8S	PX207184.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.144	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX207164.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	short 5.8S	PX207186.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.144	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX207165.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	short 5.8S	PX207186.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.144	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX207166.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207167.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	10	0.0847		0.5259	-0.2376	0	0.0
+PX207167.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207166.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	10	0.0847		0.5259	-0.2376	0	0.0
+PX207168.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207169.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	11	0.0932		0.5251	-0.2376	0	0.0
+PX207169.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207168.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	11	0.0932		0.5251	-0.2376	0	0.0
+PX207170.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207168.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	11	0.0932		0.5251	-0.2376	0	0.0
+PX207171.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207172.1	1473	0.0	0		341	35	0.1026		1.0162	157	0.0	0		25	1	0.04		0.8949	829	0.0	0		118	10	0.0847		0.5312	-0.2676	0	0.0
+PX207172.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207171.1	1473	0.0	0		341	35	0.1026		1.0162	157	0.0	0		25	1	0.04		0.8949	829	0.0	0		118	10	0.0847		0.5312	-0.2676	0	0.0
+PX207173.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207186.1	1473	0.136	0		341	36	0.1056		1.0153	156	0.0	0		25	1	0.04		0.9076	827	2.539	0		118	11	0.0932		0.5316	-0.2194	12	0.0597
+PX207174.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207175.1	1473	0.0	0		341	35	0.1026		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5277	-0.2245	0	0.0
+PX207175.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207174.1	1473	0.0	0		341	35	0.1026		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5277	-0.2245	0	0.0
+PX207176.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207174.1	1473	0.0	0		341	35	0.1026		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5277	-0.2245	0	0.0
+PX207177.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207174.1	1473	0.0	0		341	35	0.1026		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5277	-0.2245	0	0.0
+PX207178.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207179.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5256	-0.2245	0	0.0
+PX207179.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207178.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5256	-0.2245	0	0.0
+PX207180.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207178.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5256	-0.2245	0	0.0
+PX207181.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207178.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5256	-0.2245	0	0.0
+PX207182.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207183.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9209	827	0.0	0		118	12	0.1017		0.5301	-0.2245	0	0.0
+PX207183.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207182.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9209	827	0.0	0		118	12	0.1017		0.5301	-0.2245	0	0.0
+PX207184.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207185.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX207185.1	Rhizophagus irregularis | GC-2_IVT11	Rhizophagus irregularis	baseline	PX207184.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX207186.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207187.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX207187.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207186.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX207188.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207186.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX207189.1	Rhizophagus irregularis | DAOMC 197198	Rhizophagus irregularis	baseline	PX207186.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX207190.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	short 5.8S	PX207208.1	1473	0.0	0		341	34	0.0997		1.0198	152	1.974	1		25	4	0.16		0.862	821	7.552	6	yes	118	9	0.0763		0.5219	-0.302	15	0.0761
+PX207191.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	short 5.8S	PX207208.1	1473	0.0	0		341	34	0.0997		1.0198	152	1.974	1		25	4	0.16		0.862	821	7.552	6	yes	118	9	0.0763		0.5219	-0.302	15	0.0761
+PX207192.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	short 5.8S	PX207208.1	1473	0.0	0		341	34	0.0997		1.0198	152	1.974	1		25	4	0.16		0.862	821	7.43	6	yes	118	9	0.0763		0.5251	-0.2954	16	0.0812
+PX207193.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	short 5.8S	PX207208.1	1473	0.0	0		341	34	0.0997		1.0198	152	1.974	1		25	4	0.16		0.862	821	7.43	6	yes	118	9	0.0763		0.5251	-0.2954	16	0.0812
+PX207194.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	same length	PX207199.1	1473	0.475	0		341	33	0.0968		1.0246	157	7.006	0	yes	25	1	0.04		0.8682	824	7.646	3	yes	118	7	0.0593		0.5425	-0.1704	48	0.254
+PX207195.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	short 5.8S	PX207204.1	1473	0.339	0		341	33	0.0968		1.0259	151	2.649	1	yes	25	3	0.12		0.8563	822	5.718	3	yes	118	8	0.0678		0.5269	-0.2961	46	0.2244
+PX207196.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	short 5.8S	PX207204.1	1473	0.339	0		341	33	0.0968		1.0259	151	2.649	1	yes	25	3	0.12		0.8563	822	5.718	3	yes	118	8	0.0678		0.5269	-0.2961	46	0.2244
+PX207197.1	Rhizophagus intraradices | KS906_IVT156	Rhizophagus intraradices	short 5.8S	PX207205.1	1473	0.204	0		341	33	0.0968		1.0259	151	2.649	1	yes	25	3	0.12		0.8563	822	5.231	3	yes	118	8	0.0678		0.5261	-0.2961	46	0.2244
+PX207198.1	Rhizophagus intraradices | KS906_IVT156	Rhizophagus intraradices	baseline	PX207203.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.121	0		118	10	0.0847		0.5337	-0.3255	4	0.02
+PX207199.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	baseline	PX207200.1	1473	0.068	1		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.0	0		118	10	0.0847		0.5303	-0.3255	0	0.0
+PX207200.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	baseline	PX207199.1	1473	0.068	1		341	33	0.0968		1.0257	157	0.0	0		25	1	0.04		0.8955	824	0.0	0		118	10	0.0847		0.5303	-0.3255	0	0.0
+PX207201.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	baseline	PX207202.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.0	0		118	10	0.0847		0.5331	-0.2845	0	0.0
+PX207202.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	baseline	PX207201.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.0	0		118	10	0.0847		0.5331	-0.2845	0	0.0
+PX207203.1	Rhizophagus intraradices | KS906_IVT156	Rhizophagus intraradices	baseline	PX207198.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.121	0		118	10	0.0847		0.5331	-0.3089	4	0.0198
+PX207204.1	Rhizophagus intraradices | UT126A	Rhizophagus intraradices	baseline	PX207199.1	1473	0.272	0		341	33	0.0968		1.0245	157	0.0	0		25	1	0.04		0.8955	824	0.85	0		118	10	0.0847		0.5332	-0.3167	11	0.0539
+PX207205.1	Rhizophagus intraradices | KS906_IVT156	Rhizophagus intraradices	baseline	PX207203.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.728	0		118	10	0.0847		0.5347	-0.3167	15	0.0735
+PX207206.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	baseline	PX207207.1	1473	0.0	0		341	34	0.0997		1.0181	158	0.0	0		25	1	0.04		0.8968	825	0.0	0		118	8	0.0678		0.5376	-0.2438	0	0.0
+PX207207.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	baseline	PX207206.1	1473	0.0	0		341	34	0.0997		1.0181	158	0.0	0		25	1	0.04		0.8968	825	0.0	0		118	8	0.0678		0.5376	-0.2438	0	0.0
+PX207208.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	baseline	PX207206.1	1473	0.272	0		341	34	0.0997		1.0198	158	0.0	0		25	1	0.04		0.8968	825	0.0	0		118	8	0.0678		0.5376	-0.2438	0	0.0
+PX207209.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	baseline	PX207211.1	1473	0.0	0		341	34	0.0997		1.0197	157	1.911	0		25	1	0.04		0.8908	825	1.212	0		118	8	0.0678		0.5289	-0.294	11	0.055
+PX207210.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	baseline	PX207211.1	1473	0.0	0		341	34	0.0997		1.0197	157	0.0	0		25	1	0.04		0.8815	825	0.0	0		118	7	0.0593		0.5337	-0.2507	5	0.0249
+PX207211.1	Rhizophagus prolifer | SD5_IVT32	Rhizophagus prolifer	baseline	PX207210.1	1473	0.0	0		341	34	0.0997		1.0197	157	0.0	0		25	1	0.04		0.8815	825	0.0	0		118	7	0.0593		0.5337	-0.2556	4	0.0202
+PX207212.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207213.1	1471	0.068	0		341	37	0.1085		1.0243	158	0.0	0		25	1	0.04		0.8734	820	0.366	0		118	8	0.0678		0.5552	-0.2116	3	0.0159
+PX207213.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207217.1	1471	0.0	1		341	37	0.1085		1.0244	158	0.0	0		25	1	0.04		0.8734	820	0.0	0		118	8	0.0678		0.5547	-0.2126	7	0.0366
+PX207214.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207216.1	1472	0.272	0		341	37	0.1085		1.0227	158	1.899	0		25	1	0.04		0.8697	820	1.341	0		118	8	0.0678		0.5578	-0.2042	74	0.3854
+PX207215.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207216.1	1472	0.0	1		341	37	0.1085		1.0225	158	0.0	0		25	1	0.04		0.8734	819	0.122	1		118	8	0.0678		0.5554	-0.2393	0	0.0
+PX207216.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207215.1	1472	0.0	1		341	37	0.1085		1.0232	158	0.0	0		25	1	0.04		0.8734	819	0.122	1		118	8	0.0678		0.5555	-0.2393	0	0.0
+PX207217.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207215.1	1472	0.0	1		341	37	0.1085		1.0237	158	0.0	0		25	1	0.04		0.8734	819	0.122	1		118	8	0.0678		0.5547	-0.2393	0	0.0
+PX207218.1	Glomus tetrastratosum | 5094_2349C	Glomus tetrastratosum	baseline	PX207217.1	1472	0.136	0		341	37	0.1085		1.0236	158	0.0	0		25	1	0.04		0.8734	820	0.0	0		118	8	0.0678		0.5524	-0.2361	29	0.1518
+PX207219.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207220.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5372	-0.3269	0	0.0
+PX207220.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207219.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5372	-0.3269	0	0.0
+PX207221.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207223.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	833	0.24	0		118	10	0.0847		0.5352	-0.3269	0	0.0
+PX207222.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207223.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	833	0.0	0		118	10	0.0847		0.5336	-0.3309	0	0.0
+PX207223.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207222.1	1474	0.068	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	833	0.0	0		118	10	0.0847		0.5336	-0.3309	0	0.0
+PX207224.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207225.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	833	0.0	0		118	10	0.0847		0.5371	-0.2896	0	0.0
+PX207225.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207224.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	833	0.0	0		118	10	0.0847		0.5371	-0.2896	0	0.0
+PX207226.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207227.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5364	-0.3113	0	0.0
+PX207227.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207226.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5364	-0.3113	0	0.0
+PX207228.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207229.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5364	-0.3266	0	0.0
+PX207229.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207228.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5364	-0.3266	0	0.0
+PX207230.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207231.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5367	-0.3224	0	0.0
+PX207231.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207230.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5367	-0.3224	0	0.0
+PX207232.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207233.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5367	-0.3054	0	0.0
+PX207233.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207232.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5367	-0.3054	0	0.0
+PX207234.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207235.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5375	-0.3302	0	0.0
+PX207235.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207234.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5375	-0.3302	0	0.0
+PX207236.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207237.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5376	-0.3224	0	0.0
+PX207237.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207236.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5376	-0.3224	0	0.0
+PX207238.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207239.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5375	-0.3267	0	0.0
+PX207239.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207238.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5375	-0.3267	0	0.0
+PX207240.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207243.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.8711	832	0.721	0		118	10	0.0847		0.5386	-0.313	0	0.0
+PX207241.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207242.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5386	-0.313	0	0.0
+PX207242.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207241.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5386	-0.313	0	0.0
+PX207243.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207240.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.9027	832	0.721	0		118	10	0.0847		0.5366	-0.313	0	0.0
+PX207244.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207245.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5339	-0.2937	0	0.0
+PX207245.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207244.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5339	-0.2937	0	0.0
+PX207246.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207244.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.721	0		118	10	0.0847		0.5372	-0.2937	0	0.0
+PX207247.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207248.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5379	-0.2937	0	0.0
+PX207248.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207247.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5379	-0.2937	0	0.0
+PX207249.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207250.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	9	0.0763		0.5397	-0.3136	0	0.0
+PX207250.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207249.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	9	0.0763		0.5397	-0.3136	0	0.0
+PX207251.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207252.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5361	-0.319	0	0.0
+PX207252.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207251.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5361	-0.319	0	0.0
+PX207253.1	Funneliformis mosseae | FS-29_2726A	Funneliformis mosseae	baseline	PX207251.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5361	-0.319	0	0.0
+PX207254.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207255.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5376	-0.319	0	0.0
+PX207255.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207254.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5376	-0.319	0	0.0
+PX207256.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207257.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5367	-0.319	0	0.0
+PX207257.1	Funneliformis mosseae | 2231_1079F	Funneliformis mosseae	baseline	PX207256.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5367	-0.319	0	0.0
+PX207258.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	same length	PX207262.1	1472	0.272	0		341	37	0.1085		1.0252	158	3.797	1	yes	25	1	0.04		0.8663	830	1.928	4	yes	118	7	0.0593		0.541	-0.2538	30	0.1345
+PX207259.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	baseline	PX207261.1	1472	0.136	0		341	38	0.1114		1.0241	159	0.0	0		25	1	0.04		0.8536	830	0.12	2		118	11	0.0932		0.5427	-0.2364	0	0.0
+PX207260.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	baseline	PX207261.1	1472	0.0	0		341	37	0.1085		1.0265	159	0.0	0		25	1	0.04		0.8536	832	0.12	1		118	11	0.0932		0.5458	-0.245	1	0.0044
+PX207261.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	baseline	PX207262.1	1472	0.0	0		341	37	0.1085		1.0265	159	0.0	0		25	1	0.04		0.8536	833	0.24	0		118	11	0.0932		0.5441	-0.2393	13	0.0568
+PX207262.1	Septoglomus turnauae | Blasz_12_2272D	Septoglomus turnauae	baseline	PX207261.1	1472	0.0	0		341	37	0.1085		1.0265	159	0.0	0		25	1	0.04		0.8536	833	0.24	0		118	11	0.0932		0.5442	-0.2386	12	0.0526
+PX207263.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	short 5.8S	PX207270.1	1473	1.154	0	yes	341	39	0.1144	yes	1.0166	155	3.871	1	yes	25	2	0.08		0.8572	830	1.446	0		118	7	0.0593		0.544	-0.2201	29	0.1295
+PX207264.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	short 5.8S	PX207270.1	1473	1.154	0	yes	341	39	0.1144	yes	1.0166	155	3.871	1	yes	25	2	0.08		0.8572	830	1.446	0		118	7	0.0593		0.544	-0.2201	29	0.1295
+PX207265.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207266.1	1473	0.0	0		341	38	0.1114		1.0188	158	0.0	0		25	2	0.08		0.8427	831	0.0	0		118	7	0.0593		0.5431	-0.2407	0	0.0
+PX207266.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207265.1	1473	0.0	0		341	38	0.1114		1.0188	158	0.0	0		25	2	0.08		0.8427	831	0.0	0		118	7	0.0593		0.5431	-0.2407	0	0.0
+PX207267.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207265.1	1472	0.204	1		341	38	0.1114		1.0186	158	0.0	0		25	2	0.08		0.8427	831	0.0	0		118	7	0.0593		0.5431	-0.2407	0	0.0
+PX207268.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207269.1	1473	0.0	0		341	38	0.1114		1.0196	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.2289	0	0.0
+PX207269.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207268.1	1473	0.0	0		341	38	0.1114		1.0196	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.2289	0	0.0
+PX207270.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207271.1	1473	0.0	0		341	38	0.1114		1.019	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.2289	0	0.0
+PX207271.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207270.1	1473	0.0	0		341	38	0.1114		1.019	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.2289	0	0.0
+PX207272.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207273.1	1473	0.0	0		341	38	0.1114		1.0203	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.2289	0	0.0
+PX207273.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207272.1	1473	0.0	0		341	38	0.1114		1.0203	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.2289	0	0.0
+PX207274.1	Septoglomus viscosum | CW0026_Att1910-1	Septoglomus viscosum	baseline	PX207272.1	1473	0.068	0		341	38	0.1114		1.0204	158	0.0	0		25	2	0.08		0.8534	830	0.0	0		118	7	0.0593		0.5447	-0.231	0	0.0
+PX214440.1	Funneliformis caledonium | VDHK150A_21A	Funneliformis caledonium	baseline	PX214441.1	1474	0.068	0		341	35	0.1026		1.0233	156	0.0	0		25	1	0.04		0.8951	832	0.0	2		118	9	0.0763		0.5363	-0.2475	1	0.0042
+PX214441.1	Funneliformis caledonium | VDHK150A_21A	Funneliformis caledonium	baseline	PX214440.1	1474	0.068	0		341	35	0.1026		1.0238	156	0.0	0		25	1	0.04		0.8951	832	0.0	2		118	9	0.0763		0.535	-0.2311	1	0.0042
+PX214442.1	Funneliformis caledonium | VDHK150A_21A	Funneliformis caledonium	baseline	PX214448.1	1474	0.068	0		341	35	0.1026		1.0233	168	1.19	0		25	1	0.04		0.8873	834	0.0	0		118	9	0.0763		0.5361	-0.2616	10	0.0413
+PX214443.1	Funneliformis caledonium | CW0030_822A	Funneliformis caledonium	baseline	PX214445.1	1474	0.136	0		341	35	0.1026		1.0237	156	0.0	0		25	1	0.04		0.8951	832	0.0	0		118	9	0.0763		0.5379	-0.2527	0	0.0
+PX214444.1	Funneliformis caledonium | CW0030_822A	Funneliformis caledonium	baseline	PX214443.1	1474	0.068	0		341	35	0.1026		1.0233	156	0.0	0		25	1	0.04		0.8951	832	0.24	0		118	9	0.0763		0.5372	-0.2656	1	0.0041
+PX214445.1	Funneliformis caledonium | CW0030_822A	Funneliformis caledonium	baseline	PX214443.1	1474	0.136	0		341	35	0.1026		1.0231	156	0.0	0		25	1	0.04		0.8951	832	0.0	0		118	9	0.0763		0.5379	-0.2488	0	0.0
+PX214446.1	Funneliformis caledonium | CW0030_822A	Funneliformis caledonium	baseline	PX214444.1	1474	0.0	1		341	35	0.1026		1.0227	156	0.0	0		25	1	0.04		0.8951	832	0.24	0		118	9	0.0763		0.5375	-0.2552	12	0.0498
+PX214447.1	Funneliformis caledonium | VDHK150A_21A	Funneliformis caledonium	baseline	PX214440.1	1474	0.068	0		341	35	0.1026		1.0229	156	0.0	0		25	1	0.04		0.8951	832	0.481	1		118	9	0.0763		0.5356	-0.2456	4	0.0167
+PX214448.1	Funneliformis caledonium | VDHK150A_21A	Funneliformis caledonium	baseline	PX214442.1	1474	0.068	0		341	35	0.1026		1.0238	156	1.282	0		25	1	0.04		0.7138	834	0.0	0		118	9	0.0763		0.5361	-0.2681	10	0.042
+PX214449.1	Funneliformis geosporum | ALBG_A3	Funneliformis geosporum	baseline	PX214450.1	1474	0.068	0		341	35	0.1026		1.0237	156	0.0	0		25	1	0.04		0.8951	834	0.839	0		118	9	0.0763		0.5337	-0.258	3	0.0122
+PX214450.1	Funneliformis geosporum | ALBG_A3	Funneliformis geosporum	baseline	PX214451.1	1474	0.068	0		341	35	0.1026		1.0238	156	0.0	0		25	1	0.04		0.8951	834	0.24	0		118	9	0.0763		0.5322	-0.2591	1	0.004
+PX214451.1	Funneliformis geosporum | ALBG_A3	Funneliformis geosporum	baseline	PX214452.1	1474	0.136	0		341	35	0.1026		1.0239	156	0.0	0		25	1	0.04		0.8951	834	0.0	0		118	9	0.0763		0.5322	-0.2684	1	0.004
+PX214452.1	Funneliformis geosporum | ALBG_A3	Funneliformis geosporum	baseline	PX214451.1	1474	0.136	0		341	35	0.1026		1.0236	156	0.0	0		25	1	0.04		0.8951	834	0.0	0		118	9	0.0763		0.5322	-0.2657	2	0.0081
+PX214453.1	Funneliformis geosporum | ALBG_A3	Funneliformis geosporum	baseline	PX214450.1	1474	0.068	0		341	35	0.1026		1.0246	156	0.0	0		25	1	0.04		0.8951	834	0.6	1		118	9	0.0763		0.5327	-0.26	0	0.0
+PX214454.1	Funneliformis geosporum | W681_7_10A	Funneliformis geosporum	baseline	PX214455.1	1474	0.136	0		341	35	0.1026		1.0232	156	0.0	0		25	1	0.04		0.8951	833	0.36	0		118	9	0.0763		0.5359	-0.2704	13	0.0535
+PX214455.1	Funneliformis geosporum | W681_7_10A	Funneliformis geosporum	baseline	PX214456.1	1474	0.068	0		341	35	0.1026		1.0238	156	0.0	0		25	1	0.04		0.8951	833	0.72	0		118	9	0.0763		0.5359	-0.2611	0	0.0
+PX214456.1	Funneliformis geosporum | W681_7_10A	Funneliformis geosporum	baseline	PX214455.1	1474	0.068	0		341	35	0.1026		1.0241	156	0.0	0		25	1	0.04		0.8951	833	0.72	0		118	9	0.0763		0.5367	-0.2644	0	0.0
+PX214457.1	Funneliformis coronatus | Algerie_2_1072A	Funneliformis coronatus	baseline	PX214458.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	834	0.12	1		118	9	0.0763		0.5338	-0.293	2	0.0088
+PX214458.1	Funneliformis coronatus | Algerie_2_1072A	Funneliformis coronatus	baseline	PX214457.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	834	0.12	1		118	9	0.0763		0.5308	-0.2991	2	0.0088
+PX214459.1	Funneliformis coronatus | Algerie_2_1072A	Funneliformis coronatus	baseline	PX214460.1	1474	0.0	0		341	35	0.1026		1.0241	157	1.274	0		25	1	0.04		0.8957	833	0.12	0		118	10	0.0847		0.5299	-0.2991	0	0.0
+PX214460.1	Funneliformis coronatus | Algerie_2_1072A	Funneliformis coronatus	baseline	PX214459.1	1474	0.0	0		341	35	0.1026		1.0241	157	1.274	0		25	1	0.04		0.8773	833	0.12	0		118	10	0.0847		0.5303	-0.2991	0	0.0
+PX214461.1	Funneliformis coronatus | Algerie_2_1072A	Funneliformis coronatus	baseline	PX214457.1	1474	0.068	0		341	35	0.1026		1.0245	157	0.0	0		25	1	0.04		0.8957	834	0.24	2		118	9	0.0763		0.5293	-0.293	0	0.0
+PX214462.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214463.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	831	0.0	2		118	9	0.0763		0.5353	-0.2934	0	0.0
+PX214463.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214462.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	831	0.0	2		118	9	0.0763		0.534	-0.2934	0	0.0
+PX214464.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214463.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	832	0.0	1		118	9	0.0763		0.5353	-0.2847	0	0.0
+PX214465.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214464.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	832	0.0	0		118	9	0.0763		0.5353	-0.2965	7	0.0307
+PX214466.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214463.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	832	0.0	1		118	9	0.0763		0.5353	-0.2934	0	0.0
+PX214467.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214466.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	832	0.24	0		118	14	0.1186		0.5344	-0.2956	6	0.0262
+PX214468.1	Funneliformis coronatus | W143_5_12A	Funneliformis coronatus	baseline	PX214464.1	1474	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8957	832	0.12	1		118	14	0.1186		0.5337	-0.311	9	0.0395
+PX214469.1	Funneliformis coronatus | W699_21_3A	Funneliformis coronatus	baseline	PX214470.1	1474	0.0	0		341	35	0.1026		1.0239	157	0.0	0		25	1	0.04		0.8957	833	0.12	0		118	9	0.0763		0.5347	-0.2834	0	0.0
+PX214470.1	Funneliformis coronatus | W699_21_3A	Funneliformis coronatus	baseline	PX214469.1	1474	0.0	0		341	35	0.1026		1.0239	157	0.0	0		25	1	0.04		0.8957	833	0.12	0		118	10	0.0847		0.5313	-0.2834	0	0.0
+PX214471.1	Funneliformis coronatus | W699_21_3A	Funneliformis coronatus	baseline	PX214469.1	1474	0.0	0		341	35	0.1026		1.0239	157	0.0	0		25	1	0.04		0.8957	833	0.36	0		118	9	0.0763		0.534	-0.2795	0	0.0
+PX214472.1	Funneliformis coronatus | W699_21_3A	Funneliformis coronatus	baseline	PX214469.1	1474	0.0	0		341	35	0.1026		1.0239	157	0.0	0		25	1	0.04		0.8957	832	0.361	1		118	9	0.0763		0.5343	-0.2795	0	0.0
+PX214473.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214474.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	832	0.12	0		118	10	0.0847		0.5338	-0.3009	4	0.0174
+PX214474.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214473.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	832	0.12	0		118	10	0.0847		0.5338	-0.3	4	0.0174
+PX214475.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214473.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	831	0.361	1		118	9	0.0763		0.5388	-0.3	4	0.0174
+PX214476.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214473.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.7062	832	0.24	0		118	15	0.1271	yes	0.5328	-0.3	4	0.0174
+PX214477.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214473.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	832	0.0	0		118	10	0.0847		0.5338	-0.3009	0	0.0
+PX214478.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214477.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	831	0.0	1		118	10	0.0847		0.535	-0.3009	0	0.0
+PX214479.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214474.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.0	0		25	1	0.04		0.8957	832	0.0	0		118	10	0.0847		0.5338	-0.3	0	0.0
+PX214480.1	Funneliformis coronatus | W111_12_886A	Funneliformis coronatus	baseline	PX214473.1	1474	0.0	0		341	35	0.1026		1.0241	157	0.637	0		25	1	0.04		0.9045	831	0.0	1		118	10	0.0847		0.535	-0.3013	0	0.0
+PX214481.1	Funneliformis mosseae | C2	Funneliformis mosseae	baseline	PX214482.1	1474	0.0	0		341	36	0.1056		1.0223	158	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5362	-0.3224	2	0.009
+PX214482.1	Funneliformis mosseae | C2	Funneliformis mosseae	baseline	PX214481.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8872	832	0.0	0		118	10	0.0847		0.5362	-0.3139	2	0.009
+PX214483.1	Funneliformis mosseae | C2	Funneliformis mosseae	baseline	PX214484.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.9027	832	0.12	0		118	10	0.0847		0.5361	-0.3116	1	0.0046
+PX214484.1	Funneliformis mosseae | C2	Funneliformis mosseae	baseline	PX214483.1	1474	0.068	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.5362	-0.3148	1	0.0046
+PX214485.1	Funneliformis mosseae | C2	Funneliformis mosseae	baseline	PX214481.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5362	-0.2929	2	0.0089
+PX214486.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214488.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5353	-0.3266	0	0.0
+PX214487.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214486.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5366	-0.3144	0	0.0
+PX214488.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214486.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5353	-0.3266	0	0.0
+PX214489.1	Funneliformis mosseae | 3502	Funneliformis mosseae	baseline	PX214494.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5361	-0.3266	3	0.0135
+PX214490.1	Funneliformis mosseae | FEC30_219A	Funneliformis mosseae	baseline	PX214534.1	1474	0.0	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	831	0.361	1		118	10	0.0847		0.5376	-0.332	2	0.009
+PX214491.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214500.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.532	-0.3194	0	0.0
+PX214492.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214496.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	831	0.12	1		118	10	0.0847		0.5372	-0.3144	0	0.0
+PX214493.1	Funneliformis mosseae | 3502	Funneliformis mosseae	baseline	PX214489.1	1474	0.068	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.8711	832	0.601	0		118	10	0.0847		0.5368	-0.3224	4	0.0179
+PX214494.1	Funneliformis mosseae | 3502	Funneliformis mosseae	baseline	PX214489.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.361	0		118	10	0.0847		0.5367	-0.3224	4	0.0179
+PX214495.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214496.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	831	0.0	0		118	10	0.0847		0.5385	-0.3266	0	0.0
+PX214496.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214495.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	831	0.0	0		118	10	0.0847		0.5385	-0.3266	0	0.0
+PX214497.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214569.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	831	0.0	2		118	10	0.0847		0.5376	-0.3167	6	0.0271
+PX214498.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214492.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5372	-0.3103	4	0.0179
+PX214499.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214500.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5357	-0.3251	0	0.0
+PX214500.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214499.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5357	-0.3194	0	0.0
+PX214501.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214500.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.12	0		118	10	0.0847		0.5363	-0.3194	0	0.0
+PX214502.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214506.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	831	0.361	1		118	10	0.0847		0.5386	-0.3266	1	0.0045
+PX214503.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214510.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	831	0.361	0		118	10	0.0847		0.5383	-0.3315	0	0.0
+PX214504.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214505.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	831	0.481	1		118	10	0.0847		0.5371	-0.3266	0	0.0
+PX214505.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214504.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	831	0.481	1		118	10	0.0847		0.5383	-0.3266	0	0.0
+PX214506.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214515.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5372	-0.33	7	0.0314
+PX214507.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214508.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.629	0		25	1	0.04		0.9027	832	0.12	0		118	10	0.0847		0.5372	-0.33	2	0.009
+PX214508.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214507.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.637	0		25	1	0.04		0.8798	832	0.12	0		118	10	0.0847		0.5365	-0.3238	2	0.009
+PX214509.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214510.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	831	0.241	0		118	10	0.0847		0.5383	-0.3315	0	0.0
+PX214510.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214509.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	831	0.241	0		118	11	0.0932		0.535	-0.3315	0	0.0
+PX214511.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214512.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	9	0.0763		0.5392	-0.3254	0	0.0
+PX214512.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214511.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5365	-0.3254	0	0.0
+PX214513.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214517.1	1474	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5372	-0.3254	5	0.0223
+PX214514.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214511.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	9	0.0763		0.5392	-0.3254	0	0.0
+PX214515.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214514.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5367	-0.324	0	0.0
+PX214516.1	Funneliformis mosseae | 198394_123A	Funneliformis mosseae	baseline	PX214512.1	1474	0.068	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5362	-0.3131	4	0.018
+PX214517.1	Funneliformis mosseae | 2252_723A	Funneliformis mosseae	baseline	PX214513.1	1474	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5362	-0.3131	4	0.018
+PX214518.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214519.1	1474	0.068	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5368	-0.2888	5	0.0223
+PX214519.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214518.1	1474	0.068	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5368	-0.3	3	0.0136
+PX214520.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214492.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.9027	832	0.12	0		118	10	0.0847		0.5368	-0.31	0	0.0
+PX214521.1	Funneliformis mosseae | 3502	Funneliformis mosseae	baseline	PX214493.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5356	-0.3198	3	0.0135
+PX214522.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214523.1	1474	0.136	0		341	36	0.1056		1.0224	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.535	-0.329	0	0.0
+PX214523.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214525.1	1474	0.0	0		341	36	0.1056		1.0224	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.535	-0.3134	0	0.0
+PX214524.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214525.1	1474	0.0	0		341	36	0.1056		1.0224	157	0.0	0		25	1	0.04		0.9027	832	0.481	0		118	10	0.0847		0.5373	-0.329	0	0.0
+PX214525.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214523.1	1474	0.0	0		341	36	0.1056		1.0224	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.535	-0.3134	0	0.0
+PX214526.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214527.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.5366	-0.3089	0	0.0
+PX214527.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214526.1	1474	0.068	0		341	36	0.1056		1.0231	159	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.5369	-0.3089	0	0.0
+PX214528.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214526.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.536	-0.3089	0	0.0
+PX214529.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214526.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.24	0		118	10	0.0847		0.5366	-0.2969	0	0.0
+PX214530.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214528.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.536	-0.2779	0	0.0
+PX214531.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214527.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.9027	832	0.361	1		118	10	0.0847		0.5381	-0.2767	0	0.0
+PX214532.1	Funneliformis mosseae | FEC30_219A	Funneliformis mosseae	baseline	PX214533.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	831	0.12	1		118	10	0.0847		0.5381	-0.2724	0	0.0
+PX214533.1	Funneliformis mosseae | FEC30_219A	Funneliformis mosseae	baseline	PX214532.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	831	0.12	1		118	10	0.0847		0.538	-0.2724	0	0.0
+PX214534.1	Funneliformis mosseae | FEC30_219A	Funneliformis mosseae	baseline	PX214533.1	1474	0.068	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	831	0.0	0		118	10	0.0847		0.538	-0.3118	4	0.0181
+PX214535.1	Funneliformis mosseae | FEC30_219A	Funneliformis mosseae	baseline	PX214536.1	1474	0.068	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.12	1		118	10	0.0847		0.5373	-0.3014	1	0.0045
+PX214536.1	Funneliformis mosseae | FEC30_219A	Funneliformis mosseae	baseline	PX214535.1	1474	0.068	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.12	1		118	10	0.0847		0.5374	-0.2784	1	0.0045
+PX214537.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214538.1	1474	0.136	0		341	36	0.1056		1.0219	157	0.0	0		25	1	0.04		0.8711	832	0.481	0		118	10	0.0847		0.5348	-0.309	1	0.0045
+PX214538.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214537.1	1474	0.136	0		341	36	0.1056		1.02	159	0.0	0		25	1	0.04		0.9027	832	0.481	0		118	10	0.0847		0.5353	-0.3266	1	0.0045
+PX214539.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214537.1	1474	0.0	0		341	36	0.1056		1.0219	159	0.0	0		25	1	0.04		0.8711	832	0.601	1		118	10	0.0847		0.5381	-0.309	4	0.0179
+PX214540.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214537.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.481	0		118	10	0.0847		0.5362	-0.2865	5	0.0224
+PX214541.1	Funneliformis mosseae | 3502	Funneliformis mosseae	baseline	PX214494.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.24	0		118	10	0.0847		0.5364	-0.3165	2	0.0089
+PX214542.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214543.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.536	-0.3142	0	0.0
+PX214543.1	Funneliformis mosseae | 2101_50A	Funneliformis mosseae	baseline	PX214542.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.536	-0.3088	0	0.0
+PX214544.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214545.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	831	0.241	3		118	10	0.0847		0.5372	-0.2842	0	0.0
+PX214545.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214544.1	1474	0.068	0		341	36	0.1056		1.02	159	0.0	0		25	1	0.04		0.8711	831	0.241	3		118	10	0.0847		0.5371	-0.2842	0	0.0
+PX214546.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214547.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	831	0.0	2		118	11	0.0932		0.526	-0.2897	3	0.0135
+PX214547.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214546.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.9027	831	0.0	2		118	10	0.0847		0.533	-0.2996	4	0.0179
+PX214548.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214557.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.481	0		118	10	0.0847		0.5385	-0.2896	23	0.1036
+PX214549.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214550.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5372	-0.2883	8	0.036
+PX214550.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214549.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5372	-0.3081	8	0.0362
+PX214551.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214549.1	1474	0.068	0		341	36	0.1056		1.02	157	0.0	0		25	1	0.04		0.9027	832	0.12	0		118	10	0.0847		0.5372	-0.2883	0	0.0
+PX214552.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214556.1	1474	0.068	0		341	36	0.1056		1.0221	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5365	-0.3063	12	0.0541
+PX214553.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214555.1	1473	0.068	1		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.0	0		118	10	0.0847		0.5386	-0.3058	8	0.0359
+PX214554.1	Funneliformis mosseae | CHB4_Fmos	Funneliformis mosseae	baseline	PX214526.1	1474	0.0	1		341	36	0.1056		1.0198	159	0.0	0		25	1	0.04		0.9027	832	0.962	0		118	10	0.0847		0.5386	-0.3058	3	0.0135
+PX214555.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214557.1	1473	0.068	1		341	37	0.1085		1.0135	157	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5386	-0.3049	0	0.0
+PX214556.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214557.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5372	-0.3049	0	0.0
+PX214557.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214556.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5372	-0.3049	0	0.0
+PX214558.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214557.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.721	0		118	9	0.0763		0.5408	-0.2808	10	0.0446
+PX214559.1	Funneliformis mosseae | CHB3_Fmos	Funneliformis mosseae	baseline	PX214560.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5376	-0.3068	3	0.0135
+PX214560.1	Funneliformis mosseae | CHB3_Fmos	Funneliformis mosseae	baseline	PX214559.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.9027	832	0.0	0		118	10	0.0847		0.5376	-0.3049	4	0.0179
+PX214561.1	Funneliformis mosseae | CHB3_Fmos	Funneliformis mosseae	baseline	PX214560.1	1474	0.068	0		341	36	0.1056		1.0224	157	0.0	0		25	1	0.04		0.9027	832	0.24	0		118	10	0.0847		0.5362	-0.2991	4	0.0179
+PX214562.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214565.1	1474	0.068	0		341	37	0.1085		1.0211	159	0.0	0		25	1	0.04		0.8711	832	0.481	0		118	10	0.0847		0.5379	-0.325	0	0.0
+PX214563.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214564.1	1474	0.068	0		341	36	0.1056		1.0224	159	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.535	-0.325	0	0.0
+PX214564.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214563.1	1474	0.068	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.12	0		118	10	0.0847		0.5347	-0.325	0	0.0
+PX214565.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214564.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.8711	832	0.361	0		118	10	0.0847		0.5363	-0.325	0	0.0
+PX214566.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214564.1	1474	0.068	0		341	36	0.1056		1.0224	159	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5363	-0.325	0	0.0
+PX214567.1	Funneliformis mosseae | 4344_272A	Funneliformis mosseae	baseline	PX214562.1	1474	0.136	0		341	36	0.1056		1.0224	159	0.0	0		25	1	0.04		0.9027	832	0.361	0		118	10	0.0847		0.5373	-0.325	0	0.0
+PX214568.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214557.1	1474	0.0	0		341	36	0.1056		1.0223	157	0.0	0		25	1	0.04		0.8711	832	0.24	0		118	9	0.0763		0.5404	-0.2938	14	0.0625
+PX214569.1	Funneliformis mosseae | W32_9_13A	Funneliformis mosseae	baseline	PX214495.1	1474	0.0	0		341	36	0.1056		1.0221	159	0.0	0		25	1	0.04		0.8711	831	0.0	1		118	11	0.0932		0.5317	-0.3175	2	0.009
+PX214570.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214568.1	1474	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	1	0.04		0.9027	832	1.082	0		118	10	0.0847		0.5383	-0.2869	8	0.036
+PX214571.1	Funneliformis mosseae | CHB1_Fmos	Funneliformis mosseae	baseline	PX214553.1	1473	0.0	1		341	36	0.1056		1.0226	159	0.0	0		25	1	0.04		0.9027	832	0.601	0		118	10	0.0847		0.5398	-0.3072	23	0.1041
+PX214572.1	Septoglomus viscosum | CW0029_4028A	Septoglomus viscosum	baseline	PX214578.1	1473	0.747	0	yes	341	38	0.1114		1.0203	158	0.633	0		25	2	0.08		0.8534	830	2.048	1		118	7	0.0593		0.5447	-0.2289	41	0.1798
+PX214573.1	Septoglomus viscosum | MD215_360A	Septoglomus viscosum	baseline	PX214574.1	1473	0.0	0		341	38	0.1114		1.0203	158	0.0	0		25	2	0.08		0.8534	830	0.241	0		118	7	0.0593		0.545	-0.226	0	0.0
+PX214574.1	Septoglomus viscosum | MD215_360A	Septoglomus viscosum	baseline	PX214573.1	1473	0.0	0		341	38	0.1114		1.0203	158	0.0	0		25	2	0.08		0.8534	830	0.241	0		118	7	0.0593		0.545	-0.226	0	0.0
+PX214575.1	Septoglomus viscosum | MD215_360A	Septoglomus viscosum	baseline	PX214573.1	1473	0.339	0		341	38	0.1114		1.019	158	0.0	0		25	2	0.08		0.8534	830	0.12	0		118	7	0.0593		0.5447	-0.226	0	0.0
+PX214576.1	Septoglomus viscosum | W375_18_642E	Septoglomus viscosum	baseline	PX214577.1	1473	0.136	0		341	38	0.1114		1.0198	158	0.0	0		25	2	0.08		0.8534	828	0.242	3		118	8	0.0678		0.539	-0.2248	0	0.0
+PX214577.1	Septoglomus viscosum | W375_18_642E	Septoglomus viscosum	baseline	PX214576.1	1473	0.136	0		341	38	0.1114		1.02	158	0.0	0		25	2	0.08		0.8534	828	0.242	3		118	7	0.0593		0.5445	-0.2211	0	0.0
+PX214578.1	Septoglomus viscosum | CW0029_4028A	Septoglomus viscosum	baseline	PX214572.1	1473	0.747	0	yes	341	38	0.1114		1.0188	158	0.633	1		25	2	0.08		0.8427	830	2.048	1		118	7	0.0593		0.5431	-0.2407	41	0.1814
+PX214579.1	Septoglomus viscosum | W375_18_642E	Septoglomus viscosum	baseline	PX214577.1	1473	0.475	0		341	38	0.1114		1.018	158	0.633	0		25	2	0.08		0.8427	829	1.206	3		118	7	0.0593		0.5437	-0.223	30	0.1351
+PX214580.1	Septoglomus viscosum | CW0002_4001A	Septoglomus viscosum	baseline	PX214582.1	1473	0.204	3		341	38	0.1114		1.0176	158	0.0	0		25	2	0.08		0.8427	832	0.0	0		118	7	0.0593		0.5402	-0.2367	0	0.0
+PX214581.1	Septoglomus viscosum | CW0002_4001A	Septoglomus viscosum	baseline	PX214582.1	1473	0.136	3		341	38	0.1114		1.0193	158	0.0	0		25	2	0.08		0.8427	832	0.0	0		118	7	0.0593		0.5402	-0.2367	0	0.0
+PX214582.1	Septoglomus viscosum | CW0002_4001A	Septoglomus viscosum	baseline	PX214581.1	1473	0.136	3		341	38	0.1114		1.018	158	0.0	0		25	2	0.08		0.8427	832	0.0	0		118	7	0.0593		0.5402	-0.2367	0	0.0
+PX214583.1	Septoglomus viscosum | W375_18_642E	Septoglomus viscosum	short 5.8S	PX214577.1	1472	3.872	1	yes	341	43	0.1261	yes	0.9496	155	7.097	1	yes	25	1	0.04		0.8536	830	1.928	3		118	9	0.0763		0.5189	-0.2213	18	0.0783
+PX214584.1	Septoglomus sp. | 5070_5024A	Septoglomus sp.	flagged main	PX214591.1	1474	0.814	0	yes	341	35	0.1026		1.0242	159	0.629	2	yes	25	2	0.08		0.8799	829	1.327	6	yes	118	10	0.0847		0.5314	-0.1895	26	0.1135
+PX214585.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214587.1	1474	0.746	0		341	35	0.1026		1.0242	156	0.641	1		25	2	0.08		0.8799	829	1.086	8	yes	118	10	0.0847		0.5314	-0.1861	26	0.113
+PX214586.1	Septoglomus sp. | 5070_5024A	Septoglomus sp.	baseline	PX214591.1	1474	0.068	0		341	35	0.1026		1.025	162	0.617	0		25	2	0.08		0.8901	832	0.24	2		118	8	0.0678		0.5385	-0.1855	0	0.0
+PX214587.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214590.1	1474	0.0	2		341	35	0.1026		1.025	156	0.0	0		25	2	0.08		0.8901	834	0.0	0		118	8	0.0678		0.5385	-0.1855	0	0.0
+PX214588.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214589.1	1473	0.068	1		341	35	0.1026		1.0243	156	0.0	0		25	2	0.08		0.8901	834	0.0	0		118	8	0.0678		0.5385	-0.1855	0	0.0
+PX214589.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214588.1	1473	0.068	1		341	35	0.1026		1.0231	156	0.0	0		25	2	0.08		0.8901	834	0.0	0		118	8	0.0678		0.5385	-0.1855	0	0.0
+PX214590.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214587.1	1474	0.0	2		341	35	0.1026		1.0214	156	0.0	0		25	2	0.08		0.8901	834	0.0	0		118	8	0.0678		0.5385	-0.1855	0	0.0
+PX214591.1	Septoglomus sp. | 5070_5024A	Septoglomus sp.	baseline	PX214586.1	1474	0.068	0		341	35	0.1026		1.0248	156	0.0	0		25	2	0.08		0.8106	832	0.24	2		118	8	0.0678		0.5401	-0.1824	0	0.0
+PX214592.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214594.1	1474	0.0	0		341	35	0.1026		1.0239	158	0.0	0		25	2	0.08		0.8534	836	0.0	3		118	9	0.0763		0.533	-0.1987	0	0.0
+PX214593.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214592.1	1474	0.0	0		341	35	0.1026		1.0239	158	0.0	0		25	2	0.08		0.8534	835	0.0	3		118	7	0.0593		0.537	-0.1987	0	0.0
+PX214594.1	Septoglomus sp. | C4	Septoglomus sp.	baseline	PX214592.1	1474	0.0	0		341	35	0.1026		1.0239	158	0.0	0		25	2	0.08		0.8534	836	0.0	3		118	9	0.0763		0.5308	-0.1987	0	0.0
+PX214595.1	Septoglomus sp. | 4404_2057A	Septoglomus sp.	same length	PX214600.1	1472	0.543	0		341	38	0.1114		1.0229	158	5.696	0	yes	25	1	0.04		0.865	832	2.404	4	yes	118	6	0.0508		0.5343	-0.251	20	0.0962
+PX214596.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	baseline	PX214597.1	1472	0.136	0		341	38	0.1114		1.0234	158	0.0	0		25	1	0.04		0.8733	835	0.0	0		118	6	0.0508		0.5427	-0.2463	0	0.0
+PX214597.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	baseline	PX214596.1	1472	0.136	0		341	38	0.1114		1.024	158	0.0	0		25	1	0.04		0.8733	835	0.0	0		118	6	0.0508		0.5427	-0.2463	0	0.0
+PX214598.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	baseline	PX214597.1	1472	0.136	0		341	38	0.1114		1.0241	158	0.0	0		25	1	0.04		0.8733	835	0.0	0		118	6	0.0508		0.5427	-0.2463	0	0.0
+PX214599.1	Septoglomus sp. | 4404_2057A	Septoglomus sp.	baseline	PX214600.1	1472	0.0	0		341	38	0.1114		1.0238	158	0.0	0		25	1	0.04		0.9046	834	0.36	0		118	6	0.0508		0.5374	-0.253	1	0.0043
+PX214600.1	Septoglomus sp. | 4404_2057A	Septoglomus sp.	baseline	PX214599.1	1472	0.0	0		341	38	0.1114		1.0238	158	0.0	0		25	1	0.04		0.9046	836	0.359	0		118	6	0.0508		0.544	-0.2198	1	0.0043
+PX214601.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	same length	PX214598.1	1472	0.204	0		341	38	0.1114		1.0249	158	5.063	0	yes	25	1	0.04		0.9046	832	2.644	4	yes	118	7	0.0593		0.5418	-0.2543	16	0.0696
+PX214602.1	Septoglomus sp. | FS_9_2328B	Septoglomus sp.	same length	PX214597.1	1472	0.272	0		341	38	0.1114		1.0234	158	5.063	0	yes	25	1	0.04		0.9046	832	2.644	4	yes	118	7	0.0593		0.5401	-0.2739	20	0.087
+PX214603.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	baseline	PX214604.1	1472	0.0	0		341	37	0.1085		1.0228	158	0.0	0		25	2	0.08		0.834	835	0.24	0		118	8	0.0678		0.54	-0.2391	0	0.0
+PX214604.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	baseline	PX214603.1	1472	0.0	0		341	37	0.1085		1.0228	158	0.0	0		25	2	0.08		0.834	835	0.24	0		118	8	0.0678		0.5379	-0.2391	0	0.0
+PX214605.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	baseline	PX214603.1	1472	0.272	0		341	37	0.1085		1.0233	158	0.0	0		25	2	0.08		0.834	835	0.0	0		118	8	0.0678		0.54	-0.2391	0	0.0
+PX214606.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	baseline	PX214607.1	1472	0.0	0		341	37	0.1085		1.0228	158	0.0	0		25	2	0.08		0.834	836	0.12	2		118	8	0.0678		0.5382	-0.2391	0	0.0
+PX214607.1	Septoglomus sp. | Blasz_17_2277A	Septoglomus sp.	baseline	PX214606.1	1472	0.0	0		341	37	0.1085		1.0228	158	0.0	0		25	2	0.08		0.834	836	0.12	2		118	8	0.0678		0.5318	-0.2391	0	0.0
+PX214608.1	Septoglomus sp. | SO43BL	Septoglomus sp.	baseline						341	37	0.1085		1.0228					25	2	0.08		0.8396					118	8	0.0678		0.54	-0.2229		
+PX214609.1	Septoglomus africanum | Blasz_17_2277A	Septoglomus africanum	baseline						341	37	0.1085		1.0224					25	1	0.04		0.9046					118	6	0.0508		0.5479	-0.2678		
+PX214610.1	Septoglomus africanum | SO43BL	Septoglomus africanum	baseline	PX214613.1	1472	0.0	0		341	37	0.1085		1.0224	158	0.0	0		25	1	0.04		0.9046	833	0.0	1		118	6	0.0508		0.5577	-0.2693	18	0.0738
+PX214611.1	Septoglomus africanum | SO43BL	Septoglomus africanum	baseline	PX214612.1	1472	0.0	0		341	37	0.1085		1.0224	158	0.0	0		25	1	0.04		0.9046	834	0.12	0		118	6	0.0508		0.5472	-0.265	0	0.0
+PX214612.1	Septoglomus africanum | SO43BL	Septoglomus africanum	baseline	PX214611.1	1472	0.0	0		341	37	0.1085		1.0224	158	0.0	0		25	1	0.04		0.9046	834	0.12	0		118	6	0.0508		0.5479	-0.2683	0	0.0
+PX214613.1	Septoglomus africanum | SO43BL	Septoglomus africanum	baseline	PX214614.1	1472	0.0	0		341	37	0.1085		1.0224	158	0.0	0		25	1	0.04		0.9046	834	0.12	0		118	6	0.0508		0.5479	-0.2683	0	0.0
+PX214614.1	Septoglomus africanum | SO43BL	Septoglomus africanum	baseline	PX214613.1	1472	0.0	0		341	37	0.1085		1.0224	158	0.0	0		25	1	0.04		0.9046	834	0.12	0		118	6	0.0508		0.5472	-0.275	0	0.0
+PX214615.1	Glomus tetrastratosum | CW0020_4019A	Glomus tetrastratosum	baseline	PX214621.1	1472	0.0	0		341	37	0.1085		1.0233	158	0.0	0		25	1	0.04		0.8734	819	0.122	2		118	8	0.0678		0.5558	-0.2386	4	0.0212
+PX214616.1	Glomus tetrastratosum | CW0020_4019A	Glomus tetrastratosum	baseline	PX214621.1	1472	0.0	0		341	37	0.1085		1.0233	158	0.0	0		25	1	0.04		0.8734	819	0.244	2		118	8	0.0678		0.554	-0.24	8	0.0421
+PX214617.1	Glomus tetrastratosum | 5105_2444A	Glomus tetrastratosum	baseline	PX214623.1	1471	0.068	1		341	37	0.1085		1.0237	158	0.0	0		25	1	0.04		0.8734	820	0.244	1		118	8	0.0678		0.5547	-0.2393	5	0.0262
+PX214618.1	Glomus tetrastratosum | 4433_785B	Glomus tetrastratosum	baseline	PX214628.1	1472	0.34	0		341	37	0.1085		1.0228	158	1.899	0		25	1	0.04		0.8734	819	0.977	1		118	8	0.0678		0.5547	-0.2393	75	0.3927
+PX214619.1	Glomus tetrastratosum | SASK26_2406A	Glomus tetrastratosum	baseline						341	38	0.1114		1.021					25	1	0.04		0.8734					118	8	0.0678		0.5555	-0.2393		
+PX214620.1	Glomus tetrastratosum | 5105_2444A	Glomus tetrastratosum	baseline	PX214617.1	1472	0.543	0		341	39	0.1144	yes	1.0132	158	0.633	0		25	1	0.04		0.8818	820	0.854	0		118	9	0.0763		0.5461	-0.2183	20	0.1047
+PX214621.1	Glomus tetrastratosum | CW0020_4019A	Glomus tetrastratosum	baseline	PX214615.1	1472	0.0	0		341	37	0.1085		1.0233	158	0.0	0		25	1	0.04		0.8734	819	0.122	2		118	8	0.0678		0.5565	-0.2415	4	0.0213
+PX214622.1	Glomus tetrastratosum | 5105_2444A	Glomus tetrastratosum	baseline	PX214623.1	1471	0.0	0		341	37	0.1085		1.0243	158	0.0	0		25	1	0.04		0.8734	820	0.0	1		118	8	0.0678		0.5552	-0.2116	2	0.0106
+PX214623.1	Glomus tetrastratosum | 5105_2444A	Glomus tetrastratosum	baseline	PX214624.1	1470	0.0	2		341	37	0.1085		1.0243	158	0.0	0		25	1	0.04		0.8734	821	0.0	0		118	8	0.0678		0.5545	-0.2386	2	0.0106
+PX214624.1	Glomus tetrastratosum | 5105_2444A	Glomus tetrastratosum	baseline	PX214623.1	1470	0.0	2		341	37	0.1085		1.0247	158	0.0	0		25	1	0.04		0.8734	821	0.0	0		118	8	0.0678		0.5545	-0.2116	2	0.0106
+PX214625.1	Glomus tetrastratosum | 5105_2444A	Glomus tetrastratosum	baseline	PX214617.1	1471	0.136	1		341	37	0.1085		1.0238	158	0.0	0		25	1	0.04		0.8734	820	0.366	0		118	8	0.0678		0.5546	-0.2511	7	0.0368
+PX214626.1	Glomus tetrastratosum | 4433_785B	Glomus tetrastratosum	baseline	PX214627.1	1471	0.068	1		341	37	0.1085		1.0227	158	0.0	0		25	1	0.04		0.8697	819	0.0	0		118	8	0.0678		0.5578	-0.2042	0	0.0
+PX214627.1	Glomus tetrastratosum | 4433_785B	Glomus tetrastratosum	baseline	PX214626.1	1471	0.068	1		341	37	0.1085		1.0235	158	0.0	0		25	1	0.04		0.8697	819	0.0	0		118	8	0.0678		0.5578	-0.2042	0	0.0
+PX214628.1	Glomus tetrastratosum | 4433_785B	Glomus tetrastratosum	baseline	PX214626.1	1472	0.0	0		341	37	0.1085		1.0227	158	0.0	0		25	1	0.04		0.8697	819	0.488	1		118	8	0.0678		0.5515	-0.2042	0	0.0
+PX214629.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214638.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2544	0	0.0
+PX214630.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214631.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2544	0	0.0
+PX214631.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214630.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2544	0	0.0
+PX214632.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214630.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2544	0	0.0
+PX214633.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214630.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.122	0		118	10	0.0847		0.537	-0.2583	0	0.0
+PX214634.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214630.1	1473	0.136	0		341	37	0.1085		1.0215	157	0.0	0		25	1	0.04		0.8997	820	0.122	0		118	10	0.0847		0.54	-0.2544	0	0.0
+PX214635.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214630.1	1473	0.136	0		341	38	0.1114		1.0131	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2544	0	0.0
+PX214636.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214637.1	1473	0.068	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8997	820	0.488	0		118	10	0.0847		0.54	-0.2691	0	0.0
+PX214637.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214638.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2691	29	0.1401
+PX214638.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214637.1	1473	0.0	0		341	36	0.1056		1.0228	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.2544	29	0.1408
+PX214639.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214636.1	1473	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8559	820	0.976	0		118	10	0.0847		0.5398	-0.2721	32	0.1569
+PX214640.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214641.1	1473	0.0	0		341	36	0.1056		1.0226	160	0.0	0		25	1	0.04		0.8559	820	0.0	0		118	10	0.0847		0.5398	-0.2721	0	0.0
+PX214641.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214640.1	1473	0.0	0		341	36	0.1056		1.0226	160	0.0	0		25	1	0.04		0.8559	820	0.0	0		118	10	0.0847		0.5398	-0.2721	0	0.0
+PX214642.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214640.1	1473	0.0	0		341	36	0.1056		1.0226	160	0.0	0		25	1	0.04		0.8559	817	0.245	3		118	10	0.0847		0.5408	-0.2721	0	0.0
+PX214643.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214639.1	1473	0.068	0		341	36	0.1056		1.0228	160	0.625	0		25	1	0.04		0.8997	820	0.488	0		118	10	0.0847		0.5397	-0.2621	36	0.1748
+PX214644.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214640.1	1473	0.068	0		341	36	0.1056		1.0228	160	0.625	0		25	1	0.04		0.8997	820	0.488	0		118	10	0.0847		0.5397	-0.2621	36	0.1748
+PX214645.1	Glomus chinense | 4650_4654_2007C	Glomus chinense	baseline	PX214638.1	1473	0.068	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.237	41	0.205
+PX214646.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214647.1	1473	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.237	0	0.0
+PX214647.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214646.1	1473	0.0	0		341	36	0.1056		1.0226	157	0.0	0		25	1	0.04		0.8997	820	0.0	0		118	10	0.0847		0.5399	-0.237	0	0.0
+PX214648.1	Glomus chinense | 4411_1096D	Glomus chinense	baseline	PX214649.1	1473	0.0	0		341	36	0.1056		1.0228	160	0.0	0		25	1	0.04		0.8559	819	0.122	0		118	10	0.0847		0.5511	-0.2418	0	0.0
+PX214649.1	Glomus chinense | 4411_1096D	Glomus chinense	baseline	PX214648.1	1473	0.0	0		341	36	0.1056		1.0228	160	0.0	0		25	1	0.04		0.8559	819	0.122	0		118	10	0.0847		0.5511	-0.2418	0	0.0
+PX214650.1	Glomus chinense | 4411_1096D	Glomus chinense	baseline	PX214649.1	1473	0.136	0		341	36	0.1056		1.0228	160	0.0	0		25	1	0.04		0.8559	819	0.0	0		118	10	0.0847		0.5511	-0.2418	0	0.0
+PX214651.1	Glomus chinense | 4411_1096D	Glomus chinense	baseline	PX214648.1	1473	0.068	0		341	36	0.1056		1.0217	160	0.0	0		25	1	0.04		0.8559	819	0.244	1		118	10	0.0847		0.5411	-0.2507	1	0.0049
+PX214652.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214657.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8559	820	0.366	0		118	10	0.0847		0.5425	-0.2393	30	0.1493
+PX214653.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214654.1	1473	0.068	1		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8559	820	0.0	0		118	10	0.0847		0.5414	-0.2723	0	0.0
+PX214654.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214653.1	1473	0.068	1		341	36	0.1056		1.0188	160	0.0	0		25	1	0.04		0.8559	820	0.0	0		118	10	0.0847		0.5414	-0.2723	0	0.0
+PX214655.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214653.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8559	820	0.732	1		118	10	0.0847		0.5408	-0.2723	0	0.0
+PX214656.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214653.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8559	820	0.122	0		118	10	0.0847		0.5414	-0.2578	42	0.2111
+PX214657.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214658.1	1473	0.0	0		341	36	0.1056		1.0218	158	0.633	0		25	1	0.04		0.8559	819	0.855	1		118	10	0.0847		0.542	-0.258	16	0.08
+PX214658.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214657.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.625	0		25	1	0.04		0.885	819	0.855	1		118	10	0.0847		0.5505	-0.2396	16	0.0792
+PX214659.1	Glomus chinense | 4411_1096D	Glomus chinense	baseline	PX214650.1	1473	0.679	0		341	39	0.1144	yes	1.0057	160	0.625	0		25	1	0.04		0.8642	819	2.198	0		118	10	0.0847		0.5445	-0.2502	49	0.2414
+PX214660.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214661.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.625	0		25	1	0.04		0.8529	819	0.977	1		118	10	0.0847		0.549	-0.2492	30	0.1508
+PX214661.1	Glomus chinense | 4036_906B	Glomus chinense	baseline	PX214660.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.625	0		25	1	0.04		0.8559	819	0.977	1		118	10	0.0847		0.5414	-0.2614	32	0.1584
+PX214662.1	Glomus chinense | 4419_1047A	Glomus chinense	baseline	PX214640.1	1473	0.0	0		341	36	0.1056		1.0226	160	0.0	0		25	1	0.04		0.8559	820	0.0	0		118	10	0.0847		0.5398	-0.2721	0	0.0
+PX214663.1	Glomus chinense | 4411_1096D	Glomus chinense	baseline	PX214650.1	1472	1.087	1	yes	341	42	0.1232	yes	0.9913	160	0.0	0		25	1	0.04		0.8559	818	2.2	1		118	14	0.1186		0.535	-0.2388	9	0.0448
+PX214664.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214666.1	1472	0.068	0		341	36	0.1056		1.0221	158	0.0	0		25	1	0.04		0.8803	828	0.845	0		118	10	0.0847		0.5239	-0.2852	9	0.0476
+PX214665.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214666.1	1472	0.0	0		341	36	0.1056		1.0222	158	0.0	0		25	1	0.04		0.8803	828	0.966	0		118	10	0.0847		0.5443	-0.289	20	0.1
+PX214666.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214665.1	1472	0.0	0		341	36	0.1056		1.0222	158	0.0	0		25	1	0.04		0.8803	819	0.977	0		118	10	0.0847		0.5244	-0.2809	19	0.1011
+PX214667.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214668.1	1473	0.0	0		341	36	0.1056		1.0224	158	0.0	0		25	1	0.04		0.8803	828	0.0	0		118	10	0.0847		0.5242	-0.2779	0	0.0
+PX214668.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214667.1	1473	0.0	0		341	36	0.1056		1.0224	158	0.0	0		25	1	0.04		0.8803	828	0.0	0		118	10	0.0847		0.5242	-0.2779	0	0.0
+PX214669.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214667.1	1472	0.0	1		341	36	0.1056		1.0228	157	0.0	1		25	1	0.04		0.8803	827	0.363	1		118	10	0.0847		0.5453	-0.2934	4	0.0204
+PX214670.1	Glomus macrocarpum | W6285_2347C	Glomus macrocarpum	baseline	PX214669.1	1472	0.204	0		341	36	0.1056		1.0228	158	0.0	1		25	1	0.04		0.8803	819	0.366	0		118	10	0.0847		0.5435	-0.2838	6	0.0303
+PX214671.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214672.1	1472	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	2	0.08		0.8295	820	0.0	0		118	10	0.0847		0.5497	-0.2565	0	0.0
+PX214672.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214671.1	1472	0.0	0		341	36	0.1056		1.0223	159	0.0	0		25	2	0.08		0.8295	820	0.0	0		118	10	0.0847		0.5497	-0.2565	0	0.0
+PX214673.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214674.1	1471	0.0	2		341	36	0.1056		1.0223	159	0.0	0		25	2	0.08		0.8295	820	0.0	0		118	10	0.0847		0.5497	-0.2531	0	0.0
+PX214674.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214673.1	1471	0.0	2		341	36	0.1056		1.0225	159	0.0	0		25	2	0.08		0.8295	820	0.0	0		118	10	0.0847		0.5497	-0.2531	0	0.0
+PX214675.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214676.1	1472	0.0	0		341	36	0.1056		1.0223	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5461	-0.2414	0	0.0
+PX214676.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214675.1	1472	0.0	0		341	36	0.1056		1.0223	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5461	-0.2414	0	0.0
+PX214677.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214675.1	1472	0.34	0		341	36	0.1056		1.022	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5461	-0.2414	0	0.0
+PX214678.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214715.1	1472	0.068	0		341	36	0.1056		1.0221	158	0.0	0		25	1	0.04		0.8803	819	0.855	2		118	10	0.0847		0.5453	-0.2853	26	0.132
+PX214679.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214717.1	1472	0.068	0		341	36	0.1056		1.0221	158	0.0	0		25	1	0.04		0.8803	819	0.855	2		118	10	0.0847		0.5453	-0.2853	26	0.132
+PX214680.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214681.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.0	1		118	10	0.0847		0.5468	-0.2853	27	0.1371
+PX214681.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214682.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	820	0.244	0		118	10	0.0847		0.5391	-0.2645	1	0.005
+PX214682.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214681.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	820	0.244	0		118	10	0.0847		0.5394	-0.2649	1	0.005
+PX214683.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214682.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.0	1		118	10	0.0847		0.5463	-0.2596	32	0.1538
+PX214684.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214698.1	1473	0.068	1		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	820	0.0	0		118	10	0.0847		0.544	-0.2713	0	0.0
+PX214685.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214702.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	819	0.244	2		118	10	0.0847		0.544	-0.2713	0	0.0
+PX214686.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214688.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.544	-0.2713	0	0.0
+PX214687.1	Glomus rugosae | 4415_1174B	Glomus rugosae	baseline	PX214693.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.544	-0.2713	39	0.2
+PX214688.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214686.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.5426	-0.2713	0	0.0
+PX214689.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214690.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	822	0.0	1		118	10	0.0847		0.5421	-0.2713	0	0.0
+PX214690.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214689.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	822	0.0	1		118	10	0.0847		0.5433	-0.2713	0	0.0
+PX214691.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214690.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	822	0.243	0		118	10	0.0847		0.542	-0.2713	0	0.0
+PX214692.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214684.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	819	0.244	1		118	10	0.0847		0.5433	-0.2713	0	0.0
+PX214693.1	Glomus rugosae | 4415_1174B	Glomus rugosae	baseline	PX214687.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.5426	-0.252	40	0.2041
+PX214694.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214684.1	1473	0.068	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.544	-0.2686	0	0.0
+PX214695.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214685.1	1473	0.068	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.544	-0.2686	0	0.0
+PX214696.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214701.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	820	0.0	1		118	10	0.0847		0.544	-0.2759	3	0.0154
+PX214697.1	Glomus rugosae | 4415_1174B	Glomus rugosae	baseline	PX214687.1	1473	0.068	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	820	0.244	0		118	10	0.0847		0.544	-0.2759	0	0.0
+PX214698.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214684.1	1473	0.068	1		341	36	0.1056		1.02	160	0.0	0		25	1	0.04		0.8512	820	0.0	0		118	10	0.0847		0.544	-0.2713	0	0.0
+PX214699.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214698.1	1472	0.068	2		341	36	0.1056		1.0217	160	0.0	0		25	1	0.04		0.8512	820	0.0	0		118	10	0.0847		0.544	-0.2713	0	0.0
+PX214700.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214686.1	1472	0.204	1		341	36	0.1056		1.0217	160	0.0	0		25	1	0.04		0.8512	820	0.0	0		118	10	0.0847		0.544	-0.2713	0	0.0
+PX214701.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214696.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	820	0.0	1		118	10	0.0847		0.5432	-0.2551	4	0.0204
+PX214702.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214685.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	819	0.244	2		118	10	0.0847		0.5435	-0.2713	0	0.0
+PX214703.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214707.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	819	0.0	0		118	10	0.0847		0.5435	-0.2551	4	0.0204
+PX214704.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214708.1	1473	0.068	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	819	0.488	1		118	10	0.0847		0.5435	-0.2551	40	0.2041
+PX214705.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214696.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	819	0.488	1		118	10	0.0847		0.5435	-0.2551	4	0.0204
+PX214706.1	Glomus rugosae | 4415_1174B	Glomus rugosae	baseline	PX214697.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	819	0.488	1		118	10	0.0847		0.5435	-0.2551	4	0.0204
+PX214707.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214703.1	1473	0.0	0		341	36	0.1056		1.0218	160	0.0	0		25	1	0.04		0.8512	819	0.0	0		118	10	0.0847		0.5435	-0.2686	3	0.0155
+PX214708.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214729.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	819	0.122	2		118	10	0.0847		0.5423	-0.252	40	0.2041
+PX214709.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214684.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.625	1		25	1	0.04		0.8803	820	0.0	0		118	10	0.0847		0.544	-0.2688	7	0.0352
+PX214710.1	Glomus rugosae | 4417_1160C	Glomus rugosae	baseline	PX214699.1	1472	0.068	0		341	36	0.1056		1.0224	160	0.0	0		25	1	0.04		0.8512	819	0.122	1		118	10	0.0847		0.5466	-0.3036	7	0.0357
+PX214711.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214700.1	1472	0.136	0		341	36	0.1056		1.0198	160	0.0	0		25	1	0.04		0.8512	819	0.122	1		118	10	0.0847		0.5466	-0.3036	7	0.0357
+PX214712.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214685.1	1472	0.272	1		341	36	0.1056		1.0224	160	0.0	0		25	1	0.04		0.8512	820	0.122	0		118	10	0.0847		0.5441	-0.2816	5	0.0255
+PX214713.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214730.1	1471	0.0	2		341	36	0.1056		1.0225	158	0.0	1		25	1	0.04		0.8803	820	0.0	0		118	10	0.0847		0.5441	-0.2561	8	0.0404
+PX214714.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214717.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.611	1		118	10	0.0847		0.5431	-0.2561	1	0.0051
+PX214715.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214716.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	820	0.0	0		118	10	0.0847		0.5433	-0.2561	0	0.0
+PX214716.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214715.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	820	0.0	0		118	10	0.0847		0.5433	-0.2561	0	0.0
+PX214717.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214714.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.611	1		118	10	0.0847		0.5433	-0.2561	1	0.0051
+PX214718.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214719.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8737	819	0.0	0		118	10	0.0847		0.5437	-0.2588	0	0.0
+PX214719.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214718.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8737	819	0.0	0		118	10	0.0847		0.5437	-0.2588	0	0.0
+PX214720.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214725.1	1472	0.0	0		341	36	0.1056		1.0225	158	1.266	0		25	1	0.04		0.8737	819	0.366	0		118	10	0.0847		0.5437	-0.2588	18	0.0905
+PX214721.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214718.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8737	818	0.0	2		118	10	0.0847		0.5437	-0.2588	0	0.0
+PX214722.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214723.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.885	819	0.0	0		118	10	0.0847		0.5448	-0.2608	0	0.0
+PX214723.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214722.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.885	819	0.0	0		118	10	0.0847		0.5448	-0.2608	0	0.0
+PX214724.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214725.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.885	819	0.244	0		118	10	0.0847		0.5448	-0.2608	0	0.0
+PX214725.1	Glomus rugosae | 4431_805C	Glomus rugosae	baseline	PX214724.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.885	819	0.244	0		118	10	0.0847		0.545	-0.2608	0	0.0
+PX214726.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214722.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.885	819	0.366	0		118	10	0.0847		0.5457	-0.2472	1	0.005
+PX214727.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214728.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5431	-0.2586	0	0.0
+PX214728.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214727.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5431	-0.2586	0	0.0
+PX214729.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214708.1	1473	0.0	0		341	36	0.1056		1.0212	160	0.0	0		25	1	0.04		0.8512	819	0.122	2		118	10	0.0847		0.5423	-0.2607	39	0.199
+PX214730.1	Glomus rugosae | 4384_IVT98	Glomus rugosae	baseline	PX214713.1	1471	0.0	2		341	37	0.1085		1.0231	158	0.0	0		25	1	0.04		0.8803	820	0.0	0		118	10	0.0847		0.5441	-0.2526	7	0.0357
+PX214731.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214732.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	817	0.0	3		118	10	0.0847		0.5463	-0.2563	0	0.0
+PX214732.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214731.1	1472	0.0	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	817	0.0	3		118	10	0.0847		0.5463	-0.2563	0	0.0
+PX214733.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214732.1	1472	0.068	0		341	36	0.1056		1.0221	158	0.633	0		25	1	0.04		0.8512	818	0.367	3		118	10	0.0847		0.5438	-0.242	56	0.2732
+PX214734.1	Glomus rugosae | 4420_683B	Glomus rugosae	baseline	PX214718.1	1472	0.0	0		341	36	0.1056		1.0225	157	0.0	1		25	1	0.04		0.8282	818	0.0	1		118	11	0.0932		0.536	-0.2595	22	0.11
+PX214735.1	Glomus rugosae | 5103_2445A	Glomus rugosae	baseline	PX214737.1	1472	0.136	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5459	-0.2569	0	0.0
+PX214736.1	Glomus rugosae | 5096_2452A	Glomus rugosae	baseline	PX214738.1	1472	0.136	0		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5459	-0.2569	0	0.0
+PX214737.1	Glomus rugosae | 5103_2445A	Glomus rugosae	baseline	PX214735.1	1472	0.136	0		341	36	0.1056		1.0217	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5459	-0.2569	0	0.0
+PX214738.1	Glomus rugosae | 5096_2452A	Glomus rugosae	baseline	PX214736.1	1472	0.136	0		341	36	0.1056		1.0217	158	0.0	0		25	1	0.04		0.8803	819	0.0	0		118	10	0.0847		0.5459	-0.2569	0	0.0
+PX214739.1	Glomus rugosae | 5103_2445A	Glomus rugosae	baseline	PX214737.1	1472	0.0	0		341	36	0.1056		1.0217	158	0.0	0		25	1	0.04		0.8803	819	0.366	0		118	10	0.0847		0.5451	-0.2569	0	0.0
+PX214740.1	Glomus rugosae | 5096_2452A	Glomus rugosae	baseline	PX214738.1	1472	0.0	0		341	36	0.1056		1.0217	158	0.0	0		25	1	0.04		0.8803	819	0.366	0		118	10	0.0847		0.5451	-0.2569	0	0.0
+PX214741.1	Glomus rugosae | 5096_2452A	Glomus rugosae	baseline	PX214740.1	1472	0.0	0		341	36	0.1056		1.0217	158	0.0	0		25	1	0.04		0.8803	819	0.366	0		118	10	0.0847		0.5474	-0.2569	0	0.0
+PX214742.1	Glomus rugosae | 5103_2445A	Glomus rugosae	baseline	PX214739.1	1472	0.0	0		341	36	0.1056		1.0217	158	0.0	0		25	1	0.04		0.8803	819	0.366	1		118	10	0.0847		0.5466	-0.2569	0	0.0
+PX214743.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214744.1	1472	0.0	0		341	36	0.1056		1.022	158	0.0	0		25	1	0.04		0.885	818	0.0	0		118	10	0.0847		0.5462	-0.2665	0	0.0
+PX214744.1	Glomus rugosae | 2101_IVT46	Glomus rugosae	baseline	PX214743.1	1472	0.0	0		341	36	0.1056		1.022	158	0.0	0		25	1	0.04		0.885	818	0.0	0		118	10	0.0847		0.5462	-0.2665	0	0.0
+PX214745.1	Glomus rugosae | 4487_957C	Glomus rugosae	baseline						341	36	0.1056		1.0227					25	1	0.04		0.885					118	10	0.0847		0.5433	-0.2561		
+PX214746.1	Dominikia duoreactiva | 4412	Dominikia duoreactiva	baseline	PX214748.1	1471	0.136	0		341	35	0.1026		1.0162	158	0.0	0		25	2	0.08		0.8841	830	0.0	0		118	9	0.0763		0.5361	-0.2781	0	0.0
+PX214747.1	Dominikia duoreactiva | 4392_1156C	Dominikia duoreactiva	baseline	PX214749.1	1471	0.136	2		341	35	0.1026		1.0165	158	0.0	0		25	2	0.08		0.8841	830	0.0	0		118	9	0.0763		0.5361	-0.2781	0	0.0
+PX214748.1	Dominikia duoreactiva | 4412	Dominikia duoreactiva	baseline	PX214746.1	1471	0.136	0		341	35	0.1026		1.0164	158	0.0	0		25	2	0.08		0.8841	830	0.0	0		118	9	0.0763		0.5361	-0.2781	0	0.0
+PX214749.1	Dominikia duoreactiva | 4392_1156C	Dominikia duoreactiva	baseline	PX214747.1	1471	0.136	2		341	35	0.1026		1.0151	158	0.0	0		25	2	0.08		0.8841	830	0.0	0		118	9	0.0763		0.5361	-0.2781	0	0.0
+PX214750.1	Dominikia duoreactiva | 4412	Dominikia duoreactiva	baseline	PX214746.1	1471	0.068	0		341	35	0.1026		1.0165	158	0.633	0		25	2	0.08		0.8726	828	0.845	2		118	9	0.0763		0.539	-0.2529	14	0.0749
+PX214751.1	Dominikia duoreactiva | 4392_1156C	Dominikia duoreactiva	baseline	PX214749.1	1471	0.136	3		341	35	0.1026		1.0189	158	0.633	0		25	2	0.08		0.8828	829	3.86	1		118	9	0.0763		0.5347	-0.2529	9	0.0481
+PX214752.1	Dominikia duoreactiva | 4412	Dominikia duoreactiva	baseline	PX214754.1	1470	0.136	0		341	35	0.1026		1.0172	158	0.0	0		25	1	0.04		0.9022	828	0.0	0		118	9	0.0763		0.5366	-0.2401	0	0.0
+PX214753.1	Dominikia duoreactiva | 4392_1156C	Dominikia duoreactiva	baseline	PX214747.1	1470	0.408	1		341	35	0.1026		1.0172	158	1.266	0		25	1	0.04		0.9022	828	0.604	2		118	9	0.0763		0.5366	-0.2401	23	0.123
+PX214754.1	Dominikia duoreactiva | 4412	Dominikia duoreactiva	baseline	PX214752.1	1470	0.136	0		341	35	0.1026		1.017	158	0.0	0		25	1	0.04		0.9022	828	0.0	0		118	9	0.0763		0.5366	-0.2401	0	0.0
+PX214755.1	Dominikia bonfanteae | 4351_1077A	Dominikia bonfanteae	baseline	PX214756.1	1473	0.068	0		341	34	0.0997		1.0167	158	0.0	0		25	1	0.04		0.9035	830	0.482	1		118	8	0.0678		0.5361	-0.2995	0	0.0
+PX214756.1	Dominikia bonfanteae | 4351_1077A	Dominikia bonfanteae	baseline	PX214755.1	1473	0.068	0		341	34	0.0997		1.0165	158	0.0	0		25	1	0.04		0.9035	830	0.482	1		118	8	0.0678		0.5356	-0.2995	0	0.0
+PX214757.1	Dominikia bonfanteae | 4351_1077A	Dominikia bonfanteae	baseline	PX214756.1	1473	0.0	0		341	34	0.0997		1.0165	158	0.0	0		25	1	0.04		0.9035	830	0.12	0		118	8	0.0678		0.5356	-0.2709	30	0.1587
+PX214758.1	Dominikia bonfanteae | C10660_2264B	Dominikia bonfanteae	baseline	PX214759.1	1473	0.204	0		341	34	0.0997		1.021	158	0.0	0		25	1	0.04		0.9035	829	0.121	0		118	8	0.0678		0.5374	-0.2973	2	0.0107
+PX214759.1	Dominikia bonfanteae | C10660_2264B	Dominikia bonfanteae	baseline	PX214758.1	1473	0.204	0		341	34	0.0997		1.0192	158	0.0	0		25	1	0.04		0.9035	829	0.121	0		118	8	0.0678		0.5355	-0.2936	3	0.016
+PX214760.1	Dominikia bonfanteae | C10660_2264B	Dominikia bonfanteae	baseline	PX214758.1	1473	0.272	0		341	34	0.0997		1.02	158	0.0	0		25	1	0.04		0.9035	829	1.448	1		118	9	0.0763		0.5222	-0.2857	2	0.011
+PX214761.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214762.1	1472	0.679	0		341	34	0.0997		1.0201	158	0.0	1		25	1	0.04		0.8975	827	0.484	0		118	7	0.0593		0.5505	-0.2514	1	0.0055
+PX214762.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214761.1	1472	0.679	0		341	34	0.0997		1.0203	157	0.0	1		25	1	0.04		0.8975	827	0.484	0		118	7	0.0593		0.5484	-0.2511	1	0.0056
+PX214763.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214764.1	1472	0.136	0		341	34	0.0997		1.0234	158	0.0	0		25	1	0.04		0.9022	819	0.0	0		118	7	0.0593		0.5509	-0.2633	0	0.0
+PX214764.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214763.1	1472	0.136	0		341	34	0.0997		1.0233	158	0.0	0		25	1	0.04		0.9022	819	0.0	0		118	7	0.0593		0.5509	-0.2633	0	0.0
+PX214765.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214767.1	1471	0.0	2		341	34	0.0997		1.0233	158	0.0	0		25	1	0.04		0.9022	819	0.122	0		118	7	0.0593		0.5548	-0.2633	0	0.0
+PX214766.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214763.1	1471	0.0	2		341	34	0.0997		1.0223	158	0.0	0		25	1	0.04		0.9022	819	0.0	0		118	7	0.0593		0.5509	-0.2633	0	0.0
+PX214767.1	Microdominikia litorea | 3647_963E	Microdominikia litorea	baseline	PX214765.1	1471	0.0	2		341	34	0.0997		1.0223	158	0.0	0		25	1	0.04		0.9022	819	0.122	0		118	7	0.0593		0.5509	-0.2633	0	0.0
+PX214768.1	Microdominikia litorea | 5274	Microdominikia litorea	baseline	PX214769.1	1472	0.136	0		341	34	0.0997		1.0225	158	1.266	0		25	1	0.04		0.8908	819	1.099	1		118	6	0.0508		0.5486	-0.2478	15	0.0824
+PX214769.1	Microdominikia litorea | 5274	Microdominikia litorea	baseline	PX214770.1	1472	0.0	0		341	34	0.0997		1.0219	158	0.633	0		25	1	0.04		0.8975	818	0.611	1		118	6	0.0508		0.5559	-0.2711	8	0.0444
+PX214770.1	Microdominikia litorea | 5274	Microdominikia litorea	baseline	PX214769.1	1472	0.0	0		341	34	0.0997		1.0219	158	0.633	0		25	1	0.04		0.9022	818	0.611	1		118	6	0.0508		0.5568	-0.2575	8	0.0442
+PX214771.1	Microdominikia litorea | 5274	Microdominikia litorea	baseline	PX214769.1	1472	0.747	0	yes	341	34	0.0997		1.0228	158	2.532	0	yes	25	1	0.04		0.8912	819	1.954	0		118	7	0.0593		0.5514	-0.2494	21	0.1167
+PX214772.1	Microdominikia litorea | 5274	Microdominikia litorea	flagged main	PX214769.1	1469	1.089	1	yes	341	35	0.1026		1.0215	158	1.899	1		25	1	0.04		0.9089	819	0.977	2		118	7	0.0593		0.5453	-0.2594	53	0.276
+PX214773.1	Glomus sp. | 4406	Glomus sp.	baseline						341	35	0.1026		1.0257					25	1	0.04		0.8409					118	8	0.0678		0.5326	-0.2966		
+PX214774.1	Glomus sp. | 5089_2351A	Glomus sp.	baseline	PX214775.1	1470	0.408	1		341	35	0.1026		1.0257	151	1.987	2	yes	25	1	0.04		0.8409	827	3.144	2		118	9	0.0763		0.5221	-0.2966	45	0.2184
+PX214775.1	Glomus sp. | 5089_2351A	Glomus sp.	flagged main	PX214774.1	1470	0.408	1		341	36	0.1056		1.0259	152	1.974	2	yes	25	4	0.16		0.8682	827	3.144	2		118	8	0.0678		0.5338	-0.2711	40	0.199
+PX214776.1	Rhizophagus irregularis | 4569_1185B	Rhizophagus irregularis	flagged main	PX214785.1	1473	0.0	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.265	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX214777.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	short 5.8S	PX214799.1	1473	0.0	0		341	35	0.1026		1.0154	151	1.987	1		25	4	0.16		0.8637	827	3.265	0		118	17	0.1441	yes	0.5248	-0.2325	50	0.2358
+PX214778.1	Rhizophagus irregularis | 4341_IVT72A	Rhizophagus irregularis	short 5.8S	PX214792.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.667	1	yes	25	4	0.16		0.8637	827	3.023	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX214779.1	Rhizophagus irregularis | 4348_IVT77A	Rhizophagus irregularis	short 5.8S	PX214793.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.667	1	yes	25	4	0.16		0.8637	827	3.023	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX214780.1	Rhizophagus irregularis | 4674_1184D	Rhizophagus irregularis	short 5.8S	PX214790.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.144	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX214781.1	Rhizophagus irregularis | 4292_708C	Rhizophagus irregularis	short 5.8S	PX214791.1	1473	0.068	0		341	35	0.1026		1.0154	150	2.0	1		25	4	0.16		0.8637	827	3.144	0		118	17	0.1441	yes	0.5248	-0.2325	31	0.1462
+PX214782.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	short 5.8S	PX214799.1	1473	0.0	0		341	35	0.1026		1.0154	151	1.987	1		25	4	0.16		0.8637	827	3.265	0		118	17	0.1441	yes	0.5248	-0.2325	50	0.2358
+PX214783.1	Rhizophagus irregularis | T3_IVT34A	Rhizophagus irregularis	short 5.8S	PX214796.1	1473	0.0	0		341	34	0.0997		1.0169	150	2.667	1	yes	25	4	0.16		0.8528	827	2.902	0		118	17	0.1441	yes	0.5284	-0.226	24	0.1116
+PX214784.1	Rhizophagus irregularis | CC4_4A_IVT7A	Rhizophagus irregularis	short 5.8S	PX214798.1	1473	0.0	0		341	34	0.0997		1.0172	150	1.333	1		25	3	0.12		0.8415	826	2.785	1		118	17	0.1441	yes	0.5276	-0.2484	25	0.1174
+PX214785.1	Rhizophagus irregularis | 4569_1185B	Rhizophagus irregularis	baseline	PX214776.1	1473	0.0	0		341	35	0.1026		1.0154	152	2.632	1	yes	25	1	0.04		0.9227	827	3.265	0		118	13	0.1102		0.5243	-0.2245	28	0.14
+PX214786.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214787.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	13	0.1102		0.5243	-0.2245	0	0.0
+PX214787.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214786.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	13	0.1102		0.5243	-0.2245	0	0.0
+PX214788.1	Rhizophagus irregularis | 4341_IVT72A	Rhizophagus irregularis	baseline	PX214792.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.641	0		25	1	0.04		0.9227	827	0.484	0		118	11	0.0932		0.5303	-0.2245	0	0.0
+PX214789.1	Rhizophagus irregularis | 4348_IVT77A	Rhizophagus irregularis	baseline	PX214793.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.641	0		25	1	0.04		0.9227	827	0.484	0		118	11	0.0932		0.5303	-0.2245	0	0.0
+PX214790.1	Rhizophagus irregularis | 4674_1184D	Rhizophagus irregularis	baseline	PX214794.1	1473	0.068	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.484	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX214791.1	Rhizophagus irregularis | 4292_708C	Rhizophagus irregularis	baseline	PX214795.1	1473	0.068	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.484	0		118	12	0.1017		0.5299	-0.2245	0	0.0
+PX214792.1	Rhizophagus irregularis | 4341_IVT72A	Rhizophagus irregularis	baseline	PX214788.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.641	0		25	1	0.04		0.9209	827	0.484	0		118	12	0.1017		0.53	-0.2245	0	0.0
+PX214793.1	Rhizophagus irregularis | 4348_IVT77A	Rhizophagus irregularis	baseline	PX214789.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.641	0		25	1	0.04		0.9209	827	0.484	0		118	12	0.1017		0.53	-0.2245	0	0.0
+PX214794.1	Rhizophagus irregularis | 4674_1184D	Rhizophagus irregularis	baseline	PX214790.1	1473	0.068	0		341	35	0.1026		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.484	0		118	12	0.1017		0.5277	-0.2245	0	0.0
+PX214795.1	Rhizophagus irregularis | 4292_708C	Rhizophagus irregularis	baseline	PX214791.1	1473	0.068	0		341	35	0.1026		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.484	0		118	12	0.1017		0.5277	-0.2245	0	0.0
+PX214796.1	Rhizophagus irregularis | T3_IVT34A	Rhizophagus irregularis	baseline	PX214806.1	1473	0.068	0		341	34	0.0997		1.0169	158	1.266	0		25	1	0.04		0.9214	825	3.758	4	yes	118	12	0.1017		0.5305	-0.228	19	0.095
+PX214797.1	Rhizophagus irregularis | CC4_4A_IVT7A	Rhizophagus irregularis	baseline	PX214798.1	1473	0.136	0		341	34	0.0997		1.0155	156	0.0	0		25	1	0.04		0.9227	827	0.726	0		118	13	0.1102		0.5281	-0.2095	9	0.0448
+PX214798.1	Rhizophagus irregularis | CC4_4A_IVT7A	Rhizophagus irregularis	baseline	PX214797.1	1473	0.136	0		341	34	0.0997		1.0172	156	0.0	0		25	1	0.04		0.9227	827	0.726	0		118	12	0.1017		0.5287	-0.202	8	0.0404
+PX214799.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214800.1	1473	0.0	0		341	35	0.1026		1.0154	157	0.0	0		25	1	0.04		0.8949	827	0.0	0		118	12	0.1017		0.5303	-0.2817	0	0.0
+PX214800.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214799.1	1473	0.0	0		341	35	0.1026		1.0154	157	0.0	0		25	1	0.04		0.8949	827	0.0	0		118	12	0.1017		0.5303	-0.2817	0	0.0
+PX214801.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214799.1	1473	0.068	0		341	35	0.1026		1.0162	157	0.637	0		25	1	0.04		0.8856	827	0.726	0		118	13	0.1102		0.5243	-0.2841	2	0.0097
+PX214802.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214801.1	1473	0.0	0		341	35	0.1026		1.0162	158	0.0	0		25	1	0.04		0.8856	827	2.902	0		118	11	0.0932		0.532	-0.2841	0	0.0
+PX214803.1	Rhizophagus irregularis | 4674_1184D	Rhizophagus irregularis	baseline	PX214790.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9076	827	2.539	0		118	11	0.0932		0.5316	-0.2194	12	0.0597
+PX214804.1	Rhizophagus irregularis | T3_IVT34A	Rhizophagus irregularis	baseline	PX214806.1	1473	0.068	0		341	34	0.0997		1.0169	158	1.899	0		25	1	0.04		0.886	826	1.332	1		118	10	0.0847		0.5343	-0.2598	21	0.1005
+PX214805.1	Rhizophagus irregularis | CC4_4A_IVT7A	Rhizophagus irregularis	baseline	PX214798.1	1473	0.0	0		341	34	0.0997		1.0172	156	0.641	0		25	1	0.04		0.8949	825	3.879	3	yes	118	10	0.0847		0.537	-0.2639	17	0.0817
+PX214806.1	Rhizophagus irregularis | T3_IVT34A	Rhizophagus irregularis	baseline	PX214804.1	1473	0.068	0		341	34	0.0997		1.0167	157	1.911	0		25	1	0.04		0.8982	826	1.332	1		118	10	0.0847		0.5261	-0.2379	21	0.1019
+PX214807.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214810.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	10	0.0847		0.5259	-0.2376	0	0.0
+PX214808.1	Rhizophagus irregularis | 4341_IVT72A	Rhizophagus irregularis	baseline	PX214788.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	825	4.364	4	yes	118	10	0.0847		0.5259	-0.2376	3	0.0149
+PX214809.1	Rhizophagus irregularis | 4348_IVT77A	Rhizophagus irregularis	baseline	PX214789.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	825	4.364	4	yes	118	10	0.0847		0.5259	-0.2376	3	0.0149
+PX214810.1	Rhizophagus irregularis | 4375_IVT88A	Rhizophagus irregularis	baseline	PX214807.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	827	0.0	0		118	10	0.0847		0.5259	-0.2376	0	0.0
+PX214811.1	Rhizophagus irregularis | 4674_1184D	Rhizophagus irregularis	baseline	PX214803.1	1473	0.0	0		341	35	0.1026		1.0162	157	0.0	0		25	1	0.04		0.9227	825	2.061	4	yes	118	11	0.0932		0.5251	-0.2376	15	0.0743
+PX214812.1	Rhizophagus irregularis | 4292_708C	Rhizophagus irregularis	baseline	PX214791.1	1473	0.0	0		341	35	0.1026		1.0162	156	0.0	0		25	1	0.04		0.9227	825	3.515	4	yes	118	11	0.0932		0.5251	-0.2376	3	0.0149
+PX214813.1	Rhizophagus irregularis | SD1_IVT29A	Rhizophagus irregularis	baseline	PX214814.1	1473	0.068	0		341	34	0.0997		1.0183	157	0.0	0		25	1	0.04		0.8949	826	0.0	0		118	13	0.1102		0.5298	-0.2376	0	0.0
+PX214814.1	Rhizophagus irregularis | SD1_IVT29A	Rhizophagus irregularis	baseline	PX214813.1	1473	0.068	0		341	34	0.0997		1.0193	157	0.0	0		25	1	0.04		0.8949	826	0.0	0		118	13	0.1102		0.5298	-0.2376	0	0.0
+PX214815.1	Rhizophagus irregularis | SD1_IVT29A	Rhizophagus irregularis	baseline	PX214814.1	1473	0.0	0		341	34	0.0997		1.0193	157	0.0	0		25	1	0.04		0.8949	826	0.242	0		118	13	0.1102		0.5304	-0.2254	2	0.0094
+PX214816.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	short 5.8S	PX214873.1	1473	1.494	0	yes	341	35	0.1026		1.0176	151	1.987	1		25	4	0.16		0.862	823	8.019	6	yes	118	12	0.1017		0.5297	-0.2216	99	0.4853
+PX214817.1	Rhizophagus irregularis | SD1_IVT29A	Rhizophagus irregularis	short 5.8S	PX214814.1	1473	0.068	0		341	35	0.1026		1.0172	151	1.325	1		25	4	0.16		0.862	826	1.09	0		118	12	0.1017		0.5297	-0.2216	76	0.3725
+PX214818.1	[Rhizoglomus] vesiculiferum | 3029_660C	[Rhizoglomus] vesiculiferum	baseline						341	34	0.0997		1.0134					25	1	0.04		0.8755					118	9	0.0763		0.5348	-0.2453		
+PX214819.1	[Rhizoglomus] vesiculiferum | 4374_IVT87A	[Rhizoglomus] vesiculiferum	baseline	PX214820.1	1473	0.0	0		341	34	0.0997		1.0144	157	0.0	0		25	1	0.04		0.8949	824	0.971	0		118	9	0.0763		0.532	-0.2579	0	0.0
+PX214820.1	[Rhizoglomus] vesiculiferum | 4374_IVT87A	[Rhizoglomus] vesiculiferum	baseline	PX214819.1	1473	0.0	0		341	34	0.0997		1.0144	157	0.0	0		25	1	0.04		0.8949	824	0.971	0		118	9	0.0763		0.5329	-0.253	0	0.0
+PX214821.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	baseline	PX214822.1	1473	0.407	0		341	35	0.1026		1.002	157	0.637	0		25	2	0.08		0.8652	824	0.243	0		118	10	0.0847		0.5291	-0.2459	0	0.0
+PX214822.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	baseline	PX214821.1	1473	0.407	0		341	33	0.0968		1.015	157	0.637	0		25	1	0.04		0.8949	824	0.243	0		118	9	0.0763		0.5339	-0.2447	0	0.0
+PX214823.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	flagged main	PX214822.1	1473	0.0	0		341	33	0.0968		1.015	157	0.0	0		25	1	0.04		0.8949	813	0.0	1		118	11	0.0932		0.4997	-0.2459	0	0.0
+PX214824.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	baseline	PX214822.1	1473	0.0	0		341	33	0.0968		1.015	157	0.0	0		25	1	0.04		0.8949	824	0.485	0		118	9	0.0763		0.5323	-0.2349	13	0.0622
+PX214825.1	[Rhizoglomus] vesiculiferum | 5074_2353A	[Rhizoglomus] vesiculiferum	baseline	PX214826.1	1473	0.0	0		341	34	0.0997		1.0157	157	0.0	0		25	1	0.04		0.8949	823	0.365	0		118	9	0.0763		0.5358	-0.2385	8	0.04
+PX214826.1	[Rhizoglomus] vesiculiferum | 5074_2353A	[Rhizoglomus] vesiculiferum	baseline	PX214825.1	1473	0.0	0		341	34	0.0997		1.0157	157	0.0	0		25	1	0.04		0.8949	824	0.364	1		118	9	0.0763		0.5363	-0.2459	11	0.0537
+PX214827.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	baseline	PX214830.1	1473	0.0	0		341	33	0.0968		1.0155	157	0.0	0		25	1	0.04		0.8949	824	0.0	0		118	9	0.0763		0.5361	-0.2429	3	0.0148
+PX214828.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	baseline	PX214830.1	1473	0.0	0		341	33	0.0968		1.0155	157	0.0	0		25	1	0.04		0.8949	823	0.122	1		118	9	0.0763		0.535	-0.2338	36	0.1765
+PX214829.1	[Rhizoglomus] vesiculiferum | 4086_IVT68A	[Rhizoglomus] vesiculiferum	baseline	PX214832.1	1473	0.204	0		341	33	0.0968		1.0155	157	0.0	0		25	1	0.04		0.8949	824	0.0	0		118	9	0.0763		0.5358	-0.238	1	0.0049
+PX214830.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	baseline	PX214827.1	1473	0.0	0		341	33	0.0968		1.0155	157	0.0	0		25	1	0.04		0.8949	824	0.0	0		118	9	0.0763		0.5361	-0.2451	4	0.0196
+PX214831.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	baseline	PX214827.1	1473	0.0	0		341	33	0.0968		1.0155	157	0.0	0		25	1	0.04		0.8949	823	0.122	1		118	9	0.0763		0.535	-0.2366	4	0.0198
+PX214832.1	[Rhizoglomus] vesiculiferum | 4086_IVT68A	[Rhizoglomus] vesiculiferum	baseline	PX214829.1	1473	0.204	0		341	33	0.0968		1.0147	157	0.0	0		25	1	0.04		0.8949	824	0.0	0		118	9	0.0763		0.5358	-0.216	1	0.0049
+PX214833.1	[Rhizoglomus] vesiculiferum | 4369_IVT81A	[Rhizoglomus] vesiculiferum	baseline	PX214834.1	1473	0.0	0		341	34	0.0997		1.0157	157	0.0	0		25	1	0.04		0.8949	825	0.0	0		118	10	0.0847		0.5289	-0.2554	46	0.2277
+PX214834.1	[Rhizoglomus] vesiculiferum | 4369_IVT81A	[Rhizoglomus] vesiculiferum	baseline	PX214833.1	1473	0.0	0		341	34	0.0997		1.0157	157	0.0	0		25	1	0.04		0.8949	825	0.0	0		118	10	0.0847		0.5289	-0.2527	47	0.2315
+PX214835.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	baseline	PX214828.1	1473	0.204	0		341	33	0.0968		1.0147	157	0.637	0		25	1	0.04		0.8864	824	0.364	0		118	9	0.0763		0.5353	-0.251	22	0.1089
+PX214836.1	[Rhizoglomus] vesiculiferum | 4374_IVT87A	[Rhizoglomus] vesiculiferum	baseline	PX214819.1	1473	0.272	0		341	34	0.0997		1.0157	157	1.274	0		25	1	0.04		0.9056	824	2.791	2		118	9	0.0763		0.5309	-0.2606	37	0.1869
+PX214837.1	[Rhizoglomus] vesiculiferum | 5074_2353A	[Rhizoglomus] vesiculiferum	baseline	PX214825.1	1472	0.136	1		341	34	0.0997		1.0148	157	0.637	0		25	1	0.04		0.878	824	3.519	2		118	9	0.0763		0.5316	-0.2263	46	0.2323
+PX214838.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	baseline	PX214822.1	1472	0.815	1	yes	341	34	0.0997		1.0153	157	0.637	0		25	1	0.04		0.878	824	3.519	2		118	9	0.0763		0.528	-0.2469	14	0.0714
+PX214839.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	baseline						341	34	0.0997		1.0154					25	1	0.04		0.878					118	9	0.0763		0.5295	-0.2342		
+PX214840.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	baseline	PX214828.1	1473	0.339	0		341	33	0.0968		1.0168	157	0.637	0		25	1	0.04		0.878	824	3.519	2		118	9	0.0763		0.5323	-0.2672	9	0.0448
+PX214841.1	Rhizophagus irregularis | 4292_708C	Rhizophagus irregularis	short 5.8S	PX214812.1	1473	0.0	0		341	35	0.1026		1.0162	149	2.685	2	yes	25	4	0.16		0.8254	827	0.726	0		118	10	0.0847		0.5259	-0.2437	20	0.1005
+PX214842.1	[Rhizoglomus] vesiculiferum | 5074_2353A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214825.1	1473	0.815	0	yes	341	33	0.0968		1.0151	151	1.987	1		25	4	0.16		0.8607	823	2.673	2		118	10	0.0847		0.5312	-0.2533	58	0.2762
+PX214843.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214839.1	1472	0.476	1		341	33	0.0968		1.0168	151	2.649	1	yes	25	4	0.16		0.8607	823	5.468	5	yes	118	10	0.0847		0.532	-0.2284	39	0.1814
+PX214844.1	[Rhizoglomus] vesiculiferum | 4086_IVT68A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214829.1	1473	0.204	0		341	33	0.0968		1.0147	151	2.649	1	yes	25	5	0.2	yes	0.8426	823	5.103	4	yes	118	11	0.0932		0.5229	-0.2559	55	0.2582
+PX214845.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214822.1	1473	0.0	0		341	33	0.0968		1.015	151	1.987	1		25	5	0.2	yes	0.8275	823	4.131	4	yes	118	11	0.0932		0.5255	-0.238	41	0.1925
+PX214846.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214822.1	1473	0.0	0		341	33	0.0968		1.015	151	1.325	1		25	4	0.16		0.862	823	4.131	4	yes	118	11	0.0932		0.5255	-0.2183	48	0.2254
+PX214847.1	[Rhizoglomus] vesiculiferum | 5074_2353A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214825.1	1472	0.34	1		341	34	0.0997		1.0165	150	2.0	2	yes	25	4	0.16		0.8336	823	5.225	3	yes	118	8	0.0678		0.5285	-0.2335	54	0.2547
+PX214848.1	[Rhizoglomus] vesiculiferum | 5074_2353A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214825.1	1473	0.204	0		341	34	0.0997		1.0174	150	2.0	2	yes	25	4	0.16		0.8336	823	5.225	3	yes	118	8	0.0678		0.5285	-0.2335	54	0.2547
+PX214849.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214839.1	1472	0.068	0		341	34	0.0997		1.0151	150	2.0	2	yes	25	4	0.16		0.8336	823	6.926	6	yes	118	8	0.0678		0.5291	-0.2448	33	0.1557
+PX214850.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214839.1	1472	0.068	0		341	34	0.0997		1.0151	150	2.0	2	yes	25	4	0.16		0.8336	823	6.561	6	yes	118	8	0.0678		0.5291	-0.2448	33	0.1557
+PX214851.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214839.1	1472	0.068	0		341	34	0.0997		1.0151	150	2.0	2	yes	25	4	0.16		0.8336	823	6.926	6	yes	118	8	0.0678		0.5277	-0.2448	33	0.1557
+PX214852.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214839.1	1472	0.34	1		341	33	0.0968		1.0179	150	2.0	2	yes	25	4	0.16		0.8336	823	6.926	6	yes	118	8	0.0678		0.5291	-0.2448	33	0.1557
+PX214853.1	[Rhizoglomus] vesiculiferum | 212939_IVT38A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214839.1	1470	0.204	3		341	38	0.1114		1.0115	150	2.0	2	yes	25	4	0.16		0.8336	823	6.926	6	yes	118	8	0.0678		0.5291	-0.2448	33	0.1557
+PX214854.1	[Rhizoglomus] vesiculiferum | 3628_IVT65A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214835.1	1472	0.883	1	yes	341	34	0.0997		1.0143	150	2.667	2	yes	25	4	0.16		0.8336	822	4.988	3	yes	118	9	0.0763		0.5343	-0.2415	55	0.2594
+PX214855.1	[Rhizoglomus] vesiculiferum | Gwalkeri_IVT132A	[Rhizoglomus] vesiculiferum	short 5.8S	PX214822.1	1472	0.747	1	yes	341	34	0.0997		1.0149	150	2.0	2	yes	25	4	0.16		0.8336	823	4.496	2	yes	118	8	0.0678		0.5311	-0.2239	36	0.169
+PX214856.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	baseline	PX214857.1	1473	0.136	0		341	35	0.1026		1.017	158	0.0	0		25	1	0.04		0.8682	825	0.0	0		118	15	0.1271	yes	0.534	-0.2546	0	0.0
+PX214857.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	baseline	PX214856.1	1473	0.136	0		341	35	0.1026		1.0174	158	0.0	0		25	1	0.04		0.8682	825	0.0	0		118	15	0.1271	yes	0.534	-0.2546	0	0.0
+PX214858.1	Rhizophagus silesianus | 3628_206A	Rhizophagus silesianus	baseline	PX214859.1	1473	0.068	0		341	35	0.1026		1.0173	158	0.0	0		25	1	0.04		0.867	825	0.0	1		118	15	0.1271	yes	0.5331	-0.249	0	0.0
+PX214859.1	Rhizophagus silesianus | 3628_206A	Rhizophagus silesianus	baseline	PX214858.1	1473	0.068	0		341	35	0.1026		1.0174	158	0.0	0		25	1	0.04		0.867	825	0.0	1		118	15	0.1271	yes	0.534	-0.249	0	0.0
+PX214860.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	baseline	PX214861.1	1473	0.136	0		341	35	0.1026		1.017	158	0.0	0		25	1	0.04		0.867	825	0.0	0		118	15	0.1271	yes	0.5341	-0.234	0	0.0
+PX214861.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	baseline	PX214860.1	1473	0.136	0		341	35	0.1026		1.0174	158	0.0	0		25	1	0.04		0.867	825	0.0	0		118	15	0.1271	yes	0.5341	-0.234	0	0.0
+PX214862.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	baseline	PX214861.1	1473	0.0	0		341	35	0.1026		1.0174	158	0.0	0		25	1	0.04		0.867	825	0.364	0		118	15	0.1271	yes	0.5347	-0.2266	6	0.029
+PX214863.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	short 5.8S	PX214857.1	1473	0.136	0		341	35	0.1026		1.0181	152	4.605	1	yes	25	4	0.16		0.862	823	4.739	3	yes	118	9	0.0763		0.5345	-0.2541	36	0.1739
+PX214864.1	Rhizophagus silesianus | ECU32_IVT8A	Rhizophagus silesianus	short 5.8S	PX214856.1	1473	0.068	0		341	35	0.1026		1.0181	152	4.605	1	yes	25	4	0.16		0.862	823	4.739	3	yes	118	9	0.0763		0.5345	-0.2541	36	0.1739
+PX214865.1	Rhizophagus silesianus | 3628_206A	Rhizophagus silesianus	short 5.8S	PX214858.1	1473	0.068	0		341	35	0.1026		1.0164	152	5.263	1	yes	25	4	0.16		0.862	823	4.617	4	yes	118	9	0.0763		0.5311	-0.2047	45	0.2113
+PX214866.1	Rhizophagus intraradices | FL208_553A	Rhizophagus intraradices	baseline	PX214868.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.121	0		118	10	0.0847		0.5337	-0.3255	4	0.02
+PX214867.1	Rhizophagus intraradices | KS906_IVT22A	Rhizophagus intraradices	baseline						341	33	0.0968		1.027					25	1	0.04		0.8955					118	10	0.0847		0.5336	-0.3255		
+PX214868.1	Rhizophagus intraradices | FL208_553A	Rhizophagus intraradices	baseline	PX214866.1	1473	0.0	0		341	33	0.0968		1.027	157	0.0	0		25	1	0.04		0.8955	824	0.121	0		118	10	0.0847		0.5331	-0.3089	4	0.0198
+PX214869.1	Rhizophagus intraradices | FL208_553A	Rhizophagus intraradices	baseline	PX214868.1	1473	0.272	0		341	33	0.0968		1.0245	157	0.0	0		25	1	0.04		0.8955	824	0.971	0		118	10	0.0847		0.5349	-0.3167	15	0.0735
+PX214870.1	Rhizophagus intraradices | FL208_553A	Rhizophagus intraradices	short 5.8S	PX214869.1	1473	0.339	0		341	33	0.0968		1.0259	151	2.649	1	yes	25	3	0.12		0.8563	822	5.474	3	yes	118	8	0.0678		0.5261	-0.2961	46	0.2244
+PX214871.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214873.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.0	0		25	1	0.04		0.886	826	0.121	0		118	7	0.0593		0.5307	-0.2176	0	0.0
+PX214872.1	Rhizophagus sp. (in: glomeromycetes) | 1399_IVT43A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214875.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.0	0		25	1	0.04		0.886	825	0.121	1		118	7	0.0593		0.5307	-0.2176	0	0.0
+PX214873.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214871.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.0	0		25	1	0.04		0.886	826	0.121	0		118	7	0.0593		0.5307	-0.2176	0	0.0
+PX214874.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214876.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.0	0		25	1	0.04		0.886	825	0.121	0		118	7	0.0593		0.5263	-0.2176	0	0.0
+PX214875.1	Rhizophagus sp. (in: glomeromycetes) | 1399_IVT43A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214872.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.0	0		25	1	0.04		0.886	825	0.121	1		118	7	0.0593		0.5263	-0.2176	0	0.0
+PX214876.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214874.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.0	0		25	1	0.04		0.886	825	0.121	0		118	7	0.0593		0.5263	-0.2176	0	0.0
+PX214877.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214879.1	1473	0.068	0		341	32	0.0938		1.0203	157	1.274	0		25	1	0.04		0.8783	825	0.727	2		118	9	0.0763		0.5239	-0.2368	0	0.0
+PX214878.1	Rhizophagus sp. (in: glomeromycetes) | 1399_IVT43A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214872.1	1473	0.0	0		341	32	0.0938		1.0203	157	0.637	0		25	1	0.04		0.8783	826	0.242	1		118	9	0.0763		0.5239	-0.2368	71	0.3227
+PX214879.1	Rhizophagus sp. (in: glomeromycetes) | 212607_IVT70A	Rhizophagus sp. (in: glomeromycetes)	baseline	PX214877.1	1473	0.068	0		341	32	0.0938		1.0206	157	1.274	0		25	1	0.04		0.8949	825	0.727	2		118	7	0.0593		0.5277	-0.2355	0	0.0
+PX214880.1	Oehlia diaphana | JS1_IVT19A	Oehlia diaphana	baseline	PX214891.1	1471	0.068	0		341	35	0.1026		1.0282	151	0.0	0		25	4	0.16		0.8772	820	0.488	1		118	8	0.0678		0.547	-0.294	4	0.02
+PX214881.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214894.1	1471	0.204	0		341	35	0.1026		1.0278	151	0.0	0		25	4	0.16		0.8772	821	0.365	0		118	8	0.0678		0.5463	-0.294	6	0.03
+PX214882.1	Oehlia diaphana | JS1_IVT19A	Oehlia diaphana	baseline	PX214891.1	1469	0.204	3		341	35	0.1026		1.0275	151	0.0	0		25	4	0.16		0.8772	821	0.609	0		118	8	0.0678		0.5476	-0.289	0	0.0
+PX214883.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214885.1	1469	0.136	3		341	35	0.1026		1.0274	151	0.0	0		25	4	0.16		0.8772	821	0.0	0		118	8	0.0678		0.5476	-0.289	0	0.0
+PX214884.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214881.1	1469	0.272	3		341	34	0.0997		1.0297	151	0.662	0		25	4	0.16		0.8775	821	0.609	0		118	8	0.0678		0.5476	-0.289	4	0.02
+PX214885.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214883.1	1469	0.136	3		341	35	0.1026		1.0257	151	0.0	0		25	4	0.16		0.8772	821	0.0	0		118	8	0.0678		0.5476	-0.289	0	0.0
+PX214886.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214885.1	1471	0.136	0		341	35	0.1026		1.0277	151	0.662	0		25	4	0.16		0.8723	821	0.731	0		118	7	0.0593		0.5468	-0.2533	8	0.0406
+PX214887.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214885.1	1471	0.136	0		341	35	0.1026		1.0269	151	0.662	0		25	4	0.16		0.8507	821	0.853	1		118	8	0.0678		0.5463	-0.2804	1	0.005
+PX214888.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214889.1	1471	0.136	0		341	35	0.1026		1.0277	152	0.658	0		25	4	0.16		0.8772	821	0.731	1		118	7	0.0593		0.5474	-0.2875	18	0.09
+PX214889.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214890.1	1471	0.204	0		341	35	0.1026		1.0278	152	0.0	0		25	4	0.16		0.8507	821	0.365	0		118	8	0.0678		0.5467	-0.2913	0	0.0
+PX214890.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214889.1	1471	0.204	0		341	35	0.1026		1.027	152	0.0	0		25	4	0.16		0.8507	821	0.365	0		118	8	0.0678		0.5471	-0.2913	0	0.0
+PX214891.1	Oehlia diaphana | JS1_IVT19A	Oehlia diaphana	baseline	PX214880.1	1471	0.068	0		341	35	0.1026		1.0278	151	0.0	0		25	4	0.16		0.8772	820	0.488	1		118	8	0.0678		0.546	-0.289	4	0.02
+PX214892.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214887.1	1471	0.136	0		341	35	0.1026		1.0278	152	0.658	0		25	4	0.16		0.8772	823	0.851	0		118	8	0.0678		0.546	-0.289	1	0.005
+PX214893.1	Oehlia diaphana | JS1_IVT19A	Oehlia diaphana	baseline	PX214899.1	1471	0.136	0		341	35	0.1026		1.0274	152	0.0	0		25	4	0.16		0.8507	821	0.487	0		118	7	0.0593		0.5441	-0.272	6	0.0317
+PX214894.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214881.1	1471	0.204	0		341	35	0.1026		1.0293	151	0.0	0		25	4	0.16		0.8772	821	0.365	0		118	7	0.0593		0.5472	-0.2914	6	0.0305
+PX214895.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214898.1	1471	0.34	0		341	35	0.1026		1.0293	152	0.658	0		25	4	0.16		0.8772	820	0.122	1		118	7	0.0593		0.5472	-0.2914	3	0.0152
+PX214896.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214897.1	1471	0.204	0		341	35	0.1026		1.0278	151	0.0	0		25	4	0.16		0.8772	821	0.731	0		118	8	0.0678		0.5442	-0.2923	0	0.0
+PX214897.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214894.1	1471	0.272	0		341	35	0.1026		1.0281	151	0.0	0		25	4	0.16		0.8772	821	0.487	0		118	8	0.0678		0.5459	-0.3208	0	0.0
+PX214898.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214895.1	1471	0.34	0		341	35	0.1026		1.0278	151	0.662	0		25	4	0.16		0.8507	820	0.122	1		118	7	0.0593		0.5493	-0.2817	4	0.0203
+PX214899.1	Oehlia diaphana | JS1_IVT19A	Oehlia diaphana	baseline	PX214893.1	1471	0.136	0		341	35	0.1026		1.0275	152	0.0	0		25	4	0.16		0.8507	823	0.486	0		118	9	0.0763		0.543	-0.2668	8	0.0415
+PX214900.1	Oehlia diaphana | JS1_IVT19A	Oehlia diaphana	baseline	PX214893.1	1471	0.136	0		341	35	0.1026		1.0279	152	0.658	0		25	4	0.16		0.8772	823	0.608	0		118	9	0.0763		0.5377	-0.2868	10	0.0526
+PX214901.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214897.1	1471	0.476	0		341	35	0.1026		1.0271	151	0.662	0		25	4	0.16		0.8507	821	0.609	1		118	8	0.0678		0.5374	-0.2737	5	0.0269
+PX214902.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214886.1	1471	0.0	0		341	35	0.1026		1.0277	151	1.325	0		25	4	0.16		0.8507	823	0.729	0		118	8	0.0678		0.5422	-0.2722	5	0.0267
+PX214903.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214904.1	1470	0.408	2		341	34	0.0997		1.0291	152	1.316	0		25	4	0.16		0.8604	821	0.365	0		118	8	0.0678		0.5466	-0.2737	8	0.0404
+PX214904.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214898.1	1471	0.068	0		341	35	0.1026		1.0274	152	0.0	0		25	4	0.16		0.8507	820	0.366	1		118	7	0.0593		0.5492	-0.273	9	0.0459
+PX214905.1	Oehlia diaphana | 4835_562B	Oehlia diaphana	baseline	PX214894.1	1471	0.272	0		341	35	0.1026		1.0282	151	0.0	0		25	4	0.16		0.8772	821	0.974	1		118	7	0.0593		0.5309	-0.2804	4	0.0212
+PX214906.1	Oehlia diaphana | WV579_765A	Oehlia diaphana	baseline	PX214887.1	1471	0.068	0		341	35	0.1026		1.0274	152	0.658	0		25	4	0.16		0.8772	823	0.365	0		118	8	0.0678		0.5474	-0.2938	20	0.1036
+PX214907.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214890.1	1471	0.204	0		341	35	0.1026		1.0248	152	0.0	0		25	4	0.16		0.8507	821	0.487	1		118	8	0.0678		0.5468	-0.3005	10	0.0521
+PX214908.1	Oehlia diaphana | WV579_765B	Oehlia diaphana	baseline	PX214895.1	1471	0.204	0		341	35	0.1026		1.0284	151	0.662	0		25	5	0.2	yes	0.8317	821	0.731	0		118	8	0.0678		0.5436	-0.2605	21	0.1077
+PX214909.1	Diversispora eburnea | FS_12_2334B	Diversispora eburnea	baseline	PX214910.1	1475	0.0	0		341	35	0.1026		1.0231	158	1.266	0		25	1	0.04		0.8588	825	0.364	0		118	10	0.0847		0.5278	-0.2281	0	0.0
+PX214910.1	Diversispora eburnea | FS_12_2334B	Diversispora eburnea	baseline	PX214909.1	1475	0.0	0		341	35	0.1026		1.0231	158	1.266	0		25	1	0.04		0.8773	825	0.364	0		118	10	0.0847		0.5283	-0.2281	0	0.0
+PX214911.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214912.1	1475	0.136	0		341	35	0.1026		1.0231	158	0.0	0		25	1	0.04		0.8748	825	0.0	0		118	10	0.0847		0.5303	-0.2281	0	0.0
+PX214912.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214911.1	1475	0.136	0		341	35	0.1026		1.0227	158	0.0	0		25	1	0.04		0.8748	825	0.0	0		118	10	0.0847		0.5303	-0.2281	0	0.0
+PX214913.1	Diversispora eburnea | FS_12_2334B	Diversispora eburnea	baseline	PX214909.1	1475	0.068	0		341	35	0.1026		1.0227	158	1.266	0		25	1	0.04		0.8773	825	0.121	0		118	10	0.0847		0.5278	-0.2667	0	0.0
+PX214914.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214915.1	1475	0.068	0		341	35	0.1026		1.023	158	1.266	0		25	1	0.04		0.8665	826	0.363	0		118	10	0.0847		0.5275	-0.2057	3	0.0155
+PX214915.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214916.1	1475	0.0	0		341	35	0.1026		1.0231	158	0.0	0		25	1	0.04		0.882	826	0.121	1		118	10	0.0847		0.5269	-0.2201	0	0.0
+PX214916.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214917.1	1475	0.136	0		341	35	0.1026		1.0231	158	0.0	0		25	1	0.04		0.882	827	0.0	0		118	10	0.0847		0.5282	-0.2201	0	0.0
+PX214917.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214916.1	1475	0.136	0		341	35	0.1026		1.0227	158	0.0	0		25	1	0.04		0.882	827	0.0	0		118	10	0.0847		0.5282	-0.2201	0	0.0
+PX214918.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214919.1	1475	0.136	0		341	35	0.1026		1.0227	158	0.0	0		25	1	0.04		0.882	827	0.0	0		118	10	0.0847		0.5282	-0.225	0	0.0
+PX214919.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214918.1	1475	0.136	0		341	35	0.1026		1.0231	158	0.0	0		25	1	0.04		0.882	827	0.0	0		118	10	0.0847		0.5282	-0.225	0	0.0
+PX214920.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214921.1	1475	0.136	0		341	35	0.1026		1.0227	158	0.0	0		25	1	0.04		0.8642	826	0.0	0		118	10	0.0847		0.5288	-0.232	0	0.0
+PX214921.1	Diversispora eburnea | AZ414A_356A	Diversispora eburnea	baseline	PX214920.1	1475	0.136	0		341	35	0.1026		1.0231	158	0.0	0		25	1	0.04		0.8642	826	0.0	0		118	10	0.0847		0.5288	-0.232	0	0.0
+PX214922.1	Diversispora eburnea | FS_12_2334B	Diversispora eburnea	baseline	PX214923.1	1475	0.068	0		341	35	0.1026		1.0231	158	0.0	0		25	1	0.04		0.8748	825	0.242	0		118	10	0.0847		0.5278	-0.2056	0	0.0
+PX214923.1	Diversispora eburnea | FS_12_2334B	Diversispora eburnea	baseline	PX214922.1	1475	0.068	0		341	35	0.1026		1.0232	158	0.0	0		25	1	0.04		0.8748	825	0.242	0		118	10	0.0847		0.5284	-0.2056	0	0.0
+PX214924.1	Diversispora celata | 4381_68A	Diversispora celata	baseline	PX214925.1	1474	0.136	1		341	35	0.1026		1.0207	158	0.633	0		25	1	0.04		0.8863	822	0.0	1		118	11	0.0932		0.5306	-0.2263	4	0.0211
+PX214925.1	Diversispora celata | 4381_68A	Diversispora celata	baseline	PX214926.1	1475	0.136	0		341	35	0.1026		1.0231	158	1.266	0		25	1	0.04		0.8951	822	0.0	1		118	11	0.0932		0.5316	-0.2114	0	0.0
+PX214926.1	Diversispora celata | 4381_68A	Diversispora celata	baseline	PX214925.1	1475	0.136	0		341	35	0.1026		1.0217	158	1.266	0		25	1	0.04		0.8748	822	0.0	1		118	11	0.0932		0.5323	-0.2267	1	0.0051
+PX214927.1	Diversispora celata | 4381_68A	Diversispora celata	baseline	PX214926.1	1474	0.068	2		341	35	0.1026		1.0208	158	0.0	0		25	1	0.04		0.8748	821	0.0	2		118	11	0.0932		0.5306	-0.2399	10	0.0518
+PX214928.1	Diversispora celata | 4381_68A	Diversispora celata	baseline	PX214926.1	1475	0.136	0		341	35	0.1026		1.0222	158	0.0	0		25	1	0.04		0.8748	822	0.365	1		118	11	0.0932		0.5298	-0.2637	8	0.0415
+PX214929.1	Diversispora celata | SC2	Diversispora celata	baseline	PX214931.1	1475	0.203	0		341	35	0.1026		1.0216	158	0.633	0		25	2	0.08		0.8674	824	0.607	0		118	11	0.0932		0.5308	-0.2401	7	0.0355
+PX214930.1	Diversispora celata | SC2	Diversispora celata	baseline	PX214931.1	1474	0.0	1		341	35	0.1026		1.0234	158	0.0	0		25	1	0.04		0.8863	824	0.0	0		118	11	0.0932		0.5292	-0.2357	0	0.0
+PX214931.1	Diversispora celata | SC2	Diversispora celata	baseline	PX214930.1	1474	0.0	1		341	35	0.1026		1.0226	158	0.0	0		25	1	0.04		0.8863	824	0.0	0		118	11	0.0932		0.5292	-0.2357	0	0.0
+PX214932.1	Diversispora celata | SC2	Diversispora celata	baseline	PX214933.1	1474	0.0	1		341	35	0.1026		1.0226	158	0.0	0		25	1	0.04		0.8863	826	0.0	0		118	11	0.0932		0.5247	-0.2362	0	0.0
+PX214933.1	Diversispora celata | SC2	Diversispora celata	baseline	PX214932.1	1474	0.0	1		341	35	0.1026		1.0234	158	0.0	0		25	1	0.04		0.8863	826	0.0	0		118	11	0.0932		0.5247	-0.2362	0	0.0
+PX214934.1	Diversispora jakucsiae | Blasz_11_2271A	Diversispora jakucsiae	baseline	PX214935.1	1475	0.0	0		341	36	0.1056		1.0196	157	0.0	0		25	2	0.08		0.8619	821	0.244	0		118	11	0.0932		0.5282	-0.2415	0	0.0
+PX214935.1	Diversispora jakucsiae | Blasz_11_2271A	Diversispora jakucsiae	baseline	PX214934.1	1475	0.0	0		341	36	0.1056		1.0196	157	0.0	0		25	2	0.08		0.8619	821	0.244	0		118	11	0.0932		0.528	-0.2415	0	0.0
+PX214936.1	Diversispora jakucsiae | Blasz_11_2271A	Diversispora jakucsiae	baseline	PX214934.1	1475	0.068	0		341	36	0.1056		1.0199	157	0.0	0		25	2	0.08		0.8619	821	0.122	0		118	11	0.0932		0.5265	-0.2244	14	0.0725
+PX214937.1	Diversispora jakucsiae | Blasz_11_2271A	Diversispora jakucsiae	baseline	PX214935.1	1475	0.068	0		341	36	0.1056		1.0199	157	0.0	0		25	2	0.08		0.8619	821	0.0	0		118	11	0.0932		0.528	-0.2405	9	0.045
+PX214938.1	Diversispora arenaria | Blasz_14_2274A	Diversispora arenaria	baseline	PX214939.1	1475	0.0	1		341	36	0.1056		1.0196	158	0.0	0		25	1	0.04		0.8749	814	0.0	0		118	11	0.0932		0.54	-0.227	0	0.0
+PX214939.1	Diversispora arenaria | Blasz_14_2274A	Diversispora arenaria	baseline	PX214938.1	1475	0.0	1		341	36	0.1056		1.0199	158	0.0	0		25	1	0.04		0.8749	814	0.0	0		118	11	0.0932		0.54	-0.227	0	0.0
+PX214940.1	Diversispora arenaria | Blasz_14_2274A	Diversispora arenaria	baseline	PX214941.1	1475	0.0	0		341	36	0.1056		1.0201	158	0.0	0		25	1	0.04		0.8821	817	0.0	0		118	11	0.0932		0.5374	-0.2439	0	0.0
+PX214941.1	Diversispora arenaria | Blasz_14_2274A	Diversispora arenaria	baseline	PX214940.1	1475	0.0	0		341	36	0.1056		1.0201	158	0.0	0		25	1	0.04		0.8821	817	0.0	0		118	11	0.0932		0.5374	-0.2439	0	0.0
+PX214942.1	Diversispora epigaea | BEG47_1140C	Diversispora epigaea	baseline	PX214945.1	1475	0.136	0		341	35	0.1026		1.0208	157	0.0	1		25	2	0.08		0.8654	825	3.394	1		118	9	0.0763		0.5295	-0.2763	44	0.2316
+PX214943.1	Diversispora epigaea | BEG47_1140C	Diversispora epigaea	baseline	PX214945.1	1475	0.068	0		341	35	0.1026		1.0208	158	0.0	0		25	1	0.04		0.8871	825	0.242	0		118	12	0.1017		0.5255	-0.2451	39	0.2
+PX214944.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214948.1	1475	0.068	0		341	35	0.1026		1.0208	158	0.0	0		25	1	0.04		0.8871	825	1.212	0		118	12	0.1017		0.523	-0.2439	0	0.0
+PX214945.1	Diversispora epigaea | BEG47_1140C	Diversispora epigaea	baseline	PX214943.1	1475	0.068	0		341	35	0.1026		1.0205	158	0.0	0		25	1	0.04		0.8871	824	0.243	0		118	12	0.1017		0.523	-0.2612	39	0.199
+PX214946.1	Diversispora epigaea | BEG47_1140C	Diversispora epigaea	baseline	PX214945.1	1475	0.136	0		341	35	0.1026		1.0207	158	0.633	0		25	1	0.04		0.8816	825	1.333	0		118	11	0.0932		0.5236	-0.267	42	0.2132
+PX214947.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214948.1	1475	0.068	0		341	35	0.1026		1.0207	158	0.633	0		25	1	0.04		0.8816	825	0.364	0		118	11	0.0932		0.5258	-0.2641	9	0.0455
+PX214948.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214949.1	1475	0.271	0		341	35	0.1026		1.0208	158	0.0	0		25	1	0.04		0.8871	825	0.606	0		118	11	0.0932		0.5265	-0.2436	0	0.0
+PX214949.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214950.1	1474	0.0	1		341	35	0.1026		1.0195	158	0.0	0		25	1	0.04		0.8871	825	0.0	0		118	11	0.0932		0.5246	-0.2451	0	0.0
+PX214950.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214949.1	1474	0.0	1		341	35	0.1026		1.0211	158	0.0	0		25	1	0.04		0.8871	825	0.0	0		118	11	0.0932		0.5246	-0.2451	0	0.0
+PX214951.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214950.1	1474	0.068	1		341	36	0.1056		1.0188	158	0.0	0		25	1	0.04		0.8871	825	0.0	0		118	11	0.0932		0.5246	-0.2451	0	0.0
+PX214952.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214951.1	1475	0.136	0		341	36	0.1056		1.0191	158	0.0	0		25	1	0.04		0.8871	825	0.606	0		118	11	0.0932		0.5246	-0.2451	0	0.0
+PX214953.1	Diversispora epigaea | BEG47_1140C	Diversispora epigaea	baseline	PX214943.1	1475	0.407	0		341	37	0.1085		1.0178	158	1.266	0		25	1	0.04		0.8887	824	1.699	0		118	13	0.1102		0.5248	-0.2407	2	0.0103
+PX214954.1	Diversispora epigaea | FS16_2427A	Diversispora epigaea	baseline	PX214952.1	1475	0.271	0		341	37	0.1085		1.0182	158	1.266	0		25	1	0.04		0.8887	825	1.333	0		118	11	0.0932		0.5269	-0.2689	38	0.1969
+PX214955.1	Diversispora varaderana | 4394_1010A	Diversispora varaderana	baseline	PX214958.1	1473	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.121	0		118	11	0.0932		0.5303	-0.261	25	0.1282
+PX214956.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214961.1	1473	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.121	0		118	11	0.0932		0.5303	-0.261	25	0.1282
+PX214957.1	Diversispora varaderana | 4450_536A	Diversispora varaderana	baseline	PX214973.1	1473	0.0	1		341	35	0.1026		1.0202	158	0.0	0		25	1	0.04		0.882	821	1.705	0		118	11	0.0932		0.5301	-0.2538	8	0.041
+PX214958.1	Diversispora varaderana | 4394_1010A	Diversispora varaderana	baseline	PX214955.1	1474	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.121	0		118	11	0.0932		0.5303	-0.2273	25	0.1263
+PX214959.1	Diversispora varaderana | CW0016_4015A	Diversispora varaderana	baseline	PX214979.1	1474	0.068	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	821	0.244	1		118	11	0.0932		0.5303	-0.2273	27	0.1364
+PX214960.1	Diversispora varaderana | SASK_50	Diversispora varaderana	baseline	PX214985.1	1474	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	823	0.972	2		118	12	0.1017		0.5233	-0.2216	23	0.1156
+PX214961.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214962.1	1474	0.204	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.0	0		118	11	0.0932		0.5303	-0.2216	22	0.1106
+PX214962.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214961.1	1474	0.204	0		341	35	0.1026		1.0226	158	0.0	0		25	1	0.04		0.882	825	0.0	0		118	11	0.0932		0.5303	-0.2556	22	0.1122
+PX214963.1	Diversispora varaderana | 4394_1010A	Diversispora varaderana	baseline	PX214955.1	1474	0.068	1		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	825	1.455	0		118	11	0.0932		0.5397	-0.2593	10	0.0503
+PX214964.1	Diversispora varaderana | 4510_972A	Diversispora varaderana	baseline						341	35	0.1026		1.0198					25	1	0.04		0.882					118	11	0.0932		0.5397	-0.2593		
+PX214965.1	Diversispora varaderana | 4450_536A	Diversispora varaderana	baseline	PX214972.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.244	2		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214966.1	Diversispora varaderana | SASK_50	Diversispora varaderana	baseline	PX214975.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214967.1	Diversispora varaderana | 4393_830B	Diversispora varaderana	baseline	PX214970.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.365	2		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214968.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214971.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.365	2		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214969.1	Diversispora varaderana | 4450_536A	Diversispora varaderana	baseline	PX214972.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	823	0.365	0		118	11	0.0932		0.5383	-0.2593	0	0.0
+PX214970.1	Diversispora varaderana | 4393_830B	Diversispora varaderana	baseline	PX214967.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.365	2		118	11	0.0932		0.5383	-0.2593	0	0.0
+PX214971.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214968.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.365	2		118	11	0.0932		0.5383	-0.2593	0	0.0
+PX214972.1	Diversispora varaderana | 4450_536A	Diversispora varaderana	baseline	PX214969.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	823	0.365	0		118	11	0.0932		0.5383	-0.2593	0	0.0
+PX214973.1	Diversispora varaderana | 4450_536A	Diversispora varaderana	baseline	PX214974.1	1473	0.068	2		341	35	0.1026		1.0208	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214974.1	Diversispora varaderana | 4450_536A	Diversispora varaderana	baseline	PX214973.1	1472	0.068	2		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214975.1	Diversispora varaderana | SASK_50	Diversispora varaderana	baseline	PX214966.1	1474	0.0	0		341	35	0.1026		1.0198	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214976.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214968.1	1474	0.068	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214977.1	Diversispora varaderana | 4393_830B	Diversispora varaderana	baseline	PX214967.1	1474	0.068	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214978.1	Diversispora varaderana | CW0016_4015A	Diversispora varaderana	baseline	PX214979.1	1475	0.0	0		341	35	0.1026		1.0196	158	0.0	0		25	1	0.04		0.882	821	0.853	0		118	11	0.0932		0.5392	-0.2626	0	0.0
+PX214979.1	Diversispora varaderana | CW0016_4015A	Diversispora varaderana	baseline	PX214978.1	1475	0.0	0		341	35	0.1026		1.0196	158	0.0	0		25	1	0.04		0.882	821	0.853	0		118	11	0.0932		0.5393	-0.2626	0	0.0
+PX214980.1	Diversispora varaderana | CW0016_4015A	Diversispora varaderana	baseline	PX214978.1	1475	0.0	0		341	35	0.1026		1.0196	158	0.0	0		25	1	0.04		0.882	819	0.611	2		118	11	0.0932		0.5424	-0.2626	0	0.0
+PX214981.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214976.1	1474	0.068	0		341	35	0.1026		1.019	158	0.0	0		25	1	0.04		0.882	821	0.0	0		118	11	0.0932		0.5397	-0.2593	0	0.0
+PX214982.1	Diversispora varaderana | 4393_830B	Diversispora varaderana	baseline	PX214977.1	1474	0.068	0		341	35	0.1026		1.019	158	0.0	0		25	1	0.04		0.882	821	1.705	0		118	11	0.0932		0.5313	-0.2308	8	0.041
+PX214983.1	Diversispora varaderana | 3086_1170D	Diversispora varaderana	baseline	PX214961.1	1474	0.068	0		341	35	0.1026		1.019	158	0.0	0		25	1	0.04		0.882	825	0.848	0		118	11	0.0932		0.5313	-0.2308	25	0.1282
+PX214984.1	Diversispora varaderana | 4394_1010A	Diversispora varaderana	baseline	PX214958.1	1473	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	823	0.729	2		118	11	0.0932		0.5334	-0.2579	23	0.1168
+PX214985.1	Diversispora varaderana | SASK_50	Diversispora varaderana	baseline	PX214960.1	1473	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	823	0.972	2		118	12	0.1017		0.5241	-0.2579	23	0.1168
+PX214986.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214987.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.0	0		118	10	0.0847		0.5294	-0.2444	0	0.0
+PX214987.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214986.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.0	0		118	10	0.0847		0.5294	-0.2444	0	0.0
+PX214988.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214986.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.0	0		118	10	0.0847		0.5294	-0.2387	3	0.0155
+PX214989.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214986.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.121	1		118	11	0.0932		0.529	-0.2444	0	0.0
+PX214990.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX214991.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.633	0		25	1	0.04		0.882	825	0.242	0		118	10	0.0847		0.5294	-0.2444	1	0.0051
+PX214991.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX214992.1	1473	0.068	2		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.8842	825	0.0	0		118	10	0.0847		0.5305	-0.2492	0	0.0
+PX214992.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX214991.1	1474	0.068	2		341	35	0.1026		1.0196	158	0.0	0		25	1	0.04		0.8842	825	0.0	0		118	10	0.0847		0.5305	-0.2492	0	0.0
+PX214993.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214986.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.0	0		118	10	0.0847		0.5294	-0.2444	0	0.0
+PX214994.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX214990.1	1474	0.0	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.606	0		118	10	0.0847		0.5283	-0.2544	2	0.0103
+PX214995.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214996.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.121	0		118	10	0.0847		0.53	-0.2444	0	0.0
+PX214996.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX214995.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.121	0		118	10	0.0847		0.53	-0.2444	0	0.0
+PX214997.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX215001.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	825	0.0	2		118	10	0.0847		0.529	-0.2521	7	0.0365
+PX214998.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX214999.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	824	0.728	0		118	10	0.0847		0.5287	-0.2603	1	0.0052
+PX214999.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX215000.1	1474	0.136	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	824	0.0	0		118	10	0.0847		0.5328	-0.2598	0	0.0
+PX215000.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX214999.1	1474	0.136	0		341	36	0.1056		1.0189	158	0.0	0		25	1	0.04		0.882	824	0.0	0		118	10	0.0847		0.5328	-0.2598	0	0.0
+PX215001.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX215002.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	827	0.242	0		118	10	0.0847		0.5292	-0.2642	0	0.0
+PX215002.1	Diversispora aestuarii | 4403_745C	Diversispora aestuarii	baseline	PX215001.1	1474	0.0	0		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	827	0.242	0		118	10	0.0847		0.5292	-0.2642	0	0.0
+PX215003.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX215004.1	1474	0.068	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	820	0.0	0		118	10	0.0847		0.5423	-0.2801	0	0.0
+PX215004.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX215003.1	1474	0.068	1		341	35	0.1026		1.0192	158	0.0	0		25	1	0.04		0.882	820	0.0	0		118	10	0.0847		0.5423	-0.2801	0	0.0
+PX215005.1	Diversispora aestuarii | 4485_952D	Diversispora aestuarii	baseline	PX215003.1	1474	0.204	1		341	35	0.1026		1.0193	158	0.0	0		25	1	0.04		0.882	820	1.098	0		118	11	0.0932		0.5426	-0.2367	2	0.0101
+PX215006.1	Diversispora spurca | Algerie_2_1072C	Diversispora spurca	baseline	PX215008.1	1475	0.339	1		341	35	0.1026		1.0225	158	0.0	0		25	1	0.04		0.8706	823	0.608	0		118	8	0.0678		0.5516	-0.2196	19	0.0979
+PX215007.1	Diversispora spurca | Algerie_2_1072C	Diversispora spurca	baseline	PX215008.1	1475	0.136	1		341	36	0.1056		1.0225	158	0.0	0		25	1	0.04		0.8706	821	0.365	4	yes	118	9	0.0763		0.5462	-0.2242	8	0.0412
+PX215008.1	Diversispora spurca | Algerie_2_1072C	Diversispora spurca	baseline	PX215007.1	1475	0.136	1		341	36	0.1056		1.0208	158	0.0	0		25	1	0.04		0.8706	821	0.365	4	yes	118	9	0.0763		0.549	-0.2359	8	0.041
+PX215009.1	Diversispora spurca | W246_28_9A	Diversispora spurca	baseline	PX215010.1	1475	0.136	0		341	36	0.1056		1.0225	158	0.633	0		25	1	0.04		0.8821	824	0.0	2		118	9	0.0763		0.5365	-0.2301	3	0.0155
+PX215010.1	Diversispora spurca | W246_28_9A	Diversispora spurca	baseline	PX215011.1	1475	0.068	0		341	36	0.1056		1.0215	158	1.266	0		25	1	0.04		0.8684	824	0.607	1		118	9	0.0763		0.5419	-0.2272	0	0.0
+PX215011.1	Diversispora spurca | W246_28_9A	Diversispora spurca	baseline	PX215010.1	1475	0.068	0		341	36	0.1056		1.0207	158	1.266	0		25	1	0.04		0.8675	824	0.607	1		118	10	0.0847		0.5398	-0.2272	0	0.0
+PX215012.1	Diversispora spurca | W246_28_9A	Diversispora spurca	baseline	PX215010.1	1475	0.203	0		341	36	0.1056		1.0186	158	2.532	0	yes	25	1	0.04		0.8748	824	0.243	3		118	9	0.0763		0.5413	-0.2524	12	0.0628
+PX215013.1	Acaulospora morrowiae | CR315B_2019A	Acaulospora morrowiae	baseline	PX215014.1	1474	0.204	0		341	38	0.1114		1.0152	156	0.0	0		25	1	0.04		0.9279	794	0.63	1		118	10	0.0847		0.547	-0.1986	13	0.0628
+PX215014.1	Acaulospora morrowiae | CR315B_2019A	Acaulospora morrowiae	baseline	PX215015.1	1474	0.136	0		341	38	0.1114		1.0153	156	0.0	0		25	1	0.04		0.9279	793	0.252	1		118	10	0.0847		0.5524	-0.2024	1	0.0048
+PX215015.1	Acaulospora morrowiae | CR315B_2019A	Acaulospora morrowiae	baseline	PX215014.1	1474	0.136	0		341	38	0.1114		1.0148	156	0.0	0		25	1	0.04		0.9279	793	0.252	1		118	10	0.0847		0.5531	-0.2005	3	0.0142
+PX215016.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215017.1	1474	0.136	0		341	38	0.1114		1.0161	156	0.0	0		25	1	0.04		0.9279	793	1.261	2		118	10	0.0847		0.5481	-0.2065	0	0.0
+PX215017.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215016.1	1474	0.136	0		341	38	0.1114		1.0165	156	0.0	0		25	1	0.04		0.9279	793	1.261	2		118	10	0.0847		0.5528	-0.2093	0	0.0
+PX215018.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215019.1	1474	0.204	0		341	38	0.1114		1.0161	156	0.0	0		25	1	0.04		0.9279	795	0.252	0		118	10	0.0847		0.5522	-0.2009	31	0.1455
+PX215019.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215018.1	1474	0.204	0		341	38	0.1114		1.0163	156	0.0	0		25	1	0.04		0.9279	794	0.252	0		118	10	0.0847		0.548	-0.2019	32	0.1502
+PX215020.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215019.1	1474	0.204	0		341	38	0.1114		1.0167	156	0.641	0		25	1	0.04		0.9147	794	0.126	1		118	10	0.0847		0.5479	-0.2051	2	0.0093
+PX215021.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215020.1	1474	0.136	0		341	38	0.1114		1.0161	156	0.641	0		25	1	0.04		0.9279	794	0.126	0		118	10	0.0847		0.5506	-0.2141	16	0.0751
+PX215022.1	Acaulospora morrowiae | BF_TM_1197A	Acaulospora morrowiae	baseline	PX215018.1	1474	0.204	0		341	38	0.1114		1.016	156	0.0	0		25	1	0.04		0.9279	793	0.631	1		118	10	0.0847		0.5491	-0.227	38	0.1767
+PX215023.1	Cetraspora gilmorei | 4430_2047A	Cetraspora gilmorei	baseline	PX215024.1	1467	0.136	0		341	36	0.1056		1.0345	158	0.0	0		25	1	0.04		0.9035	765	1.046	0		118	12	0.1017		0.5839	-0.241	6	0.0347
+PX215024.1	Cetraspora gilmorei | 4430_2047A	Cetraspora gilmorei	baseline	PX215050.1	1467	0.068	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.654	0		118	9	0.0763		0.5836	-0.2584	6	0.0337
+PX215025.1	Cetraspora gilmorei | 4430_2047A	Cetraspora gilmorei	baseline	PX215050.1	1467	0.136	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.915	0		118	11	0.0932		0.5855	-0.2492	0	0.0
+PX215026.1	Cetraspora gilmorei | 4397_453A	Cetraspora gilmorei	baseline	PX215059.1	1467	0.136	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.784	0		118	11	0.0932		0.5849	-0.2369	15	0.0838
+PX215027.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215031.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5849	-0.2369	0	0.0
+PX215028.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215032.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5849	-0.2369	0	0.0
+PX215029.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215035.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.392	0		118	11	0.0932		0.5849	-0.2369	0	0.0
+PX215030.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215033.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5849	-0.2369	0	0.0
+PX215031.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215027.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5841	-0.2369	0	0.0
+PX215032.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215028.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5841	-0.2369	0	0.0
+PX215033.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215030.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5841	-0.2369	0	0.0
+PX215034.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215027.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.392	0		118	9	0.0763		0.586	-0.2369	0	0.0
+PX215035.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215029.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.392	0		118	9	0.0763		0.586	-0.2369	0	0.0
+PX215036.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215034.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.633	0		25	1	0.04		0.8937	765	0.0	0		118	9	0.0763		0.586	-0.2369	0	0.0
+PX215037.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215028.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.633	0		25	1	0.04		0.8937	765	0.392	0		118	9	0.0763		0.586	-0.2369	0	0.0
+PX215038.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215035.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.633	0		25	1	0.04		0.8937	765	0.0	0		118	9	0.0763		0.586	-0.2369	0	0.0
+PX215039.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215030.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.633	0		25	1	0.04		0.8937	765	0.392	0		118	9	0.0763		0.586	-0.2369	0	0.0
+PX215040.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215044.1	1467	0.136	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.0	0		118	9	0.0763		0.586	-0.2259	0	0.0
+PX215041.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215046.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.586	-0.2259	8	0.0423
+PX215042.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215047.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.586	-0.2259	8	0.0423
+PX215043.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215048.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.586	-0.2259	8	0.0423
+PX215044.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215040.1	1467	0.136	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.0	0		118	9	0.0763		0.586	-0.2259	0	0.0
+PX215045.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215040.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.5857	-0.2323	11	0.0573
+PX215046.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215041.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.5857	-0.2323	11	0.0573
+PX215047.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215042.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.5857	-0.2323	11	0.0573
+PX215048.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215043.1	1467	0.0	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	9	0.0763		0.5857	-0.2323	11	0.0573
+PX215049.1	Cetraspora gilmorei | 4430_2047A	Cetraspora gilmorei	baseline	PX215050.1	1467	0.136	0		341	36	0.1056		1.0351	158	0.633	0		25	2	0.08		0.8741	765	0.131	0		118	11	0.0932		0.5848	-0.2461	2	0.0112
+PX215050.1	Cetraspora gilmorei | 4430_2047A	Cetraspora gilmorei	baseline	PX215025.1	1467	0.136	0		341	36	0.1056		1.0343	158	0.0	0		25	1	0.04		0.9035	765	0.915	0		118	11	0.0932		0.5848	-0.2494	0	0.0
+PX215051.1	Cetraspora gilmorei | 4436_787A	Cetraspora gilmorei	baseline	PX215052.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.0	0		118	9	0.0763		0.5854	-0.2219	0	0.0
+PX215052.1	Cetraspora gilmorei | 4436_787A	Cetraspora gilmorei	baseline	PX215051.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.9035	765	0.0	0		118	9	0.0763		0.5854	-0.2219	0	0.0
+PX215053.1	Cetraspora gilmorei | 4436_787A	Cetraspora gilmorei	baseline	PX215055.1	1467	0.068	0		341	36	0.1056		1.0343	158	1.266	0		25	1	0.04		0.9035	765	0.392	1		118	9	0.0763		0.5834	-0.2249	21	0.1186
+PX215054.1	Cetraspora gilmorei | CW0008_4007A	Cetraspora gilmorei	baseline	PX215056.1	1467	0.0	0		341	36	0.1056		1.0339	158	1.899	0		25	1	0.04		0.8856	765	0.523	1		118	9	0.0763		0.5854	-0.2249	11	0.0621
+PX215055.1	Cetraspora gilmorei | 4436_787A	Cetraspora gilmorei	baseline	PX215053.1	1467	0.068	0		341	36	0.1056		1.0339	158	1.266	0		25	1	0.04		0.8867	765	0.392	1		118	11	0.0932		0.5825	-0.2409	23	0.1271
+PX215056.1	Cetraspora gilmorei | CW0008_4007A	Cetraspora gilmorei	baseline	PX215058.1	1467	0.068	1		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8867	766	0.0	0		118	11	0.0932		0.5825	-0.2256	0	0.0
+PX215057.1	Cetraspora gilmorei | CW0008_4007A	Cetraspora gilmorei	baseline	PX215056.1	1467	0.0	0		341	36	0.1056		1.0339	158	0.0	0		25	1	0.04		0.8867	766	0.653	0		118	9	0.0763		0.5834	-0.2372	0	0.0
+PX215058.1	Cetraspora gilmorei | CW0008_4007A	Cetraspora gilmorei	baseline	PX215056.1	1467	0.068	1		341	36	0.1056		1.0334	158	0.0	0		25	1	0.04		0.8867	766	0.0	0		118	11	0.0932		0.5825	-0.2256	0	0.0
+PX215059.1	Cetraspora gilmorei | 4397_453A	Cetraspora gilmorei	baseline	PX215026.1	1467	0.136	0		341	36	0.1056		1.034	158	0.0	0		25	1	0.04		0.9035	765	0.784	0		118	11	0.0932		0.5852	-0.2397	10	0.0575
+PX215060.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215027.1	1467	0.136	0		341	36	0.1056		1.034	158	0.0	0		25	1	0.04		0.9035	765	0.784	0		118	11	0.0932		0.5852	-0.2397	10	0.0575
+PX215061.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215028.1	1467	0.136	0		341	36	0.1056		1.034	158	0.0	0		25	1	0.04		0.9035	765	0.784	0		118	11	0.0932		0.5852	-0.2397	10	0.0575
+PX215062.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215029.1	1467	0.136	0		341	36	0.1056		1.034	158	0.0	0		25	1	0.04		0.9035	765	0.784	0		118	11	0.0932		0.5852	-0.2397	10	0.0575
+PX215063.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215064.1	1467	0.0	0		341	36	0.1056		1.034	158	0.0	0		25	1	0.04		0.9035	765	0.0	0		118	11	0.0932		0.5852	-0.2397	0	0.0
+PX215064.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215063.1	1467	0.0	0		341	36	0.1056		1.034	158	0.0	0		25	1	0.04		0.9035	765	0.0	0		118	11	0.0932		0.5852	-0.2397	0	0.0
+PX215065.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215045.1	1467	0.273	0		341	34	0.0997		1.0332	158	0.0	0		25	1	0.04		0.9035	765	0.261	1		118	11	0.0932		0.5834	-0.2356	4	0.0209
+PX215066.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215046.1	1467	0.273	0		341	34	0.0997		1.0332	158	0.0	0		25	1	0.04		0.9035	765	0.261	1		118	11	0.0932		0.5834	-0.2356	4	0.0209
+PX215067.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215048.1	1467	0.273	0		341	34	0.0997		1.0332	158	0.0	0		25	1	0.04		0.9035	765	0.261	0		118	11	0.0932		0.5846	-0.2356	4	0.0209
+PX215068.1	Cetraspora gilmorei | 4436_787A	Cetraspora gilmorei	baseline	PX215051.1	1467	0.136	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.915	1		118	9	0.0763		0.584	-0.2207	25	0.1397
+PX215069.1	Cetraspora gilmorei | 4414_1105C	Cetraspora gilmorei	baseline	PX215027.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.654	1		118	11	0.0932		0.5558	-0.2159	13	0.0765
+PX215070.1	Cetraspora gilmorei | 4385	Cetraspora gilmorei	baseline	PX215028.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.654	1		118	11	0.0932		0.5558	-0.2159	13	0.0765
+PX215071.1	Cetraspora gilmorei | 4398_831C	Cetraspora gilmorei	baseline	PX215029.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.654	1		118	11	0.0932		0.5558	-0.2159	13	0.0765
+PX215072.1	Cetraspora gilmorei | 4419_860D	Cetraspora gilmorei	baseline	PX215030.1	1467	0.068	0		341	36	0.1056		1.0337	158	0.0	0		25	1	0.04		0.9035	765	0.654	1		118	11	0.0932		0.5558	-0.2159	13	0.0765
+PX215073.1	Dentiscutata heterogama | BEG_35_2003A	Dentiscutata heterogama	baseline	PX215074.1	1468	0.068	0		341	34	0.0997		1.0329	158	0.633	0		25	2	0.08		0.8353	764	1.44	0		118	10	0.0847		0.5978	-0.2185	0	0.0
+PX215074.1	Dentiscutata heterogama | BEG_35_2003A	Dentiscutata heterogama	baseline	PX215073.1	1468	0.068	0		341	34	0.0997		1.0324	158	0.633	1		25	2	0.08		0.8513	764	1.44	0		118	10	0.0847		0.6006	-0.205	0	0.0
+PX215075.1	Dentiscutata heterogama | CL157_2013B	Dentiscutata heterogama	baseline	PX215076.1	1468	0.136	0		341	34	0.0997		1.0331	158	0.633	1		25	2	0.08		0.8513	764	0.524	0		118	11	0.0932		0.6	-0.2179	7	0.0391
+PX215076.1	Dentiscutata heterogama | CL157_2013B	Dentiscutata heterogama	baseline	PX215075.1	1468	0.136	0		341	34	0.0997		1.0324	158	0.633	0		25	3	0.12		0.8221	764	0.524	0		118	10	0.0847		0.5989	-0.2183	9	0.05
+PX215077.1	Dentiscutata heterogama | BEG_35_2003A	Dentiscutata heterogama	baseline	PX215073.1	1468	0.068	0		341	34	0.0997		1.0328	158	0.633	0		25	2	0.08		0.8425	764	1.178	0		118	10	0.0847		0.599	-0.2045	31	0.1761
+PX215078.1	Dentiscutata heterogama | CL157_2013B	Dentiscutata heterogama	baseline	PX215076.1	1468	0.068	0		341	34	0.0997		1.0329	158	1.899	0		25	2	0.08		0.8425	764	1.44	0		118	10	0.0847		0.5991	-0.2113	14	0.0791
+PX215079.1	Gigaspora rosea | BEG9_770A	Gigaspora rosea	baseline	PX215084.1	1470	0.476	0		341	33	0.0968		1.0325	158	0.0	0		25	2	0.08		0.862	766	0.392	0		118	11	0.0932		0.5847	-0.2047	1	0.0059
+PX215080.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215083.1	1470	0.272	1		341	33	0.0968		1.0325	158	0.0	0		25	2	0.08		0.862	766	0.0	0		118	11	0.0932		0.5847	-0.2047	0	0.0
+PX215081.1	Gigaspora rosea | 4511_973A	Gigaspora rosea	baseline	PX215112.1	1470	0.612	0		341	33	0.0968		1.0325	158	1.266	0		25	2	0.08		0.862	765	5.359	2	yes	118	11	0.0932		0.5847	-0.2047	29	0.1706
+PX215082.1	Gigaspora rosea | CW0011_4010A	Gigaspora rosea	baseline	PX215086.1	1470	0.34	0		341	33	0.0968		1.0322	158	0.0	0		25	2	0.08		0.862	766	0.783	0		118	11	0.0932		0.5842	-0.2047	1	0.0059
+PX215083.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215088.1	1470	0.0	2		341	34	0.0997		1.0263	158	0.0	0		25	2	0.08		0.862	765	0.131	1		118	11	0.0932		0.5847	-0.2047	0	0.0
+PX215084.1	Gigaspora rosea | BEG9_770A	Gigaspora rosea	baseline	PX215079.1	1470	0.476	0		341	33	0.0968		1.0311	158	0.0	0		25	2	0.08		0.862	766	0.392	0		118	10	0.0847		0.5875	-0.2176	1	0.0059
+PX215085.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215087.1	1470	0.068	0		341	33	0.0968		1.0291	158	0.0	0		25	2	0.08		0.862	765	0.131	1		118	10	0.0847		0.5875	-0.2176	1	0.0059
+PX215086.1	Gigaspora rosea | CW0011_4010A	Gigaspora rosea	baseline	PX215082.1	1470	0.34	0		341	33	0.0968		1.0323	158	0.0	0		25	2	0.08		0.862	766	0.783	0		118	11	0.0932		0.5797	-0.2176	1	0.0059
+PX215087.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215085.1	1470	0.068	0		341	33	0.0968		1.0311	158	0.0	0		25	2	0.08		0.862	765	0.131	1		118	7	0.0593		0.5848	-0.2047	1	0.0059
+PX215088.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215083.1	1470	0.0	2		341	34	0.0997		1.0291	158	0.0	0		25	2	0.08		0.862	765	0.131	1		118	7	0.0593		0.5848	-0.2047	0	0.0
+PX215089.1	Gigaspora rosea | CU131_1018C	Gigaspora rosea	baseline	PX215103.1	1470	0.476	0		341	33	0.0968		1.0322	158	1.266	0		25	2	0.08		0.8452	765	4.967	3	yes	118	11	0.0932		0.5814	-0.2172	28	0.1657
+PX215090.1	Gigaspora rosea | BEG9_770A	Gigaspora rosea	baseline	PX215106.1	1469	0.272	1		341	34	0.0997		1.0323	158	2.532	0	yes	25	2	0.08		0.8533	764	2.88	1		118	13	0.1102		0.5876	-0.2209	5	0.0291
+PX215091.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215093.1	1470	0.0	0		341	34	0.0997		1.0323	158	0.0	0		25	2	0.08		0.8533	765	0.0	0		118	13	0.1102		0.5876	-0.2209	0	0.0
+PX215092.1	Gigaspora rosea | 4511_973A	Gigaspora rosea	baseline	PX215094.1	1470	0.0	0		341	34	0.0997		1.0323	158	0.0	0		25	2	0.08		0.8533	765	0.0	0		118	13	0.1102		0.5876	-0.2209	0	0.0
+PX215093.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215091.1	1470	0.0	0		341	34	0.0997		1.0323	158	0.0	0		25	2	0.08		0.8533	765	0.0	0		118	13	0.1102		0.5876	-0.2209	0	0.0
+PX215094.1	Gigaspora rosea | 4511_973A	Gigaspora rosea	baseline	PX215092.1	1470	0.0	0		341	34	0.0997		1.0323	158	0.0	0		25	2	0.08		0.8533	765	0.0	0		118	13	0.1102		0.5876	-0.2209	0	0.0
+PX215095.1	Gigaspora rosea | CW0011_4010A	Gigaspora rosea	baseline	PX215114.1	1469	0.545	1		341	34	0.0997		1.0323	158	1.266	0		25	2	0.08		0.8533	765	1.307	1		118	13	0.1102		0.5881	-0.2209	39	0.2267
+PX215096.1	Gigaspora rosea | woodslee_203A	Gigaspora rosea	baseline	PX215097.1	1470	0.068	1		341	34	0.0997		1.0319	158	0.0	0		25	2	0.08		0.8533	765	0.0	0		118	12	0.1017		0.5856	-0.2035	0	0.0
+PX215097.1	Gigaspora rosea | woodslee_203A	Gigaspora rosea	baseline	PX215096.1	1470	0.068	1		341	34	0.0997		1.0314	158	0.0	0		25	2	0.08		0.8533	765	0.0	0		118	12	0.1017		0.5856	-0.2035	0	0.0
+PX215098.1	Gigaspora rosea | woodslee_203A	Gigaspora rosea	baseline	PX215099.1	1468	0.136	3		341	34	0.0997		1.0311	158	0.0	0		25	2	0.08		0.8485	765	0.0	0		118	14	0.1186		0.5773	-0.2199	0	0.0
+PX215099.1	Gigaspora rosea | woodslee_203A	Gigaspora rosea	baseline	PX215098.1	1468	0.136	3		341	33	0.0968		1.0304	158	0.0	0		25	2	0.08		0.8485	765	0.0	0		118	14	0.1186		0.5773	-0.2199	0	0.0
+PX215100.1	Gigaspora rosea | woodslee_203A	Gigaspora rosea	baseline	PX215099.1	1468	0.0	3		341	33	0.0968		1.0334	158	0.0	0		25	2	0.08		0.8485	765	1.176	0		118	13	0.1102		0.5813	-0.212	1	0.0057
+PX215101.1	Gigaspora rosea | 4752_496A	Gigaspora rosea	baseline	PX215102.1	1470	0.204	0		341	33	0.0968		1.0338	158	1.899	0		25	2	0.08		0.8727	765	1.438	0		118	12	0.1017		0.5878	-0.1793	2	0.0115
+PX215102.1	Gigaspora rosea | 4752_496A	Gigaspora rosea	baseline	PX215101.1	1470	0.204	0		341	33	0.0968		1.0323	158	1.899	1		25	2	0.08		0.8716	765	1.438	0		118	11	0.0932		0.5899	-0.2006	4	0.0226
+PX215103.1	Gigaspora rosea | CU131_1018C	Gigaspora rosea	baseline	PX215089.1	1470	0.476	0		341	33	0.0968		1.0313	158	1.266	0		25	2	0.08		0.8693	765	4.967	3	yes	118	12	0.1017		0.587	-0.2167	33	0.1897
+PX215104.1	Gigaspora rosea | 4752_496A	Gigaspora rosea	baseline	PX215105.1	1470	0.204	0		341	33	0.0968		1.0321	158	0.633	0		25	2	0.08		0.8645	765	0.915	1		118	12	0.1017		0.5882	-0.2023	3	0.0171
+PX215105.1	Gigaspora rosea | 4752_496A	Gigaspora rosea	baseline	PX215104.1	1470	0.204	0		341	33	0.0968		1.0329	158	0.633	1		25	2	0.08		0.8733	765	0.915	1		118	12	0.1017		0.5881	-0.1972	5	0.0281
+PX215106.1	Gigaspora rosea | BEG9_770A	Gigaspora rosea	baseline	PX215090.1	1470	0.272	1		341	33	0.0968		1.0311	158	2.532	1	yes	25	2	0.08		0.8703	764	2.88	1		118	10	0.0847		0.5844	-0.2251	5	0.0292
+PX215107.1	Gigaspora rosea | 4511_973A	Gigaspora rosea	baseline	PX215092.1	1470	0.272	1		341	33	0.0968		1.0311	158	2.532	1	yes	25	2	0.08		0.8703	764	2.88	1		118	10	0.0847		0.5844	-0.2251	5	0.0292
+PX215108.1	Gigaspora rosea | woodslee_203A	Gigaspora rosea	baseline	PX215097.1	1470	0.34	1		341	33	0.0968		1.0324	158	0.633	0		25	2	0.08		0.8693	765	5.621	1	yes	118	11	0.0932		0.5888	-0.2052	11	0.0636
+PX215109.1	Gigaspora rosea | BEG9_770A	Gigaspora rosea	baseline	PX215090.1	1470	0.884	1	yes	341	33	0.0968		1.0284	158	1.266	1		25	2	0.08		0.8692	764	1.44	1		118	14	0.1186		0.5852	-0.2414	46	0.2722
+PX215110.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215111.1	1470	0.0	0		341	33	0.0968		1.0284	158	0.0	0		25	2	0.08		0.8692	765	0.0	0		118	14	0.1186		0.5852	-0.2414	0	0.0
+PX215111.1	Gigaspora rosea | 194757_703A	Gigaspora rosea	baseline	PX215110.1	1470	0.0	0		341	33	0.0968		1.0284	158	0.0	0		25	2	0.08		0.8692	765	0.0	0		118	14	0.1186		0.5852	-0.2414	0	0.0
+PX215112.1	Gigaspora rosea | 4511_973A	Gigaspora rosea	baseline	PX215092.1	1470	0.884	1	yes	341	33	0.0968		1.0284	158	1.266	1		25	2	0.08		0.8692	764	1.44	1		118	14	0.1186		0.5852	-0.2414	46	0.2722
+PX215113.1	Gigaspora rosea | CW0011_4010A	Gigaspora rosea	baseline	PX215114.1	1470	0.272	0		341	33	0.0968		1.0313	158	0.0	0		25	2	0.08		0.8692	765	0.0	0		118	14	0.1186		0.5852	-0.2414	0	0.0
+PX215114.1	Gigaspora rosea | CW0011_4010A	Gigaspora rosea	baseline	PX215113.1	1470	0.272	0		341	33	0.0968		1.0323	158	0.0	0		25	2	0.08		0.8692	765	0.0	0		118	14	0.1186		0.5852	-0.2414	0	0.0
+PX215115.1	Gigaspora rosea | 4752_496A	Gigaspora rosea	baseline	PX215116.1	1470	0.0	0		341	34	0.0997		1.0285	158	0.0	0		25	2	0.08		0.8409	766	0.261	0		118	11	0.0932		0.5817	-0.1965	0	0.0
+PX215116.1	Gigaspora rosea | 4752_496A	Gigaspora rosea	baseline	PX215115.1	1470	0.0	0		341	34	0.0997		1.0285	158	0.0	0		25	2	0.08		0.8409	766	0.261	0		118	11	0.0932		0.5819	-0.1965	0	0.0
+PX215118.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215122.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	769	0.26	0		118	12	0.1017		0.5855	-0.3	2	0.0095
+PX215119.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215120.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.13	1		118	12	0.1017		0.5855	-0.3	0	0.0
+PX215120.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215119.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.13	1		118	12	0.1017		0.5833	-0.3	0	0.0
+PX215121.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215119.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.652	0		118	12	0.1017		0.5859	-0.3	0	0.0
+PX215122.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215118.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.261	0		118	12	0.1017		0.5821	-0.3024	2	0.0096
+PX215123.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215119.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.261	0		118	12	0.1017		0.5821	-0.3024	2	0.0096
+PX215124.1	Ambispora callosa | MAFF520057_2499A	Ambispora callosa	baseline	PX215135.1	1476	0.068	0		341	35	0.1026		1.0117	158	0.633	0		25	1	0.04		0.8968	768	1.302	0		118	12	0.1017		0.5817	-0.3024	79	0.3798
+PX215125.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215119.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.0	0		118	12	0.1017		0.5855	-0.2875	71	0.3413
+PX215126.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215118.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.13	0		118	12	0.1017		0.5865	-0.3	0	0.0
+PX215127.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215119.1	1475	0.0	2		341	35	0.1026		1.0122	158	0.0	0		25	1	0.04		0.8968	767	0.0	0		118	12	0.1017		0.5855	-0.3	0	0.0
+PX215128.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215119.1	1475	0.0	2		341	35	0.1026		1.0122	158	0.0	0		25	1	0.04		0.8968	767	0.0	0		118	12	0.1017		0.5855	-0.3	0	0.0
+PX215129.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215125.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.391	0		118	12	0.1017		0.5851	-0.3029	4	0.0192
+PX215130.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215118.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	1.043	0		118	12	0.1017		0.5894	-0.2937	73	0.351
+PX215131.1	Ambispora callosa | MAFF520084_2504A	Ambispora callosa	baseline	PX215129.1	1476	0.0	0		341	35	0.1026		1.0117	158	0.0	0		25	1	0.04		0.8968	767	0.913	0		118	12	0.1017		0.5894	-0.2937	2	0.0096
+PX215132.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215118.1	1475	0.068	1		341	35	0.1026		1.0124	158	0.633	0		25	1	0.04		0.8839	767	1.043	0		118	13	0.1102		0.5841	-0.3202	63	0.3103
+PX215133.1	Ambispora callosa | MAFF520057_2499A	Ambispora callosa	baseline	PX215134.1	1475	0.271	0		341	35	0.1026		1.0126	158	0.0	0		25	1	0.04		0.8968	768	0.13	0		118	13	0.1102		0.5834	-0.336	56	0.2759
+PX215134.1	Ambispora callosa | MAFF520057_2499A	Ambispora callosa	baseline	PX215133.1	1475	0.271	0		341	35	0.1026		1.0129	158	0.0	0		25	1	0.04		0.8968	768	0.13	0		118	13	0.1102		0.5842	-0.3169	54	0.2687
+PX215135.1	Ambispora callosa | MAFF520057_2499A	Ambispora callosa	baseline	PX215134.1	1475	0.203	1		341	35	0.1026		1.0116	158	0.633	0		25	1	0.04		0.8849	768	0.521	0		118	13	0.1102		0.584	-0.3199	0	0.0
+PX215136.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215137.1	1475	0.407	1		341	35	0.1026		1.0069	159	0.629	0		25	1	0.04		0.8458	768	0.911	0		118	12	0.1017		0.5836	-0.3144	50	0.2488
+PX215137.1	Ambispora callosa | JA116_2012B	Ambispora callosa	baseline	PX215136.1	1475	0.407	1		341	35	0.1026		1.007	159	0.629	0		25	1	0.04		0.8392	768	0.911	0		118	13	0.1102		0.5825	-0.3039	52	0.2562
+PX215138.1	Ambispora leptoticha | MAFF520090_2501A	Ambispora leptoticha	baseline						341	31	0.0909		1.0153					25	1	0.04		0.9063					118	12	0.1017		0.5811	-0.2706		
+PX215139.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207101.1	1475	0.0	0		341	31	0.0909		1.0154	158	0.0	0		25	1	0.04		0.9063	768	0.0	0		118	11	0.0932		0.5855	-0.2712	0	0.0
+PX215140.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207103.1	1475	0.0	0		341	31	0.0909		1.0154	158	0.0	0		25	1	0.04		0.9063	768	0.0	0		118	12	0.1017		0.581	-0.2722	0	0.0
+PX215141.1	Ambispora leptoticha | ON205A	Ambispora leptoticha	baseline	PX207105.1	1475	0.271	1		341	31	0.0909		1.0144	158	0.0	0		25	1	0.04		0.9063	768	0.521	0		118	13	0.1102		0.5806	-0.2608	58	0.2915
+PX215142.1	Paraglomus brasilianum | W960_3_902A	Paraglomus brasilianum	baseline						341	38	0.1114		1.0121					25	3	0.12		0.8464					118	10	0.0847		0.5592	-0.3036		
+PX215143.1	Paraglomus brasilianum | W960_3_902C	Paraglomus brasilianum	baseline						341	38	0.1114		1.0121					25	3	0.12		0.8464					118	10	0.0847		0.5592	-0.3036		
+PX215144.1	Paraglomus brasilianum | W260_5_933C	Paraglomus brasilianum	baseline	PX215148.1	1474	0.0	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8464	769	0.0	2		118	10	0.0847		0.5592	-0.3036	43	0.1937
+PX215145.1	Paraglomus brasilianum | BR105_2435A	Paraglomus brasilianum	baseline	PX215147.1	1474	0.068	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8464	770	0.39	0		118	10	0.0847		0.5592	-0.3036	27	0.1216
+PX215146.1	Paraglomus brasilianum | W260_5_933C	Paraglomus brasilianum	baseline	PX215148.1	1474	0.068	0		341	38	0.1114		1.0117	152	0.0	0		25	3	0.12		0.8464	769	0.13	2		118	10	0.0847		0.5597	-0.3141	16	0.0727
+PX215147.1	Paraglomus brasilianum | BR105_2435A	Paraglomus brasilianum	baseline	PX215145.1	1474	0.068	0		341	38	0.1114		1.0117	152	0.0	0		25	3	0.12		0.8464	770	0.39	0		118	10	0.0847		0.5597	-0.3141	26	0.1182
+PX215148.1	Paraglomus brasilianum | W260_5_933C	Paraglomus brasilianum	baseline	PX215144.1	1474	0.0	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8464	769	0.0	2		118	10	0.0847		0.5564	-0.3095	43	0.1946
+PX215149.1	Paraglomus brasilianum | 5274_2288B	Paraglomus brasilianum	baseline						341	38	0.1114		1.0121					25	3	0.12		0.8464					118	9	0.0763		0.5545	-0.3192		
+PX215150.1	Paraglomus sp. | 5088_2360A	Paraglomus sp.	baseline	PX215153.1	1474	0.068	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.2796	0	0.0
+PX215151.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215152.1	1474	0.0	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.2796	0	0.0
+PX215152.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215151.1	1474	0.0	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.2796	0	0.0
+PX215153.1	Paraglomus sp. | 5088_2360A	Paraglomus sp.	baseline	PX215150.1	1474	0.068	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.2796	0	0.0
+PX215154.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215151.1	1474	0.068	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.2796	0	0.0
+PX215155.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215160.1	1474	0.0	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.2913	86	0.3927
+PX215156.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215151.1	1474	0.0	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.277	9	0.0431
+PX215157.1	Paraglomus sp. | 5088_2360A	Paraglomus sp.	baseline	PX215153.1	1474	0.0	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8433	773	0.259	0		118	8	0.0678		0.5578	-0.3036	47	0.2089
+PX215158.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215159.1	1474	0.0	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8433	773	0.259	0		118	8	0.0678		0.5578	-0.3036	0	0.0
+PX215159.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215158.1	1474	0.0	0		341	38	0.1114		1.0121	152	0.0	0		25	3	0.12		0.8433	773	0.259	0		118	8	0.0678		0.5571	-0.3036	0	0.0
+PX215160.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215159.1	1474	0.068	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.3036	0	0.0
+PX215161.1	Paraglomus sp. | 4423_1159D	Paraglomus sp.	baseline	PX215152.1	1474	0.0	0		341	38	0.1114		1.0129	152	0.0	0		25	3	0.12		0.8433	773	0.0	0		118	8	0.0678		0.5571	-0.288	35	0.162
+PX215162.1	Paraglomus sp. | BR105_2435A	Paraglomus sp.	baseline	PX215163.1	1472	0.068	0		341	38	0.1114		1.0143	152	0.0	0		25	3	0.12		0.8464	772	0.13	1		118	9	0.0763		0.5703	-0.3412	1	0.0041
+PX215163.1	Paraglomus sp. | BR105_2435A	Paraglomus sp.	baseline	PX215162.1	1472	0.068	0		341	38	0.1114		1.0143	152	0.0	0		25	3	0.12		0.8464	772	0.13	1		118	9	0.0763		0.5711	-0.3407	1	0.0041
+PX215164.1	Paraglomus sp. | BR105_2435A	Paraglomus sp.	baseline	PX215163.1	1472	0.0	0		341	38	0.1114		1.0143	152	0.0	0		25	3	0.12		0.8464	772	0.13	1		118	9	0.0763		0.5712	-0.3294	3	0.013

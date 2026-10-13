@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset ssu_flank = 1-1474;
+  charset full_its = 1475-2012;
+  charset lsu_flank = 2013-2793;
+end;

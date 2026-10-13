@@ -1,0 +1,4 @@
+region	copies_with_region	median_length	min_length	max_length	within_species_spread_p99
+full_its	903	466	395	559	5.988
+kruger	903	1577	1451	1678	3.3024
+full	903	2758	2630	2856	1.9333

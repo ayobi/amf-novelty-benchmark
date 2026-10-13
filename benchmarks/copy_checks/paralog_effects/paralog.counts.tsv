@@ -1,0 +1,13 @@
+region	identity	copies	n_copies	species	clusters	clusters_per_species	species_in_one_cluster	species_in_2plus_clusters	max_clusters_one_species	clusters_joining_species	clusters_short_only	clusters_same_length_only	clusters_divergent_mixed_only
+full_its	98.5%	all copies	850	37	240	6.49	3	34	21	2	18	2	0
+full_its	98.5%	main-type copies	802	37	220	5.95	4	33	18	2	0	0	0
+full_its	97%	all copies	850	37	110	2.97	13	24	12	2	12	2	0
+full_its	97%	main-type copies	802	37	96	2.59	16	21	12	2	0	0	0
+kruger	98.5%	all copies	850	37	110	2.97	13	24	13	1	13	2	0
+kruger	98.5%	main-type copies	802	37	95	2.57	16	21	13	1	0	0	0
+kruger	97%	all copies	850	37	56	1.51	23	14	6	4	8	2	0
+kruger	97%	main-type copies	802	37	46	1.24	28	9	6	4	0	0	0
+full	98.5%	all copies	850	37	71	1.92	21	16	8	3	11	2	0
+full	98.5%	main-type copies	802	37	58	1.57	25	12	8	3	0	0	0
+full	97%	all copies	850	37	36	0.97	29	8	3	7	5	1	0
+full	97%	main-type copies	802	37	30	0.81	34	3	2	7	0	0	0

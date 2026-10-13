@@ -1,0 +1,17 @@
+region	class	copies	median	p95	p99	below_spread	below_db
+SSU_VT_NS31-AM1	same culture	814	0.0	0.397	1.179	99.9	100.0
+SSU_VT_NS31-AM1	same species	747	0.0	0.592	1.381	99.6	100.0
+SSU_VT_NS31-AM1	same genus	604	0.591	2.564	3.156	93.7	98.7
+SSU_VT_NS31-AM1	other genus	794	3.945	8.532	9.325	13.5	15.2
+ssu_flank	same culture	839	0.0	0.339	0.719	99.6	
+ssu_flank	same species	755	0.0	0.34	0.679	99.5	
+ssu_flank	same genus	617	0.407	1.769	1.97	80.1	
+ssu_flank	other genus	794	2.717	6.038	6.193	0.0	
+full_its	same culture	839	0.411	4.464	9.169	97.3	75.6
+full_its	same species	755	0.659	4.441	5.993	99.1	65.6
+full_its	same genus	617	7.392	18.913	20.868	39.5	1.8
+full_its	other genus	794	21.795	29.279	30.248	0.0	0.0
+LSU_LROR-FLR2	same culture	839	0.136	1.626	4.74	97.4	97.4
+LSU_LROR-FLR2	same species	755	0.137	1.75	2.873	99.3	99.3
+LSU_LROR-FLR2	same genus	617	2.846	9.299	11.567	54.5	54.5
+LSU_LROR-FLR2	other genus	794	11.126	26.248	26.445	0.0	0.0

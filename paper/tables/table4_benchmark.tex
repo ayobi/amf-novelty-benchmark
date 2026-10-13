@@ -1,24 +1,25 @@
 \begin{table}[htbp]\centering
 \begin{threeparttable}
-\caption{Training-only benchmark with the external databases fixed.}
+\caption{Calls for withheld cultures and species, with the external databases intact.}
 \label{tab:benchmark}
 \footnotesize\setlength{\tabcolsep}{4pt}
 \begin{tabular}{lrrrr}
 \toprule
-Configuration & Known kept & Exact species & False known, & False known,\\
- & (of 755) & & all held out (of 803) & single-culture (of 48)\\
+LSU naming & Known kept & Exact species & False known & False known\\
+ & (of 755) & & species withheld & single-culture\\
+ & & & (of 803) & species (of 48)\\
 \midrule
-Nearest-reference LSU & 748 & 603 & 215 (26.8\%) & 3\\
-LSU species-clade placement & 751 & 701 & 71 (8.8\%) & 0\\
-Placement + ITS rule (N6) & 745 & 697 & 18 (2.2\%) & 0\\
+Nearest LSU reference & 748 & 603 & 215 (26.8\%) & 3\\
+LSU species clade (placement) & 751 & 701 & 71 (8.8\%) & 0\\
+Placement + ITS distance rule & 745 & 697 & 18 (2.2\%) & 0\\
 \bottomrule
 \end{tabular}
 \begin{tablenotes}\footnotesize
-\item \emph{Known kept}: main-type copies of species held by another training
-culture that receive a known species or species-group call containing the true
-species (culture holdout, 148 folds). \emph{False known}: known calls for copies
-whose species has no training culture (species holdout, 50 folds). Averaged over
-species and over cultures, the final false-known rate is 1.4\% and 1.9\%.
+\item \emph{Known kept}: main-type copies of species held by another remaining culture that receive a known species or
+species-group call containing their species (148 rounds, one culture withheld in each). \emph{False known}: known
+calls for copies whose species has no remaining culture: in 50 rounds with one species withheld in each, and, in the
+rounds with one culture withheld, for the main-type copies of species with a single culture. Averaged over species and
+over cultures, the final false-known rate with a species withheld is 1.4\% and 1.9\%.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}

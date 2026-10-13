@@ -113,7 +113,7 @@ def dist(a, b):
     return 100 * edlib.align(q, t, mode='HW', task='distance')['editDistance'] / len(q)
 
 
-def tex_sp(name, full=False):
+def tex_sp(name, full=True):   # genus in full: several AMF genera share an initial
     """\\spn{G.\\ epithet}; [Rhizoglomus] -> [R.]; 'Genus sp.' -> \\spn{Genus} sp.; full=True keeps the genus."""
     t = name.split()
     if len(t) < 2:

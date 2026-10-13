@@ -1,0 +1,16 @@
+region	label	threshold	distance_pct	identity_pct	copies_with_culture_mate	copies_with_conspecific	copies_with_congener	copies_with_congener_excl_complex	copies_with_other_genus	split_from_genome_pct	split_from_species_pct	joined_to_congener_pct	joined_to_congener_excl_complex_pct	joined_to_other_genus_pct
+full_its	Full ITS	98.5% identity	1.5	98.5	839	803	617	617	794	24.4	13.7	1.8	0.0	0.0
+full_its	Full ITS	97% identity	3.0	97.0	839	803	617	617	794	10.6	3.4	6.5	0.0	0.0
+full_its	Full ITS	within-species spread	5.988	94.01	839	803	617	617	794	2.7	0.5	39.5	11.8	0.0
+full_its	Full ITS	best single threshold	3.45	96.55	839	803	617	617	794	8.7	2.1	7.8	0.0	0.0
+full_its	Full ITS	best single threshold, complexes aside	5.05	94.95	839	803	617	617	794	3.6	0.7	32.4	3.1	0.0
+kruger	Krüger fragment (SSUmAf–LSUmBr)	98.5% identity	1.5	98.5	839	803	617	617	794	9.3	2.9	1.1	0.0	0.0
+kruger	Krüger fragment (SSUmAf–LSUmBr)	97% identity	3.0	97.0	839	803	617	617	794	4.1	0.6	19.1	0.3	0.0
+kruger	Krüger fragment (SSUmAf–LSUmBr)	within-species spread	3.302	96.7	839	803	617	617	794	3.3	0.6	25.6	2.1	0.0
+kruger	Krüger fragment (SSUmAf–LSUmBr)	best single threshold	1.85	98.15	839	803	617	617	794	6.7	1.7	7.0	0.0	0.0
+kruger	Krüger fragment (SSUmAf–LSUmBr)	best single threshold, complexes aside	3.45	96.55	839	803	617	617	794	3.0	0.5	32.1	2.6	0.0
+full	Whole copy (AML1–LSUmBr)	98.5% identity	1.5	98.5	839	803	617	617	794	5.1	1.2	15.6	0.0	0.0
+full	Whole copy (AML1–LSUmBr)	97% identity	3.0	97.0	839	803	617	617	794	1.1	0.1	77.1	36.0	0.0
+full	Whole copy (AML1–LSUmBr)	within-species spread	1.933	98.07	839	803	617	617	794	3.9	0.6	22.2	1.9	0.0
+full	Whole copy (AML1–LSUmBr)	best single threshold	1.1	98.9	839	803	617	617	794	7.0	2.0	7.0	0.0	0.0
+full	Whole copy (AML1–LSUmBr)	best single threshold, complexes aside	2.1	97.9	839	803	617	617	794	3.3	0.4	30.0	2.9	0.0

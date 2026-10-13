@@ -65,16 +65,17 @@ def is_held(r):
 
 
 def short_name(full):
-    """'Diversispora aestuarii' -> '\\emph{D.\\ aestuarii}'; brackets are braced for LaTeX."""
+    """'Diversispora aestuarii' -> '\\emph{Diversispora aestuarii}' (genus in full: several AMF genera
+    share an initial); brackets are braced for LaTeX."""
     parts = []
     for one in full.split(';'):
         one = one.strip()
         bracket = one.startswith('[')
         toks = one.replace('[', '').replace(']', '').split()
         if len(toks) >= 2:
-            g = toks[0][0] + '.'
+            g = toks[0]
             g = '{[}' + g + '{]}' if bracket else g
-            parts.append('\\emph{' + g + '\\ ' + ' '.join(toks[1:]) + '}')
+            parts.append('\\emph{' + g + ' ' + ' '.join(toks[1:]) + '}')
         else:
             parts.append('\\emph{' + one + '}')
     return ' / '.join(parts)
@@ -157,28 +158,29 @@ def benchmark(m, its_dir):
                for x in b)
     m.add('GenusLoss', loss, 'held-out copies moving from "novel species, genus known" to "novel lineage" (placement)')
 
-    rowsT = [('Nearest-reference LSU', 'Base'), ('LSU species-clade placement', 'Clade'), ('Placement + ITS rule (N6)', 'ITS')]
+    rowsT = [('Nearest LSU reference', 'Base'), ('LSU species clade (placement)', 'Clade'), ('Placement + ITS distance rule', 'ITS')]
     body = ''.join(f"{label} & {cul[k]['known_compatible']} & {final_exact(rows[k])} & "
                    f"{spe[k]['false_known']} ({pct(spe[k]['false_known'], held_n)}) & {cul[k]['false_known']}\\\\\n"
                    for label, k in rowsT)
     return f'''\\begin{{table}}[htbp]\\centering
 \\begin{{threeparttable}}
-\\caption{{Training-only benchmark with the external databases fixed.}}
+\\caption{{Calls for withheld cultures and species, with the external databases intact.}}
 \\label{{tab:benchmark}}
 \\footnotesize\\setlength{{\\tabcolsep}}{{4pt}}
 \\begin{{tabular}}{{lrrrr}}
 \\toprule
-Configuration & Known kept & Exact species & False known, & False known,\\\\
- & (of {known_n}) & & all held out (of {held_n}) & single-culture (of {single_n})\\\\
+LSU naming & Known kept & Exact species & False known & False known\\\\
+ & (of {known_n}) & & species withheld & single-culture\\\\
+ & & & (of {held_n}) & species (of {single_n})\\\\
 \\midrule
 {body}\\bottomrule
 \\end{{tabular}}
 \\begin{{tablenotes}}\\footnotesize
-\\item \\emph{{Known kept}}: main-type copies of species held by another training
-culture that receive a known species or species-group call containing the true
-species (culture holdout, 148 folds). \\emph{{False known}}: known calls for copies
-whose species has no training culture (species holdout, 50 folds). Averaged over
-species and over cultures, the final false-known rate is {100 * spe['ITS']['false_known_species_macro']:.1f}\\% and {100 * spe['ITS']['false_known_culture_macro']:.1f}\\%.
+\\item \\emph{{Known kept}}: main-type copies of species held by another remaining culture that receive a known species or
+species-group call containing their species (148 rounds, one culture withheld in each). \\emph{{False known}}: known
+calls for copies whose species has no remaining culture: in 50 rounds with one species withheld in each, and, in the
+rounds with one culture withheld, for the main-type copies of species with a single culture. Averaged over species and
+over cultures, the final false-known rate with a species withheld is {100 * spe['ITS']['false_known_species_macro']:.1f}\\% and {100 * spe['ITS']['false_known_culture_macro']:.1f}\\%.
 \\end{{tablenotes}}
 \\end{{threeparttable}}
 \\end{{table}}
@@ -315,35 +317,40 @@ def external(m, m4_dir):
         return f"{t['fk'][k]}/{t['held'][k]}"
     lines = []
     for tgt in dev:
-        t, name = pt[tgt], '\\emph{' + tgt.replace('Glomus', 'G.\\') + '}'
-        lines.append(f"{name}$^{{\\dagger}}$ & full & {cell('control_v1', t)} & {cell('control_v2', t)}\\\\")
-        lines.append(f"{name}$^{{\\dagger}}$ & target removed & {cell('v1', t)} & {cell('v2', t)}\\\\")
+        t, name = pt[tgt], '\\emph{' + tgt + '}'
+        lines.append(f"{name}$^{{\\dagger}}$ & intact & {cell('control_v1', t)} & {cell('control_v2', t)}\\\\")
+        lines.append(f"{name}$^{{\\dagger}}$ & species removed & {cell('v1', t)} & {cell('v2', t)}\\\\")
     lines.append('\\midrule')
     if first:
         held = sum(pt[t]['held']['v1'] for t in first)
-        lines.append(f"{len(first)} first-outcome folds & full & {agg['control_v1']}/{held} ({pct(agg['control_v1'], held)}) & "
+        lines.append(f"{len(first)} test species & intact & {agg['control_v1']}/{held} ({pct(agg['control_v1'], held)}) & "
                      f"{agg['control_v2']}/{held} ({pct(agg['control_v2'], held)})\\\\")
-        lines.append(f"{len(first)} first-outcome folds & target removed & {agg['v1']}/{held} ({pct(agg['v1'], held)}) & "
+        lines.append(f"{len(first)} test species & species removed & {agg['v1']}/{held} ({pct(agg['v1'], held)}) & "
                      f"{agg['v2']}/{held} ({pct(agg['v2'], held)})\\\\")
     else:
-        lines.append('first-outcome folds & target removed & \\todo{v1} & \\todo{v2}\\\\')
+        lines.append('test species & species removed & \\todo{v1} & \\todo{v2}\\\\')
+    absent_note = ''
+    if len(absent) == 1:
+        absent_note = f'; \\emph{{{absent[0]}}}, which V18 does not hold by label, is reported apart'
+    elif absent:
+        absent_note = f'; {len(absent)} species that V18 does not hold by label are reported apart'
     table5 = f'''\\begin{{table}}[htbp]\\centering
 \\begin{{threeparttable}}
-\\caption{{Removing the target species from the LSU reference as well.}}
+\\caption{{Withheld species also removed from the LSU reference.}}
 \\label{{tab:external}}
 \\small
 \\begin{{tabular}}{{llrr}}
 \\toprule
-Target & V18 & False known (v1) & With N6 (v2)\\\\
+Withheld species & LSU reference & False known & with ITS rule\\\\
 \\midrule
 {chr(10).join(lines)}
 \\bottomrule
 \\end{{tabular}}
 \\begin{{tablenotes}}\\footnotesize
-\\item False-known calls among the main-type copies of each fold's target species.
-$^{{\\dagger}}$\\,Development folds: these two species informed the N6 rule. \\emph{{Full}}: the fold's
-copies placed on the intact V18; \\emph{{target removed}}: V18 realigned without the target's records, model
-refitted, all copies re-placed. First-outcome folds pool the species whose V18 records were removed{f'; {len(absent)} further fold(s) whose species V18 does not hold by label are reported apart' if absent else ''}.
+\\item False-known calls among the main-type copies of the withheld species.
+$^{{\\dagger}}$\\,Development species: these two informed the ITS distance rule. \\emph{{Intact}}: copies placed on
+the full LSU reference (V18); \\emph{{species removed}}: V18 realigned without the species' records, the model
+refitted and all copies placed again. The test species pool the species whose V18 records could be removed{absent_note}.
 \\end{{tablenotes}}
 \\end{{threeparttable}}
 \\end{{table}}
@@ -355,21 +362,23 @@ refitted, all copies re-placed. First-outcome folds pool the species whose V18 r
         nm = t.replace('[', '{[}').replace(']', '{]}')
         mark = '$^{\\dagger}$' if d['dev'] else ('$^{\\ddagger}$' if d['status'] != 'removed' else '')
         rows.append(f"\\emph{{{nm}}}{mark} & {d['held']['v1']} & {d['fk']['control_v1']} & {d['fk']['control_v2']} & {d['fk']['v1']} & {d['fk']['v2']}\\\\")
-    tableS3 = f'''\\begin{{longtable}}{{lrrrrr}}
-\\caption{{External holdout by species fold: false-known calls among the target species' main-type copies.}}\\label{{tab:m4folds}}\\\\
+    tableS3 = f'''{{\\small\\begin{{longtable}}{{lrrrrr}}
+\\caption{{LSU-removal test by species: false-known calls among the main-type copies of each withheld species.}}\\label{{tab:m4folds}}\\\\
 \\toprule
-Target species & Copies & Intact & Intact + N6 & Removed & Removed + N6\\\\
+Withheld species & Copies & \\multicolumn{{2}}{{c}}{{LSU ref.\\ intact}} & \\multicolumn{{2}}{{c}}{{species removed}}\\\\
+ & & no rule & ITS rule & no rule & ITS rule\\\\
 \\midrule
 \\endfirsthead
 \\toprule
-Target species & Copies & Intact & Intact + N6 & Removed & Removed + N6\\\\
+Withheld species & Copies & \\multicolumn{{2}}{{c}}{{LSU ref.\\ intact}} & \\multicolumn{{2}}{{c}}{{species removed}}\\\\
+ & & no rule & ITS rule & no rule & ITS rule\\\\
 \\midrule
 \\endhead
 \\bottomrule
 \\endfoot
 {chr(10).join(rows)}
-\\end{{longtable}}
-\\noindent{{\\footnotesize Columns: false-known calls with V18 intact, V18 intact plus the ITS rule (N6), the target removed from V18, and removed plus N6. $^{{\\dagger}}$ development fold; $^{{\\ddagger}}$ species not in V18 by label (removal changes nothing).}}
+\\end{{longtable}}}}
+\\noindent{{\\footnotesize False-known calls with the LSU reference (V18) intact or with the species removed from it, each without and with the ITS distance rule. $^{{\\dagger}}$ development species; $^{{\\ddagger}}$ species not in V18 by label (removal changes nothing).}}
 '''
     return table5, tableS3
 
@@ -529,22 +538,24 @@ def percentiles(m, path, m4_dir):
     n_c, n_s, n_m = r['culture@99.0']['n'], r['species@99.0']['n'], r['m4@99.0']['held']
     return f'''\\begin{{table}}[htbp]\\centering
 \\begin{{threeparttable}}
-\\caption{{The ITS rule and the species complexes moved to the same percentile.}}
+\\caption{{The ITS distance rule and the species complexes recomputed together at three percentiles.}}
 \\label{{tab:percentile}}
 \\footnotesize\\setlength{{\\tabcolsep}}{{4pt}}
 \\begin{{tabular}}{{lrrrrrr}}
 \\toprule
-Percentile & ITS limit & Complexes & Known demoted & False known, & False known, & Outside\\\\
- & (median) & (species) & (of {n_c}) & species holdout (of {n_s}) & V18 removed (of {n_m}) & a complex\\\\
+Percentile & ITS limit & Complexes & Known demoted & False known & False known & Outside\\\\
+ & (median) & (species) & (of {n_c}) & species withheld & also LSU-removed & a complex\\\\
+ & & & & (of {n_s}) & (of {n_m}) & \\\\
 \\midrule
 {body}\\bottomrule
 \\end{{tabular}}
 \\begin{{tablenotes}}\\footnotesize
-\\item The ITS rule is re-applied to the stored decision-tree rows at each percentile, with the limit fitted
-on each fold's training cultures, and the complexes are those of the distance rule at the same percentile
-(\\texttt{{percentile\\_sensitivity.py}}). \\emph{{Known demoted}}: known-species copies the rule demotes in the
-culture holdout. \\emph{{V18 removed}}: first-outcome M4 folds. The 99th-percentile row reproduces the reported
-results exactly. Every error outside a complex is \\emph{{R.\\ irregularis}} called \\emph{{{{[}}R.{{]}}\\ vesiculiferum}}.
+\\item The ITS distance rule is re-applied to the stored results of the decision steps at each percentile, with the
+limit fitted on the remaining cultures of each round, and the complexes are those of the complex rule at the same
+percentile. \\emph{{Known demoted}}: copies of known species that the rule demotes with one culture withheld.
+\\emph{{Also LSU-removed}}: the test species of the LSU-removal test. The 99th-percentile row reproduces
+the reported results exactly. Every error outside a complex is \\emph{{Rhizophagus irregularis}} called
+\\emph{{{{[}}Rhizoglomus{{]}} vesiculiferum}}.
 \\end{{tablenotes}}
 \\end{{threeparttable}}
 \\end{{table}}
@@ -711,9 +722,9 @@ def crosswalk(m, prefix, ref_dir, v18_path):
 {body}\\bottomrule
 \\end{{tabular}}
 \\begin{{tablenotes}}\\footnotesize
-\\item Each divergent copy against the modal unit of its culture's main-type copies (crosswalk.py,
-culture reference v4). Copies in cultures without a main-type unit on a marker are left out of that
-marker's row (short 5.8S: VT {nm['short_5.8S'][0]}, LSU {nm['short_5.8S'][1]}, SH {nm['short_5.8S'][2]};
+\\item Each divergent copy compared with the most common name of its culture's main-type copies (culture
+reference version~4). Copies in cultures without a main-type name in a system are left out of that
+system's row (short 5.8S: VT {nm['short_5.8S'][0]}, LSU {nm['short_5.8S'][1]}, SH {nm['short_5.8S'][2]};
 same length: VT {nm['same_length'][0]}, LSU {nm['same_length'][1]}, SH {nm['same_length'][2]}).
 \\end{{tablenotes}}
 \\end{{threeparttable}}
@@ -749,19 +760,19 @@ same length: VT {nm['same_length'][0]}, LSU {nm['same_length'][1]}, SH {nm['same
     m.add('ParalogPlaceholder', counts['SH'][3])
     table_par = f'''\\begin{{table}}[htbp]\\centering
 \\begin{{threeparttable}}
-\\caption{{Paralog units: SHs and a VT reached by divergent-class copies and by at most one main-type copy.}}
+\\caption{{Paralog names: SHs and a VT reached by divergent copies and by at most one main-type copy.}}
 \\label{{tab:paralog}}
 \\footnotesize\\setlength{{\\tabcolsep}}{{4pt}}
-\\begin{{tabular}}{{p{{0.15\\linewidth}}p{{0.20\\linewidth}}p{{0.34\\linewidth}}p{{0.06\\linewidth}}p{{0.13\\linewidth}}}}
+\\begin{{tabular}}{{L{{0.165\\linewidth}}L{{0.20\\linewidth}}L{{0.325\\linewidth}}L{{0.06\\linewidth}}L{{0.13\\linewidth}}}}
 \\toprule
-Unit & Name of the best hit & Divergent copies & Main & Identity\\\\
+Name & Taxon of the best hit & Divergent copies & Main & Identity\\\\
 \\midrule
 {chr(10).join(rows_p)}
 \\bottomrule
 \\end{{tabular}}
 \\begin{{tablenotes}}\\footnotesize
-\\item \\emph{{Main}}: main-type copies of any culture in the unit. {len(singles)} further units take one divergent
-copy each ({', '.join(singles)}). Names are those of the best UNITE record; the VT row is MaarjAM's.
+\\item \\emph{{Main}}: main-type copies of any culture with that name. {len(singles)} further names take one divergent
+copy each ({', '.join(singles)}). Taxa are those of the best UNITE record; the VT row is MaarjAM's.
 \\end{{tablenotes}}
 \\end{{threeparttable}}
 \\end{{table}}

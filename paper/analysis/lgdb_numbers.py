@@ -86,12 +86,8 @@ def tex_name(org):
 
 
 def called_name(subject, org):
-    """Abbreviate a second name in the subject's genus: called(Funneliformis coronatus, Funneliformis mosseae)
-    -> \\spn{F.\\ mosseae}."""
-    g = subject.split()[0].strip('[]')
-    if org.split()[0].strip('[]') == g and len(org.split()) > 1 and not org.endswith(' sp.'):
-        return f'\\spn{{{g[0]}.\\ {" ".join(org.split()[1:])}}}'
-    return tex_name(org)
+    """The name a subject was called, written in full (the subject is kept for the call sites)."""
+    return tex_name(org)   # genus in full: several AMF genera share an initial
 
 
 def code_of(culture):
@@ -337,30 +333,31 @@ def main():
         return (f'{name} & {cond} & {fk} ({fk1}) & {pct(fk, len(nov))} & {right} / {wrongg} / {len(sp) - right - wrongg} '
                 f'& {lin_g} & {kc}\\\\')
     body = '\n'.join([
-        row('Primary', 'A: V18 intact', A2, A1, A2, A1),
-        row('', 'B: target removed', B2, B1),
-        row('VT spanned', 'A: V18 intact', SA2, SA1, SA2, SA1),
-        row('', 'B: target removed', SB2, T['B_secondary_vt_v1']),
+        row('Main', 'intact', A2, A1, A2, A1),
+        row('', 'removed', B2, B1),
+        row('Second', 'intact', SA2, SA1, SA2, SA1),
+        row('', 'removed', SB2, T['B_secondary_vt_v1']),
     ])
     table = f'''\\begin{{table}}[htbp]\\centering
 \\begin{{threeparttable}}
-\\caption{{Independent cultures: the frozen rules on {meta['test_cultures']} LongGloDB cultures from other collections.}}
+\\caption{{Independent cultures: the rules as fixed, on {meta['test_cultures']} LongGloDB cultures from other collections.}}
 \\label{{tab:lgdb}}
 \\footnotesize\\setlength{{\\tabcolsep}}{{4pt}}
-\\begin{{tabular}}{{p{{0.10\\linewidth}}p{{0.16\\linewidth}}p{{0.10\\linewidth}}p{{0.07\\linewidth}}p{{0.17\\linewidth}}p{{0.13\\linewidth}}p{{0.11\\linewidth}}}}
+\\begin{{tabular}}{{L{{0.11\\linewidth}}L{{0.14\\linewidth}}L{{0.09\\linewidth}}L{{0.06\\linewidth}}L{{0.19\\linewidth}}L{{0.13\\linewidth}}L{{0.10\\linewidth}}}}
 \\toprule
-Analysis & Condition & False known (of {len(novel_a)}) & Share & Novel species: genus right / wrong / none (of {role_n[NOVEL_SP]}) & Novel genera: genus given (of {role_n[NOVEL_LIN]}) & Known kept (of {role_n[KNOWN]})\\\\
+Analysis & LSU reference & False known (of {len(novel_a)}) & Share & Absent species: genus right/wrong/none (of {role_n[NOVEL_SP]}) & Absent genera: genus given (of {role_n[NOVEL_LIN]}) & Known kept (of {role_n[KNOWN]})\\\\
 \\midrule
 {body}
 \\bottomrule
 \\end{{tabular}}
 \\begin{{tablenotes}}\\footnotesize
-\\item Protocol v2 (with the ITS rule, N6); in brackets, the same without it. \\emph{{False known}}: ASVs of species the
-reference does not hold called a known species or species group. \\emph{{Novel species}}: ASVs of species the reference
-does not hold, in genera it holds. \\emph{{Novel genera}}: ASVs of genera it does not hold, so any genus given is wrong.
-\\emph{{Known kept}}: ASVs of species the reference holds whose call contains their species; condition A only.
-\\emph{{VT spanned}}: the secondary analysis, with VT coverage measured over the part of each MaarjAM reference the
-query spans (amendment 2).
+\\item With the ITS distance rule; in brackets, the same without it. \\emph{{LSU reference}}: intact, or with each absent
+species removed in its own round. \\emph{{False known}}: ASVs of species the reference
+does not hold called a known species or species group. \\emph{{Absent species}}: ASVs of species the reference does not
+hold, in genera it holds. \\emph{{Absent genera}}: ASVs of genera it does not hold, so any genus given is wrong.
+\\emph{{Known kept}}: ASVs of species the reference holds whose call contains their species; LSU reference intact
+only. \\emph{{Second}}: the second analysis, fixed in advance, with VT coverage counted over the part of each MaarjAM
+reference that the ASV spans.
 \\end{{tablenotes}}
 \\end{{threeparttable}}
 \\end{{table}}

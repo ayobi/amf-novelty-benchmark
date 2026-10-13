@@ -1,0 +1,16 @@
+region	class	copies	median	p95	p99	within_spread	within_1.5	within_3.0
+full_its	same culture	839	0.411	4.464	9.169	97.3	75.6	89.4
+full_its	same species	755	0.659	4.441	5.993	99.1	65.6	85.4
+full_its	same complex	255	4.497	7.966	8.817	81.6	4.3	15.7
+full_its	same genus	617	8.812	18.913	20.868	11.8	0.0	0.0
+full_its	other genus	794	21.795	29.279	30.248	0.0	0.0	0.0
+kruger	same culture	839	0.255	2.767	5.294	96.7	90.7	95.9
+kruger	same species	755	0.411	2.3	3.138	99.2	84.1	98.9
+kruger	same complex	255	3.226	4.299	4.614	56.9	2.7	45.5
+kruger	same genus	617	5.486	10.556	11.845	2.1	0.0	0.3
+kruger	other genus	794	13.346	23.791	24.05	0.0	0.0	0.0
+full	same culture	839	0.179	1.594	3.165	96.1	94.9	98.9
+full	same species	755	0.253	1.44	1.927	99.2	95.9	99.9
+full	same complex	255	1.986	2.612	2.84	49.0	37.6	99.6
+full	same genus	617	3.492	6.89	7.319	1.9	0.0	36.0
+full	other genus	794	8.587	16.108	16.255	0.0	0.0	0.0

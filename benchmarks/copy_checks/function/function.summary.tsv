@@ -1,0 +1,13 @@
+region	group	copies	irregular	median_subs_per100	degraded	median_broken_frac	paired_median_diff	paired_wilcoxon_p
+ssu_flank	short 5.8S	43	7	0.068	3	0.0997	0.0	0.171
+ssu_flank	same length	8	0	0.272	0	0.1026	-0.0004	
+ssu_flank	flagged main	5	2	0.408	0	0.1026		
+ssu_flank	baseline	834	8	0.0	3	0.1056		
+s58	short 5.8S	43	25	2.0	2	0.16	0.12	4.06e-09
+s58	same length	8	6	4.43	0	0.04	0.0	
+s58	flagged main	5	2	1.899	0	0.08		
+s58	baseline	834	9	0.0	1	0.04		
+lsu_flank	short 5.8S	43	25	4.617	12	0.0763	0.0084	0.0745
+lsu_flank	same length	8	5	2.166	0	0.0593	0.0033	1
+lsu_flank	flagged main	5	1	1.327	1	0.0847		
+lsu_flank	baseline	834	14	0.121	8	0.0847		

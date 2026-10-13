@@ -1,0 +1,36 @@
+tree	copies	tips	taxa	sh_alrt	ufboot	sister_main_taxa	with_sister_sh_alrt	with_sister_ufboot	sister_is_own_species_only
+ssu_flank	1	1	Rhizophagus irregularis			Rhizophagus irregularis	74.4	89	yes
+ssu_flank	1	1	Rhizophagus sp. (in: glomeromycetes)			Rhizophagus irregularis	94.9	98	no
+ssu_flank	1	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	86.2	100	yes
+ssu_flank	1	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	85.3	79	yes
+ssu_flank	2	2	[Rhizoglomus] vesiculiferum	9.2	64	[Rhizoglomus] vesiculiferum	85.3	79	yes
+ssu_flank	3	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	85.3	79	yes
+ssu_flank	1	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	84.2	79	yes
+ssu_flank	1	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	90.5	88	yes
+ssu_flank	1	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	78.8	99	yes
+ssu_flank	1	1	[Rhizoglomus] vesiculiferum			[Rhizoglomus] vesiculiferum	79.3	75	yes
+ssu_flank	1	1	Rhizophagus silesianus			Rhizophagus silesianus	47.1	65	yes
+ssu_flank	1	1	Rhizophagus silesianus			Rhizophagus silesianus	85.6	85	yes
+ssu_flank	1	1	Rhizophagus silesianus			Rhizophagus silesianus	97.9	100	yes
+ssu_flank	4	1	Rhizophagus intraradices			Rhizophagus intraradices	85.6	80	yes
+ssu_flank	3	2	Septoglomus viscosum	98.3	100	Septoglomus viscosum	90	51	yes
+full_its	27	13	Rhizophagus irregularis; [Rhizoglomus] vesiculiferum	100	100	Rhizophagus irregularis	85.8	54	yes
+full_its	2	1	Rhizophagus irregularis; Rhizophagus sp. (in: glomeromycetes)			Rhizophagus irregularis; [Rhizoglomus] vesiculiferum	95.5	93	no
+full_its	3	2	Rhizophagus silesianus	100	100	Rhizophagus irregularis; Rhizophagus sp. (in: glomeromycetes); [Rhizoglomus] vesiculiferum	79.9	76	no
+full_its	1	1	Rhizophagus irregularis			Rhizophagus irregularis; Rhizophagus sp. (in: glomeromycetes); [Rhizoglomus] vesiculiferum	72.8	97	no
+full_its	8	3	Rhizophagus intraradices; Rhizophagus prolifer	94.3	100	Rhizophagus intraradices; Rhizophagus prolifer	89.5	100	yes
+full_its	3	2	Septoglomus viscosum	3.6	72	Septoglomus viscosum	83.5	90	yes
+lsu_flank	8	4	Rhizophagus intraradices; Rhizophagus prolifer	99	100	Sclerocystis sinuosa	100	100	no
+lsu_flank	13	3	Rhizophagus irregularis	99.9	100	Rhizophagus irregularis	94.3	90	yes
+lsu_flank	2	1	Rhizophagus irregularis; Rhizophagus sp. (in: glomeromycetes)			Rhizophagus irregularis	86.8	100	yes
+lsu_flank	9	6	[Rhizoglomus] vesiculiferum	100	100	[Rhizoglomus] vesiculiferum	78.6	38	yes
+lsu_flank	3	2	Rhizophagus silesianus	100	100	[Rhizoglomus] vesiculiferum	87.6	52	no
+lsu_flank	5	4	[Rhizoglomus] vesiculiferum	89.2	74	[Rhizoglomus] vesiculiferum	90.8	66	yes
+lsu_flank	2	1	Septoglomus viscosum			Septoglomus viscosum	68.8	100	yes
+lsu_flank	1	1	Septoglomus viscosum			Septoglomus viscosum	73.5	100	yes
+linked	27	17	Rhizophagus irregularis; [Rhizoglomus] vesiculiferum	100	92	Rhizophagus irregularis	61.2	66	yes
+linked	2	2	Rhizophagus irregularis; Rhizophagus sp. (in: glomeromycetes)	100	100	Rhizophagus irregularis	100	100	yes
+linked	1	1	Rhizophagus irregularis			Rhizophagus irregularis	87.2	84	yes
+linked	3	3	Rhizophagus silesianus	100	100	Rhizophagus silesianus	98.8	100	yes
+linked	8	4	Rhizophagus intraradices; Rhizophagus prolifer	100	99	Rhizophagus intraradices; Rhizophagus prolifer	85.9	89	yes
+linked	3	2	Septoglomus viscosum	95.6	100	Septoglomus viscosum	88.4	99	yes

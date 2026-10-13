@@ -1,0 +1,57 @@
+{
+ "finished": "2026-10-12 17:11:02",
+ "seconds": 421.9,
+ "infernal": "# INFERNAL 1.1.5 (Sep 2023)",
+ "viennarna": "2.7.2",
+ "biopython": "1.88",
+ "models": {
+  "ssu_flank": {
+   "model": "RF01960",
+   "sha256": "2cd46b2a3fe3f463fff8e52b3e2bd798e34ebc52daf39cf3429c3f8ed25b6c51",
+   "command": "cmalign --cpu 2 --outformat Pfam --sfile /home/claude/work/run_function/function/cmalign/ssu_flank.scores -o /home/claude/work/run_function/function/cmalign/ssu_flank.pfam /home/claude/work/rfam/RF01960.cm /home/claude/work/run_function/function/cmalign/ssu_flank.fasta",
+   "unique_sequences": 337
+  },
+  "s58": {
+   "model": "RF00002",
+   "sha256": "bc55434ebc3ef8c3be77f8faec6e058310b35e67f1599e2c833ca2e6eea1a917",
+   "command": "cmalign --cpu 2 --outformat Pfam --sfile /home/claude/work/run_function/function/cmalign/s58.scores -o /home/claude/work/run_function/function/cmalign/s58.pfam /home/claude/ayobi/amf-novelty-benchmark/benchmarks/stefani/RF00002.cm /home/claude/work/run_function/function/cmalign/s58.fasta",
+   "unique_sequences": 146
+  },
+  "lsu_flank": {
+   "model": "RF02543",
+   "sha256": "63b122094f59d2297ee74e1ed17e70a1be24f14b465b2137d9b698cdabec9425",
+   "command": "cmalign --cpu 2 --outformat Pfam --sfile /home/claude/work/run_function/function/cmalign/lsu_flank.scores -o /home/claude/work/run_function/function/cmalign/lsu_flank.pfam /home/claude/work/rfam/RF02543.cm /home/claude/work/run_function/function/cmalign/lsu_flank.fasta",
+   "unique_sequences": 531
+  }
+ },
+ "thresholds_p99_baseline": {
+  "ssu_flank_subs_per100": 0.7466499999999999,
+  "ssu_flank_indels": 3.0,
+  "s58_subs_per100": 2.34125,
+  "s58_indels": 1.0,
+  "lsu_flank_subs_per100": 3.87235,
+  "lsu_flank_indels": 3.65,
+  "ssu_flank_broken_frac": 0.1114,
+  "s58_broken_frac": 0.16,
+  "lsu_flank_broken_frac": 0.124125
+ },
+ "verdicts": {
+  "short 5.8S": "structurally degraded",
+  "short 5.8S (shares degraded)": {
+   "ssu_flank": 0.07,
+   "s58": 0.047,
+   "lsu_flank": 0.279
+  },
+  "same length": "structurally intact",
+  "same length (shares degraded)": {
+   "ssu_flank": 0.0,
+   "s58": 0.0,
+   "lsu_flank": 0.0
+  }
+ },
+ "outputs": {
+  "function.deletions.tsv": "f527d7edae93adefe53f1d54310ea32b2110711295965da1fb64aacb2d14dd2f",
+  "function.summary.tsv": "c7f7fc64ac1e85d04f79463ea20602f5825bfdf22a026b9a7d48023e8edef39c",
+  "function.copies.tsv": "3793790291921be7a406c8ac7fd1da2cff49e9e5a7cf193e268e90caa293d547"
+ }
+}
