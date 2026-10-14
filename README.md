@@ -20,8 +20,8 @@ combined call names known species and flags unknown ones.
 | `benchmarks/stefani/` | Crosswalk and holdout outputs on the Stefani et al. (2025) copies |
 | `benchmarks/m4_external_holdout/` | External holdout (protocols v1 and v2), the frozen M2b code with its LSU placement, and the LongGloDB runner and report (`lgdb_test.py`, `lgdb_report.py`) with their per-fold outputs |
 | `benchmarks/longglodb/` | Independent-culture test: protocol, amendments, locked predictions and their hashes, score tables. No LongGloDB sequences (see below) |
-| `benchmarks/copy_checks/` | Copy checks added after review (locked protocol and addendum, with their hashes): per-marker trees (Supplementary Data S1), artefact and function checks, distance thresholds on short and long regions, and what the short-5.8S paralog does to clusters and trees. Scripts: `stage3/copy_*.py` |
-| `benchmarks/eukaryome_longread/` | Exploratory: distance thresholds on whole EUKARYOME v2.1 long reads of named Glomeromycota (`stage3/longread_thresholds.py`). Read IDs and distances only, no sequences |
+| `benchmarks/copy_checks/` | Copy checks added after review (locked protocol and addendum, with their hashes): per-marker trees (Supplementary Data S1), artefact and function checks, distance thresholds on short and long regions, what the short-5.8S paralog does to clusters and trees, and a sequence motif that flags it. Scripts: `stage3/copy_*.py`, `stage3/short58_motif.py` |
+| `benchmarks/eukaryome_longread/` | Exploratory, not used in the paper: distance thresholds on whole EUKARYOME v2.1 long reads of named Glomeromycota (`stage3/longread_thresholds.py`). Read IDs and distances only, no sequences |
 | `paper/` | LaTeX source; `paper/analysis/` regenerates every number and generated table from the run outputs |
 | `external_refs/` | Checksums of the third-party references used (not redistributed) |
 | `env/` | Conda environments (`amfsplit`, `amf-m4`) |

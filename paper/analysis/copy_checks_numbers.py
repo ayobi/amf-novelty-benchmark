@@ -408,35 +408,34 @@ artifact.
     add('ParLSUIntraProlSister', emph(ip['sister_main_taxa']))
     add('ParLSUIntraProlSisterSup', f"{float(ip['with_sister_sh_alrt']):g}/{float(ip['with_sister_ufboot']):g}")
 
-    # ------------------------------------------------------------------ EUKARYOME long reads (exploratory)
-    lr = os.path.join(a.checks, '..', 'eukaryome_longread')
-    LS = {(r['region'], r['threshold']): r for r in rd(os.path.join(lr, 'longread.summary.tsv'))}
-    sp_rows = rd(os.path.join(lr, 'longread.species.tsv'))
-    add('LrReads', sum(int(r['reads']) for r in sp_rows), 'EUKARYOME long reads of named Glomeromycota species')
-    add('LrSpecies', len(sp_rows))
-    for reg, tag in (('its', 'ITS'), ('kruger', 'Kr'), ('read', 'Read')):
-        for thr, t2 in (('97% identity', 'NS'), ('98.5% identity', 'NE'), ('best single cut-off', 'Best')):
-            r = LS[(reg, thr)]
-            add(f'Lr{tag}{t2}Id', f"{float(r['identity_pct']):.2f}\\%", f'{reg} at {thr}: identity, split, joined')
-            add(f'Lr{tag}{t2}Split', f"{float(r['split_from_species_pct']):.1f}\\%")
-            add(f'Lr{tag}{t2}Join', f"{float(r['joined_to_congener_pct']):.1f}\\%")
-        add(f'Lr{tag}Spread', f"{100 - float(LS[(reg, 'within-species spread')]['identity_pct']):.1f}\\%")
-    lp = [r for r in rd(os.path.join(lr, 'longread.pairs.tsv')) if r['region'] == 'read' and r['cutoff'] == 'best single cut-off']
-    add('LrReadBestPairs', len(lp), 'whole read, best cut-off: species pairs behind the joins, and their reads')
-    add('LrReadBestPairReads', sum(int(r['reads_joined']) for r in lp))
-    lp97 = [r for r in rd(os.path.join(lr, 'longread.pairs.tsv')) if r['region'] == 'read' and r['cutoff'] == '97% identity']
-    add('LrReadNSPairs', len(lp97))
-    # whole read, best cut-off: reads split from their species or joined to a congener, either way (of all reads)
-    near = collections.defaultdict(dict)
-    for r in rd(os.path.join(lr, 'longread.nearest.tsv')):
-        if r['region'] == 'read':
-            near[r['read']][r['class']] = float(r['nearest_pct'])
-    t = round(100 - float(LS[('read', 'best single cut-off')]['identity_pct']), 2)
-    either = sum(1 for d in near.values()
-                 if d.get('same species', -1) > t or ('same genus' in d and d['same genus'] <= t))
-    add('LrReadBestEither', f"{100 * either / len(near):.1f}\\%",
-        'whole read, best cut-off: reads split or joined, of all reads; and reads whose genus has another species')
-    add('LrCongenerN', LS[('read', 'best single cut-off')]['reads_with_congener'])
+    # ------------------------------------------------------------------ short-5.8S motif (exploratory)
+    mo = os.path.join(a.checks, 'short58_motif')
+    MS = {(r['genus'], r['class']): (int(r['copies']), int(r['with_motif'])) for r in rd(os.path.join(mo, 'motif.summary.tsv'))}
+    MC = rd(os.path.join(mo, 'motif.copies.tsv'))
+    n, k = MS[('Rhizophagus', 'short 5.8S')]
+    assert n == k, 'motif misses a Rhizophagus short copy'
+    add('MotifRhizShort', n, 'short-5.8S motif: Rhizophagus short copies (all carry it)')
+    other = [MS[x] for x in MS if x[0] == 'Rhizophagus' and x[1] != 'short 5.8S']
+    assert sum(k for _, k in other) == 0
+    add('MotifRhizOther', sum(n for n, _ in other), 'Rhizophagus copies that are not short (none carries it)')
+    n, k = MS[('Septoglomus', 'short 5.8S')]
+    add('MotifSeptoShort', n)
+    assert k == 0
+    n, k = MS[('Oehlia', 'main type')]
+    add('MotifOehlia', k, 'Oehlia diaphana copies carrying the motif as their main type')
+    assert n == k
+    carriers = sorted(r['accession'] for r in MC if r['motif_in_5.8S'] == '1' and r['genus'] not in ('Rhizophagus', 'Oehlia'))
+    assert carriers == ['PX214775.1'], carriers
+    assert all(r['motif_elsewhere_in_copy'] == '0' for r in MC)
+    add('MotifCopies', len(MC), 'retained copies searched')
+    PR = {(r['copies'], r['site']): r for r in rd(os.path.join(mo, 'primers.tsv'))}
+    st = PR[('short 5.8S', 'motif')]
+    add('MotifStart', f"{st['min_start']}--{st['max_start']}" if st['min_start'] != st['max_start'] else st['min_start'],
+        'motif start in the 5.8S of the short copies, and primer starts (fITS7, ITS3)')
+    f7 = PR[('short 5.8S', 'fITS7')]
+    add('MotifFITSSeven', f"{f7['min_start']}--{f7['max_start']}" if f7['min_start'] != f7['max_start'] else f7['min_start'])
+    i3 = PR[('short 5.8S', 'ITS3')]
+    add('MotifITSThree', f"{i3['min_start']}--{i3['max_start']}" if i3['min_start'] != i3['max_start'] else i3['min_start'])
 
     # Table S7: clusters per region and identity
     with open(os.path.join(a.paper, 'tables', 'table_clusters.tex'), 'w') as fh:

@@ -96,7 +96,9 @@ fixed in advance, and checked divergent copies on trees and for artifacts and rR
 3.~SHs mostly nest within LSU species, and these within VTs. VTs separated at most \VTResolvedZero{} of
 \NSpecies{} species, whereas single cultures spanned 2--\SHSplitMax{} SHs (\SHSplitCultures{} of \SHSplitDenom{}
 cultures). Copies with a shortened 5.8S gene resembled new lineages but share one deletion across isolates of several
-species: they are genomic paralogs, not artifacts. On trees, species formed clades; cultures rarely did. With a
+species: they are genomic paralogs, not artifacts. On trees, species formed clades; cultures rarely did. On the
+Kr\"uger fragment, 97\% identity split \LongKrNSSplit{} of copies from their culture, against \LongITSNESplit{} on
+the full ITS at 98.5\%. With a
 culture withheld, combined names kept the species, alone or in a group, for \KnownKeptITS{} of \KnownN{} copies.
 For withheld species also removed from the LSU reference, \MfourFKvOnePct{} of copies were still called known,
 \MfourFKvTwoPct{} after an ITS distance rule (\MfourControlPct{} and \MfourControlTwoPct{} with the reference
@@ -376,8 +378,8 @@ its nearest main-type copy in four classes: the same culture, another culture of
 species of the same genus, and another genus of the same order. We did this for the NS31--AM1 fragment, on
 which VTs are defined, the whole SSU flank, the full ITS and LROR--FLR2, and we also measured the distances
 between the medoid copies of every pair of cultures within an order. The same distances were measured on two
-longer regions, the Kr\"uger fragment and the whole copy, and on whole EUKARYOME long reads of named Glomeromycota,
-and we counted what the short type does to clusters and to the tree of each marker (Methods S8).
+longer regions, the Kr\"uger fragment and the whole copy. We counted what the short type does to clusters and to
+the tree of each marker, and tested a sequence motif that flags it (Methods S8).
 
 % ============================================================================
 \section{Results}
@@ -513,6 +515,16 @@ same-length copies. Each of the \ParITSNESpN{} named species with the short type
 \ParITSNESpMax{} such clusters, none of them shared with another species. On the Kr\"uger fragment at 97\%, the
 count falls to \ParKrNSAll{} (\ParKrNSMain{} from main-type copies), \ParKrNSShort{} of them short-only.
 
+\paragraph{A short motif marks them in \spn{Rhizophagus}.} The shortened hairpin has a sequence of its own: where
+the main type reads CACTCTCTGG(T/C)AACCCGGGGAGTATG, the short type reads CACTCTCTT(T/C)GGAGAGTATG. The 13-nt
+motif YTYGGRGARTATG, written from these copies, is in the 5.8S of all \MotifRhizShort{} short copies of
+\spn{Rhizophagus} and \spn{[Rhizoglomus]} and of none of their other \MotifRhizOther{} copies, and nowhere else in
+any copy. It misses the \MotifSeptoShort{} short copies of \spn{Septoglomus viscosum}, whose deletion lies
+elsewhere, and it is not unique to the paralog: it is the normal sequence of all \MotifOehlia{} copies of
+\spn{Oehlia diaphana}, and it is also in PX214775.1. It starts at position \MotifStart{} of the 5.8S, downstream of
+where the ITS2 primers fITS7 and ITS3 bind (from positions \MotifFITSSeven{} and \MotifITSThree{}), so ITS2
+amplicons made with either primer carry it (Methods S8).
+
 \begin{figure}[tbp]\centering
 \includegraphics[width=\linewidth]{figures/fig_rhizophagus_summary_tree.pdf}
 \caption{Short-5.8S copies group across species. The \spn{Rhizophagus} clade, including
@@ -569,17 +581,17 @@ they leave the best single cut-off (\LongKrBestId{}) splitting \LongKrBestSplit{
 joining \LongKrBestJoin{} to another species. The whole copy (median \LongFullMedian{}~nt) behaves the same way at a
 higher identity (best cut-off \LongFullBestId{}: \LongFullBestSplit{} split, \LongFullBestJoin{} joined).
 
-On EUKARYOME's long reads of named Glomeromycota (\LrReads{} reads of \LrSpecies{} species with at least two
-reads), the whole read, the c.\ 4.5-kb fragment (median \LrReadMedian{}~nt), does not rescue a single cut-off
-either. Its best cut-off (\LrReadBestId{}) leaves \LrReadBestSplit{} of reads with no other read of their species
-within it and \LrReadBestJoin{} with a read of another species of their genus, \LrReadBestEither{} of reads one way
-or the other; at 97\%, \LrReadNSJoin{} are joined.
-The Kr\"uger region of the same reads (best cut-off \LrKrBestId{}: \LrKrBestSplit{} split, \LrKrBestJoin{} joined)
-and the full ITS (\LrITSBestId{}: \LrITSBestSplit{} and \LrITSBestJoin{}) do no better, and no read is joined to
-another genus at 97--98.5\% on any region. The joins at the best cut-off of the whole read all come from
-\LrReadBestPairs{} pairs of species (\LrReadBestPairReads{} reads), led by \spn{Funneliformis caledonium} with
-\spn{Funneliformis geosporum} and \spn{Entrophospora glacialis} with \spn{Entrophospora infrequens}. These reads
-carry EUKARYOME's classification rather than culture names, so a label error counts as an overlap (Methods S8).
+\begin{figure}[tbp]\centering
+\includegraphics[width=\linewidth]{figures/fig_thresholds_long.pdf}
+\caption{Single identity cut-offs on longer regions. For each cut-off, the share of main-type copies more than the
+cut-off from every other copy of their culture (blue) and with a copy of another species of their genus within it
+(orange), on the full ITS, the Kr\"uger fragment (SSUmAf site to LSUmBr) and the whole copy (AML1 to LSUmBr).
+Dashed lines, the within-species spread; dots, the cut-off that minimizes the larger of the two shares, given above
+each panel. The four complexes count as separate species here; leaving their partners out, the share joined at the
+within-species spread falls to \LongITSSprJoinX{} (full ITS), \LongKrSprJoinX{} (Kr\"uger fragment) and
+\LongFullSprJoinX{} (whole copy; Methods S8).}
+\label{fig:thrlong}
+\end{figure}
 
 \subsection{Combining the three names}\label{sec:combined}
 Combining the names recovered what no single system reaches. With a culture withheld, the exact species of the
@@ -764,9 +776,12 @@ Being part of a genome does not make the short copies harmless. A species that c
 variants of the marker, so the short copies form ITS clusters of their own (\ParITSNEShort{} at 98.5\%,
 Table~\ref{tab:clusters}), and the ITS and LSU tell a different history from the SSU: on the LSU, the short copies
 of \spn{Rhizophagus intraradices} and \spn{Rhizophagus prolifer} sit next to \spn{Sclerocystis} rather than with
-their own species. Because the class has a fixed signature, the 5.8S deletion, it can be flagged before clustering
-or tree building. Species are then best counted from main-type copies, and the short type analyzed as a locus of
-its own rather than mixed into a species tree.
+their own species. Because the class has a fixed signature, it can be flagged before clustering or tree
+building: in \spn{Rhizophagus}, a 13-nt motif in the 5.8S marks every short copy and no other. Such a flag has to
+be read with the genus, because the same motif is the normal 5.8S of \spn{Oehlia diaphana}, and it needs the
+5.8S, which an ITS2 trimmed by ITSx no longer has. The motif was written from the copies it was tested on, so its
+error rate on other data is still unknown. Species are then best counted from main-type copies, and the short type
+analyzed as a locus of its own rather than mixed into a species tree.
 
 Whether the short copies work is a separate question. Their SSU keeps its base pairing, and their LSU, although
 rich in substitutions, mostly keeps it too. The deletion shortens one hairpin of the 5.8S, so under the rule we
@@ -789,9 +804,7 @@ does one threshold separate species, in line with the absence of a barcode gap t
 each region \cite{stefani2025rdna}, so moving a threshold only trades lumping against splitting. Taken together,
 the regions do better: on the Kr\"uger fragment, 97\% splits few genomes and, outside the complexes, joins almost
 no species, and the whole copy does the same at a higher identity. What no cut-off removes are the complexes and
-the short paralog. On EUKARYOME's long reads, even the whole c.\ 4.5-kb read leaves about one read in five split
-from its species or joined to another at its best cut-off, and the joins come from a few pairs of species, as the errors in the cultures come
-from the complexes. Combined names,
+the short paralog. Combined names,
 with complexes reported as groups, avoid that trade-off where the markers allow it. The SSU, by contrast, behaves
 predictably: between cultures its distance was a median of \ThrPairsRatio{} times the ITS distance, and no pair of
 cultures met the artifact test, so the test is conservative: an SSU that differs by at least half as much as the
@@ -1049,6 +1062,11 @@ wood-wide web? \emph{Nature} 394(6692), 431. doi:10.1038/28764
 Hoang, D.T., Chernomor, O., von Haeseler, A., Minh, B.Q., Vinh, L.S. (2018). UFBoot2: improving the ultrafast
 bootstrap approximation. \emph{Molecular Biology and Evolution} 35(2), 518--522. doi:10.1093/molbev/msx281
 
+\bibitem{ihrmark2012new}
+Ihrmark, K., B\"odeker, I.T.M., Cruz-Martinez, K., et al.\ (2012). New primers to amplify the fungal ITS2 region
+-- evaluation by 454-sequencing of artificial and natural communities. \emph{FEMS Microbiology Ecology} 82(3),
+666--677. doi:10.1111/j.1574-6941.2012.01437.x
+
 \bibitem{kalyaanamoorthy2017modelfinder}
 Kalyaanamoorthy, S., Minh, B.Q., Wong, T.K.F., von Haeseler, A., Jermiin, L.S. (2017). ModelFinder: fast model
 selection for accurate phylogenetic estimates. \emph{Nature Methods} 14(6), 587--589. doi:10.1038/nmeth.4285
@@ -1181,11 +1199,6 @@ Tedersoo, L., Magurno, F., Alkahtani, S., Mikryukov, V. (2024). Phylogenetic cla
 mycorrhizal fungi: new species and higher-ranking taxa in Glomeromycota and Mucoromycota (class
 Endogonomycetes). \emph{MycoKeys} 107, 249--271. doi:10.3897/mycokeys.107.125549
 
-\bibitem{tedersoo2024eukaryome}
-Tedersoo, L., Hosseyni Moghaddam, M.\,S., Mikryukov, V., Hakimzadeh, A., Bahram, M., Nilsson, R.\,H., Yatsiuk, I.,
-Geisen, S., Schwelm, A., Piwosz, K., et al.\ (2024). EUKARYOME: the rRNA gene reference database for
-identification of all eukaryotes. \emph{Database} 2024, baae043. doi:10.1093/database/baae043
-
 \bibitem{trouvelot1999visualization}
 Trouvelot, S., van Tuinen, D., Hijri, M., Gianinazzi-Pearson, V. (1999). Visualization of
 ribosomal DNA loci in spore interphasic nuclei of glomalean fungi by fluorescence in situ
@@ -1205,6 +1218,11 @@ asexual Glomeromycota. \emph{Evolution} 67(1), 207--224. doi:10.1111/j.1558-5646
 V\v{e}trovsk\'y, T., Kola\v{r}\'ikov\'a, Z., Lepinay, C., et al. (2023). GlobalAMFungi: a global database of
 arbuscular mycorrhizal fungal occurrences from high-throughput sequencing metabarcoding
 studies. \emph{New Phytologist} 240(5), 2151--2163. doi:10.1111/nph.19283
+
+\bibitem{white1990amplification}
+White, T.J., Bruns, T., Lee, S., Taylor, J. (1990). Amplification and direct sequencing of fungal ribosomal RNA
+genes for phylogenetics. In: Innis, M.A., Gelfand, D.H., Sninsky, J.J., White, T.J. (eds), \emph{PCR Protocols: A
+Guide to Methods and Applications}, pp.\ 315--322. Academic Press, San Diego.
 
 \bibitem{sosic2017edlib}
 \v{S}o\v{s}i\'c, M., \v{S}iki\'c, M. (2017). Edlib: a C/C++ library for fast, exact
@@ -1401,17 +1419,13 @@ Glomerales tree of each marker, rooted on a \spn{Funneliformis} tip, we recorded
 copies, their support, the taxa they join and the main-type taxa of their sister group. Script:
 \path{stage3/copy_paralog_effects.py}.
 
-\emph{Long reads.} From the EUKARYOME v2.1 long-read set \cite{tedersoo2024eukaryome} we took the Glomeromycota
-reads whose species field gives a named species (a named genus and a lower-case epithet, without placeholder
-marks), with at least two reads per species (\LrReads{} reads of \LrSpecies{} species). Each read was rebuilt in
-rRNA orientation from its SSU, ITS and LSU windows, cut by ITSxRust or, where it found no full ITS, by barrnap. The
-regions were the full ITS, the Kr\"uger region from the SSUmAf1 site to the LSUmBr site (\LrKrN{} reads carry
-both sites) and the whole read (median \LrReadMedian{}~nt, \LrReadMin{}--\LrReadMax{}). A read is split from its
-species if no other read of its species lies within the cut-off, and joined to another species if a read of
-another named species of its genus does; shares joined are of the \LrCongenerN{} reads whose genus has another
-species among the reads. EUKARYOME spells one species two ways, and \spn{Rhizoglomus irregularis}
-was merged into \spn{Rhizoglomus irregulare}. Script: \path{stage3/longread_thresholds.py}; results in
-\path{benchmarks/eukaryome_longread}. These analyses are exploratory and fix no rule.
+\emph{A motif for the short type.} The motif YTYGGRGARTATG covers the short-type hairpin of every short copy of
+\spn{Rhizophagus} and \spn{[Rhizoglomus]}. It was written from these copies and tested on the same copies, so it
+shows that such a flag is possible, not its error rate. We searched it in the 5.8S and in the whole copy of all
+\MotifCopies{} retained copies, and located the ITS2 primers fITS7 \cite{ihrmark2012new} and ITS3
+\cite{white1990amplification} in the 5.8S, allowing up to two mismatches (ITS3 matched every \spn{Rhizophagus}
+copy with one or two). Script: \path{stage3/short58_motif.py}; results in
+\path{benchmarks/copy_checks/short58_motif}. These analyses are exploratory and fix no rule.
 
 \clearpage
 \input{tables/table_stage1.tex}
@@ -1453,17 +1467,6 @@ only of short-5.8S copies.}
 \label{fig:fulltree}
 \end{figure}
 
-\begin{figure}[p]\centering
-\includegraphics[width=\linewidth]{figures/fig_thresholds_long.pdf}
-\caption{Single identity cut-offs on longer regions. For each cut-off, the share of main-type copies more than the
-cut-off from every other copy of their culture (blue) and with a copy of another species of their genus within it
-(orange), on the full ITS, the Kr\"uger fragment (SSUmAf site to LSUmBr) and the whole copy (AML1 to LSUmBr).
-Dashed lines, the within-species spread; dots, the cut-off that minimizes the larger of the two shares, given above
-each panel. The four complexes count as separate species here; leaving their partners out, the share joined at the
-within-species spread falls to \LongITSSprJoinX{} (full ITS), \LongKrSprJoinX{} (Kr\"uger fragment) and
-\LongFullSprJoinX{} (whole copy; Methods S8).}
-\label{fig:thrlong}
-\end{figure}
 
 \subsection*{Supplementary Data S1}
 Alignments and maximum-likelihood trees of the culture copies, for each order and for the SSU flank, full ITS,
