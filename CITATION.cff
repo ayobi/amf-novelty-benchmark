@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the archived release."
+title: "Detecting unknown arbuscular mycorrhizal fungi from linked long-read rDNA copies: code and data"
+type: software
+authors:
+  - family-names: "O'Brien"
+    given-names: "Aaron"
+license: "MIT"
+repository-code: "https://github.com/ayobi/amf-novelty-benchmark"
+doi: "10.5281/zenodo.23374725"
+version: "0.2.0"
+date-released: "2026-10-14"
+abstract: >-
+  Code, curated culture reference and benchmark outputs for naming long-read AMF rDNA copies by MaarjAM
+  virtual taxon, UNITE species hypothesis and LSU species clade, and for detecting species absent from the
+  references. Tables and other outputs are CC BY 4.0 (DATA_LICENSE.md).
+keywords:
+  - arbuscular mycorrhizal fungi
+  - rDNA
+  - long reads
+  - metabarcoding
+  - novelty detection

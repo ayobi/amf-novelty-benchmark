@@ -1,8 +1,8 @@
 # Detecting unknown arbuscular mycorrhizal fungi from linked long-read rDNA copies
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23219691.svg)](https://doi.org/10.5281/zenodo.23219691)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23374725.svg)](https://doi.org/10.5281/zenodo.23374725)
 
-Code, curated reference and benchmark outputs for the paper of the same title (O'Brien, in preparation).
+Code, curated reference and benchmark outputs for the paper of the same title (in preparation).
 
 Each long-read rDNA copy from an identified AMF culture spans SSU, ITS and LSU. Cut into the barcode
 windows of MaarjAM (SSU virtual taxa), UNITE (ITS species hypotheses) and the Delavaux LSU database,
@@ -66,5 +66,6 @@ Third-party data keep their own terms.
 
 ## Citation
 
-O'Brien, A. Detecting unknown arbuscular mycorrhizal fungi from linked long-read rDNA copies.
-In preparation. Code and data: v0.1.0, doi:10.5281/zenodo.23219691.
+Detecting unknown arbuscular mycorrhizal fungi from linked long-read rDNA copies. In preparation.
+Code and data: v0.2.0, doi:10.5281/zenodo.23374725 (v0.1.0: doi:10.5281/zenodo.23219691). `CITATION.cff` holds
+the same in machine-readable form.
