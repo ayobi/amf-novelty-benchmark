@@ -1,0 +1,4 @@
+date	2026-10-14T13:20:23
+script	short58_motif_db.py	41eb3aab7033d4c132661211fe57dd434b079e6717957df6a94c494d3e79d6d2
+input	/Users/aarono/Downloads/UNITE_public_19.02.2025.fasta.gz	abe98f43e16c179f2c129f137989cad48e6855ce4be9ae0f365defd1f856369b
+sequences	2069189
