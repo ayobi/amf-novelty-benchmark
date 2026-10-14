@@ -437,6 +437,31 @@ artifact.
     i3 = PR[('short 5.8S', 'ITS3')]
     add('MotifITSThree', f"{i3['min_start']}--{i3['max_start']}" if i3['min_start'] != i3['max_start'] else i3['min_start'])
 
+    # ------------------------------------------------------------------ the motif in UNITE (exploratory)
+    un = os.path.join(mo, 'unite')
+    man = dict(line.rstrip('\n').split('\t')[:2] for line in open(os.path.join(un, 'manifest.txt')))
+    add('UniteSeqs', f"{int(man['sequences']):,}".replace(',', '{,}'), 'UNITE public release searched for the motif')
+    sp_u = [r for r in rd(os.path.join(un, 'species.tsv')) if r['species'] != 'Rhizophagus_diaphanus']
+    cov = sum(int(r['covering_site']) for r in sp_u)
+    sho = sum(int(r['short_type']) for r in sp_u)
+    add('UniteRhizCover', f"{cov:,}".replace(',', '{,}'), 'Rhizophagus/Rhizoglomus sequences spanning the site (no R. diaphanus)')
+    add('UniteRhizShort', sho)
+    add('UniteRhizShortPct', f"{100 * sho / cov:.0f}\\%")
+    def labs(r):
+        return {m.group(1) for m in re.finditer(r'(\S+) \(\d+\)', r['species_labels'])}
+    shs = [r for r in rd(os.path.join(un, 'sh.tsv')) if int(r['covering_site']) > 0 and labs(r) != {'Rhizophagus_diaphanus'}]
+    allshort = [r for r in shs if r['short_type'] == r['covering_site']]
+    none = [r for r in shs if r['short_type'] == '0']
+    add('UniteSHs', len(shs), 'SHs holding these sequences: only short type, only main type, both')
+    add('UniteSHShort', len(allshort))
+    add('UniteSHShortMulti', sum(1 for r in allshort if int(r['covering_site']) >= 2))
+    add('UniteSHMain', len(none))
+    add('UniteSHMixed', len(shs) - len(allshort) - len(none))
+    hits = [r for r in rd(os.path.join(un, 'hits.tsv')) if r['in_5.8S'] == '1' and r['genus'] not in ('Rhizophagus', 'Rhizoglomus')]
+    rz_sh = {r['sh'] for r in rd(os.path.join(un, 'sh.tsv'))}
+    add('UniteOther', len(hits), 'motif in the 5.8S outside Rhizophagus/Rhizoglomus, and in SHs without them')
+    add('UniteOtherNoRhizSH', sum(1 for r in hits if r['sh'] not in rz_sh))
+
     # Table S7: clusters per region and identity
     with open(os.path.join(a.paper, 'tables', 'table_clusters.tex'), 'w') as fh:
         fh.write('% written by analysis/copy_checks_numbers.py from benchmarks/copy_checks/paralog_effects\n')

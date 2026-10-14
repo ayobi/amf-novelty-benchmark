@@ -523,7 +523,15 @@ any copy. It misses the \MotifSeptoShort{} short copies of \spn{Septoglomus visc
 elsewhere, and it is not unique to the paralog: it is the normal sequence of all \MotifOehlia{} copies of
 \spn{Oehlia diaphana}, and it is also in PX214775.1. It starts at position \MotifStart{} of the 5.8S, downstream of
 where the ITS2 primers fITS7 and ITS3 bind (from positions \MotifFITSSeven{} and \MotifITSThree{}), so ITS2
-amplicons made with either primer carry it (Methods S8).
+amplicons made with either primer carry it (Methods S8). In UNITE, which holds none of the culture copies, the
+motif splits the SHs of \spn{Rhizophagus}. Of the \UniteRhizCover{} sequences labelled \spn{Rhizophagus} or
+\spn{[Rhizoglomus]} that span the site (leaving out \spn{Rhizophagus diaphanus}, the former name of
+\spn{Oehlia diaphana}), \UniteRhizShort{} (\UniteRhizShortPct{}) carry it, and of the \UniteSHs{} SHs they fall
+in, \UniteSHShort{} hold only such sequences (\UniteSHShortMulti{} of them with two or more sequences), \UniteSHMain{} none and
+\UniteSHMixed{} both. Outside these genera, the motif is in the 5.8S of \UniteOther{} sequences,
+\UniteOtherNoRhizSH{} of them in SHs with no sequence labelled \spn{Rhizophagus} or \spn{[Rhizoglomus]}, mostly
+unplaced Glomeraceae and
+\spn{Glomus} sp.
 
 \begin{figure}[tbp]\centering
 \includegraphics[width=\linewidth]{figures/fig_rhizophagus_summary_tree.pdf}
@@ -777,11 +785,13 @@ variants of the marker, so the short copies form ITS clusters of their own (\Par
 Table~\ref{tab:clusters}), and the ITS and LSU tell a different history from the SSU: on the LSU, the short copies
 of \spn{Rhizophagus intraradices} and \spn{Rhizophagus prolifer} sit next to \spn{Sclerocystis} rather than with
 their own species. Because the class has a fixed signature, it can be flagged before clustering or tree
-building: in \spn{Rhizophagus}, a 13-nt motif in the 5.8S marks every short copy and no other. Such a flag has to
-be read with the genus, because the same motif is the normal 5.8S of \spn{Oehlia diaphana}, and it needs the
-5.8S, which an ITS2 trimmed by ITSx no longer has. The motif was written from the copies it was tested on, so its
-error rate on other data is still unknown. Species are then best counted from main-type copies, and the short type
-analyzed as a locus of its own rather than mixed into a species tree.
+building: in \spn{Rhizophagus}, a 13-nt motif in the 5.8S marks every short copy and no other. In UNITE the same
+motif sorts \spn{Rhizophagus} SHs almost perfectly, and about one in five is made only of the short type, so the
+paralog inflates SH counts in the public database as it does in the cultures. Such a flag has to be read with the
+genus, because the motif is also the normal 5.8S of \spn{Oehlia diaphana} and is carried by hundreds of unplaced
+Glomeraceae sequences, which only placement can sort out; and it needs the 5.8S, which an ITS2 trimmed by ITSx no
+longer has. Species are then best counted from main-type copies, and the short type analyzed as a locus of its
+own rather than mixed into a species tree.
 
 Whether the short copies work is a separate question. Their SSU keeps its base pairing, and their LSU, although
 rich in substitutions, mostly keeps it too. The deletion shortens one hairpin of the 5.8S, so under the rule we
@@ -945,7 +955,8 @@ LSU placement, and the LSU-removal test with its two protocol versions) are at
 and score tables). LongGloDB sequences are not redistributed; LongGloDB v1 is available from GloDB \cite{glodb}.
 The copy checks (protocol and addendum with their checksums, scripts, alignments, trees, tables and figures) are
 in \path{benchmarks/copy_checks} of the same repository, and Supplementary Data S1 holds their alignments and
-trees.\todo{archive a release that includes benchmarks/copy\_checks and cite its DOI} External references: MaarjAM
+trees; the repository with them is archived at doi:10.5281/zenodo.23374303 \cite{obrien2026zenodocc}. External
+references: MaarjAM
 gDAT snapshot (sha256 \texttt{2b2c57e664e76347\ldots}), UNITE 10.0 of 19 February 2025 \cite{unite2025release}
 (UNITE+INSD sha256 \texttt{abe98f43e16c179f\ldots}), Delavaux V18 AMF-only (sha256 \texttt{e6794cbbe166735a\ldots}),
 and the Rfam models RF01960 and RF02543 (downloaded on 12 October 2026; sha256 \texttt{2cd46b2a3fe3f463\ldots} and
@@ -1149,6 +1160,10 @@ Ecology and Evolution} 17, 2843--2853. doi:10.1111/2041-210X.70393
 \bibitem{obrien2026zenodo}
 O'Brien, A. (2026). amf-novelty-benchmark: code and data for detecting unknown arbuscular
 mycorrhizal fungi from linked long-read rDNA copies (v0.1.0). Zenodo. doi:10.5281/zenodo.23219691
+
+\bibitem{obrien2026zenodocc}
+O'Brien, A. (2026). amf-novelty-benchmark: code and data for detecting unknown arbuscular
+mycorrhizal fungi from linked long-read rDNA copies, with the copy checks. Zenodo. doi:10.5281/zenodo.23374303
 
 \bibitem{obrien2026flag}
 O'Brien, A., Mar\'in, C., Parada, P. (2026). A calibrated novelty flag for fungal ITS
@@ -1425,7 +1440,12 @@ shows that such a flag is possible, not its error rate. We searched it in the 5.
 \MotifCopies{} retained copies, and located the ITS2 primers fITS7 \cite{ihrmark2012new} and ITS3
 \cite{white1990amplification} in the 5.8S, allowing up to two mismatches (ITS3 matched every \spn{Rhizophagus}
 copy with one or two). Script: \path{stage3/short58_motif.py}; results in
-\path{benchmarks/copy_checks/short58_motif}. These analyses are exploratory and fix no rule.
+\path{benchmarks/copy_checks/short58_motif}. As an independent test we searched the motif in all \UniteSeqs{}
+sequences of the UNITE+INSD set of 19 February 2025 \cite{unite2025release}, which holds none of the culture
+copies. A hit counted as in the 5.8S when fITS7 (up to two mismatches) started 30--45~nt before it, as in the
+culture copies (37~nt), and a sequence spanned the site when fITS7 was found with at least 60~nt after its start.
+SHs are the SH codes of the UNITE records. Script: \path{stage3/short58_motif_db.py}; results in
+\path{benchmarks/copy_checks/short58_motif/unite}. These analyses are exploratory and fix no rule.
 
 \clearpage
 \input{tables/table_stage1.tex}
