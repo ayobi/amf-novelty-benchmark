@@ -1,0 +1,153 @@
+organism	code	role	asvs	asvs_inside_any	inside_species	own_inside
+Acaulospora alpina	EUK	novel species, genus in v4	1	0		
+Acaulospora brasiliensis	EUK	novel species, genus in v4	2	0		
+Acaulospora cavernata	EUK	novel species, genus in v4	2	0		
+Acaulospora foveata	EUK	novel species, genus in v4	1	0		
+Acaulospora fragilissima	EUK	novel species, genus in v4	1	0		
+Acaulospora lacunosa	EUK	novel species, genus in v4	1	0		
+Acaulospora longula	EUK	novel species, genus in v4	5	0		
+Acaulospora mellea	EUK	novel species, genus in v4	1	0		
+Acaulospora paulinae	EUK	novel species, genus in v4	1	0		
+Acaulospora sp.	EUK	genus only	110	1	Acaulospora morrowiae (1)	
+Ambispora fennica	EUK	novel species, genus in v4	7	0		
+Ambispora gerdemannii	EUK	novel species, genus in v4	1	0		
+Ambispora leptoticha	EUK	known species	9	6	Ambispora leptoticha (6)	6
+Ambispora sp.	EUK	genus only	21	1	Ambispora leptoticha (1)	
+Ambisporaceae.gen01 sp.	EUK	novel lineage, genus not in v4	1	0		
+Ambisporaceae.gen02 sp.	EUK	novel lineage, genus not in v4	2	0		
+Antiquispora sp.	EUK	novel lineage, genus not in v4	17	0		
+Appendiculaspora sp.	EUK	genus only	15	4	Ambispora leptoticha (4)	
+Archaeospora europaea	EUK	novel lineage, genus not in v4	1	0		
+Archaeospora schenckii	EUK	novel lineage, genus not in v4	1	0		
+Archaeospora sp.	EUK	novel lineage, genus not in v4	37	0		
+Archaeospora spainiae	EUK	novel lineage, genus not in v4	3	0		
+Archaeosporomycetes.ord01 sp.	EUK	novel lineage, genus not in v4	8	0		
+Archaeosporomycetes.ord01.fam01 sp.	EUK	novel lineage, genus not in v4	1	0		
+Cetraspora sp.	EUK	genus only	10	3	Cetraspora gilmorei (3)	
+Complexispora sp.	EUK	novel lineage, genus not in v4	5	0		
+Dentiscutata erythropus	EUK	novel species, genus in v4	1	0		
+Desertispora sp.	EUK	novel lineage, genus not in v4	9	0		
+Diversispora bareai	EUK	novel species, genus in v4	1	1	Diversispora arenaria (1); Diversispora jakucsiae (1)	
+Diversispora celata	EUK	known species	2	2	Diversispora celata (2)	2
+Diversispora eburnea	EUK	known species	1	1	Diversispora eburnea (1)	1
+Diversispora epigaea	EUK	known species	3	3	Diversispora epigaea (3)	3
+Diversispora marina	EUK	novel species, genus in v4	1	0		
+Diversispora slowinskiensis	EUK	novel species, genus in v4	1	0		
+Diversispora sp.	EUK	genus only	138	28	Diversispora varaderana (16); Diversispora aestuarii (15); Diversispora celata (9); Diversispora epigaea (2); Diversispora arenaria (1); Diversispora jakucsiae (1)	
+Diversispora spurca	EUK	known species	1	1	Diversispora spurca (1)	1
+Diversispora varaderana	EUK	known species	4	4	Diversispora aestuarii (4); Diversispora varaderana (4)	4
+Diversisporaceae.gen01 sp.	EUK	novel lineage, genus not in v4	4	0		
+Diversisporaceae.gen02 sp.	EUK	novel lineage, genus not in v4	2	0		
+Dominikia achra	EUK	novel species, genus in v4	2	0		
+Dominikia bernensis	EUK	novel species, genus in v4	2	0		
+Dominikia bonfanteae	EUK	known species	31	22	Dominikia bonfanteae (22)	22
+Dominikia difficilevidera	EUK	novel species, genus in v4	2	0		
+Dominikia glomerocarpica	EUK	novel species, genus in v4	5	0		
+Dominikia indica	EUK	novel species, genus in v4	2	0		
+Dominikia minuta	EUK	novel species, genus in v4	2	0		
+Dominikia sp.	EUK	genus only	659	68	Dominikia bonfanteae (50); Dominikia duoreactiva (18)	
+Durabilispora sp.	EUK	novel lineage, genus not in v4	13	0		
+Entrophospora drummondii	EUK	novel lineage, genus not in v4	2	0		
+Entrophospora etunicata	EUK	novel lineage, genus not in v4	2	0		
+Entrophospora furrazolae	EUK	novel lineage, genus not in v4	13	0		
+Entrophospora glacialis	EUK	novel lineage, genus not in v4	10	0		
+Entrophospora infrequens	EUK	novel lineage, genus not in v4	20	0		
+Entrophospora lamellosa	EUK	novel lineage, genus not in v4	1	0		
+Entrophospora lutea	EUK	novel lineage, genus not in v4	2	0		
+Entrophospora sp.	EUK	novel lineage, genus not in v4	206	0		
+Entrophospora walkeri	EUK	novel lineage, genus not in v4	4	0		
+Epigeocarpum crypticum	EUK	novel lineage, genus not in v4	1	0		
+Epigeocarpum sp.	EUK	novel lineage, genus not in v4	8	0		
+Funneliformis caledonium	EUK	known species	16	14	Funneliformis caledonium (12); Funneliformis geosporum (2)	12
+Funneliformis geosporum	EUK	known species	11	10	Funneliformis geosporum (10)	10
+Funneliformis mosseae	EUK	known species	44	43	Funneliformis mosseae (43)	43
+Funneliformis sp.	EUK	genus only	47	43	Funneliformis mosseae (28); Funneliformis geosporum (8); Funneliformis caledonium (7)	
+Fuscutata sp.	EUK	genus only	23	1	Dentiscutata heterogama (1)	
+GS82B sp.	EUK	novel lineage, genus not in v4	1	0		
+Geosiphon pyriformis	EUK	novel lineage, genus not in v4	1	0		
+Gigaspora margarita	EUK	novel species, genus in v4	2	0		
+Gigaspora polymorphira	EUK	novel species, genus in v4	1	0		
+Gigaspora rosea	EUK	known species	1	1	Gigaspora rosea (1)	1
+Gigaspora sp.	EUK	genus only	19	5	Gigaspora rosea (5)	
+Gigasporales.fam02 sp.	EUK	novel lineage, genus not in v4	2	0		
+Glomeraceae.gen03 sp.	EUK	novel lineage, genus not in v4	4	0		
+Glomeraceae.gen05 sp.	EUK	novel lineage, genus not in v4	23	0		
+Glomeraceae.gen06 sp.	EUK	novel lineage, genus not in v4	11	0		
+Glomeraceae.gen08 sp.	EUK	novel lineage, genus not in v4	1	0		
+Glomeraceae.gen11 sp.	EUK	novel lineage, genus not in v4	52	0		
+Glomeraceae.gen13 sp.	EUK	novel lineage, genus not in v4	3	0		
+Glomeraceae.gen14 sp.	EUK	novel lineage, genus not in v4	72	0		
+Glomeraceae.gen15 sp.	EUK	novel lineage, genus not in v4	17	0		
+Glomeraceae.gen16 sp.	EUK	novel lineage, genus not in v4	5	0		
+Glomeraceae.gen17 sp.	EUK	novel lineage, genus not in v4	35	0		
+Glomeraceae.gen18 sp.	EUK	novel lineage, genus not in v4	1	0		
+Glomeraceae.gen21 sp.	EUK	novel lineage, genus not in v4	2	0		
+Glomeraceae.gen22 sp.	EUK	novel lineage, genus not in v4	11	0		
+Glomeraceae.gen23 sp.	EUK	novel lineage, genus not in v4	6	0		
+Glomeraceae.gen24 sp.	EUK	novel lineage, genus not in v4	2	0		
+Glomeraceae.gen25 sp.	EUK	novel lineage, genus not in v4	129	0		
+Glomeraceae.gen26 sp.	EUK	novel lineage, genus not in v4	3	0		
+Glomeraceae.gen27 sp.	EUK	novel lineage, genus not in v4	35	0		
+Glomeraceae.gen28 sp.	EUK	novel lineage, genus not in v4	33	0		
+Glomeraceae.gen29 sp.	EUK	novel lineage, genus not in v4	7	0		
+Glomeraceae.gen30 sp.	EUK	novel lineage, genus not in v4	35	0		
+Glomeraceae.gen34 sp.	EUK	novel lineage, genus not in v4	2	0		
+Glomeraceae.gen36 sp.	EUK	novel lineage, genus not in v4	3	0		
+Glomus macrocarpum	EUK	known species	7	7	Glomus macrocarpum (7); Glomus rugosae (5)	7
+Glomus sp.	EUK	genus only	79	68	Glomus rugosae (40); Glomus macrocarpum (31); Glomus tetrastratosum (24); Glomus chinense (12)	
+Glomus tetrastratosum	EUK	known species	10	10	Glomus tetrastratosum (10)	10
+Halonatospora pansihalos	EUK	novel lineage, genus not in v4	1	0		
+Halonatospora sp.	EUK	novel lineage, genus not in v4	1	0		
+Innospora majewskii	EUK	novel lineage, genus not in v4	1	0		
+Innospora sp.	EUK	novel lineage, genus not in v4	4	0		
+Intraornatosporaceae.gen01 sp.	EUK	novel lineage, genus not in v4	2	0		
+Kamienskia bistrata	EUK	novel lineage, genus not in v4	1	0		
+Kamienskia sp.	EUK	novel lineage, genus not in v4	10	0		
+Macrodominikia compressa	EUK	novel lineage, genus not in v4	12	0		
+Macrodominikia sp.	EUK	novel lineage, genus not in v4	12	0		
+Microdominikia sp.	EUK	genus only	721	92	Microdominikia litorea (92)	
+Microkamienskia sp.	EUK	novel lineage, genus not in v4	34	0		
+Nanoglomus plukenetiae	EUK	novel lineage, genus not in v4	1	0		
+Nanoglomus sp.	EUK	novel lineage, genus not in v4	992	0		
+Oehlia sp.	EUK	genus only	7	0		
+Orientoglomus sp.	EUK	novel lineage, genus not in v4	116	0		
+Pacispora sp.	EUK	novel lineage, genus not in v4	3	0		
+Palaeospora sp.	EUK	novel lineage, genus not in v4	2	0		
+Paraglomeraceae.gen01 sp.	EUK	novel lineage, genus not in v4	4	0		
+Paraglomeraceae.gen02 sp.	EUK	novel lineage, genus not in v4	4	0		
+Paraglomus brasilianum	EUK	known species	1	1	Paraglomus brasilianum (1)	1
+Paraglomus laccatum	EUK	known species	25	15	Paraglomus laccatum (15)	15
+Paraglomus occultum	EUK	novel species, genus in v4	1	0		
+Paraglomus sp.	EUK	genus only	76	26	Paraglomus laccatum (25); Paraglomus brasilianum (1)	
+Parvocarpum sp.	EUK	novel lineage, genus not in v4	10	0		
+Pervetustaceae.gen01 sp.	EUK	novel lineage, genus not in v4	1	0		
+Pervetustaceae.gen03 sp.	EUK	novel lineage, genus not in v4	6	0		
+Pervetustus sp.	EUK	novel lineage, genus not in v4	17	0		
+Polonospora sp.	EUK	novel lineage, genus not in v4	292	0		
+Pseudoentrophospora sp.	EUK	novel lineage, genus not in v4	5	0		
+Racocetra crispa	EUK	novel lineage, genus not in v4	4	0		
+Racocetra fulgida	EUK	novel lineage, genus not in v4	1	0		
+Racocetra sp.	EUK	novel lineage, genus not in v4	6	0		
+Redeckera sp.	EUK	novel lineage, genus not in v4	8	0		
+Rhizoglomus sp.	EUK	genus only	349	92	Rhizophagus silesianus (36); [Rhizoglomus] vesiculiferum (32); Rhizophagus irregularis (19); Rhizophagus prolifer (7)	
+Rhizophagus arabicus	EUK	novel species, genus in v4	1	0		
+Rhizophagus clarus	EUK	novel species, genus in v4	1	0		
+Rhizophagus custos	EUK	novel species, genus in v4	2	0		
+Rhizophagus dalpeae	EUK	novel species, genus in v4	1	0		
+Rhizophagus intraradices	EUK	known species	7	1	Rhizophagus intraradices (1)	1
+Rhizophagus invermaius	EUK	novel species, genus in v4	6	0		
+Rhizophagus irregularis	EUK	known species	22	16	Rhizophagus irregularis (16); [Rhizoglomus] vesiculiferum (4)	16
+Rhizophagus maiae	EUK	novel species, genus in v4	1	0		
+Rhizophagus silesianus	EUK	known species	1	0		0
+Sclerocarpum sp.	EUK	novel lineage, genus not in v4	37	0		
+Sclerocystis sp.	EUK	genus only	133	48	Sclerocystis sinuosa (48)	
+Scutellospora sp.	EUK	novel lineage, genus not in v4	36	0		
+Septoglomus constrictum	EUK	novel species, genus in v4	13	0		
+Septoglomus furcatum	EUK	novel species, genus in v4	1	0		
+Septoglomus nigrum	EUK	novel species, genus in v4	5	0		
+Septoglomus sp.	EUK	genus only	71	5	Septoglomus turnauae (5)	
+Septoglomus turnauae	EUK	known species	2	2	Septoglomus turnauae (2)	2
+Septoglomus viscosum	EUK	known species	1	1	Septoglomus viscosum (1)	1
+Sieverdingia sp.	EUK	novel lineage, genus not in v4	3	0		
+Silvaspora sp.	EUK	novel lineage, genus not in v4	134	0		
+Viscospora sp.	EUK	genus only	128	26	Septoglomus viscosum (26)	

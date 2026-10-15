@@ -1,0 +1,284 @@
+{
+ "reads": 5546,
+ "reads_processed": 5541,
+ "orientation_source": {
+  "itsxrust": 5541,
+  "skipped_unanchored": 5
+ },
+ "itsxrust_regions": {
+  "ssu_flank": {
+   "reads": 5540,
+   "length": {
+    "n": 5540,
+    "median": 1221.0,
+    "q1": 1220.0,
+    "q3": 1223.0,
+    "min": 348,
+    "max": 5602
+   }
+  },
+  "its1": {
+   "reads": 5540,
+   "length": {
+    "n": 5540,
+    "median": 106.0,
+    "q1": 102.0,
+    "q3": 113.0,
+    "min": 63,
+    "max": 475
+   }
+  },
+  "s58": {
+   "reads": 5540,
+   "length": {
+    "n": 5540,
+    "median": 158.0,
+    "q1": 157.0,
+    "q3": 158.0,
+    "min": 142,
+    "max": 379
+   }
+  },
+  "its2": {
+   "reads": 5540,
+   "length": {
+    "n": 5540,
+    "median": 196.0,
+    "q1": 188.0,
+    "q3": 206.0,
+    "min": 145,
+    "max": 522
+   }
+  },
+  "full_its": {
+   "reads": 5540,
+   "length": {
+    "n": 5540,
+    "median": 459.0,
+    "q1": 449.0,
+    "q3": 480.0,
+    "min": 393,
+    "max": 1154
+   }
+  },
+  "lsu_flank": {
+   "reads": 5540,
+   "length": {
+    "n": 5540,
+    "median": 2432.0,
+    "q1": 2385.0,
+    "q3": 2444.0,
+    "min": 732,
+    "max": 3760
+   }
+  }
+ },
+ "windows": {
+  "AMPLICON_AML1-LSUmBr": {
+   "target": "QC: full nested amplicon (AAFC / Kolarikova-style)",
+   "primers": "AML1/LSUmBr",
+   "ok": 169,
+   "open": 5352,
+   "usable": 5521,
+   "ok_pct": 3.0,
+   "usable_pct": 99.6,
+   "status": {
+    "open_5p": 5352,
+    "ok": 169,
+    "both_missing": 17,
+    "concatemer": 1,
+    "missing_5p": 2
+   },
+   "length": {
+    "n": 5521,
+    "median": 2504,
+    "q1": 2493.0,
+    "q3": 2523.0,
+    "min": 1933,
+    "max": 3667
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_VT_NS31-AM1": {
+   "target": "MaarjAM virtual taxa (VT defined on NS31-AM1)",
+   "primers": "NS31/AM1",
+   "ok": 172,
+   "open": 5198,
+   "usable": 5370,
+   "ok_pct": 3.1,
+   "usable_pct": 96.9,
+   "status": {
+    "open_5p": 5198,
+    "ok": 172,
+    "both_missing": 158,
+    "missing_3p": 7,
+    "too_short": 4,
+    "concatemer": 1,
+    "missing_5p": 1
+   },
+   "length": {
+    "n": 5370,
+    "median": 487.0,
+    "q1": 486.0,
+    "q3": 488.0,
+    "min": 217,
+    "max": 677
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_NS31-AML2": {
+   "target": "SSU studies using NS31-AML2",
+   "primers": "NS31/AML2",
+   "ok": 179,
+   "open": 5351,
+   "usable": 5530,
+   "ok_pct": 3.2,
+   "usable_pct": 99.8,
+   "status": {
+    "open_5p": 5351,
+    "ok": 179,
+    "too_short": 3,
+    "concatemer": 1,
+    "both_missing": 6,
+    "missing_5p": 1
+   },
+   "length": {
+    "n": 5530,
+    "median": 501.0,
+    "q1": 500.0,
+    "q3": 502.0,
+    "min": 206,
+    "max": 691
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_V4_WANDA-AML2": {
+   "target": "SSU V4 datasets (WANDA-AML2 studies)",
+   "primers": "WANDA/AML2",
+   "ok": 330,
+   "open": 5200,
+   "usable": 5530,
+   "ok_pct": 6.0,
+   "usable_pct": 99.8,
+   "status": {
+    "open_5p": 5200,
+    "ok": 330,
+    "concatemer": 1,
+    "both_missing": 6,
+    "too_long": 1,
+    "missing_5p": 1,
+    "too_short": 2
+   },
+   "length": {
+    "n": 5530,
+    "median": 500.0,
+    "q1": 500.0,
+    "q3": 501.0,
+    "min": 185,
+    "max": 576
+   },
+   "crosses_its_anchor": 0
+  },
+  "SSU_V4_AMV4.5NF-AMDGR": {
+   "target": "SSU V4 short amplicon (AMV4.5NF-AMDGR studies)",
+   "primers": "AMV4.5NF/AMDGR",
+   "ok": 5505,
+   "open": 5,
+   "usable": 5510,
+   "ok_pct": 99.4,
+   "usable_pct": 99.4,
+   "status": {
+    "ok": 5505,
+    "too_short": 19,
+    "both_missing": 8,
+    "open_5p": 5,
+    "concatemer": 1,
+    "too_long": 1,
+    "missing_3p": 2
+   },
+   "length": {
+    "n": 5510,
+    "median": 216.0,
+    "q1": 215.0,
+    "q3": 217.0,
+    "min": 144,
+    "max": 269
+   },
+   "crosses_its_anchor": 0
+  },
+  "LSU_LROR-FLR2": {
+   "target": "Delavaux AMF-LSU backbone (LROR-FLR2 database)",
+   "primers": "LROR/FLR2",
+   "ok": 5534,
+   "open": 3,
+   "usable": 5537,
+   "ok_pct": 99.9,
+   "usable_pct": 99.9,
+   "status": {
+    "ok": 5534,
+    "concatemer": 1,
+    "open_3p": 3,
+    "missing_3p": 3
+   },
+   "length": {
+    "n": 5537,
+    "median": 738,
+    "q1": 732.0,
+    "q3": 740.0,
+    "min": 598,
+    "max": 899
+   },
+   "crosses_its_anchor": 0
+  },
+  "LSU_D2_FLR3-FLR4": {
+   "target": "LSU D2 datasets (FLR3-FLR4 studies)",
+   "primers": "FLR3/FLR4",
+   "ok": 5401,
+   "open": 3,
+   "usable": 5404,
+   "ok_pct": 97.5,
+   "usable_pct": 97.5,
+   "status": {
+    "ok": 5401,
+    "missing_3p": 133,
+    "missing_5p": 2,
+    "concatemer": 1,
+    "open_3p": 3,
+    "both_missing": 1
+   },
+   "length": {
+    "n": 5404,
+    "median": 330.0,
+    "q1": 323.0,
+    "q3": 332.0,
+    "min": 252,
+    "max": 359
+   },
+   "crosses_its_anchor": 0
+  }
+ },
+ "concatemers": {
+  "flagged": 1,
+  "pct": 0.02,
+  "full": 0,
+  "partial": 1,
+  "kept_in_fasta": false
+ },
+ "region_limited_reads": 5541,
+ "params": {
+  "version": "0.3.1",
+  "max_err_frac": 0.15,
+  "keep_primers": false,
+  "open_ends": true,
+  "only_anchored": true,
+  "region_margin": 50,
+  "region_limit": true,
+  "concat_screen": true,
+  "concat_min_primers": 2,
+  "concat_min_sep": 150,
+  "concat_tol": 0.05,
+  "concat_sim": 0.4,
+  "concat_strong": 3,
+  "concat_err_frac": 0.15
+ }
+}

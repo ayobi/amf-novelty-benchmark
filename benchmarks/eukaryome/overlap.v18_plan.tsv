@@ -1,0 +1,52 @@
+round	target	v18_labels	records	reads	ref_ids
+species	Acaulospora alpina	Acaulospora alpina	2	1	R0307;R0308
+species	Acaulospora brasiliensis	Acaulospora brasiliensis	2	2	R0313;R0314
+species	Acaulospora cavernata	Acaulospora cavernata	2	2	R0315;R0456
+species	Acaulospora foveata	Acaulospora foveata	2	1	R0323;R0466
+species	Acaulospora fragilissima	Acaulospora fragilissima	2	1	R0324;R0325
+species	Acaulospora lacunosa	Acaulospora lacunosa	2	1	R0474;R0475
+species	Acaulospora longula	Acaulospora longula	2	5	R0336;R0477
+species	Acaulospora mellea	Acaulospora mellea	2	1	R0337;R0478
+species	Acaulospora paulinae	Acaulospora paulinae	2	1	R0346;R0347
+species	Ambispora fennica	Ambispora fennica	2	7	R0303;R0304
+species	Dentiscutata erythropus	Dentiscutata erythropus	2	1	R0418;R0419
+species	Diversispora bareai	Diversispora bareai	2	1	R0292;R0293
+species	Diversispora marina	Diversispora marina	2	1	R0273;R0274
+species	Diversispora slowinskiensis	Diversispora slowinskiensis	2	1	R0281;R0282
+species	Dominikia achra	Dominikia achra	2	2	R0219;R0220
+species	Dominikia bernensis	Dominikia bernensis	2	2	R0223;R0224
+species	Dominikia difficilevidera	Dominikia difficilevidera	2	2	R0227;R0228
+species	Dominikia glomerocarpica	Dominikia glomerocarpica	2	5	R0494;R0495
+species	Dominikia minuta	Dominikia minuta	2	2	R0239;R0240
+species	Gigaspora margarita	Gigaspora margarita	2	2	R0402;R0403
+species	Gigaspora polymorphira	Gigaspora polymorphira	3	1	R0154;R0155;R0156
+species	Paraglomus occultum	Paraglomus occultum	2	1	R0393;R0394
+species	Rhizophagus arabicus	Rhizophagus arabicus	2	1	R0070;R0071
+species	Rhizophagus clarus	Rhizophagus clarus	2	1	R0379;R0380
+species	Rhizophagus dalpeae	Rhizophagus dalpeae	2	1	R0074;R0075
+species	Rhizophagus invermaius	Rhizophagus invermaius	2	6	R0080;R0081
+species	Rhizophagus maiae	Rhizophagus maiae	2	1	R0082;R0083
+species	Septoglomus constrictum	Septoglomus constrictum	2	13	R0369;R0370
+species	Septoglomus furcatum	Septoglomus furcatum	2	1	R0048;R0049
+species	Septoglomus nigrum	Septoglomus nigrum	2	5	R0373;R0374
+genus	Archaeospora	Archaeospora ecuadoriana;Archaeospora schenckii;Archaeospora spainiae;Archaeospora trappei	8	42	R0298;R0299;R0300;R0301;R0302;R0451;R0452;R0453
+genus	Complexispora	Complexispora mediterranea;Complexispora multistratosa	4	5	R0150;R0151;R0152;R0153
+genus	Desertispora	Desertispora omaniana	2	9	R0249;R0250
+genus	Entrophospora	Entrophospora Albahypha drummondi;Entrophospora Alborhynchus walkeri;Entrophospora argentinensis;Entrophospora candida;Entrophospora claroidea;Entrophospora etunicata;Entrophospora furrazolae;Entrophospora glacialis;Entrophospora hanlinii;Entrophospora infrequens;Entrophospora lamellosa;Entrophospora lutea	22	260	R0201;R0202;R0203;R0204;R0205;R0206;R0207;R0208;R0209;R0210;R0211;R0212;R0429;R0430;R0431;R0432;R0433;R0434;R0435;R0436;R0437;R0438
+genus	Epigeocarpum	Epigeocarpum crypticum;Epigeocarpum japonicum	4	9	R0120;R0121;R0122;R0123
+genus	Halonatospora	Halonatospora pansihalos	2	2	R0068;R0069
+genus	Innospora	Innospora majewskii	2	5	R0117;R0395
+genus	Kamienskia	Kamienskia bistrata	2	11	R0124;R0125
+genus	Macrodominikia	Macrodominikia compressa	2	24	R0243;R0244
+genus	Microkamienskia	Microkamienskia divaricata;Microkamienskia perpusilla;Microkamienskia peruviana	6	34	R0126;R0127;R0128;R0129;R0130;R0131
+genus	Nanoglomus	Nanoglomus plukenetiae	2	993	R0213;R0214
+genus	Orientoglomus	Orientoglomus emiratium	2	116	R0215;R0216
+genus	Pacispora	Pacispora scintillans	2	3	R0118;R0119
+genus	Pervetustus	Pervetustus simplex	2	17	R0104;R0391
+genus	Polonospora	Polonospora polonica	2	292	R0102;R0103
+genus	Racocetra	Racocetra alborosea;Racocetra castanea;Racocetra coralloidea;Racocetra crispa;Racocetra fulgida;Racocetra gregaria;Racocetra persica;Racocetra tropicana;Racocetra verrucosa;Racocetra weresubiae	17	11	R0157;R0158;R0159;R0160;R0161;R0162;R0163;R0189;R0190;R0408;R0409;R0410;R0411;R0412;R0413;R0414;R0415
+genus	Redeckera	Redeckera megalocarpum	3	8	R0294;R0295;R0449
+genus	Sclerocarpum	Sclerocarpum amazonicum	2	37	R0148;R0149
+genus	Scutellospora	Scutellospora calospora;Scutellospora deformata;Scutellospora dipurpurescens;Scutellospora graeca;Scutellospora intraundulata;Scutellospora ovalis;Scutellospora pernambucana;Scutellospora spinosissima	16	36	R0179;R0180;R0181;R0182;R0183;R0184;R0185;R0186;R0187;R0188;R0423;R0424;R0425;R0426;R0427;R0428
+genus	Sieverdingia	Sieverdingia tortuosa	1	3	R0450
+genus	Silvaspora	Silvaspora neocaledonica	2	134	R0096;R0097

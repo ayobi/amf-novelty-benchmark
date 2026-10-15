@@ -1,0 +1,160 @@
+euk_order	euk_family	euk_genus	euk_species	reads	level	v4_organism	v4_status	v4_genus	genus_resolved	v18_labels	v18_genus_records	basis	review	note
+Archaeosporales	Ambisporaceae	Ambispora	fennica	7	species	Ambispora fennica	species not in v4, genus in v4	Ambispora	yes	Ambispora fennica	6	genus name	no	
+Archaeosporales	Ambisporaceae	Ambispora	gerdemannii	1	species	Ambispora gerdemannii	species not in v4, genus in v4	Ambispora	yes		6	decision	decided	Kept as an absent species. INVAM names v4's culture ON205A Ambispora gerdemannii, where Stefani et al. name it A. leptoticha (the paper's curation findings), so a call of A. leptoticha for this read may reflect that name rather than an error; reported with that note.
+Archaeosporales	Ambisporaceae	Ambispora	leptoticha	9	species	Ambispora leptoticha	species in v4	Ambispora	yes		6	exact	no	
+Archaeosporales	Ambisporaceae	Ambispora	unclassified	21	genus	Ambispora sp.	genus in v4	Ambispora	yes		6	genus name	no	
+Archaeosporales	Ambisporaceae	Ambisporaceae.gen01	unclassified	1	placeholder	Ambisporaceae.gen01 sp.	genus not in v4		yes			placeholder taxon	no	
+Archaeosporales	Ambisporaceae	Ambisporaceae.gen02	unclassified	2	placeholder	Ambisporaceae.gen02 sp.	genus not in v4		yes			placeholder taxon	no	
+Archaeosporales	Ambisporaceae	Appendiculaspora	leptoticha	1	species		excluded		no		0	decision	decided	EUKARYOME holds both Ambispora leptoticha (9 reads) and Appendiculaspora leptoticha (1); v4 holds Ambispora leptoticha. Whether the two are one species is not settled here, so this read is left out.
+Archaeosporales	Ambisporaceae	Appendiculaspora	unclassified	15	genus	Appendiculaspora sp.	genus open		no		0	decision	decided	Appendiculaspora may hold v4's Ambispora leptoticha (row above). No outcome.
+Archaeosporales	Archaeosporaceae	Antiquispora	unclassified	18	genus	Antiquispora sp.	genus not in v4		yes		0	genus name	no	
+Archaeosporales	Archaeosporaceae	Archaeospora	europaea	1	species	Archaeospora europaea	genus not in v4		yes		8	genus name	no	
+Archaeosporales	Archaeosporaceae	Archaeospora	schenckii	1	species	Archaeospora schenckii	genus not in v4		yes	Archaeospora schenckii	8	genus name	no	
+Archaeosporales	Archaeosporaceae	Archaeospora	spainiae	3	species	Archaeospora spainiae	genus not in v4		yes	Archaeospora spainiae	8	genus name	no	
+Archaeosporales	Archaeosporaceae	Archaeospora	unclassified	37	genus	Archaeospora sp.	genus not in v4		yes		8	genus name	no	
+Archaeosporales	Archaeosporaceae	Palaeospora	unclassified	2	genus	Palaeospora sp.	genus not in v4		yes		0	genus name	no	
+Archaeosporales	Geosiphonaceae	Geosiphon	pyriformis	1	species	Geosiphon pyriformis	genus not in v4		yes		0	genus name	no	
+Archaeosporales	Polonosporaceae	Polonospora	unclassified	292	genus	Polonospora sp.	genus not in v4		yes		2	genus name	no	
+Archaeosporomycetes.ord01	Archaeosporomycetes.ord01.fam01	unclassified	unclassified	1	placeholder	Archaeosporomycetes.ord01.fam01 sp.	genus not in v4		yes			placeholder taxon	no	
+Archaeosporomycetes.ord01	unclassified	unclassified	unclassified	8	placeholder	Archaeosporomycetes.ord01 sp.	genus not in v4		yes			placeholder taxon	no	
+Diversisporales	Acaulosporaceae	Acaulospora	alpina	1	species	Acaulospora alpina	species not in v4, genus in v4	Acaulospora	yes	Acaulospora alpina	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	brasiliensis	2	species	Acaulospora brasiliensis	species not in v4, genus in v4	Acaulospora	yes	Acaulospora brasiliensis	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	cavernata	2	species	Acaulospora cavernata	species not in v4, genus in v4	Acaulospora	yes	Acaulospora cavernata	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	foveata	1	species	Acaulospora foveata	species not in v4, genus in v4	Acaulospora	yes	Acaulospora foveata	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	fragilissima	1	species	Acaulospora fragilissima	species not in v4, genus in v4	Acaulospora	yes	Acaulospora fragilissima	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	lacunosa	1	species	Acaulospora lacunosa	species not in v4, genus in v4	Acaulospora	yes	Acaulospora lacunosa	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	longula	5	species	Acaulospora longula	species not in v4, genus in v4	Acaulospora	yes	Acaulospora longula	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	mellea	1	species	Acaulospora mellea	species not in v4, genus in v4	Acaulospora	yes	Acaulospora mellea	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	paulinae	1	species	Acaulospora paulinae	species not in v4, genus in v4	Acaulospora	yes	Acaulospora paulinae	92	genus name	no	
+Diversisporales	Acaulosporaceae	Acaulospora	unclassified	110	genus	Acaulospora sp.	genus in v4	Acaulospora	yes		92	genus name	no	
+Diversisporales	Diversisporaceae	Desertispora	unclassified	9	genus	Desertispora sp.	genus not in v4		yes		2	genus name	no	
+Diversisporales	Diversisporaceae	Diversispora	bareae	1	species	Diversispora bareai	species not in v4, genus in v4	Diversispora	yes	Diversispora bareai	55	genus name	no	
+Diversisporales	Diversisporaceae	Diversispora	celata	2	species	Diversispora celata	species in v4	Diversispora	yes		55	exact	no	
+Diversisporales	Diversisporaceae	Diversispora	eburnea	1	species	Diversispora eburnea	species in v4	Diversispora	yes		55	exact	no	
+Diversisporales	Diversisporaceae	Diversispora	epigaea	3	species	Diversispora epigaea	species in v4	Diversispora	yes		55	exact	no	
+Diversisporales	Diversisporaceae	Diversispora	marina	1	species	Diversispora marina	species not in v4, genus in v4	Diversispora	yes	Diversispora marina	55	genus name	no	
+Diversisporales	Diversisporaceae	Diversispora	slowinskensis	1	species	Diversispora slowinskiensis	species not in v4, genus in v4	Diversispora	yes	Diversispora slowinskiensis	55	genus name	no	
+Diversisporales	Diversisporaceae	Diversispora	spurca	1	species	Diversispora spurca	species in v4	Diversispora	yes		55	exact	no	
+Diversisporales	Diversisporaceae	Diversispora	unclassified	138	genus	Diversispora sp.	genus in v4	Diversispora	yes		55	genus name	no	
+Diversisporales	Diversisporaceae	Diversispora	varaderana	4	species	Diversispora varaderana	species in v4	Diversispora	yes		55	exact	no	
+Diversisporales	Diversisporaceae	Diversisporaceae.gen01	unclassified	4	placeholder	Diversisporaceae.gen01 sp.	genus not in v4		yes			placeholder taxon	no	
+Diversisporales	Diversisporaceae	Diversisporaceae.gen02	unclassified	2	placeholder	Diversisporaceae.gen02 sp.	genus not in v4		yes			placeholder taxon	no	
+Diversisporales	Diversisporaceae	Redeckera	unclassified	8	genus	Redeckera sp.	genus not in v4		yes		3	genus name	no	
+Diversisporales	Diversisporaceae	Sieverdingia	unclassified	3	genus	Sieverdingia sp.	genus not in v4		yes		1	genus name	no	
+Diversisporales	Diversisporaceae	unclassified	unclassified	1	unplaced		excluded		yes			genus unknown	no	no genus; the family or order holds named genera
+Diversisporales	Pacisporaceae	Pacispora	unclassified	3	genus	Pacispora sp.	genus not in v4		yes		2	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	cf.claroidea	1	genus	Entrophospora sp.	genus not in v4		yes		22	genus name (cf. name read as genus only)	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	drummondii	2	species	Entrophospora drummondii	genus not in v4		yes	Entrophospora Albahypha drummondi	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	etunicata	2	species	Entrophospora etunicata	genus not in v4		yes	Entrophospora etunicata	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	furrazolae	13	species	Entrophospora furrazolae	genus not in v4		yes	Entrophospora furrazolae	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	glacialis	10	species	Entrophospora glacialis	genus not in v4		yes	Entrophospora glacialis	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	infrequens	20	species	Entrophospora infrequens	genus not in v4		yes	Entrophospora infrequens	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	lamellosa	1	species	Entrophospora lamellosa	genus not in v4		yes	Entrophospora lamellosa	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	lutea	2	species	Entrophospora lutea	genus not in v4		yes	Entrophospora lutea	22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	unclassified	205	genus	Entrophospora sp.	genus not in v4		yes		22	genus name	no	
+Entrophosporales	Entrophosporaceae	Entrophospora	walkeri	4	species	Entrophospora walkeri	genus not in v4		yes	Entrophospora Alborhynchus walkeri	22	genus name	no	
+Entrophosporales	Pseudoentrophosporaceae	Pseudoentrophospora	unclassified	5	genus	Pseudoentrophospora sp.	genus not in v4		yes		0	genus name	no	
+GS82B	unclassified	unclassified	unclassified	1	placeholder	GS82B sp.	genus not in v4		yes			placeholder taxon	no	
+Gigasporales	Dentiscutataceae	Fuscutata	erythropus	1	species	Dentiscutata erythropus	species not in v4, genus in v4	Dentiscutata	no	Dentiscutata erythropus	0	decision	decided	Same species as V18's Dentiscutata erythropus, which the LongGloDB test also used. Absent from v4 at species level whatever the genus; scored as an absent species of v4's Dentiscutata, as in the LongGloDB test. Its genus outcome is not reported, because EUKARYOME's Fuscutata may or may not hold v4's D. heterogama.
+Gigasporales	Dentiscutataceae	Fuscutata	unclassified	23	genus	Fuscutata sp.	genus open	Dentiscutata	no		0	decision	decided	EUKARYOME uses Fuscutata, not Dentiscutata, for its Dentiscutataceae reads; whether v4's Dentiscutata heterogama falls in it is not stated. No outcome.
+Gigasporales	Gigasporaceae	Gigaspora	margarita	2	species	Gigaspora margarita	species not in v4, genus in v4	Gigaspora	yes	Gigaspora margarita	15	genus name	no	
+Gigasporales	Gigasporaceae	Gigaspora	polymorphira	1	species	Gigaspora polymorphira	species not in v4, genus in v4	Gigaspora	yes	Gigaspora polymorphira	15	genus name	no	
+Gigasporales	Gigasporaceae	Gigaspora	rosea	3	species	Gigaspora rosea	species in v4	Gigaspora	yes		15	exact	no	
+Gigasporales	Gigasporaceae	Gigaspora	unclassified	19	genus	Gigaspora sp.	genus in v4	Gigaspora	yes		15	genus name	no	
+Gigasporales	Gigasporales.fam02	unclassified	unclassified	2	placeholder	Gigasporales.fam02 sp.	genus not in v4		yes			placeholder taxon	no	
+Gigasporales	Intraornatosporaceae	Intraornatosporaceae.gen01	unclassified	2	placeholder	Intraornatosporaceae.gen01 sp.	genus not in v4		yes			placeholder taxon	no	
+Gigasporales	Racocetraceae	Cetraspora	unclassified	10	genus	Cetraspora sp.	genus in v4	Cetraspora	yes		12	genus name	no	
+Gigasporales	Racocetraceae	Racocetra	crispa	4	species	Racocetra crispa	genus not in v4		yes	Racocetra crispa	17	genus name	no	
+Gigasporales	Racocetraceae	Racocetra	fulgida	1	species	Racocetra fulgida	genus not in v4		yes	Racocetra fulgida	17	genus name	no	
+Gigasporales	Racocetraceae	Racocetra	unclassified	6	genus	Racocetra sp.	genus not in v4		yes		17	genus name	no	
+Gigasporales	Scutellosporaceae	Scutellospora	unclassified	36	genus	Scutellospora sp.	genus not in v4		yes		16	genus name	no	
+Glomerales	Glomeraceae	Complexispora	unclassified	5	genus	Complexispora sp.	genus not in v4		yes		4	genus name	no	
+Glomerales	Glomeraceae	Dominikia	achra	2	species	Dominikia achra	species not in v4, genus in v4	Dominikia	yes	Dominikia achra	26	genus name	no	
+Glomerales	Glomeraceae	Dominikia	bernensis	2	species	Dominikia bernensis	species not in v4, genus in v4	Dominikia	yes	Dominikia bernensis	26	genus name	no	
+Glomerales	Glomeraceae	Dominikia	bonfanteae	31	species	Dominikia bonfanteae	species in v4	Dominikia	yes		26	exact	no	
+Glomerales	Glomeraceae	Dominikia	difficilevidera	2	species	Dominikia difficilevidera	species not in v4, genus in v4	Dominikia	yes	Dominikia difficilevidera	26	genus name	no	
+Glomerales	Glomeraceae	Dominikia	glomerocarpica	5	species	Dominikia glomerocarpica	species not in v4, genus in v4	Dominikia	yes	Dominikia glomerocarpica	26	genus name	no	
+Glomerales	Glomeraceae	Dominikia	indica	2	species	Dominikia indica	species not in v4, genus in v4	Dominikia	yes		26	genus name	no	
+Glomerales	Glomeraceae	Dominikia	minuta	2	species	Dominikia minuta	species not in v4, genus in v4	Dominikia	yes	Dominikia minuta	26	genus name	no	
+Glomerales	Glomeraceae	Dominikia	unclassified	661	genus	Dominikia sp.	genus in v4	Dominikia	yes		26	genus name	no	
+Glomerales	Glomeraceae	Durabilispora	unclassified	13	genus	Durabilispora sp.	genus not in v4		yes		0	genus name	no	
+Glomerales	Glomeraceae	Epigeocarpum	crypticum	1	species	Epigeocarpum crypticum	genus not in v4		yes	Epigeocarpum crypticum	4	genus name	no	
+Glomerales	Glomeraceae	Epigeocarpum	unclassified	8	genus	Epigeocarpum sp.	genus not in v4		yes		4	genus name	no	
+Glomerales	Glomeraceae	Funneliformis	caledonium	18	species	Funneliformis caledonium	species in v4	Funneliformis	yes		12	exact	no	
+Glomerales	Glomeraceae	Funneliformis	geosporum	12	species	Funneliformis geosporum	species in v4	Funneliformis	yes		12	exact	no	
+Glomerales	Glomeraceae	Funneliformis	mosseae	47	species	Funneliformis mosseae	species in v4	Funneliformis	yes		12	exact	no	
+Glomerales	Glomeraceae	Funneliformis	unclassified	48	genus	Funneliformis sp.	genus in v4	Funneliformis	yes		12	genus name	no	
+Glomerales	Glomeraceae	Glomeraceae.gen03	unclassified	4	placeholder	Glomeraceae.gen03 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen05	unclassified	23	placeholder	Glomeraceae.gen05 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen06	unclassified	11	placeholder	Glomeraceae.gen06 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen08	unclassified	1	placeholder	Glomeraceae.gen08 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen11	unclassified	52	placeholder	Glomeraceae.gen11 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen13	unclassified	3	placeholder	Glomeraceae.gen13 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen14	unclassified	72	placeholder	Glomeraceae.gen14 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen15	unclassified	17	placeholder	Glomeraceae.gen15 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen16	unclassified	5	placeholder	Glomeraceae.gen16 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen17	unclassified	35	placeholder	Glomeraceae.gen17 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen18	unclassified	1	placeholder	Glomeraceae.gen18 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen21	unclassified	2	placeholder	Glomeraceae.gen21 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen22	unclassified	11	placeholder	Glomeraceae.gen22 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen23	unclassified	6	placeholder	Glomeraceae.gen23 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen24	unclassified	2	placeholder	Glomeraceae.gen24 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen25	unclassified	129	placeholder	Glomeraceae.gen25 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen26	unclassified	3	placeholder	Glomeraceae.gen26 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen27	unclassified	35	placeholder	Glomeraceae.gen27 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen28	unclassified	33	placeholder	Glomeraceae.gen28 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen29	unclassified	7	placeholder	Glomeraceae.gen29 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen30	unclassified	36	placeholder	Glomeraceae.gen30 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen34	unclassified	2	placeholder	Glomeraceae.gen34 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomeraceae.gen36	unclassified	3	placeholder	Glomeraceae.gen36 sp.	genus not in v4		yes			placeholder taxon	no	
+Glomerales	Glomeraceae	Glomus	cf.macrocarpum	2	genus	Glomus sp.	genus in v4	Glomus	yes		16	genus name (cf. name read as genus only)	no	
+Glomerales	Glomeraceae	Glomus	macrocarpum	7	species	Glomus macrocarpum	species in v4	Glomus	yes		16	exact	no	
+Glomerales	Glomeraceae	Glomus	tetrastratosum	10	species	Glomus tetrastratosum	species in v4	Glomus	yes		16	exact	no	
+Glomerales	Glomeraceae	Glomus	unclassified	77	genus	Glomus sp.	genus in v4	Glomus	yes		16	genus name	no	
+Glomerales	Glomeraceae	Halonatospora	pansihalos	1	species	Halonatospora pansihalos	genus not in v4		yes	Halonatospora pansihalos	2	genus name	no	
+Glomerales	Glomeraceae	Halonatospora	unclassified	1	genus	Halonatospora sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Kamienskia	bistrata	1	species	Kamienskia bistrata	genus not in v4		yes	Kamienskia bistrata	2	genus name	no	
+Glomerales	Glomeraceae	Kamienskia	unclassified	10	genus	Kamienskia sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Macrodominikia	compressa	12	species	Macrodominikia compressa	genus not in v4		yes	Macrodominikia compressa	2	genus name	no	
+Glomerales	Glomeraceae	Macrodominikia	unclassified	12	genus	Macrodominikia sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Microdominikia	unclassified	721	genus	Microdominikia sp.	genus in v4	Microdominikia	yes		2	genus name	no	
+Glomerales	Glomeraceae	Microkamienskia	unclassified	34	genus	Microkamienskia sp.	genus not in v4		yes		6	genus name	no	
+Glomerales	Glomeraceae	Nanoglomus	plukenetiae	1	species	Nanoglomus plukenetiae	genus not in v4		yes	Nanoglomus plukenetiae	2	genus name	no	
+Glomerales	Glomeraceae	Nanoglomus	unclassified	994	genus	Nanoglomus sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Oehlia	unclassified	7	genus	Oehlia sp.	genus in v4	Oehlia	yes		2	genus name	no	
+Glomerales	Glomeraceae	Orientoglomus	unclassified	116	genus	Orientoglomus sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Parvocarpum	unclassified	10	genus	Parvocarpum sp.	genus not in v4		yes		0	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	arabicum	1	species	Rhizophagus arabicus	species not in v4, genus in v4	Rhizophagus	yes	Rhizophagus arabicus	36	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	cf.clarus	1	genus	Rhizoglomus sp.	genus in v4	Rhizophagus	yes		36	genus name (cf. name read as genus only)	no	
+Glomerales	Glomeraceae	Rhizoglomus	clarus	1	species	Rhizophagus clarus	species not in v4, genus in v4	Rhizophagus	yes	Rhizophagus clarus	36	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	custos	2	species	Rhizophagus custos	species not in v4, genus in v4	Rhizophagus	yes		36	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	dalpeae	1	species	Rhizophagus dalpeae	species not in v4, genus in v4	Rhizophagus	yes	Rhizophagus dalpeae	36	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	intraradices	7	species	Rhizophagus intraradices	species in v4	Rhizophagus	yes		36	genus synonym or epithet ending	no	
+Glomerales	Glomeraceae	Rhizoglomus	invermaium	6	species	Rhizophagus invermaius	species not in v4, genus in v4	Rhizophagus	yes	Rhizophagus invermaius	36	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	irregulare	20	species	Rhizophagus irregularis	species in v4	Rhizophagus	yes		36	genus synonym or epithet ending	no	
+Glomerales	Glomeraceae	Rhizoglomus	irregularis	5	species	Rhizophagus irregularis	species in v4	Rhizophagus	yes		36	genus synonym or epithet ending	no	
+Glomerales	Glomeraceae	Rhizoglomus	maiae	1	species	Rhizophagus maiae	species not in v4, genus in v4	Rhizophagus	yes	Rhizophagus maiae	36	genus name	no	
+Glomerales	Glomeraceae	Rhizoglomus	silesianum	2	species	Rhizophagus silesianus	species in v4	Rhizophagus	yes		36	genus synonym or epithet ending	no	
+Glomerales	Glomeraceae	Rhizoglomus	unclassified	351	genus	Rhizoglomus sp.	genus in v4	Rhizophagus	yes		36	genus name	no	
+Glomerales	Glomeraceae	Sclerocarpum	unclassified	37	genus	Sclerocarpum sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Sclerocystis	unclassified	133	genus	Sclerocystis sp.	genus in v4	Sclerocystis	yes		2	genus name	no	
+Glomerales	Glomeraceae	Septoglomus	constrictum	13	species	Septoglomus constrictum	species not in v4, genus in v4	Septoglomus	yes	Septoglomus constrictum	32	genus name	no	
+Glomerales	Glomeraceae	Septoglomus	furcatum	1	species	Septoglomus furcatum	species not in v4, genus in v4	Septoglomus	yes	Septoglomus furcatum	32	genus name	no	
+Glomerales	Glomeraceae	Septoglomus	nigrum	5	species	Septoglomus nigrum	species not in v4, genus in v4	Septoglomus	yes	Septoglomus nigrum	32	genus name	no	
+Glomerales	Glomeraceae	Septoglomus	turnauae	2	species	Septoglomus turnauae	species in v4	Septoglomus	yes		32	exact	no	
+Glomerales	Glomeraceae	Septoglomus	unclassified	71	genus	Septoglomus sp.	genus in v4	Septoglomus	yes		32	genus name	no	
+Glomerales	Glomeraceae	Silvaspora	unclassified	134	genus	Silvaspora sp.	genus not in v4		yes		2	genus name	no	
+Glomerales	Glomeraceae	Viscospora	unclassified	128	genus	Viscospora sp.	genus in v4	Septoglomus	yes		0	decision	decided	Viscospora holds v4's Septoglomus viscosum (row above), so the genus is in v4 under v4's name Septoglomus. Genus-only reads have no outcome.
+Glomerales	Glomeraceae	Viscospora	viscosa	1	species	Septoglomus viscosum	species in v4	Septoglomus	yes		0	decision	decided	Viscospora viscosa is the current name of Glomus viscosum, which v4 holds as Septoglomus viscosum; V18 writes it 'Septoglomus Viscospora viscosa'.
+Paraglomerales	Paraglomeraceae	Innospora	majewskii	1	species	Innospora majewskii	genus not in v4		yes	Innospora majewskii	2	genus name	no	
+Paraglomerales	Paraglomeraceae	Innospora	unclassified	4	genus	Innospora sp.	genus not in v4		yes		2	genus name	no	
+Paraglomerales	Paraglomeraceae	Paraglomeraceae.gen01	unclassified	4	placeholder	Paraglomeraceae.gen01 sp.	genus not in v4		yes			placeholder taxon	no	
+Paraglomerales	Paraglomeraceae	Paraglomeraceae.gen02	unclassified	4	placeholder	Paraglomeraceae.gen02 sp.	genus not in v4		yes			placeholder taxon	no	
+Paraglomerales	Paraglomeraceae	Paraglomus	brasilianum	1	species	Paraglomus brasilianum	species in v4	Paraglomus	yes		15	exact	no	
+Paraglomerales	Paraglomeraceae	Paraglomus	laccatum	25	species	Paraglomus laccatum	species in v4	Paraglomus	yes		15	exact	no	
+Paraglomerales	Paraglomeraceae	Paraglomus	occultum	1	species	Paraglomus occultum	species not in v4, genus in v4	Paraglomus	yes	Paraglomus occultum	15	genus name	no	
+Paraglomerales	Paraglomeraceae	Paraglomus	unclassified	76	genus	Paraglomus sp.	genus in v4	Paraglomus	yes		15	genus name	no	
+Paraglomerales	Pervetustaceae	Pervetustaceae.gen01	unclassified	1	placeholder	Pervetustaceae.gen01 sp.	genus not in v4		yes			placeholder taxon	no	
+Paraglomerales	Pervetustaceae	Pervetustaceae.gen03	unclassified	6	placeholder	Pervetustaceae.gen03 sp.	genus not in v4		yes			placeholder taxon	no	
+Paraglomerales	Pervetustaceae	Pervetustus	unclassified	17	genus	Pervetustus sp.	genus not in v4		yes		2	genus name	no	
+unclassified	unclassified	unclassified	unclassified	5	unplaced		excluded		yes			genus unknown	no	no genus; the family or order holds named genera

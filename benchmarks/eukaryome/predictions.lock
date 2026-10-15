@@ -1,0 +1,20 @@
+{
+ "created": "2026-10-15T15:14:43",
+ "T": {
+  "ITS": 5.988026607538803,
+  "LSU": 3.0269792549075722,
+  "SSU": 0.806517311608961
+ },
+ "quantile": 99.0,
+ "predictions_sha256": "8eba5ea14d8a0f2dc44a05023bdc77fc26b19dfd8950cc7f1bce89bb26b4a9fd",
+ "cultures_sha256": "2e02238cdf1c986ef4d3e0974edddacc044170eba04dedaed9e31be8177f25d9",
+ "inputs": {
+  "../reference/culture_ref_v4/copies.tsv": "181938d695f3df406c9da0af5e95f51b726b6931b71fd7217c430a085df65e94",
+  "../reference/culture_ref_v4/cultures.tsv": "77a23fb8ddc821f01b13d0196319ebdc113d9a8a888a1c813856acbb9e719a16",
+  "/home/csb/Downloads/AMF_test/bench/eukaryome/overlap.asvs.tsv": "ada9f7fa212c30c2d975eca3bf483413d9d1bb7c290b99038a89e7dc28ec479f",
+  "../reference/culture_ref_v4/fasta/full_its.fasta": "97354e34a22f1ceb27f54b63bd60b3ee342c74c4e27983fdc4499bcc6891916a",
+  "../reference/culture_ref_v4/fasta/LSU_LROR-FLR2.fasta": "18679043a974d1bff4fdf798c0f74655d7444e1b0916a5c0c8356c796a9cca2f",
+  "../reference/culture_ref_v4/fasta/ssu_flank.fasta": "9f98d74e0364de14d07ecffbacb310c5fa3143e6b16bf055c061d4db70cee70a"
+ },
+ "ref_fingerprint": "181938d695f3df40"
+}

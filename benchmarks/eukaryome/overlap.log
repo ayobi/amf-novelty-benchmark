@@ -1,0 +1,45 @@
+  V18: 1000 reads (7 s)
+  V18: 2000 reads (14 s)
+  V18: 3000 reads (21 s)
+  V18: 4000 reads (29 s)
+  V18: 5000 reads (36 s)
+reads with Stage 1 windows: 5540; in records.tsv without windows: 1 ['PQFF01000047']
+excluded: 29  identical in full ITS to a v4 copy 19; no genus; the family or order holds named genera 6; no Stage 1 window: LSU_LROR-FLR2 3; EUKARYOME holds both Ambispora leptoticha (9 reads) and Appendiculaspora leptoticha (1); v4 holds Ambispora leptoticha. Whether the two are one species is not settled here, so this read is left out. 1
+  identical in full ITS to a v4 copy: 19 reads (3 also identical in LROR-FLR2 and SSU flank); by role before removal: known species 12; genus only 5; novel lineage, genus not in v4 2
+    EUK1266767  Funneliformis caledonium  ->  Funneliformis caledonium | CW0030_822A
+    EUK1266774  Funneliformis geosporum  ->  Funneliformis geosporum | W681_7_10A
+    EUK1268568  Rhizophagus irregularis  ->  Rhizophagus irregularis | T3_IVT34A
+    EUK1268575  Rhizoglomus sp.  ->  [Rhizoglomus] vesiculiferum | 5074_2353A
+    EUK1360377  Funneliformis caledonium  ->  Funneliformis caledonium | VDHK150A_21A
+    EUK1360379  Funneliformis mosseae  ->  Funneliformis mosseae | CHB3_Fmos
+    EUK1360390  Nanoglomus sp.  ->  Glomus sp. | 5089_2351A
+    EUK1824990  Funneliformis mosseae  ->  Funneliformis mosseae | 198394_123A
+    EUK1879332  Funneliformis mosseae  ->  Funneliformis mosseae | CHB4_Fmos
+    EUK1894276  Dominikia sp.  ->  Dominikia bonfanteae | 4351_1077A
+    EUK1895495  Rhizoglomus sp.  ->  Rhizophagus irregularis | T3_IVT34A
+    EUK1895522  Funneliformis sp.  ->  Funneliformis mosseae | CHB3_Fmos
+    EUK1895541  Nanoglomus sp.  ->  Glomus sp. | 5089_2351A
+    EUK1895545  Rhizophagus silesianus  ->  Rhizophagus silesianus | 3628_206A
+    EUK1896147  Dominikia sp.  ->  Dominikia bonfanteae | 4351_1077A
+    GCA_003550325  Gigaspora rosea  ->  Gigaspora rosea | 194757_703A;Gigaspora rosea | 4511_973A;Gigaspora rosea | BEG9_770A;Gigaspora rosea | CW0011_4010A
+    GCA_020716705  Rhizophagus irregularis  ->  Rhizophagus irregularis | 4375_IVT88A
+    NW_020269454  Rhizophagus irregularis  ->  Rhizophagus irregularis | 4292_708C;Rhizophagus irregularis | 4341_IVT72A;Rhizophagus irregularis | 4348_IVT77A;Rhizophagus irregularis | 4375_IVT88A;Rhizophagus irregularis | 4674_1184D;Rhizophagus irregularis | DAOMC 197198;Rhizophagus irregularis | GC-2_IVT11
+    QKWP01000864  Gigaspora rosea  ->  Gigaspora rosea | 194757_703A;Gigaspora rosea | 4511_973A;Gigaspora rosea | BEG9_770A;Gigaspora rosea | CW0011_4010A
+test set by role and stratum (reads / taxa):
+  known species                        199 / 20
+      known species                            199 / 20
+  novel species, genus in v4            77 / 33
+      absent species, genus in v4               77 / 33
+  novel lineage, genus not in v4      2629 / 82
+      absent genus, genus only                2017 / 26
+      placeholder lineage                      530 / 36
+      absent genus, named species               82 / 20
+  genus only                          2606 / 17
+      genus only, genus in v4                 2568 / 15
+      genus only, membership open               38 / 2
+non-EUKARYOME IDs in the test: 23
+V18 record >= 99.5% in LSU: 57 reads; by role: genus only 33; known species 20; novel lineage, genus not in v4 3; novel species, genus in v4 1
+identical in full ITS to a LongGloDB v1 ASV: 0 reads; by LongGloDB lab: {}
+V18 removal plan: 30 species rounds, 21 genus rounds (2123 reads); reported under the intact LSU reference only: Ambispora gerdemannii (1); Dominikia indica (2); Rhizophagus custos (2); Antiquispora (17); Durabilispora (13); Geosiphon (1); Palaeospora (2); Parvocarpum (10); Pseudoentrophospora (5); placeholder lineages (530)
+inputs: names.tsv 3250f1ae9ca31633, records efd27f2dd0f295d2, full_its 87dccbda2493dd7c
+files: /home/csb/Downloads/AMF_test/bench/eukaryome/overlap.asvs.tsv, .cultures.tsv, .v18_plan.tsv, .v18_apart.tsv (39 s)
