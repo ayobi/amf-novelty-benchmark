@@ -1,0 +1,384 @@
+#!/usr/bin/env python3
+"""Outcomes of the EUKARYOME long-read test (benchmarks/eukaryome/PROTOCOL_EUK.md, section 6).
+
+Reads runs_euk/06_scores (written by euk_test.py run) and the fixed test set; writes runs_euk/report/.
+Nothing is fitted here; every definition below is the protocol's, written before any score existed.
+
+  python3 euk_report.py --euk ../bench/eukaryome [--out runs_euk]
+
+Sections:
+  1 integrity        M4 parity, evidence parity, VT and SH hits of the test reads, condition A diagnostic, N6
+  2 primary          false-known calls among reads of taxa v4 does not hold: condition B for reads in a round,
+                     condition A for those reported apart; by read, averaged over labelled taxa, by stratum
+  3 complex claim    every false-known call, under A or B, against the locked predictions
+  4 all calls        every known-species call on any test read against the predictions, by role
+  5 known species    kept under A with and without N6, by prediction; the reads N6 demotes
+  6 genus            genus right / wrong / none and novelty rank for absent taxa (no genus outcome for
+                     Dentiscutata erythropus and Nanoglomus); genus agreement for genus-only reads (descriptive)
+  7 descriptive      status by role; D1, D2 and likely-artifact calls; reads with the short-5.8S motif
+  8 flags            the primary outcome without the reads flagged in protocol section 1
+  9 VT               VT state under the primary and secondary analyses, boundary calls, B2 flags
+A known call is a status that starts with 'known' (a species or a species group), as in lgdb_report.py.
+"""
+import argparse
+from collections import Counter, defaultdict
+import csv
+import json
+from pathlib import Path
+import re
+import statistics
+import sys
+
+ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+import euk_test as E                                   # noqa: E402
+
+NOVEL = ('novel species, genus in v4', 'novel lineage, genus not in v4')
+NO_GENUS_OUTCOME = {'Dentiscutata erythropus'}           # protocol section 6 (genus membership open)
+NO_GENUS_OUTCOME_GENERA = {'Nanoglomus'}                 # protocol section 2 (inside v4 cultures named only to genus)
+MOTIF = re.compile(''.join({'Y': '[CT]', 'R': '[AG]'}.get(c, c) for c in 'YTYGGRGARTATG'))
+STRATA = ('absent species, genus in v4', 'absent genus, named species', 'absent genus, genus only', 'placeholder lineage')
+
+
+def read_tsv(p):
+    with open(p, newline='') as fh:
+        return list(csv.DictReader(fh, delimiter='\t'))
+
+
+def write_tsv(p, rows):
+    cols = list(rows[0]) if rows else ['empty']
+    with open(p, 'w', newline='') as fh:
+        w = csv.DictWriter(fh, fieldnames=cols, delimiter='\t', lineterminator='\n', extrasaction='ignore')
+        w.writeheader()
+        w.writerows(rows)
+
+
+def is_known(r):
+    return r['status'].startswith('known')
+
+
+def called(r):
+    return [s for s in r['placement'].split(';') if s]
+
+
+def genus_tokens(r):
+    toks = {s.split()[0].strip('[]') for s in called(r)}
+    return {'Rhizophagus' if g == 'Rhizoglomus' else 'Entrophospora' if g == 'Claroideoglomus' else g for g in toks}
+
+
+def pct(a, b):
+    return f'{100 * a / b:.1f}%' if b else '-'
+
+
+def macro(rows, key='organism'):
+    by = defaultdict(list)
+    for r in rows:
+        by[r[key]].append(is_known(r))
+    return statistics.mean(statistics.mean(v) for v in by.values()) if by else None
+
+
+def report(euk, out):
+    E.install(euk)
+    L = E.L
+    inputs = L.Inputs(euk)
+    scores = out / '06_scores'
+    if not (scores / 'stage.json').exists():
+        raise SystemExit(f'no completed scores in {scores}; run first')
+    rep = out / 'report'
+    rep.mkdir(exist_ok=True)
+    t = {p.name.replace('.copies.tsv', ''): read_tsv(p) for p in sorted(scores.glob('*.copies.tsv'))}
+    meta = json.loads((scores / 'scores.json').read_text())
+    pred = inputs.pred
+    reads = {r['asv']: r for r in inputs.asvs}
+    locked = {x for x, r in pred.items() if r['role'] in NOVEL and r['inside']}
+    inside = {x: set(filter(None, r['inside'].split('; '))) for x, r in pred.items()}
+    names = {(r['euk_order'], r['euk_family'], r['euk_genus'], r['euk_species']): r
+             for r in read_tsv(Path(euk) / 'names.tsv')}
+
+    def name_row(x):
+        lab = dict(p.split('__', 1) for p in reads[x]['euk_label'].split(';'))
+        return names[(lab['o'], lab['f'], lab['g'], lab['s'])]
+
+    def stratum(x):
+        return reads[x]['stratum']
+
+    lines, summary = [], {'scores': meta}
+
+    def h(text):
+        lines.append(f'\n## {text}\n')
+
+    def table(header, rows):
+        lines.append('| ' + ' | '.join(header) + ' |')
+        lines.append('|' + '---|' * len(header))
+        for r in rows:
+            lines.append('| ' + ' | '.join(str(c) for c in r) + ' |')
+
+    lines.append('# EUKARYOME long-read test: results\n')
+    lines.append('Protocol `PROTOCOL_EUK.md`; frozen M2b code and protocol v2 (N6), run by `euk_test.py` on `lgdb_test.py`. '
+                 'Generated by `euk_report.py`; every number comes from the score tables in `06_scores`.')
+
+    # ---- 1. integrity
+    h('1. Integrity checks')
+    ev = json.loads((out / '01_evidence/evidence_report.json').read_text())
+    pa = json.loads((out / 'A/parity.json').read_text())
+    par = meta['parity_m4']
+    lines.append(f"- M4 parity: all {par['copies']} copies of the {par['folds']} M4 species folds rescored with the test reads present "
+                 'and excluded; every status, placement, reason and N6 decision equals the stored M4 v2 result.')
+    lines.append(f"- Evidence: the frozen VT and SH evidence was reproduced exactly for all {ev['VT']['reference_copies_reproduced']} reference copies.")
+    lines.append(f"- VT arm: {ev['VT']['test_with_anchor']} of {ev['VT']['test_queries']} test reads have a hit passing the frozen coverage; "
+                 f"{ev['VT_spanned']['test_with_anchor']} with coverage over the spanned part (secondary).")
+    lines.append(f"- SH arm: {ev['SH']['test_with_anchor']} of {ev['SH']['test_queries']} test reads have a passing UNITE hit.")
+    lines.append(f"- Condition A diagnostic: with the test windows added, {pa['alignment_identical']} of {pa['reference_windows']} reference "
+                 f"alignments and {pa['credible_species_clade_units_identical']} credible unit sets were identical (scores use the frozen placements).")
+    lines.append(f"- N6 threshold (all v4 cultures train): {meta['its_threshold_pct']:.3f}% from {meta['its_threshold_n']} distances.")
+    lines.append(f"- Condition B: {len(meta['b_folds'])} rounds.")
+    summary['integrity'] = {'evidence': ev, 'A_parity': pa}
+
+    # rows per read for one analysis and N6 version: B where the read is in a round, else A
+    def primary_set(analysis, ver):
+        a = {r['accession']: r for r in t[f'A_{analysis}_{ver}']}
+        b = {r['accession']: r for r in t.get(f'B_{analysis}_{ver}', [])}
+        rows = []
+        for x in sorted(a):
+            if a[x]['test_role'] in NOVEL:
+                r = dict(b.get(x, a[x]))
+                r['used_condition'] = 'B' if x in b else 'A'
+                rows.append(r)
+        return rows
+
+    # ---- 2. primary outcome
+    h('2. Primary outcome: false-known calls among reads of taxa v4 does not hold')
+    lines.append('Condition B for reads in a removal round, condition A for reads reported apart (protocol section 5).\n')
+    rows_t = []
+    for analysis in ('primary', 'secondary_vt'):
+        for ver in ('v2', 'v1'):
+            rs = primary_set(analysis, ver)
+            fk = [r for r in rs if is_known(r)]
+            blk = {'reads': len(rs), 'false_known': len(fk), 'taxon_macro': macro(rs),
+                   'by_stratum': {s: {'reads': sum(stratum(r['accession']) == s for r in rs),
+                                      'false_known': sum(stratum(r['accession']) == s for r in fk)} for s in STRATA},
+                   'by_condition': dict(Counter(r['used_condition'] for r in fk))}
+            summary[f'primary_{analysis}_{ver}'] = blk
+            rows_t.append([analysis.replace('_', ' '), 'yes' if ver == 'v2' else 'no', len(rs), len(fk), pct(len(fk), len(rs)),
+                           f"{100 * blk['taxon_macro']:.2f}%"] + [f"{blk['by_stratum'][s]['false_known']} / {blk['by_stratum'][s]['reads']}" for s in STRATA])
+    table(['Analysis', 'N6', 'Reads', 'False known', 'Share', 'Taxon-averaged'] + list(STRATA), rows_t)
+    p = summary['primary_primary_v2']
+    lines.append(f"\nPrimary outcome (primary VT analysis, with N6): **{p['false_known']} of {p['reads']} reads "
+                 f"({pct(p['false_known'], p['reads'])})**, averaged over labelled taxa {100 * p['taxon_macro']:.2f}%.")
+    a_only = {}
+    for ver in ('v2', 'v1'):
+        rs = [r for r in t[f'A_primary_{ver}'] if r['test_role'] in NOVEL]
+        a_only[ver] = {'reads': len(rs), 'false_known': sum(map(is_known, rs))}
+    lines.append(f"With the LSU reference intact for every read (condition A): {a_only['v2']['false_known']} of {a_only['v2']['reads']} "
+                 f"with N6, {a_only['v1']['false_known']} without.")
+    summary['A_only'] = a_only
+
+    # ---- 3. complex claim
+    h('3. Test of the complex claim against the lock')
+    fk_rows, claim = [], {}
+    for name in ('B_primary_v2', 'A_primary_v2', 'B_primary_v1', 'A_primary_v1', 'B_secondary_vt_v2', 'A_secondary_vt_v2'):
+        if name not in t:
+            continue
+        these = [r for r in t[name] if r['test_role'] in NOVEL and is_known(r)]
+        for r in these:
+            fk_rows.append({'table': name, 'fold': r['fold'], 'accession': r['accession'], 'organism': r['organism'],
+                            'stratum': stratum(r['accession']), 'called': r['placement'], 'status': r['status'],
+                            'locked_inside': pred[r['accession']]['inside'], 'in_locked_set': int(r['accession'] in locked),
+                            'reasons': r['reasons']})
+        claim[name] = {'false_known': len(these), 'outside_locked_set': sum(r['accession'] not in locked for r in these)}
+    ps = [r for r in primary_set('primary', 'v2') if is_known(r)]
+    claim['primary_set_v2'] = {'false_known': len(ps), 'outside_locked_set': sum(r['accession'] not in locked for r in ps)}
+    write_tsv(rep / 'false_known.tsv', fk_rows)
+    summary['complex_claim'] = claim
+    lines.append(f"Locked set: {len(locked)} read(s) of absent taxa predicted inside a v4 species: "
+                 + '; '.join(f"{x} ({pred[x]['organism']}, inside {pred[x]['inside']})" for x in sorted(locked)) + '.\n')
+    table(['Table', 'False known', 'Outside the locked set'], [[k, v['false_known'], v['outside_locked_set']] for k, v in claim.items()])
+    c = claim['primary_set_v2']
+    lines.append('\n' + ('The claim is not contradicted: no read outside the locked set was called a known species in the primary analysis.'
+                         if c['outside_locked_set'] == 0 else
+                         f"The claim is contradicted: {c['outside_locked_set']} read(s) outside the locked set were called a known species "
+                         '(false_known.tsv).'))
+
+    # ---- 4. every known call against the predictions
+    h('4. Known-species calls on all test reads against the predictions (condition A, primary, with N6)')
+    a2 = t['A_primary_v2']
+    outside_rows, by_role = [], defaultdict(Counter)
+    for r in a2:
+        if not is_known(r):
+            continue
+        x = r['accession']
+        ok = bool(set(called(r)) & inside[x])
+        by_role[r['test_role']]['known calls'] += 1
+        by_role[r['test_role']]['inside the prediction' if ok else 'outside the prediction'] += 1
+        if not ok:
+            outside_rows.append({'accession': x, 'role': r['test_role'], 'organism': r['organism'], 'stratum': stratum(x),
+                                 'called': r['placement'], 'status': r['status'], 'predicted_inside': pred[x]['inside'],
+                                 'ITS_nearest': f"{pred[x]['ITS_nearest_species']} {pred[x]['ITS_nearest_pct']}",
+                                 'LSU_nearest': f"{pred[x]['LSU_nearest_species']} {pred[x]['LSU_nearest_pct']}",
+                                 'SSU_nearest': f"{pred[x]['SSU_nearest_species']} {pred[x]['SSU_nearest_pct']}"})
+    write_tsv(rep / 'calls_outside_prediction.tsv', outside_rows)
+    table(['Role', 'Known calls', 'Inside the prediction', 'Outside'],
+          [[k, v['known calls'], v['inside the prediction'], v['outside the prediction']] for k, v in sorted(by_role.items())])
+    lines.append('\nA call is inside the prediction when at least one called species is a v4 species the read lies inside on all three '
+                 'markers. For reads of absent taxa this is section 3; for the others it shows how far the rule describes the calls.')
+    summary['all_calls'] = {k: dict(v) for k, v in by_role.items()}
+
+    # ---- 5. known species kept
+    h('5. Known species kept (condition A)')
+    ret = {}
+    demoted = []
+    for ver in ('v2', 'v1'):
+        rs = [r for r in t[f'A_primary_{ver}'] if r['test_role'] == 'known species']
+        sp = defaultdict(Counter)
+        for r in rs:
+            x = r['accession']
+            own_in = pred[x]['own_species_in_v4'] in inside[x]
+            kept = is_known(r) and r['organism'] in called(r)
+            for key in ('all', 'predicted inside own species' if own_in else 'predicted outside own species'):
+                sp[key]['reads'] += 1
+                sp[key]['kept'] += kept
+                sp[key]['known, other species'] += is_known(r) and not kept
+            if ver == 'v2' and r['its_rule_fired'] == '1':
+                demoted.append({'accession': x, 'organism': r['organism'], 'its_nearest_training_pct': r['its_nearest_training_pct'],
+                                'its_threshold_pct': r['its_threshold_pct'], 'status': r['status'], 'predicted_inside': pred[x]['inside']})
+        ret[ver] = {k: dict(v) for k, v in sp.items()}
+    table(['Subset', 'Reads', 'Kept with N6', 'Kept without N6', 'Known, other species (with N6)'],
+          [[k, ret['v2'][k]['reads'], ret['v2'][k]['kept'], ret['v1'].get(k, {}).get('kept', 0), ret['v2'][k]['known, other species']]
+           for k in ('all', 'predicted inside own species', 'predicted outside own species') if k in ret['v2']])
+    lines.append(f"\nN6 fired for {len(demoted)} known-species reads (ITS distance to the nearest training culture of their species: "
+                 + ', '.join(sorted(d['its_nearest_training_pct'] for d in demoted)) + ').')
+    write_tsv(rep / 'n6_demoted_known.tsv', demoted)
+    per_sp = []
+    for org in sorted({r['organism'] for r in t['A_primary_v2'] if r['test_role'] == 'known species'}):
+        rs = [r for r in t['A_primary_v2'] if r['organism'] == org and r['test_role'] == 'known species']
+        per_sp.append({'species': org, 'reads': len(rs), 'kept': sum(is_known(r) and org in called(r) for r in rs),
+                       'predicted_inside_own': sum(pred[r['accession']]['own_species_in_v4'] in inside[r['accession']] for r in rs),
+                       'statuses': '; '.join(f'{k} {v}' for k, v in Counter(r['status'] for r in rs).most_common())})
+    write_tsv(rep / 'known_by_species.tsv', per_sp)
+    summary['known_retention_A'] = ret
+    summary['n6_demoted_known'] = len(demoted)
+
+    # ---- 6. genus
+    h('6. Genus and novelty rank for absent taxa')
+    expected = {'novel species, genus in v4': 'novel species, genus known', 'novel lineage, genus not in v4': 'novel lineage'}
+    gen_rows = []
+    for label, rows in (('primary set (B where planned)', primary_set('primary', 'v2')),
+                        ('condition A', [r for r in t['A_primary_v2'] if r['test_role'] in NOVEL])):
+        for s in STRATA:
+            rs = [r for r in rows if stratum(r['accession']) == s]
+            scored = [r for r in rs if r['organism'] not in NO_GENUS_OUTCOME and r['organism'].split()[0] not in NO_GENUS_OUTCOME_GENERA]
+            st = Counter(r['status'] for r in rs)
+            if s == 'absent species, genus in v4':
+                right = sum(r['final_genus_call'] == '1' and r['final_genus_compatible'] == '1' for r in scored)
+                wrong = sum(r['final_genus_call'] == '1' and r['final_genus_compatible'] != '1' for r in scored)
+            else:
+                right, wrong = 0, sum(r['final_genus_call'] == '1' for r in scored)
+            none = sum(r['final_genus_call'] != '1' for r in scored)
+            role = rs[0]['test_role'] if rs else ''
+            gen_rows.append([label, s, len(rs), len(rs) - len(scored), f"{st.get(expected.get(role, ''), 0)}", right, wrong, none,
+                             '; '.join(f'{k} {v}' for k, v in st.most_common())])
+            summary[f'genus|{label}|{s}'] = {'reads': len(rs), 'no_genus_outcome': len(rs) - len(scored), 'right': right, 'wrong': wrong,
+                                             'none': none, 'status': dict(st)}
+    table(['Rows', 'Stratum', 'Reads', 'No genus outcome', 'Expected rank', 'Genus right', 'Genus wrong', 'No genus', 'Statuses'], gen_rows)
+    lines.append('\nFor absent genera and placeholder taxa any genus given is wrong; Nanoglomus and Dentiscutata erythropus have no genus '
+                 'outcome (protocol sections 2 and 6). Expected rank: novel species, genus known (absent species) or novel lineage.')
+    # genus agreement for genus-only reads (descriptive)
+    agree_rows, agree = [], defaultdict(Counter)
+    for r in t['A_primary_v2']:
+        if r['test_role'] != 'genus only':
+            continue
+        x = r['accession']
+        nm = name_row(x)
+        sub = 'membership open' if nm['v4_status'] == 'genus open' else 'genus in v4'
+        tok = genus_tokens(r)
+        if not tok:
+            v = 'no genus given'
+        elif nm['v4_genus'] in tok:
+            v = 'label genus'
+        else:
+            v = 'another genus'
+            agree_rows.append({'accession': x, 'euk_label': reads[x]['euk_label'], 'label_v4_genus': nm['v4_genus'],
+                               'called': r['placement'], 'status': r['status']})
+        agree[sub][v] += 1
+        agree[sub]['reads'] += 1
+    write_tsv(rep / 'genus_only_other_genus.tsv', agree_rows)
+    lines.append('\nGenus-only reads (descriptive): ' + '; '.join(
+        f"{k}: {v['reads']} reads, label genus {v['label genus']}, another genus {v['another genus']}, none {v['no genus given']}"
+        for k, v in agree.items()) + '.')
+    summary['genus_only_agreement'] = {k: dict(v) for k, v in agree.items()}
+
+    # ---- 7. descriptive
+    h('7. Statuses, divergent-copy and artifact calls, short-5.8S motif (condition A, primary, with N6)')
+    st_rows = []
+    for role in ('known species',) + NOVEL + ('genus only',):
+        rs = [r for r in a2 if r['test_role'] == role]
+        st_rows.append([role, len(rs), sum(r['d1_short'] == '1' for r in rs), sum(r['d2_paralog'] == '1' for r in rs),
+                        sum(r['artifact_screen'] == '1' for r in rs), '; '.join(f'{k} {v}' for k, v in Counter(r['status'] for r in rs).most_common())])
+    table(['Role', 'Reads', 'D1 (short 5.8S)', 'D2 (paralog name)', 'Artifact screen', 'Statuses'], st_rows)
+    s58 = inputs.win['s58']
+    mot = [x for x, s in s58.items() if MOTIF.search(s)]
+    a2x = {r['accession']: r for r in a2}
+    mrows = [{'accession': x, 'organism': reads[x]['organism'], 'stratum': stratum(x), 's58_len': len(s58[x]),
+              'status': a2x[x]['status'], 'd1_short': a2x[x]['d1_short'], 'd2_paralog': a2x[x]['d2_paralog'], 'called': a2x[x]['placement']}
+             for x in sorted(mot)]
+    write_tsv(rep / 'motif_reads.tsv', mrows)
+    by_org = Counter(m['organism'] for m in mrows)
+    lines.append(f"\nReads whose 5.8S carries YTYGGRGARTATG: {len(mot)}; by label: "
+                 + '; '.join(f'{k} {v}' for k, v in by_org.most_common()) + '. Their statuses: '
+                 + '; '.join(f'{k} {v}' for k, v in Counter(m['status'] for m in mrows).most_common()) + '.')
+    summary['motif'] = {'reads': len(mot), 'by_label': dict(by_org), 'status': dict(Counter(m['status'] for m in mrows))}
+
+    # ---- 8. flags
+    h('8. Primary outcome without the flagged reads (protocol section 1)')
+    rs = primary_set('primary', 'v2')
+    flag_v18 = {x for x, r in reads.items() if r['v18_best_pct'] not in ('', None) and float(r['v18_best_pct']) >= 99.5}
+    flag_id = {x for x, r in reads.items() if r['non_euk_id'] == 'yes'}
+    f_rows = []
+    for label, drop in (('all reads', set()), ('without V18 >= 99.5%', flag_v18), ('without non-EUKARYOME IDs', flag_id),
+                        ('without either', flag_v18 | flag_id)):
+        sub = [r for r in rs if r['accession'] not in drop]
+        f_rows.append([label, len(sub), sum(map(is_known, sub)), pct(sum(map(is_known, sub)), len(sub))])
+    table(['Subset', 'Reads', 'False known', 'Share'], f_rows)
+    summary['flags'] = f_rows
+
+    # ---- 9. VT
+    h('9. VT state, boundary calls and flags')
+    for name in ('A_primary_v2', 'A_secondary_vt_v2'):
+        rows = t.get(name, [])
+        lines.append(f"- {name}: VT {dict(Counter(r['VT_state'] for r in rows))}; boundary (B1) {sum(r['status'] == 'boundary' for r in rows)}; "
+                     f"B2 flags {sum('B2' in r['flags'] for r in rows)}; Q1 flags {sum('Q1' in r['flags'] for r in rows)}")
+    if 'A_secondary_vt_v2' in t:
+        prim = {r['accession']: r for r in t['A_primary_v2']}
+        ch = [r for r in t['A_secondary_vt_v2'] if r['status'] != prim[r['accession']]['status']]
+        vtch = sum(r['VT_state'] != prim[r['accession']]['VT_state'] for r in t['A_secondary_vt_v2'])
+        lines.append(f"- secondary against primary (A): VT state changed for {vtch} reads, status for {len(ch)}")
+        write_tsv(rep / 'secondary_status_changes_A.tsv', [{'accession': r['accession'], 'role': r['test_role'],
+                                                           'primary': prim[r['accession']]['status'], 'secondary': r['status'],
+                                                           'primary_call': prim[r['accession']]['placement'],
+                                                           'secondary_call': r['placement']} for r in ch])
+
+    # ---- label disagreements, for EUKARYOME's maintainers (wording: disagreements, not errors)
+    dis = [dict(x, kind='genus-only read called in another genus') for x in agree_rows]
+    for r in a2:
+        if r['test_role'] == 'known species' and is_known(r) and r['organism'] not in called(r):
+            dis.append({'accession': r['accession'], 'euk_label': reads[r['accession']]['euk_label'], 'label_v4_genus': '',
+                        'called': r['placement'], 'status': r['status'], 'kind': 'known-species read called another species'})
+    write_tsv(rep / 'label_disagreements.tsv', dis)
+
+    (rep / 'report.md').write_text('\n'.join(lines) + '\n')
+    (rep / 'report.json').write_text(json.dumps(summary, indent=2, sort_keys=True, default=str) + '\n')
+    print('\n'.join(lines))
+    print(f'\nwritten: {rep}/report.md, report.json, false_known.tsv, calls_outside_prediction.tsv, known_by_species.tsv, '
+          'n6_demoted_known.tsv, genus_only_other_genus.tsv, motif_reads.tsv, label_disagreements.tsv')
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument('--euk', type=Path, required=True)
+    ap.add_argument('--out', type=Path, default=ROOT / 'runs_euk')
+    a = ap.parse_args()
+    report(a.euk.resolve(), a.out.resolve())
+
+
+if __name__ == '__main__':
+    main()
