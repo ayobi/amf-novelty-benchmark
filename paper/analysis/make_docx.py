@@ -134,7 +134,7 @@ def main():
     head = ('\\documentclass{article}\n\\begin{document}\n'
             f'\\section*{{{title}}}\n\n'
             "Aaron O'Brien\\textsuperscript{1,*}, C\\'esar Mar\\'in\\textsuperscript{2}, Leho Tedersoo\\textsuperscript{3}\n\n"
-            '\\textsuperscript{1}Santiago, Chile. '
+            "\\textsuperscript{1}Centro de Biotecnolog\\'ia de Sistemas (CSB), Universidad Andr\\'es Bello, Santiago, Chile. "
             "\\textsuperscript{2}Centro de Investigaci\\'on e Innovaci\\'on para el Cambio Clim\\'atico (CiiCC), Facultad de "
             "Ciencias, Universidad Santo Tom\\'as, Valdivia, Chile. "
             '\\textsuperscript{3}Mycology and Microbiology Center, Institute of Technology, University of Tartu, Tartu, '
