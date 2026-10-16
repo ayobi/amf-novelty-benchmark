@@ -1,0 +1,15 @@
+{
+  "key": "5076a0417d46db7b9d92543e2e9bfd577eb407e530ff754fdb2586700c465eba:model",
+  "outputs": {
+    "commands.json": "92cd3897665d70e6704f771e4171e26ae180507193eb37d6deb76f5d336890f9",
+    "fit.raxml.bestModel": "4131af38828a948a53a75d26d0f7223814be3da99427d8e89293cdbbf51c8c4d",
+    "fit.raxml.bestTree": "cff638f263e1f213c09e6e80c3bcd631bc50285c1c8f9f1a73ce5d3446ce2158",
+    "fit.raxml.bestTreeCollapsed": "6bdb52bc0a86bd8f1009c8a8fdcc224b51214ed4fefed9febb0e686e84c84246",
+    "fit.raxml.log": "0533217284ead06611f135840bab25d23f095d810ae14bb395ff40abebff425d",
+    "fit.raxml.rba": "ac5d8473052c0d1d64acf16548070c8b03d5dea7c321483d9b16734e9809d184",
+    "fit.raxml.reduced.phy": "fee88e68e3bdab1516028e013e38326d1753a2a784ea22d2ed2dcd7485227de6",
+    "fit.raxml.startTree": "a7c5d77dfc7cf30a5e14b448d6cb97fdc60863367e18c6377eb37584448b1894",
+    "raxml.log": "0533217284ead06611f135840bab25d23f095d810ae14bb395ff40abebff425d"
+  },
+  "seconds": 0.7524588270025561
+}

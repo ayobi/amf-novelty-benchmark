@@ -1,0 +1,23 @@
+{
+  "key": "d63c2e62e892c88631090a9adda587d549522788a48405ffda9070b0fc22bb65",
+  "placements_sha256": "6e9d0a7c512e320793a0a31717d9e64d6bb5bb65f6bf71b00046a10eec81d897",
+  "plan": {
+    "key": "euk_species_acaulospora_brasiliensis",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266053",
+      "EUK1360347"
+    ],
+    "removed_ref_ids": [
+      "R0313",
+      "R0314"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora brasiliensis",
+    "target_cultures": [
+      "Acaulospora brasiliensis | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora brasiliensis"
+  }
+}

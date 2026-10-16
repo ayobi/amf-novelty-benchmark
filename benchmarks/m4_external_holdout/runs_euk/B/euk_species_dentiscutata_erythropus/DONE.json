@@ -1,0 +1,22 @@
+{
+  "key": "20708acb962bac5bd3c1fce69ebb70e098b698c3568c56d04b1fb7392f22a43d",
+  "placements_sha256": "2ab7871f22e9ef721aa4cc78a6c02a5cd9847806744c40cdc1c4768f909fb099",
+  "plan": {
+    "key": "euk_species_dentiscutata_erythropus",
+    "mapping": "species round",
+    "query_ids": [
+      "GCA_910591965"
+    ],
+    "removed_ref_ids": [
+      "R0418",
+      "R0419"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Dentiscutata erythropus",
+    "target_cultures": [
+      "Dentiscutata erythropus | EUKARYOME"
+    ],
+    "v18_label": "Dentiscutata erythropus"
+  }
+}

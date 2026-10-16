@@ -1,0 +1,27 @@
+INFO Selected: Output dir: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_euk/B/euk_genus_scutellospora/04_epa/
+INFO Selected: Query file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_euk/B/euk_genus_scutellospora/03_queries/queries.aligned.fasta
+INFO Selected: Tree file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_euk/B/euk_genus_scutellospora/02_model/fit.raxml.bestTree
+INFO Selected: Reference MSA: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_euk/B/euk_genus_scutellospora/01_reference/aligned.fasta
+INFO Selected: Filtering by minimum threshold: 0
+INFO Selected: Maximum number of placements per query: 2000
+INFO Selected: Custom output floating point precision: 12
+INFO Selected: Disabling pre-masking. (repeats enabled!)
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_euk/B/euk_genus_scutellospora/02_model/fit.raxml.bestModel
+INFO Selected: Using threads: 4
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.686834 (user),  weights&rates: (0.25,0.0713785) (0.25,0.357251) (0.25,0.91989) (0.25,2.65148) 
+        Base frequencies (user): 0.198275 0.219073 0.301392 0.28126 
+        Substitution rates (user): 1.0062 4.71457 2.05829 0.378466 6.52689 1
+INFO Output file: /home/csb/Downloads/AMF_test/amf_m4_step1/runs_euk/B/euk_genus_scutellospora/04_epa/epa_result.jplace
+INFO 5000 Sequences done!
+INFO 6414 Sequences done!
+INFO Time spent placing: 705s
+INFO Elapsed Time: 705s

@@ -1,0 +1,22 @@
+{
+  "key": "5d815d18d7d5da39ab080876110b0b4df6a115f76ae8c6c8fdd2809d442e9d2f",
+  "placements_sha256": "0f34e8ac7eff9561d1a929044fb7f86d9b575bc47edad1e471ae632c0677d0cd",
+  "plan": {
+    "key": "euk_species_acaulospora_paulinae",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1360349"
+    ],
+    "removed_ref_ids": [
+      "R0346",
+      "R0347"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora paulinae",
+    "target_cultures": [
+      "Acaulospora paulinae | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora paulinae"
+  }
+}

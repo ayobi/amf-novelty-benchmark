@@ -1,0 +1,22 @@
+{
+  "key": "0d6850a08ba58f231717d5bfdf56773a9c545995bf64e24e8dd0b9c122b4a0a8",
+  "placements_sha256": "6d2f4b72ba5c521a4b63102632041abd0017f22c48cba40dd43c36cbb0e8ec8b",
+  "plan": {
+    "key": "euk_species_septoglomus_furcatum",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1268987"
+    ],
+    "removed_ref_ids": [
+      "R0048",
+      "R0049"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Septoglomus furcatum",
+    "target_cultures": [
+      "Septoglomus furcatum | EUKARYOME"
+    ],
+    "v18_label": "Septoglomus furcatum"
+  }
+}

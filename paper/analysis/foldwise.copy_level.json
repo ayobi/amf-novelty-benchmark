@@ -1,0 +1,74 @@
+{
+ "v2": {
+  "false_known": 53,
+  "inside_any": 48,
+  "called_species_inside": 48,
+  "outside": [
+   "PX207171.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX207172.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX207173.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX214802.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX214803.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum"
+  ]
+ },
+ "v1": {
+  "false_known": 78,
+  "inside_any": 48,
+  "called_species_inside": 48,
+  "outside": [
+   "PX207101.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207102.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207103.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207104.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207105.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207106.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215138.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215139.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215140.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215141.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX214449.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214450.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214451.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214452.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214453.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214454.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214455.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX214456.1 Funneliformis geosporum -> Funneliformis caledonium",
+   "PX207171.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX207172.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX207173.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX214802.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX214803.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX214806.1 Rhizophagus irregularis -> [Rhizoglomus] vesiculiferum",
+   "PX214609.1 Septoglomus africanum -> Septoglomus turnauae",
+   "PX214610.1 Septoglomus africanum -> Septoglomus turnauae",
+   "PX214611.1 Septoglomus africanum -> Septoglomus turnauae",
+   "PX214612.1 Septoglomus africanum -> Septoglomus turnauae",
+   "PX214613.1 Septoglomus africanum -> Septoglomus turnauae",
+   "PX214614.1 Septoglomus africanum -> Septoglomus turnauae"
+  ]
+ },
+ "control_v2": {
+  "false_known": 9,
+  "inside_any": 9,
+  "called_species_inside": 9,
+  "outside": []
+ },
+ "control_v1": {
+  "false_known": 19,
+  "inside_any": 9,
+  "called_species_inside": 9,
+  "outside": [
+   "PX207101.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207102.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207103.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207104.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207105.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX207106.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215138.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215139.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215140.1 Ambispora leptoticha -> Ambispora callosa",
+   "PX215141.1 Ambispora leptoticha -> Ambispora callosa"
+  ]
+ }
+}

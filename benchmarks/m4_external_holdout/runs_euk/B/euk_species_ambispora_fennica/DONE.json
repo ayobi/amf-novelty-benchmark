@@ -1,0 +1,28 @@
+{
+  "key": "17a0d46a66721a40820b812ad67728c2c1b539064465f80de00cb454a827208e",
+  "placements_sha256": "496a5e5f0689052613fc109c274044b7ddd11585e81561d682f203a1c1c61944",
+  "plan": {
+    "key": "euk_species_ambispora_fennica",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1187762",
+      "EUK1187763",
+      "EUK1360325",
+      "EUK1883307",
+      "EUK1895516",
+      "EUK1896121",
+      "EUK1899442"
+    ],
+    "removed_ref_ids": [
+      "R0303",
+      "R0304"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Ambispora fennica",
+    "target_cultures": [
+      "Ambispora fennica | EUKARYOME"
+    ],
+    "v18_label": "Ambispora fennica"
+  }
+}

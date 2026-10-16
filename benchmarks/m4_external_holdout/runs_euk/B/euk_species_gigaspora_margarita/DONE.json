@@ -1,0 +1,23 @@
+{
+  "key": "0102311121909a352706a77b727c16e6b83ed321b45b331851abe5893538520d",
+  "placements_sha256": "4e961a58f6f57d82c9547f804ced1e30dbfa3894dc39a77a12e574d015272a87",
+  "plan": {
+    "key": "euk_species_gigaspora_margarita",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266301",
+      "GBYF01077849"
+    ],
+    "removed_ref_ids": [
+      "R0402",
+      "R0403"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Gigaspora margarita",
+    "target_cultures": [
+      "Gigaspora margarita | EUKARYOME"
+    ],
+    "v18_label": "Gigaspora margarita"
+  }
+}

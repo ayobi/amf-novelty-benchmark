@@ -1,0 +1,20 @@
+\begin{table}[htbp]\centering
+\begin{threeparttable}
+\caption{Assignment of the \EkTestN{} EUKARYOME sequences with the rules as fixed in advance.}
+\label{tab:euk}
+\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{L{0.10\linewidth}L{0.12\linewidth}L{0.12\linewidth}L{0.07\linewidth}L{0.19\linewidth}L{0.14\linewidth}L{0.11\linewidth}}
+\toprule
+Analysis & LSU reference & False known (of 2{,}706) & Share & Absent species: genus right/wrong/none (of 76) & Absent genera: genus given (of 1{,}636) & Known kept (of 199)\\
+\midrule
+Main & removed & 13 (24) & 0.5\% & 49 / 0 / 27 & 268 & --\\
+ & intact & 13 (21) & 0.5\% & 44 / 0 / 32 & 61 & 152 (172)\\
+Second & removed & 14 (25) & 0.5\% & 50 / 0 / 26 & 271 & --\\
+ & intact & 14 (22) & 0.5\% & 45 / 0 / 31 & 64 & 152 (172)\\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\footnotesize
+\item Counts with the ITS distance rule; in brackets, without it. \emph{LSU reference}: \emph{removed}, each absent species or genus that V18 holds was removed in its own round (sequences of taxa that V18 does not name were placed on the full reference); \emph{intact}, every sequence was placed on the full reference. \emph{False known}: sequences of taxa absent from the reference that were assigned to a known species or species group. \emph{Absent species}: sequences of species absent from the reference, in genera present in it (\spn{Dentiscutata erythropus}, whose genus is uncertain, not counted). \emph{Absent genera}: sequences of genera absent from the reference and of EUKARYOME placeholder lineages, for which any genus given is wrong (\spn{Nanoglomus} not counted; Section~\ref{sec:euk-methods}). \emph{Known kept}: sequences of species present in the reference whose assignment includes their own species. \emph{Second}: VT coverage counted over the part of each MaarjAM reference that the sequence spans.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

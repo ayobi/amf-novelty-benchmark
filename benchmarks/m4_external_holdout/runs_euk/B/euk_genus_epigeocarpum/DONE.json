@@ -1,0 +1,33 @@
+{
+  "key": "5076a0417d46db7b9d92543e2e9bfd577eb407e530ff754fdb2586700c465eba",
+  "placements_sha256": "ac8927f1e993e05b7e6065ac7451febf0f41410aec4ecfae02db57999fc5afdc",
+  "plan": {
+    "key": "euk_genus_epigeocarpum",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1187994",
+      "EUK1187995",
+      "EUK1187996",
+      "EUK1187997",
+      "EUK1266726",
+      "EUK1266727",
+      "EUK1266728",
+      "EUK1824985",
+      "EUK1824986"
+    ],
+    "removed_ref_ids": [
+      "R0120",
+      "R0121",
+      "R0122",
+      "R0123"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Epigeocarpum",
+    "target_cultures": [
+      "Epigeocarpum crypticum | EUKARYOME",
+      "Epigeocarpum sp. | EUKARYOME"
+    ],
+    "v18_label": "Epigeocarpum crypticum;Epigeocarpum japonicum"
+  }
+}

@@ -109,7 +109,7 @@ def main():
         t = f.read_text(encoding='utf8')
         for m in re.finditer(r'\\newcommand\{\\([A-Za-z]+)\}', t):
             macros[m.group(1)] = braced(t, m.end())[0]
-    s = re.sub(r'\\input\{numbers_[a-z]+\.tex\}[^\n]*\n', '', s)
+    s = re.sub(r'\\input\{numbers_[a-z_]+\.tex\}[^\n]*\n', '', s)
     s = re.sub(r'\\input\{(tables/[^}]+)\}', lambda m: (root / m.group(1)).read_text(encoding='utf8')
                if m.group(1).endswith('.tex') else (root / (m.group(1) + '.tex')).read_text(encoding='utf8'), s)
     names = sorted(macros, key=len, reverse=True)

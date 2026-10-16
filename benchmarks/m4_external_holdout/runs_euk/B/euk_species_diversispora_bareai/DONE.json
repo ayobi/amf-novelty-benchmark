@@ -1,0 +1,22 @@
+{
+  "key": "6cc9a247dee06a1e707bd8a40cec4a556a1d3145bc2eeb1d090451e41ff57fa1",
+  "placements_sha256": "19331e93d1972c370bae54350423b68e1c4a9748cf92737efbc4189bb17269d1",
+  "plan": {
+    "key": "euk_species_diversispora_bareai",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266127"
+    ],
+    "removed_ref_ids": [
+      "R0292",
+      "R0293"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Diversispora bareai",
+    "target_cultures": [
+      "Diversispora bareai | EUKARYOME"
+    ],
+    "v18_label": "Diversispora bareai"
+  }
+}

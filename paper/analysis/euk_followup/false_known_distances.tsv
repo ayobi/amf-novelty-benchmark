@@ -1,0 +1,14 @@
+accession	organism	assigned	in_locked_prediction	inside_named	inside_genus_only	nearest_ITS	ITS_pct	nearest_LSU	LSU_pct	nearest_SSU	SSU_pct
+EUK1124325	Septoglomus nigrum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | FS_9_2328B	Septoglomus sp. | FS_9_2328B	4.26	Septoglomus sp. | FS_9_2328B	1.21	Septoglomus sp. | FS_9_2328B	0.25
+EUK1124327	Septoglomus constrictum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | 4404_2057A	Septoglomus sp. | 4404_2057A	5.58	Septoglomus sp. | 4404_2057A	1.48	Septoglomus sp. | 4404_2057A	0.74
+EUK1124328	Septoglomus constrictum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | 4404_2057A	Septoglomus sp. | 4404_2057A	5.20	Septoglomus sp. | 4404_2057A	1.89	Septoglomus sp. | 4404_2057A	0.66
+EUK1124329	Septoglomus constrictum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | 4404_2057A	Septoglomus sp. | 4404_2057A	4.60	Septoglomus sp. | 4404_2057A	1.75	Septoglomus sp. | 4404_2057A	0.57
+EUK1124332	Septoglomus nigrum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | FS_9_2328B	Septoglomus sp. | FS_9_2328B	2.77	Septoglomus sp. | FS_9_2328B	1.21	Septoglomus sp. | FS_9_2328B	0.00
+EUK1188351	Septoglomus constrictum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | 4404_2057A	Septoglomus sp. | 4404_2057A	4.60	Septoglomus sp. | 4404_2057A	1.88	Septoglomus sp. | 4404_2057A	0.66
+EUK1200709	Septoglomus constrictum	Septoglomus viscosum	False		Septoglomus sp. | 4404_2057A	Septoglomus sp. | 4404_2057A	5.40	Septoglomus sp. | 4404_2057A	1.88	Septoglomus sp. | 4404_2057A	0.42
+EUK1266127	Diversispora bareai	Diversispora jakucsiae	True	Diversispora jakucsiae | Blasz_11_2271A;Diversispora arenaria | Blasz_14_2274A		Diversispora jakucsiae | Blasz_11_2271A	1.99	Diversispora jakucsiae | Blasz_11_2271A	0.41	Diversispora jakucsiae | Blasz_11_2271A	0.16
+EUK1266610	Dominikia achra	Dominikia duoreactiva	False			Dominikia duoreactiva | 4412	5.99	Dominikia duoreactiva | 4392_1156C	3.78	Dominikia duoreactiva | 4412	0.66
+EUK1266724	Dominikia achra	Dominikia duoreactiva	False			Dominikia duoreactiva | 4412	4.39	Dominikia duoreactiva | 4392_1156C	3.11	Dominikia duoreactiva | 4392_1156C	0.41
+EUK1886274	Septoglomus nigrum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | FS_9_2328B	Septoglomus sp. | FS_9_2328B	3.84	Septoglomus sp. | FS_9_2328B	0.81	Septoglomus sp. | FS_9_2328B	0.00
+EUK1893150	Septoglomus nigrum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | FS_9_2328B	Septoglomus sp. | FS_9_2328B	2.55	Septoglomus sp. | FS_9_2328B	1.21	Septoglomus sp. | FS_9_2328B	0.00
+EUK1896239	Septoglomus nigrum	Septoglomus africanum;Septoglomus turnauae	False		Septoglomus sp. | FS_9_2328B	Septoglomus sp. | FS_9_2328B	1.28	Septoglomus sp. | FS_9_2328B	0.94	Septoglomus sp. | FS_9_2328B	0.08

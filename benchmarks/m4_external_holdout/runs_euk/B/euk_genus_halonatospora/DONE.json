@@ -1,0 +1,24 @@
+{
+  "key": "59791aa5506a5ff33126ec6d6c20f18a8363353ee4dec55c87961bb93265a98a",
+  "placements_sha256": "68fa236c1e6f0deb2e9a7850d8063d3768623af7a994dd6d3590c3bcc0cac047",
+  "plan": {
+    "key": "euk_genus_halonatospora",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1267090",
+      "EUK1267091"
+    ],
+    "removed_ref_ids": [
+      "R0068",
+      "R0069"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Halonatospora",
+    "target_cultures": [
+      "Halonatospora pansihalos | EUKARYOME",
+      "Halonatospora sp. | EUKARYOME"
+    ],
+    "v18_label": "Halonatospora pansihalos"
+  }
+}

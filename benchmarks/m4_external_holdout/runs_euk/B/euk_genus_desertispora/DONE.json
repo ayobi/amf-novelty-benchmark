@@ -1,0 +1,30 @@
+{
+  "key": "858be7b2631f26331cf8ef36cb50f411108592084229235af2b272456fcfc291",
+  "placements_sha256": "bbb89bce97107979ed965dfd99f6d61b8f96e9765b0f143d8763d3089e65c1e1",
+  "plan": {
+    "key": "euk_genus_desertispora",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1266064",
+      "EUK1266065",
+      "EUK1266066",
+      "EUK1266067",
+      "EUK1883340",
+      "EUK1895313",
+      "EUK1895316",
+      "EUK1895317",
+      "EUK1895318"
+    ],
+    "removed_ref_ids": [
+      "R0249",
+      "R0250"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Desertispora",
+    "target_cultures": [
+      "Desertispora sp. | EUKARYOME"
+    ],
+    "v18_label": "Desertispora omaniana"
+  }
+}

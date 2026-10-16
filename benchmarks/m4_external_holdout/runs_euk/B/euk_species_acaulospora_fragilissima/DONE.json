@@ -1,0 +1,22 @@
+{
+  "key": "a665a9c16ea60d5eee0b4ad14d1eaeee1c80cd6e6f889b8236d5e59369dfd08b",
+  "placements_sha256": "21b3fee463d835c4fa128b52094a5ee52a79099bde4c4d2f5403ca17a5ffe2c0",
+  "plan": {
+    "key": "euk_species_acaulospora_fragilissima",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266056"
+    ],
+    "removed_ref_ids": [
+      "R0324",
+      "R0325"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora fragilissima",
+    "target_cultures": [
+      "Acaulospora fragilissima | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora fragilissima"
+  }
+}

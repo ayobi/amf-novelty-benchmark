@@ -1,0 +1,28 @@
+{
+  "key": "eec1279cf4861aeb086ed79dfd05a206bf38a13269385c6edd4513b9451e0914",
+  "placements_sha256": "57cb833beb81e547724759b2d5a7f9b6498379adc57f052522b03b0509c1c783",
+  "plan": {
+    "key": "euk_genus_complexispora",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1201558",
+      "EUK1201787",
+      "EUK1266336",
+      "EUK1266337",
+      "EUK1360359"
+    ],
+    "removed_ref_ids": [
+      "R0150",
+      "R0151",
+      "R0152",
+      "R0153"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Complexispora",
+    "target_cultures": [
+      "Complexispora sp. | EUKARYOME"
+    ],
+    "v18_label": "Complexispora mediterranea;Complexispora multistratosa"
+  }
+}

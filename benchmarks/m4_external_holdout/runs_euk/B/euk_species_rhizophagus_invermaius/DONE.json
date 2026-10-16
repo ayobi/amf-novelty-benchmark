@@ -1,0 +1,27 @@
+{
+  "key": "1f0dd7511bf81b9be3912021891e307107830f3eed19870c91008acf31b33ca2",
+  "placements_sha256": "7b6551c1c14a212ea4d8bc0cb79dca7c89e23c713ecf4130ff39bb6e5df2dfd5",
+  "plan": {
+    "key": "euk_species_rhizophagus_invermaius",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1124315",
+      "EUK1268788",
+      "EUK1360409",
+      "EUK1360410",
+      "EUK1886271",
+      "EUK1896288"
+    ],
+    "removed_ref_ids": [
+      "R0080",
+      "R0081"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Rhizophagus invermaius",
+    "target_cultures": [
+      "Rhizophagus invermaius | EUKARYOME"
+    ],
+    "v18_label": "Rhizophagus invermaius"
+  }
+}

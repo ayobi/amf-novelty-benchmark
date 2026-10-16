@@ -1,0 +1,22 @@
+{
+  "key": "fa8f086bd89cb8e63ad7fd2ea00728af49fc98cf2ea201e521f1ad9a2fe60dea",
+  "placements_sha256": "1334ad94ccb0d2f7756130f7fbe1667c0ca53cb0a459f2cc605b9bf4f304f988",
+  "plan": {
+    "key": "euk_species_paraglomus_occultum",
+    "mapping": "species round",
+    "query_ids": [
+      "GCA_910592205"
+    ],
+    "removed_ref_ids": [
+      "R0393",
+      "R0394"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Paraglomus occultum",
+    "target_cultures": [
+      "Paraglomus occultum | EUKARYOME"
+    ],
+    "v18_label": "Paraglomus occultum"
+  }
+}

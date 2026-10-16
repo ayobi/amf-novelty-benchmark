@@ -1,0 +1,22 @@
+{
+  "key": "12dcb9253a8e2011137c7c4921b56c13c2a59e5997e65a3dc158532e60f225e8",
+  "placements_sha256": "30525f49df8227f57dd2727c6e4d856341579f0d14049cada50d912c2ab7e644",
+  "plan": {
+    "key": "euk_species_rhizophagus_clarus",
+    "mapping": "species round",
+    "query_ids": [
+      "GCA_015698045"
+    ],
+    "removed_ref_ids": [
+      "R0379",
+      "R0380"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Rhizophagus clarus",
+    "target_cultures": [
+      "Rhizophagus clarus | EUKARYOME"
+    ],
+    "v18_label": "Rhizophagus clarus"
+  }
+}

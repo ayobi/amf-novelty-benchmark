@@ -1,0 +1,17 @@
+{
+  "aligned_query_sha256": "d86d9977519f156ad3db097056133cff347e0b231052abe5171a0eaefe345f96",
+  "alignment_eligible": 6414,
+  "credible_mass": 0.95,
+  "external_rank_counts": {
+    "AMF_broad": 410,
+    "genus_clade": 1455,
+    "species_clade": 4540,
+    "unresolved": 9
+  },
+  "metadata_sha256": "6fc9dc63929546cf2302d999da28eb64bce50e339b84dff35d821c29542dd933",
+  "placements_sha256": "3cc3b059efd38aea88e5202601b0730eec5916a2edbf7f5064613140956b342a",
+  "queries": 6414,
+  "raw_query_sha256": "be2962c6bc637cc86e4d960f3501c392362d74ee682695e1e31e65891f4395c6",
+  "reference_tips": 493,
+  "tree_edges": 983
+}

@@ -1,0 +1,23 @@
+{
+  "key": "5c6b085da8b11b554439144e2aa9decdc0bb9ac0650451db3776186900dc92e7",
+  "placements_sha256": "d5cd61c621b3c5c606d9acbf3c8ab50b5798a09d96d2d8933a9545a2c6a033ea",
+  "plan": {
+    "key": "euk_genus_sieverdingia",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1266133",
+      "EUK1266134",
+      "EUK1266135"
+    ],
+    "removed_ref_ids": [
+      "R0450"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Sieverdingia",
+    "target_cultures": [
+      "Sieverdingia sp. | EUKARYOME"
+    ],
+    "v18_label": "Sieverdingia tortuosa"
+  }
+}

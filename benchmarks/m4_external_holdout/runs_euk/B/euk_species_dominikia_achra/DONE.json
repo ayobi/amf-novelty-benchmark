@@ -1,0 +1,23 @@
+{
+  "key": "18dd140565cacc0cfb4ca1d8dc6081f736f0c649fd5c574aa4af99f1a0d6fa19",
+  "placements_sha256": "6dca6203342060b81b38dd2c4d0162d27a26b6c6b1a8c8ea3e6d8e301984d731",
+  "plan": {
+    "key": "euk_species_dominikia_achra",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266610",
+      "EUK1266724"
+    ],
+    "removed_ref_ids": [
+      "R0219",
+      "R0220"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Dominikia achra",
+    "target_cultures": [
+      "Dominikia achra | EUKARYOME"
+    ],
+    "v18_label": "Dominikia achra"
+  }
+}

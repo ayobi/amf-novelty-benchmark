@@ -1,0 +1,98 @@
+table	fold	accession	organism	stratum	called	status	locked_inside	in_locked_set	reasons
+B_primary_v2	euk_species_diversispora_bareai	EUK1266127	Diversispora bareai	absent species, genus in v4	Diversispora jakucsiae	known species	Diversispora arenaria; Diversispora jakucsiae	1	K1
+B_primary_v2	euk_species_dominikia_achra	EUK1266610	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+B_primary_v2	euk_species_dominikia_achra	EUK1266724	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+B_primary_v2	euk_species_septoglomus_constrictum	EUK1124327	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_constrictum	EUK1124328	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_constrictum	EUK1124329	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_constrictum	EUK1188351	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_constrictum	EUK1200709	Septoglomus constrictum	absent species, genus in v4	Septoglomus viscosum	known species		0	K1
+B_primary_v2	euk_species_septoglomus_nigrum	EUK1124325	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_nigrum	EUK1124332	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_nigrum	EUK1886274	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_nigrum	EUK1893150	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v2	euk_species_septoglomus_nigrum	EUK1896239	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1124325	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1124327	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1124328	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1124329	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1124332	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1188351	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1200709	Septoglomus constrictum	absent species, genus in v4	Septoglomus viscosum	known species		0	K1
+A_primary_v2	A	EUK1266127	Diversispora bareai	absent species, genus in v4	Diversispora jakucsiae	known species	Diversispora arenaria; Diversispora jakucsiae	1	K1
+A_primary_v2	A	EUK1266610	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+A_primary_v2	A	EUK1266724	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+A_primary_v2	A	EUK1886274	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1893150	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v2	A	EUK1896239	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_genus_silvaspora	EUK1268992	Silvaspora sp.	absent genus, genus only	Sclerocystis sinuosa	known species		0	K1
+B_primary_v1	euk_genus_silvaspora	EUK1268993	Silvaspora sp.	absent genus, genus only	Sclerocystis sinuosa	known species		0	K1
+B_primary_v1	euk_genus_silvaspora	EUK1269044	Silvaspora sp.	absent genus, genus only	Sclerocystis sinuosa	known species		0	K1
+B_primary_v1	euk_species_diversispora_bareai	EUK1266127	Diversispora bareai	absent species, genus in v4	Diversispora jakucsiae	known species	Diversispora arenaria; Diversispora jakucsiae	1	K1
+B_primary_v1	euk_species_dominikia_achra	EUK1266610	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+B_primary_v1	euk_species_dominikia_achra	EUK1266724	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1124320	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1124326	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1124327	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1124328	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1124329	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1188351	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1200709	Septoglomus constrictum	absent species, genus in v4	Septoglomus viscosum	known species		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1268939	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1268943	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1896237	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_constrictum	EUK1896438	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_nigrum	EUK1124325	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_nigrum	EUK1124332	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_nigrum	EUK1886274	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_nigrum	EUK1893150	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_primary_v1	euk_species_septoglomus_nigrum	EUK1896239	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124320	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124325	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124326	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124327	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124328	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124329	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1124332	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1188351	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1200709	Septoglomus constrictum	absent species, genus in v4	Septoglomus viscosum	known species		0	K1
+A_primary_v1	A	EUK1266127	Diversispora bareai	absent species, genus in v4	Diversispora jakucsiae	known species	Diversispora arenaria; Diversispora jakucsiae	1	K1
+A_primary_v1	A	EUK1266610	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+A_primary_v1	A	EUK1266724	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+A_primary_v1	A	EUK1268939	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1268943	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1269192	Archaeosporomycetes.ord01 sp.	placeholder lineage	Microdominikia litorea	known species		0	K1
+A_primary_v1	A	EUK1886274	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1893150	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1896173	Glomeraceae.gen14 sp.	placeholder lineage	Oehlia diaphana	known species		0	K1
+A_primary_v1	A	EUK1896237	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1896239	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_primary_v1	A	EUK1896438	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_diversispora_bareai	EUK1266127	Diversispora bareai	absent species, genus in v4	Diversispora jakucsiae	known species	Diversispora arenaria; Diversispora jakucsiae	1	K1
+B_secondary_vt_v2	euk_species_dominikia_achra	EUK1266610	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+B_secondary_vt_v2	euk_species_dominikia_achra	EUK1266724	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_constrictum	EUK1124327	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_constrictum	EUK1124328	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_constrictum	EUK1124329	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_constrictum	EUK1188351	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_constrictum	EUK1200709	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_constrictum	EUK1201344	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_nigrum	EUK1124325	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_nigrum	EUK1124332	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_nigrum	EUK1886274	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_nigrum	EUK1893150	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+B_secondary_vt_v2	euk_species_septoglomus_nigrum	EUK1896239	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1124325	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1124327	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1124328	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1124329	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1124332	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1188351	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1200709	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1201344	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1266127	Diversispora bareai	absent species, genus in v4	Diversispora jakucsiae	known species	Diversispora arenaria; Diversispora jakucsiae	1	K1
+A_secondary_vt_v2	A	EUK1266610	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+A_secondary_vt_v2	A	EUK1266724	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		0	K1
+A_secondary_vt_v2	A	EUK1886274	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1893150	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1
+A_secondary_vt_v2	A	EUK1896239	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		0	K1

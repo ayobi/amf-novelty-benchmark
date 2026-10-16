@@ -1,0 +1,34 @@
+{
+  "key": "1b1778f761306337b9ed3187621071f14e33bb2e02ec0a04f3fa64113ecbedb0",
+  "placements_sha256": "27a7b45873e74a24f0bfdbe54c23d2270149b59a3a2d7ee23246e8d4da7f1e6a",
+  "plan": {
+    "key": "euk_species_septoglomus_constrictum",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1124320",
+      "EUK1124323",
+      "EUK1124326",
+      "EUK1124327",
+      "EUK1124328",
+      "EUK1124329",
+      "EUK1188351",
+      "EUK1200709",
+      "EUK1201344",
+      "EUK1268939",
+      "EUK1268943",
+      "EUK1896237",
+      "EUK1896438"
+    ],
+    "removed_ref_ids": [
+      "R0369",
+      "R0370"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Septoglomus constrictum",
+    "target_cultures": [
+      "Septoglomus constrictum | EUKARYOME"
+    ],
+    "v18_label": "Septoglomus constrictum"
+  }
+}

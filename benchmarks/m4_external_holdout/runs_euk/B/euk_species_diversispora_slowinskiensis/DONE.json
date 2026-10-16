@@ -1,0 +1,22 @@
+{
+  "key": "2976b3ec1a9a9a566b0c3b34d911a3643cab061a53afbaa6f050b8729de573ef",
+  "placements_sha256": "ac2eb02ccf2d4bc54be8fb5d27d8cc6af99e3a6cd2f21cdb3cb41feb24a54caa",
+  "plan": {
+    "key": "euk_species_diversispora_slowinskiensis",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1187841"
+    ],
+    "removed_ref_ids": [
+      "R0281",
+      "R0282"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Diversispora slowinskiensis",
+    "target_cultures": [
+      "Diversispora slowinskiensis | EUKARYOME"
+    ],
+    "v18_label": "Diversispora slowinskiensis"
+  }
+}

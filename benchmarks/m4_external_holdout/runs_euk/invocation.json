@@ -1,0 +1,73 @@
+{
+  "argv": [
+    "euk_test.py",
+    "run",
+    "--euk",
+    "/home/csb/Downloads/AMF_test/bench/eukaryome",
+    "--maarjam",
+    "../ref/maarjam/maarjam.fasta",
+    "--unite",
+    "../ref/unite/UNITE_public_19.02.2025.fasta.gz",
+    "--threads",
+    "4",
+    "--jobs",
+    "8"
+  ],
+  "base_key": "d922785c2455df8e3affc800f90d40927f8a28c70fa6f2a8013b901d4bcd8c6e",
+  "inputs": {
+    "euk/PROTOCOL_EUK.md": "d4ce0b3ed58eeeb1eed99d4ff98198742f4277242c42ee9730e0ef8c7208900c",
+    "euk/names.tsv": "3250f1ae9ca316339a4a2cfd3d3553550500376363c9702c6f5c2f6f81ea9e8c",
+    "euk/names_decisions.tsv": "821936a0321b247100584d4819a16ead74140c17dd716c0e118629c647cc54ba",
+    "euk/overlap.asvs.tsv": "ada9f7fa212c30c2d975eca3bf483413d9d1bb7c290b99038a89e7dc28ec479f",
+    "euk/overlap.cultures.tsv": "76cd53547b8e32c665474fa63bd2edfed889fc0a79a185f5b6ab4bfd1cf040c1",
+    "euk/overlap.v18_plan.tsv": "48df4377d6694425863b84968ad81f2d1369e5b9ac69ccb8b0c598615d67b37f",
+    "euk/overlap.win.LSU_LROR-FLR2.fasta": "b6ef33a9890527dd25f420b9209375b258055181c6ff6c9fd8656f0abcda277a",
+    "euk/overlap.win.full_its.fasta": "b52392c1aa0d6d4160ef8c5ebf428c3a4c8c0ecb10945dd3497b5df045bdc3e9",
+    "euk/overlap.win.s58.fasta": "134a12265dfb1ef85631ba82203670aacac11839e9b7669ec6441f80e5742e87",
+    "euk/overlap.win.ssu_flank.fasta": "e67f99c47974feec819975d6e01589ab2b63387022682c573c9954d8bbfad58c",
+    "euk/predictions.cultures.tsv": "2e02238cdf1c986ef4d3e0974edddacc044170eba04dedaed9e31be8177f25d9",
+    "euk/predictions.lock": "9788548583e6fcc245a8ef2de61a94c3082621dbdae518a754f6cd194cca3ca0",
+    "euk/predictions.predictions.tsv": "8eba5ea14d8a0f2dc44a05023bdc77fc26b19dfd8950cc7f1bce89bb26b4a9fd",
+    "euk/protocol_hashes.txt": "c4b2c6e68681995f79d01d5ca7d89b6c1f6236471bc30336ea8719b99028dedb",
+    "euk/stage1/windows/euk_test.summary.json": "2522664a036ab2e8158d86b2155ae14d71bfa98bb3d5dd746645e7544b322e51",
+    "window/LSU_LROR-FLR2": "b6ef33a9890527dd25f420b9209375b258055181c6ff6c9fd8656f0abcda277a",
+    "window/full_its": "b52392c1aa0d6d4160ef8c5ebf428c3a4c8c0ecb10945dd3497b5df045bdc3e9",
+    "window/s58": "134a12265dfb1ef85631ba82203670aacac11839e9b7669ec6441f80e5742e87",
+    "window/ssu_flank": "e67f99c47974feec819975d6e01589ab2b63387022682c573c9954d8bbfad58c"
+  },
+  "jobs": 8,
+  "python": "3.12.14 (main, Sep  2 2026, 23:27:36) [GCC 15.3.0]",
+  "script_sha256": "50d2e59bc095b03519137639f06962c3f0a9a5b12253ec7f8a0cd1a38e16d22b",
+  "started": "2026-10-15 15:19:47",
+  "threads_per_job": 4,
+  "tools": {
+    "blastn": {
+      "executable": "/home/csb/miniforge3/envs/amfsplit/bin/blastn",
+      "executable_sha256": "5315f017257c48d794a7f1ec48433f135bd97cd50531bea6d0b25af69366f17f",
+      "version": "blastn: 2.17.0+"
+    },
+    "epa_ng": {
+      "executable": "/home/csb/miniforge3/envs/amf-m4/bin/epa-ng",
+      "executable_sha256": "15cec2d27d96dbefc4c71fb47f580e99d4422ae49238206ab489f235e7f14611",
+      "version": "0.3.8",
+      "version_output": "EPA-ng v0.3.8"
+    },
+    "mafft": {
+      "executable": "/home/csb/miniforge3/envs/amf-m4/bin/mafft",
+      "executable_sha256": "102ab5e0b5e5f2a4e4baa0db9df4244e4113bd15539a831ec0bf47c9201bcb1d",
+      "version": "7.526",
+      "version_output": "v7.526 (2024/Apr/26)"
+    },
+    "makeblastdb": {
+      "executable": "/home/csb/miniforge3/envs/amfsplit/bin/makeblastdb",
+      "executable_sha256": "b4a5bf8a217322a3c00158e79a17f2d1fa4c25808789ec4155aa335ac4579944",
+      "version": "makeblastdb: 2.17.0+"
+    },
+    "raxml_ng": {
+      "executable": "/home/csb/miniforge3/envs/amf-m4/bin/raxml-ng",
+      "executable_sha256": "326a2b30eef5b1b39cf2363507559e5f22abb803f5ab2e1e3f315e6e93d51b1e",
+      "version": "1.2.2",
+      "version_output": "RAxML-NG v. 1.2.2 released on 11.04.2024 by The Exelixis Lab.\nDeveloped by: Alexey M. Kozlov and Alexandros Stamatakis.\nContributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth, Julia Haag, Anastasis Togkousidis.\nLatest version: https://github.com/amkozlov/raxml-ng\nQuestions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml\n\nSystem: AMD Ryzen 9 9950X 16-Core Processor, 16 cores, 60 GB RAM"
+    }
+  }
+}

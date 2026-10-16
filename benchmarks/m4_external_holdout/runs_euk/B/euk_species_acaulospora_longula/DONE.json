@@ -1,0 +1,26 @@
+{
+  "key": "7cfb0816393e1b71337f46749883891fd4bb32fe5aa962973b9349acfe32f807",
+  "placements_sha256": "22af9da8d16a04b0792e1e3a16d644d77daf4761cfecaa1a176d8e0df3845b19",
+  "plan": {
+    "key": "euk_species_acaulospora_longula",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266057",
+      "EUK1266058",
+      "EUK1266059",
+      "EUK1266060",
+      "EUK1266061"
+    ],
+    "removed_ref_ids": [
+      "R0336",
+      "R0477"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora longula",
+    "target_cultures": [
+      "Acaulospora longula | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora longula"
+  }
+}

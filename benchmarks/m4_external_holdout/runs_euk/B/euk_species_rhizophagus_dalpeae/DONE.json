@@ -1,0 +1,22 @@
+{
+  "key": "20497c4578e11c3ed0f1c23d04c2a9ed6499f3c8ff1e2822cb60afbd37d83d7b",
+  "placements_sha256": "31bd95b1cf8fdac2ddd1ba7a34fa10db636bf34f1bebf611dd05beaa0859257b",
+  "plan": {
+    "key": "euk_species_rhizophagus_dalpeae",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1268785"
+    ],
+    "removed_ref_ids": [
+      "R0074",
+      "R0075"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Rhizophagus dalpeae",
+    "target_cultures": [
+      "Rhizophagus dalpeae | EUKARYOME"
+    ],
+    "v18_label": "Rhizophagus dalpeae"
+  }
+}

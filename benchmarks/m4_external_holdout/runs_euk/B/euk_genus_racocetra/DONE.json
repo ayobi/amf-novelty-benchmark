@@ -1,0 +1,49 @@
+{
+  "key": "281741b834e739bd2eadf8b1dfef3ec46c5785423927f19fe02022a3feb34927",
+  "placements_sha256": "e28b9961c1816d78cee8f48c91450fc871ce1a2936bec5fd035d0c2527ea6622",
+  "plan": {
+    "key": "euk_genus_racocetra",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1187876",
+      "EUK1266310",
+      "EUK1266311",
+      "EUK1266312",
+      "EUK1266313",
+      "EUK1266314",
+      "EUK1824965",
+      "KX529097",
+      "KX529098",
+      "KX529100",
+      "KX529103"
+    ],
+    "removed_ref_ids": [
+      "R0157",
+      "R0158",
+      "R0159",
+      "R0160",
+      "R0161",
+      "R0162",
+      "R0163",
+      "R0189",
+      "R0190",
+      "R0408",
+      "R0409",
+      "R0410",
+      "R0411",
+      "R0412",
+      "R0413",
+      "R0414",
+      "R0415"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Racocetra",
+    "target_cultures": [
+      "Racocetra crispa | EUKARYOME",
+      "Racocetra fulgida | EUKARYOME",
+      "Racocetra sp. | EUKARYOME"
+    ],
+    "v18_label": "Racocetra alborosea;Racocetra castanea;Racocetra coralloidea;Racocetra crispa;Racocetra fulgida;Racocetra gregaria;Racocetra persica;Racocetra tropicana;Racocetra verrucosa;Racocetra weresubiae"
+  }
+}

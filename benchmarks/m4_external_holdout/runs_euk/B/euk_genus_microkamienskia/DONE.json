@@ -1,0 +1,59 @@
+{
+  "key": "97c3ce1dd5882872dd37dbe5e3e300cbf5d6c0ff6e72cf2f79b8ea894433f297",
+  "placements_sha256": "28e54db909fbc8d8f570ae76cac8da52be7496aa3964fc7d939159249b6db21f",
+  "plan": {
+    "key": "euk_genus_microkamienskia",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1124281",
+      "EUK1188126",
+      "EUK1188127",
+      "EUK1188128",
+      "EUK1267720",
+      "EUK1267721",
+      "EUK1267722",
+      "EUK1267723",
+      "EUK1267724",
+      "EUK1267725",
+      "EUK1267726",
+      "EUK1267727",
+      "EUK1267728",
+      "EUK1267729",
+      "EUK1267730",
+      "EUK1267731",
+      "EUK1267732",
+      "EUK1267733",
+      "EUK1267734",
+      "EUK1267735",
+      "EUK1267736",
+      "EUK1267737",
+      "EUK1825031",
+      "EUK1825032",
+      "EUK1825033",
+      "EUK1880795",
+      "EUK1883305",
+      "EUK1883306",
+      "EUK1894887",
+      "EUK1895417",
+      "EUK1895497",
+      "EUK1896185",
+      "EUK1896186",
+      "EUK1896187"
+    ],
+    "removed_ref_ids": [
+      "R0126",
+      "R0127",
+      "R0128",
+      "R0129",
+      "R0130",
+      "R0131"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Microkamienskia",
+    "target_cultures": [
+      "Microkamienskia sp. | EUKARYOME"
+    ],
+    "v18_label": "Microkamienskia divaricata;Microkamienskia perpusilla;Microkamienskia peruviana"
+  }
+}

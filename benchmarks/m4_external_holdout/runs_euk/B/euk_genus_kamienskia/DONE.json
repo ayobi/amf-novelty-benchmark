@@ -1,0 +1,33 @@
+{
+  "key": "097aa7d04e7f967f63fe4add9c9975ee6890bfa31557df20a758e4f39f56f5c5",
+  "placements_sha256": "b1d73345af40221639c7b16b273671690f69dce6dd456f0695af7715c490a282",
+  "plan": {
+    "key": "euk_genus_kamienskia",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1124258",
+      "EUK1124259",
+      "EUK1124260",
+      "EUK1124261",
+      "EUK1231014",
+      "EUK1267093",
+      "EUK1267094",
+      "EUK1267095",
+      "EUK1267096",
+      "EUK1267097",
+      "EUK1896176"
+    ],
+    "removed_ref_ids": [
+      "R0124",
+      "R0125"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Kamienskia",
+    "target_cultures": [
+      "Kamienskia bistrata | EUKARYOME",
+      "Kamienskia sp. | EUKARYOME"
+    ],
+    "v18_label": "Kamienskia bistrata"
+  }
+}

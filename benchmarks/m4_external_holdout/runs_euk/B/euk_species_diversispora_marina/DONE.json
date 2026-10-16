@@ -1,0 +1,22 @@
+{
+  "key": "c9c454b2b39c3dcc03d28d1a3d825ea71b83ca17e74e89bb227b95f2ffee9fba",
+  "placements_sha256": "b6809a90420d352318db8ca87af74e46c3d5f5f147ff7485a1a0fc95f04273c5",
+  "plan": {
+    "key": "euk_species_diversispora_marina",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1891527"
+    ],
+    "removed_ref_ids": [
+      "R0273",
+      "R0274"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Diversispora marina",
+    "target_cultures": [
+      "Diversispora marina | EUKARYOME"
+    ],
+    "v18_label": "Diversispora marina"
+  }
+}

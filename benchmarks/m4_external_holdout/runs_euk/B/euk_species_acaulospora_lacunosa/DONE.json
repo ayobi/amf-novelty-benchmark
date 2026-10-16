@@ -1,0 +1,22 @@
+{
+  "key": "33d44965698bf0012bea4ec4d6b14ad20ac6ecc5f3e1d61ea7428a0b5e6a868a",
+  "placements_sha256": "d34f3e0470481f6a6a3c5d8b9fb57a0890be51874ce0b2896b8b01e0cc1e25d0",
+  "plan": {
+    "key": "euk_species_acaulospora_lacunosa",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1360348"
+    ],
+    "removed_ref_ids": [
+      "R0474",
+      "R0475"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora lacunosa",
+    "target_cultures": [
+      "Acaulospora lacunosa | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora lacunosa"
+  }
+}

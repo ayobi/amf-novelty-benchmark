@@ -1,0 +1,22 @@
+{
+  "key": "78d0f12de11321810b71f2662ba94177ed0f09c8dd4a548be8004420d8733e4b",
+  "placements_sha256": "f8f593a076bbe87d790ad9a6b0f07f50dcc70a99d8066f9a58348ffd7661393d",
+  "plan": {
+    "key": "euk_species_acaulospora_foveata",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266055"
+    ],
+    "removed_ref_ids": [
+      "R0323",
+      "R0466"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora foveata",
+    "target_cultures": [
+      "Acaulospora foveata | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora foveata"
+  }
+}

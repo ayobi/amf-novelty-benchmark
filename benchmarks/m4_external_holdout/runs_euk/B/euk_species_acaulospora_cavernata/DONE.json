@@ -1,0 +1,23 @@
+{
+  "key": "a054545966c34af74b790a582ddcd9f9f44f132eaec344a9b264bcaa440b0f5c",
+  "placements_sha256": "9e0058764d462a2d126120004079d12081a95ac66f2525d7275f830355e8723a",
+  "plan": {
+    "key": "euk_species_acaulospora_cavernata",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1187832",
+      "EUK1266054"
+    ],
+    "removed_ref_ids": [
+      "R0315",
+      "R0456"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora cavernata",
+    "target_cultures": [
+      "Acaulospora cavernata | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora cavernata"
+  }
+}

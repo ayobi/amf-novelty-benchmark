@@ -1,0 +1,22 @@
+{
+  "key": "55cb5a7e22f3b54fc88a7603523f453fe7def3c5ea081594609d15f0b144a095",
+  "placements_sha256": "0d97a52c2f5f3342e1eac2a7f2ed2371fcf281a4cd995f82ee918b119f7faf3e",
+  "plan": {
+    "key": "euk_species_acaulospora_alpina",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266052"
+    ],
+    "removed_ref_ids": [
+      "R0307",
+      "R0308"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora alpina",
+    "target_cultures": [
+      "Acaulospora alpina | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora alpina"
+  }
+}

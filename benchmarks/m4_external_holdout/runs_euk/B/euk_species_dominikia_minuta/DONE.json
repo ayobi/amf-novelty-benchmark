@@ -1,0 +1,23 @@
+{
+  "key": "3588d56797c5102f705488b44ef1158723586958ceaa58e887801be71e66848e",
+  "placements_sha256": "760ce55ca623be7cdae2687248988d6943602545aa0b70c7b954857ac1b730f2",
+  "plan": {
+    "key": "euk_species_dominikia_minuta",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1124192",
+      "EUK1891544"
+    ],
+    "removed_ref_ids": [
+      "R0239",
+      "R0240"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Dominikia minuta",
+    "target_cultures": [
+      "Dominikia minuta | EUKARYOME"
+    ],
+    "v18_label": "Dominikia minuta"
+  }
+}

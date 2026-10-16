@@ -1,22 +1,36 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite the archived release."
-title: "Detecting unknown arbuscular mycorrhizal fungi from linked long-read rDNA copies: code and data"
+message: "If you use this code or data, please cite the archived release and the paper."
+title: "Detecting unknown arbuscular mycorrhizal fungi from linked long-read rRNA gene sequences: code and data"
 type: software
 authors:
   - family-names: "O'Brien"
     given-names: "Aaron"
 license: "MIT"
 repository-code: "https://github.com/ayobi/amf-novelty-benchmark"
-doi: "10.5281/zenodo.23374725"
-version: "0.2.0"
-date-released: "2026-10-14"
+version: "0.3.1"
+date-released: "2026-10-16"
 abstract: >-
-  Code, curated culture reference and benchmark outputs for naming long-read AMF rDNA copies by MaarjAM
-  virtual taxon, UNITE species hypothesis and LSU species clade, and for detecting species absent from the
-  references. Tables and other outputs are CC BY 4.0 (DATA_LICENSE.md).
+  Code, curated culture reference and benchmark outputs for naming long-read AMF rRNA gene sequences by
+  MaarjAM virtual taxon, UNITE species hypothesis and LSU species clade, and for detecting species absent
+  from the reference. Release 0.3.1 goes with the preprint and adds the results of the EUKARYOME test;
+  release 0.3.0 added the controls of the SSU-discordance flag, the complex rule within each round, the
+  resampled intervals and the evidence per class of divergent sequence. Tables and other outputs are
+  CC BY 4.0 (DATA_LICENSE.md).
 keywords:
   - arbuscular mycorrhizal fungi
-  - rDNA
+  - rRNA genes
   - long reads
   - metabarcoding
   - novelty detection
+preferred-citation:
+  type: article
+  title: "Detecting unknown arbuscular mycorrhizal fungi from linked long-read rRNA gene sequences"
+  authors:
+    - family-names: "O'Brien"
+      given-names: "Aaron"
+    - family-names: "Marín"
+      given-names: "César"
+    - family-names: "Tedersoo"
+      given-names: "Leho"
+  year: 2026
+  status: preprint

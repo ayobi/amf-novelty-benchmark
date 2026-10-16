@@ -1,0 +1,488 @@
+{
+  "A_only": {
+    "v1": {
+      "false_known": 21,
+      "reads": 2706
+    },
+    "v2": {
+      "false_known": 13,
+      "reads": 2706
+    }
+  },
+  "all_calls": {
+    "genus only": {
+      "inside the prediction": 480,
+      "known calls": 593,
+      "outside the prediction": 113
+    },
+    "known species": {
+      "inside the prediction": 151,
+      "known calls": 159,
+      "outside the prediction": 8
+    },
+    "novel species, genus in v4": {
+      "inside the prediction": 1,
+      "known calls": 13,
+      "outside the prediction": 12
+    }
+  },
+  "complex_claim": {
+    "A_primary_v1": {
+      "false_known": 21,
+      "outside_locked_set": 20
+    },
+    "A_primary_v2": {
+      "false_known": 13,
+      "outside_locked_set": 12
+    },
+    "A_secondary_vt_v2": {
+      "false_known": 14,
+      "outside_locked_set": 13
+    },
+    "B_primary_v1": {
+      "false_known": 22,
+      "outside_locked_set": 21
+    },
+    "B_primary_v2": {
+      "false_known": 13,
+      "outside_locked_set": 12
+    },
+    "B_secondary_vt_v2": {
+      "false_known": 14,
+      "outside_locked_set": 13
+    },
+    "primary_set_v2": {
+      "false_known": 13,
+      "outside_locked_set": 12
+    }
+  },
+  "flags": [
+    [
+      "all reads",
+      2706,
+      13,
+      "0.5%"
+    ],
+    [
+      "without V18 >= 99.5%",
+      2702,
+      13,
+      "0.5%"
+    ],
+    [
+      "without non-EUKARYOME IDs",
+      2693,
+      13,
+      "0.5%"
+    ],
+    [
+      "without either",
+      2689,
+      13,
+      "0.5%"
+    ]
+  ],
+  "genus_only_agreement": {
+    "genus in v4": {
+      "another genus": 4,
+      "label genus": 1836,
+      "no genus given": 728,
+      "reads": 2568
+    },
+    "membership open": {
+      "another genus": 14,
+      "label genus": 23,
+      "no genus given": 1,
+      "reads": 38
+    }
+  },
+  "genus|condition A|absent genus, genus only": {
+    "no_genus_outcome": 992,
+    "none": 1010,
+    "reads": 2017,
+    "right": 0,
+    "status": {
+      "artifact": 5,
+      "boundary": 61,
+      "discordant": 2,
+      "divergent class": 45,
+      "novel lineage": 966,
+      "novel species, genus known": 938
+    },
+    "wrong": 15
+  },
+  "genus|condition A|absent genus, named species": {
+    "no_genus_outcome": 1,
+    "none": 76,
+    "reads": 82,
+    "right": 0,
+    "status": {
+      "boundary": 1,
+      "novel lineage": 75,
+      "novel species, genus known": 6
+    },
+    "wrong": 5
+  },
+  "genus|condition A|absent species, genus in v4": {
+    "no_genus_outcome": 1,
+    "none": 32,
+    "reads": 77,
+    "right": 44,
+    "status": {
+      "boundary": 3,
+      "known species": 4,
+      "known species group": 9,
+      "novel lineage": 29,
+      "novel species, genus known": 32
+    },
+    "wrong": 0
+  },
+  "genus|condition A|placeholder lineage": {
+    "no_genus_outcome": 0,
+    "none": 489,
+    "reads": 530,
+    "right": 0,
+    "status": {
+      "artifact": 3,
+      "boundary": 56,
+      "discordant": 3,
+      "novel lineage": 427,
+      "novel species, genus known": 41
+    },
+    "wrong": 41
+  },
+  "genus|primary set (B where planned)|absent genus, genus only": {
+    "no_genus_outcome": 992,
+    "none": 803,
+    "reads": 2017,
+    "right": 0,
+    "status": {
+      "artifact": 5,
+      "boundary": 61,
+      "discordant": 4,
+      "divergent class": 45,
+      "novel lineage": 758,
+      "novel species, genus known": 1144
+    },
+    "wrong": 222
+  },
+  "genus|primary set (B where planned)|absent genus, named species": {
+    "no_genus_outcome": 1,
+    "none": 76,
+    "reads": 82,
+    "right": 0,
+    "status": {
+      "boundary": 1,
+      "novel lineage": 75,
+      "novel species, genus known": 6
+    },
+    "wrong": 5
+  },
+  "genus|primary set (B where planned)|absent species, genus in v4": {
+    "no_genus_outcome": 1,
+    "none": 27,
+    "reads": 77,
+    "right": 49,
+    "status": {
+      "boundary": 3,
+      "known species": 4,
+      "known species group": 9,
+      "novel lineage": 24,
+      "novel species, genus known": 37
+    },
+    "wrong": 0
+  },
+  "genus|primary set (B where planned)|placeholder lineage": {
+    "no_genus_outcome": 0,
+    "none": 489,
+    "reads": 530,
+    "right": 0,
+    "status": {
+      "artifact": 3,
+      "boundary": 56,
+      "discordant": 3,
+      "novel lineage": 427,
+      "novel species, genus known": 41
+    },
+    "wrong": 41
+  },
+  "integrity": {
+    "A_parity": {
+      "alignment_identical": 877,
+      "credible_species_clade_units_identical": 901,
+      "eligibility_identical": 903,
+      "note": "Scores use the frozen placements of the 903 reference copies; this only shows whether the combined run treats them alike.",
+      "reference_windows": 903
+    },
+    "evidence": {
+      "SH": {
+        "blast_task": "blastn",
+        "min_cov": 0.9,
+        "min_id": 98.5,
+        "reference_copies_reproduced": 903,
+        "reference_records": 16800,
+        "test_queries": 5511,
+        "test_with_anchor": 1379,
+        "test_with_any_unit": 5480
+      },
+      "VT": {
+        "blast_task": "megablast",
+        "min_cov": 0.95,
+        "min_id": 97.0,
+        "reference_copies_reproduced": 903,
+        "reference_records": 3081,
+        "test_queries": 5511,
+        "test_with_anchor": 5213,
+        "test_with_any_unit": 5482
+      },
+      "VT_spanned": {
+        "reference_copies_whose_evidence_would_change": 0,
+        "test_with_anchor": 5248,
+        "test_with_any_unit": 5504
+      }
+    }
+  },
+  "known_retention_A": {
+    "v1": {
+      "all": {
+        "kept": 172,
+        "known, other species": 9,
+        "reads": 199
+      },
+      "predicted inside own species": {
+        "kept": 149,
+        "known, other species": 5,
+        "reads": 158
+      },
+      "predicted outside own species": {
+        "kept": 23,
+        "known, other species": 4,
+        "reads": 41
+      }
+    },
+    "v2": {
+      "all": {
+        "kept": 152,
+        "known, other species": 7,
+        "reads": 199
+      },
+      "predicted inside own species": {
+        "kept": 149,
+        "known, other species": 5,
+        "reads": 158
+      },
+      "predicted outside own species": {
+        "kept": 3,
+        "known, other species": 2,
+        "reads": 41
+      }
+    }
+  },
+  "motif": {
+    "by_label": {
+      "Appendiculaspora sp.": 2,
+      "Dominikia sp.": 1,
+      "Entrophospora sp.": 17,
+      "Glomeraceae.gen05 sp.": 2,
+      "Microdominikia sp.": 1,
+      "Nanoglomus sp.": 408,
+      "Oehlia sp.": 7,
+      "Rhizoglomus sp.": 75,
+      "Rhizophagus intraradices": 6,
+      "Rhizophagus invermaius": 6,
+      "Rhizophagus irregularis": 8
+    },
+    "reads": 533,
+    "status": {
+      "artifact": 2,
+      "boundary": 16,
+      "discordant": 1,
+      "divergent class": 87,
+      "known species": 1,
+      "known species group": 1,
+      "novel lineage": 40,
+      "novel species, genus known": 385
+    }
+  },
+  "n6_demoted_known": 22,
+  "primary_primary_v1": {
+    "by_condition": {
+      "A": 2,
+      "B": 22
+    },
+    "by_stratum": {
+      "absent genus, genus only": {
+        "false_known": 3,
+        "reads": 2017
+      },
+      "absent genus, named species": {
+        "false_known": 0,
+        "reads": 82
+      },
+      "absent species, genus in v4": {
+        "false_known": 19,
+        "reads": 77
+      },
+      "placeholder lineage": {
+        "false_known": 2,
+        "reads": 530
+      }
+    },
+    "false_known": 24,
+    "reads": 2706,
+    "taxon_macro": 0.03484722430212372
+  },
+  "primary_primary_v2": {
+    "by_condition": {
+      "B": 13
+    },
+    "by_stratum": {
+      "absent genus, genus only": {
+        "false_known": 0,
+        "reads": 2017
+      },
+      "absent genus, named species": {
+        "false_known": 0,
+        "reads": 82
+      },
+      "absent species, genus in v4": {
+        "false_known": 13,
+        "reads": 77
+      },
+      "placeholder lineage": {
+        "false_known": 0,
+        "reads": 530
+      }
+    },
+    "false_known": 13,
+    "reads": 2706,
+    "taxon_macro": 0.0294314381270903
+  },
+  "primary_secondary_vt_v1": {
+    "by_condition": {
+      "A": 2,
+      "B": 23
+    },
+    "by_stratum": {
+      "absent genus, genus only": {
+        "false_known": 3,
+        "reads": 2017
+      },
+      "absent genus, named species": {
+        "false_known": 0,
+        "reads": 82
+      },
+      "absent species, genus in v4": {
+        "false_known": 20,
+        "reads": 77
+      },
+      "placeholder lineage": {
+        "false_known": 2,
+        "reads": 530
+      }
+    },
+    "false_known": 25,
+    "reads": 2706,
+    "taxon_macro": 0.03551612062319395
+  },
+  "primary_secondary_vt_v2": {
+    "by_condition": {
+      "B": 14
+    },
+    "by_stratum": {
+      "absent genus, genus only": {
+        "false_known": 0,
+        "reads": 2017
+      },
+      "absent genus, named species": {
+        "false_known": 0,
+        "reads": 82
+      },
+      "absent species, genus in v4": {
+        "false_known": 14,
+        "reads": 77
+      },
+      "placeholder lineage": {
+        "false_known": 0,
+        "reads": 530
+      }
+    },
+    "false_known": 14,
+    "reads": 2706,
+    "taxon_macro": 0.030100334448160536
+  },
+  "scores": {
+    "b_folds": [
+      "euk_species_acaulospora_alpina",
+      "euk_species_acaulospora_brasiliensis",
+      "euk_species_acaulospora_cavernata",
+      "euk_species_acaulospora_foveata",
+      "euk_species_acaulospora_fragilissima",
+      "euk_species_acaulospora_lacunosa",
+      "euk_species_acaulospora_longula",
+      "euk_species_acaulospora_mellea",
+      "euk_species_acaulospora_paulinae",
+      "euk_species_ambispora_fennica",
+      "euk_species_dentiscutata_erythropus",
+      "euk_species_diversispora_bareai",
+      "euk_species_diversispora_marina",
+      "euk_species_diversispora_slowinskiensis",
+      "euk_species_dominikia_achra",
+      "euk_species_dominikia_bernensis",
+      "euk_species_dominikia_difficilevidera",
+      "euk_species_dominikia_glomerocarpica",
+      "euk_species_dominikia_minuta",
+      "euk_species_gigaspora_margarita",
+      "euk_species_gigaspora_polymorphira",
+      "euk_species_paraglomus_occultum",
+      "euk_species_rhizophagus_arabicus",
+      "euk_species_rhizophagus_clarus",
+      "euk_species_rhizophagus_dalpeae",
+      "euk_species_rhizophagus_invermaius",
+      "euk_species_rhizophagus_maiae",
+      "euk_species_septoglomus_constrictum",
+      "euk_species_septoglomus_furcatum",
+      "euk_species_septoglomus_nigrum",
+      "euk_genus_archaeospora",
+      "euk_genus_complexispora",
+      "euk_genus_desertispora",
+      "euk_genus_entrophospora",
+      "euk_genus_epigeocarpum",
+      "euk_genus_halonatospora",
+      "euk_genus_innospora",
+      "euk_genus_kamienskia",
+      "euk_genus_macrodominikia",
+      "euk_genus_microkamienskia",
+      "euk_genus_nanoglomus",
+      "euk_genus_orientoglomus",
+      "euk_genus_pacispora",
+      "euk_genus_pervetustus",
+      "euk_genus_polonospora",
+      "euk_genus_racocetra",
+      "euk_genus_redeckera",
+      "euk_genus_sclerocarpum",
+      "euk_genus_scutellospora",
+      "euk_genus_sieverdingia",
+      "euk_genus_silvaspora"
+    ],
+    "its_threshold_n": 755,
+    "its_threshold_pct": 5.992549889135255,
+    "parity_m4": {
+      "copies": 850,
+      "folds": 37,
+      "seconds": 3001.3
+    },
+    "tables": {
+      "A_primary_v1": 5511,
+      "A_primary_v2": 5511,
+      "A_secondary_vt_v1": 5511,
+      "A_secondary_vt_v2": 5511,
+      "B_primary_v1": 2123,
+      "B_primary_v2": 2123,
+      "B_secondary_vt_v1": 2123,
+      "B_secondary_vt_v2": 2123
+    },
+    "test_copies": 5511,
+    "test_cultures": 152
+  }
+}

@@ -1,0 +1,52 @@
+test_species	v18_label	ref_ids	records	mapping
+Acaulospora alpina	Acaulospora alpina	R0307;R0308	2	species round
+Acaulospora brasiliensis	Acaulospora brasiliensis	R0313;R0314	2	species round
+Acaulospora cavernata	Acaulospora cavernata	R0315;R0456	2	species round
+Acaulospora foveata	Acaulospora foveata	R0323;R0466	2	species round
+Acaulospora fragilissima	Acaulospora fragilissima	R0324;R0325	2	species round
+Acaulospora lacunosa	Acaulospora lacunosa	R0474;R0475	2	species round
+Acaulospora longula	Acaulospora longula	R0336;R0477	2	species round
+Acaulospora mellea	Acaulospora mellea	R0337;R0478	2	species round
+Acaulospora paulinae	Acaulospora paulinae	R0346;R0347	2	species round
+Ambispora fennica	Ambispora fennica	R0303;R0304	2	species round
+Dentiscutata erythropus	Dentiscutata erythropus	R0418;R0419	2	species round
+Diversispora bareai	Diversispora bareai	R0292;R0293	2	species round
+Diversispora marina	Diversispora marina	R0273;R0274	2	species round
+Diversispora slowinskiensis	Diversispora slowinskiensis	R0281;R0282	2	species round
+Dominikia achra	Dominikia achra	R0219;R0220	2	species round
+Dominikia bernensis	Dominikia bernensis	R0223;R0224	2	species round
+Dominikia difficilevidera	Dominikia difficilevidera	R0227;R0228	2	species round
+Dominikia glomerocarpica	Dominikia glomerocarpica	R0494;R0495	2	species round
+Dominikia minuta	Dominikia minuta	R0239;R0240	2	species round
+Gigaspora margarita	Gigaspora margarita	R0402;R0403	2	species round
+Gigaspora polymorphira	Gigaspora polymorphira	R0154;R0155;R0156	3	species round
+Paraglomus occultum	Paraglomus occultum	R0393;R0394	2	species round
+Rhizophagus arabicus	Rhizophagus arabicus	R0070;R0071	2	species round
+Rhizophagus clarus	Rhizophagus clarus	R0379;R0380	2	species round
+Rhizophagus dalpeae	Rhizophagus dalpeae	R0074;R0075	2	species round
+Rhizophagus invermaius	Rhizophagus invermaius	R0080;R0081	2	species round
+Rhizophagus maiae	Rhizophagus maiae	R0082;R0083	2	species round
+Septoglomus constrictum	Septoglomus constrictum	R0369;R0370	2	species round
+Septoglomus furcatum	Septoglomus furcatum	R0048;R0049	2	species round
+Septoglomus nigrum	Septoglomus nigrum	R0373;R0374	2	species round
+Archaeospora	Archaeospora ecuadoriana;Archaeospora schenckii;Archaeospora spainiae;Archaeospora trappei	R0298;R0299;R0300;R0301;R0302;R0451;R0452;R0453	8	genus round
+Complexispora	Complexispora mediterranea;Complexispora multistratosa	R0150;R0151;R0152;R0153	4	genus round
+Desertispora	Desertispora omaniana	R0249;R0250	2	genus round
+Entrophospora	Entrophospora Albahypha drummondi;Entrophospora Alborhynchus walkeri;Entrophospora argentinensis;Entrophospora candida;Entrophospora claroidea;Entrophospora etunicata;Entrophospora furrazolae;Entrophospora glacialis;Entrophospora hanlinii;Entrophospora infrequens;Entrophospora lamellosa;Entrophospora lutea	R0201;R0202;R0203;R0204;R0205;R0206;R0207;R0208;R0209;R0210;R0211;R0212;R0429;R0430;R0431;R0432;R0433;R0434;R0435;R0436;R0437;R0438	22	genus round
+Epigeocarpum	Epigeocarpum crypticum;Epigeocarpum japonicum	R0120;R0121;R0122;R0123	4	genus round
+Halonatospora	Halonatospora pansihalos	R0068;R0069	2	genus round
+Innospora	Innospora majewskii	R0117;R0395	2	genus round
+Kamienskia	Kamienskia bistrata	R0124;R0125	2	genus round
+Macrodominikia	Macrodominikia compressa	R0243;R0244	2	genus round
+Microkamienskia	Microkamienskia divaricata;Microkamienskia perpusilla;Microkamienskia peruviana	R0126;R0127;R0128;R0129;R0130;R0131	6	genus round
+Nanoglomus	Nanoglomus plukenetiae	R0213;R0214	2	genus round
+Orientoglomus	Orientoglomus emiratium	R0215;R0216	2	genus round
+Pacispora	Pacispora scintillans	R0118;R0119	2	genus round
+Pervetustus	Pervetustus simplex	R0104;R0391	2	genus round
+Polonospora	Polonospora polonica	R0102;R0103	2	genus round
+Racocetra	Racocetra alborosea;Racocetra castanea;Racocetra coralloidea;Racocetra crispa;Racocetra fulgida;Racocetra gregaria;Racocetra persica;Racocetra tropicana;Racocetra verrucosa;Racocetra weresubiae	R0157;R0158;R0159;R0160;R0161;R0162;R0163;R0189;R0190;R0408;R0409;R0410;R0411;R0412;R0413;R0414;R0415	17	genus round
+Redeckera	Redeckera megalocarpum	R0294;R0295;R0449	3	genus round
+Sclerocarpum	Sclerocarpum amazonicum	R0148;R0149	2	genus round
+Scutellospora	Scutellospora calospora;Scutellospora deformata;Scutellospora dipurpurescens;Scutellospora graeca;Scutellospora intraundulata;Scutellospora ovalis;Scutellospora pernambucana;Scutellospora spinosissima	R0179;R0180;R0181;R0182;R0183;R0184;R0185;R0186;R0187;R0188;R0423;R0424;R0425;R0426;R0427;R0428	16	genus round
+Sieverdingia	Sieverdingia tortuosa	R0450	1	genus round
+Silvaspora	Silvaspora neocaledonica	R0096;R0097	2	genus round

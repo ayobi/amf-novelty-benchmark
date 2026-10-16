@@ -1,0 +1,24 @@
+{
+  "key": "6a7330aa76102b4d78f2aa4597624627325815fb3390a0ad6072d6625638abaf",
+  "placements_sha256": "f92f4aa0b4c6af855615de72872101887bc8fccdbeda107393f8740ee1492891",
+  "plan": {
+    "key": "euk_genus_pacispora",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1266136",
+      "EUK1883311",
+      "EUK1883321"
+    ],
+    "removed_ref_ids": [
+      "R0118",
+      "R0119"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Pacispora",
+    "target_cultures": [
+      "Pacispora sp. | EUKARYOME"
+    ],
+    "v18_label": "Pacispora scintillans"
+  }
+}

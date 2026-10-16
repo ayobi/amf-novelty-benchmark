@@ -1,0 +1,22 @@
+{
+  "key": "83fb724d51dda0170a394ce3bc38568d715aad6f5f5db0197fb2e60759789f10",
+  "placements_sha256": "7352cfa0574252cc07bec078c53669d9fa75181e79e0d1cb27830eadd2a4768d",
+  "plan": {
+    "key": "euk_species_rhizophagus_arabicus",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1268765"
+    ],
+    "removed_ref_ids": [
+      "R0070",
+      "R0071"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Rhizophagus arabicus",
+    "target_cultures": [
+      "Rhizophagus arabicus | EUKARYOME"
+    ],
+    "v18_label": "Rhizophagus arabicus"
+  }
+}

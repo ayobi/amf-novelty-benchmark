@@ -1,0 +1,27 @@
+{
+  "key": "7530d051b4676ea776b7e7ffa6dfc827169583d3ae6933fc5c9cb76df31afa43",
+  "placements_sha256": "c4978aa99ed79f663db9f4b1b2821cdfa76dc645f11d42bb28b2526d59d009cc",
+  "plan": {
+    "key": "euk_genus_innospora",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1188386",
+      "EUK1269193",
+      "EUK1269195",
+      "EUK1269196",
+      "EUK1269197"
+    ],
+    "removed_ref_ids": [
+      "R0117",
+      "R0395"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Innospora",
+    "target_cultures": [
+      "Innospora majewskii | EUKARYOME",
+      "Innospora sp. | EUKARYOME"
+    ],
+    "v18_label": "Innospora majewskii"
+  }
+}

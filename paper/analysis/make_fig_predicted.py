@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Figure: predicted against observed in the independent tests. Each point is one test sequence, placed by its
-distance to the nearest culture-reference species in the full ITS (x) and in LROR-FLR2 (y); the shaded box is
-the within-species spread of the locked predictions. Fill gives the prediction, fixed before the run: inside a
+distance to the nearest culture-reference species in the full ITS (x) and in LR0R-FLR2 (y); the shaded box is
+the within-species limit of the locked predictions. Fill gives the prediction, fixed before the run: inside a
 reference species on all three markers (ITS, LSU and SSU flank; filled) or not (open). Colour gives what the
-rules called: a known species or species group (orange) or not (grey).
+rules assigned: a known species or species group (orange) or not (grey).
 
-Row 1, LongGloDB: (a) ASVs of species the reference does not hold, each called with its species removed from the
+Row 1, LongGloDB: (a) ASVs of species the reference does not hold, each assigned with its species removed from the
 LSU reference (condition B); (b) ASVs of species it holds, LSU reference intact (condition A). With --euk, row 2
-draws the EUKARYOME test the same way: (c) reads of taxa v4 does not hold (B where planned, A for the taxa
-reported apart), (d) reads of species it holds (A).
+draws the EUKARYOME test the same way: (c) sequences of taxa v4 does not hold (B where planned, A for the taxa
+reported apart), (d) sequences of species it holds (A).
 
 Counts are computed from the locked predictions and the score tables and must equal the macros in
 numbers_lgdb.tex (and numbers_euk.tex, once written), so the figure cannot drift from the text.
@@ -142,6 +142,9 @@ def draw(ax, rows, T, size):
                    linewidths=0.9, zorder=4 if r['known'] else 3, clip_on=False)
 
 
+EUK_LABEL_AT = {'Diversispora': (7.0, 0.25), 'Dominikia': (0.15, 7.5), 'Septoglomus': (11.0, 1.85)}
+
+
 def label(ax, text, xy, xytext, ha='left'):
     ax.annotate(text, xy=xy, xytext=xytext, textcoords='data', fontsize=6.4, color=INK, ha=ha, va='center',
                 arrowprops=dict(arrowstyle='-', color=INK2, lw=0.6, shrinkA=1, shrinkB=3), zorder=6)
@@ -158,7 +161,7 @@ def ital(name):
 
 def panel_title(fig, x, y, title, sub):
     fig.text(x, y, title, fontsize=8.5, weight='bold', color=INK, va='top')
-    fig.text(x, y - 0.035, sub, fontsize=6.8, color=INK2, va='top')
+    fig.text(x, y - 0.13 / fig.get_figheight(), sub, fontsize=6.8, color=INK2, va='top')
 
 
 def summary_box(ax, lines):
@@ -181,10 +184,10 @@ def main():
     c = counts(lg)
     check_lgdb(c, M)
     two_rows = bool(a.euk and a.euk_scores)
-    fig = plt.figure(figsize=(7.2, 7.0 if two_rows else 3.7))
+    fig = plt.figure(figsize=(7.2, 7.4 if two_rows else 3.7))
     top = 0.975 if not two_rows else 0.985
     h = 0.63 if not two_rows else 0.31
-    y0 = 0.215 if not two_rows else 0.595
+    y0 = 0.215 if not two_rows else 0.615
 
     # ---- (a) LongGloDB, species the reference does not hold
     ax = fig.add_axes([0.105, y0, 0.375, h])
@@ -195,11 +198,11 @@ def main():
         x, y = centroid(ks)
         org = ks[0]['organism']
         to = sorted({s for r in ks for s in r['called']})
-        label(ax, f"{ital(org)} {ks[0]['code']}\ncalled {', '.join(ital(s) for s in to)} ({len(ks)})", (x, y), (1.6, 0.18))
-    ax.set_xlabel('ITS: distance to the nearest reference species (%)', fontsize=7)
-    ax.set_ylabel('LSU: distance to the nearest\nreference species (%)', fontsize=7)
-    summary_box(ax, [f"Inside a reference species: {c['novel_inside']}, called known {c['novel_inside_known']}",
-                     f"Inside none: {c['novel'] - c['novel_inside']}, called known {c['novel_outside_known']}"])
+        label(ax, f"{ital(org)} {ks[0]['code']}\nassigned to {', '.join(ital(s) for s in to)} ({len(ks)})", (x, y), (1.6, 0.18))
+    ax.set_xlabel('ITS: distance to the nearest named reference species (%)', fontsize=7)
+    ax.set_ylabel('LSU: distance to the nearest\nnamed reference species (%)', fontsize=7)
+    summary_box(ax, [f"Inside a reference species: {c['novel_inside']}, assigned known {c['novel_inside_known']}",
+                     f"Inside none: {c['novel'] - c['novel_inside']}, assigned known {c['novel_outside_known']}"])
     panel_title(fig, 0.02, top, '(a) LongGloDB: taxa the reference does not hold',
                 f"{c['novel']} ASVs, each species removed from the LSU reference")
 
@@ -215,15 +218,15 @@ def main():
     if other:
         x, y = centroid(other)
         to = sorted({s for r in other for s in r['called']})
-        label(ax, f"{ital(other[0]['organism'])} {other[0]['code']}\ncalled {', '.join(ital(s) for s in to)} ({len(other)})",
+        label(ax, f"{ital(other[0]['organism'])} {other[0]['code']}\nassigned to {', '.join(ital(s) for s in to)} ({len(other)})",
               (x, y), (11, 1.25))
     ex = [r for r in kn if not r['inside'] and r['known']]
     for r in ex:
         why = 'no ITS distance in the prediction' if r['its'] == CAP_X else 'predicted inside none'
         label(ax, f"{ital(r['organism'])} {r['code']}: kept;\n{why}", (r['its'], r['lsu']), (9, 6.5))
-    ax.set_xlabel('ITS: distance to the nearest reference species (%)', fontsize=7)
+    ax.set_xlabel('ITS: distance to the nearest named reference species (%)', fontsize=7)
     summary_box(ax, [f"Inside own species: {c['own_inside']}, kept {c['own_inside_kept']}",
-                     f"Inside another species only: {c['other_only']}, called it {c['other_only_called_other']}",
+                     f"Inside another species only: {c['other_only']}, assigned to it {c['other_only_called_other']}",
                      f"Inside none: {c['none']}, kept {c['none_kept']}"])
     panel_title(fig, 0.525, top, '(b) LongGloDB: species the reference holds', f"{c['known']} ASVs, LSU reference intact")
 
@@ -231,33 +234,49 @@ def main():
         eu = test_rows(os.path.join(a.euk, 'predictions.predictions.tsv'), a.euk_scores)
         Te = json.load(open(os.path.join(a.euk, 'predictions.lock')))['T']
         ce = counts(eu)
-        y1 = 0.11
+        y1 = 0.135
         ax = fig.add_axes([0.105, y1, 0.375, h])
         sqrt_axis(ax)
         draw(ax, [r for r in eu if r['role'] in NOVEL], Te, 7)
-        ax.set_xlabel('ITS: distance to the nearest reference species (%)', fontsize=7)
-        ax.set_ylabel('LSU: distance to the nearest\nreference species (%)', fontsize=7)
-        summary_box(ax, [f"Inside a reference species: {ce['novel_inside']}, called known {ce['novel_inside_known']}",
-                         f"Inside none: {ce['novel'] - ce['novel_inside']}, called known {ce['novel_outside_known']}"])
-        panel_title(fig, 0.02, 0.495, '(c) EUKARYOME: taxa the reference does not hold',
-                    f"{ce['novel']} reads; LSU reference without the species or genus where V18 holds it")
+        # label the false-known sequences by genus; positions are hand-placed for this run (others go unlabelled)
+        fkg = {}
+        for r in eu:
+            if r['role'] in NOVEL and r['known']:
+                fkg.setdefault(r['organism'].split()[0], []).append(r)
+        for g, rs in sorted(fkg.items()):
+            if g not in EUK_LABEL_AT:
+                continue
+            orgs = sorted({r['organism'] for r in rs})
+            to = sorted({s for r in rs for s in r['called']})
+            if len(to) > 2 and all(t.split()[0] == g for t in to):
+                to_txt = f'other\n$\\it{{{g}}}$ species'
+            else:
+                to_txt = ', '.join(ital(s) for s in to[:-1]) + (' or ' if len(to) > 1 else '') + ital(to[-1])
+            text = f"{', '.join(ital(o) for o in orgs)} ({len(rs)}),\nassigned to {to_txt}"
+            label(ax, text, centroid(rs), EUK_LABEL_AT[g])
+        ax.set_xlabel('ITS: distance to the nearest named reference species (%)', fontsize=7)
+        ax.set_ylabel('LSU: distance to the nearest\nnamed reference species (%)', fontsize=7)
+        summary_box(ax, [f"Inside a reference species: {ce['novel_inside']:,}, assigned known {ce['novel_inside_known']:,}",
+                         f"Inside none: {ce['novel'] - ce['novel_inside']:,}, assigned known {ce['novel_outside_known']:,}"])
+        panel_title(fig, 0.02, 0.505, '(c) EUKARYOME: taxa the reference does not hold',
+                    f"{ce['novel']:,} sequences, each taxon removed from the LSU reference where it is held")
         ax = fig.add_axes([0.60, y1, 0.375, h])
         sqrt_axis(ax)
         draw(ax, [r for r in eu if r['role'] == 'known species'], Te, 12)
-        ax.set_xlabel('ITS: distance to the nearest reference species (%)', fontsize=7)
+        ax.set_xlabel('ITS: distance to the nearest named reference species (%)', fontsize=7)
         summary_box(ax, [f"Inside own species: {ce['own_inside']}, kept {ce['own_inside_kept']}",
-                         f"Inside another species only: {ce['other_only']}, called it {ce['other_only_called_other']}",
+                         f"Inside another species only: {ce['other_only']}, assigned to it {ce['other_only_called_other']}",
                          f"Inside none: {ce['none']}, kept {ce['none_kept']}"])
-        panel_title(fig, 0.525, 0.495, '(d) EUKARYOME: species the reference holds', f"{ce['known']} reads, LSU reference intact")
+        panel_title(fig, 0.525, 0.505, '(d) EUKARYOME: species the reference holds', f"{ce['known']:,} sequences, LSU reference intact")
         print('EUKARYOME counts:', ce)
 
     # ---- shared legend
-    handles = [Line2D([], [], ls='', marker='o', ms=4.6, mfc=INK2, mec=INK2, label='predicted inside a reference species'),
+    handles = [Line2D([], [], ls='', marker='o', ms=4.6, mfc=INK2, mec=INK2, label='predicted inside a named reference species'),
                Line2D([], [], ls='', marker='o', ms=4.6, mfc='white', mec=INK2, mew=0.9, label='predicted inside none'),
-               Line2D([], [], ls='', marker='s', ms=5, mfc=ORANGE, mec=ORANGE, label='called a known species or group'),
-               Line2D([], [], ls='', marker='s', ms=5, mfc=NONE, mec=NONE, label='not called known'),
+               Line2D([], [], ls='', marker='s', ms=5, mfc=ORANGE, mec=ORANGE, label='assigned to a known species or group'),
+               Line2D([], [], ls='', marker='s', ms=5, mfc=NONE, mec=NONE, label='not assigned to a known species'),
                Rectangle((0, 0), 1, 1, facecolor=SPREAD, edgecolor=BLUE, lw=0.7, ls=(0, (3, 2)),
-                         label='within-species spread (ITS and LSU)')]
+                         label='within-species limit (ITS and LSU)')]
     fig.legend(handles=handles, loc='lower center', ncol=3, frameon=False, fontsize=6.6, handletextpad=0.4,
                columnspacing=1.6, bbox_to_anchor=(0.5, 0.0))
     fig.savefig(f'{a.out}.pdf')

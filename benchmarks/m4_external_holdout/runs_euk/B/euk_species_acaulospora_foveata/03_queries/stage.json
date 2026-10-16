@@ -1,0 +1,11 @@
+{
+  "key": "78d0f12de11321810b71f2662ba94177ed0f09c8dd4a548be8004420d8733e4b:query_alignment",
+  "outputs": {
+    "commands.json": "e712d3a66f1dacce1e6c774b64b595944b19582d28a666be2af1e9ca8d828319",
+    "mafft.log": "76505cb9f49accb6c793b9ca0bb34d0106b2ab114c44e3f48a5c585c3f5af642",
+    "queries.aligned.fasta": "1d06f381f7bd5c3156c1809a20bfad106726fcaf0aaaf45c5f99b6773691989c",
+    "queries.fasta": "be2962c6bc637cc86e4d960f3501c392362d74ee682695e1e31e65891f4395c6",
+    "queries.fasta.map": "b207adcb1115014915a9de795062f7d1de22ed0e1de8d90036214e506cea91cb"
+  },
+  "seconds": 1139.1178174489996
+}

@@ -1,0 +1,17 @@
+accession	role	primary	secondary	primary_call	secondary_call
+EUK1200702	genus only	novel lineage	novel species, genus known		Diversispora
+EUK1200707	genus only	boundary	novel species, genus known		Septoglomus
+EUK1200709	novel species, genus in v4	known species	known species group	Septoglomus viscosum	Septoglomus africanum;Septoglomus turnauae
+EUK1201000	novel lineage, genus not in v4	novel lineage	novel species, genus known		Dominikia;Microdominikia
+EUK1201004	novel lineage, genus not in v4	boundary	novel species, genus known		Glomus
+EUK1201010	novel lineage, genus not in v4	boundary	novel lineage		
+EUK1201011	genus only	boundary	known species group		Septoglomus africanum;Septoglomus turnauae
+EUK1201012	genus only	novel lineage	novel species, genus known		Dominikia
+EUK1201344	novel species, genus in v4	boundary	known species group		Septoglomus africanum;Septoglomus turnauae
+EUK1202272	genus only	novel lineage	novel species, genus known		Diversispora
+EUK1202583	novel lineage, genus not in v4	novel lineage	novel species, genus known		Gigaspora
+EUK1202893	novel lineage, genus not in v4	boundary	novel lineage		
+EUK1203076	genus only	boundary	novel species, genus known		Dominikia
+EUK1203127	genus only	boundary	novel lineage		
+EUK1223180	genus only	novel species, genus known	known species group	Paraglomus	Paraglomus brasilianum;Paraglomus laccatum
+EUK1223189	novel lineage, genus not in v4	novel lineage	novel species, genus known		Dominikia;Funneliformis;Microdominikia;Oehlia;Paraglomus;Rhizophagus;Sclerocystis;Septoglomus

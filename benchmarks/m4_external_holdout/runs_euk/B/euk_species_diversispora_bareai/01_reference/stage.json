@@ -1,0 +1,12 @@
+{
+  "key": "6cc9a247dee06a1e707bd8a40cec4a556a1d3145bc2eeb1d090451e41ff57fa1:reference",
+  "outputs": {
+    "aligned.fasta": "a6ee1f09a1daa24e6cb3a9f3db5568cec32280f811c7756002add34088eaea96",
+    "commands.json": "7479c109b8cb212d700232bf98e049953ce6706a88c7825bee6eeee8c8b94d5f",
+    "mafft.log": "9ceb1fa357c0d16b33de001db44da65a8d3f988cee0b1d2000d9b82ab5cedbe6",
+    "metadata.tsv": "c225a5cb55787d7e099c30adf0f10e7a63a0df4319bfdbd5be613a1f19e3b0e9",
+    "raw.fasta": "a38c81d754ff72e973b1f43ccf96c1b19f638d1c5807a62f7306b20549e1976c",
+    "topology.newick": "43174a10462cd3e1dc40c9eb2b2afacd28555d5ae49b32d4f7f00695f1402f50"
+  },
+  "seconds": 355.038423385
+}

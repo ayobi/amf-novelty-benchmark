@@ -1,0 +1,10 @@
+{
+  "key": "6cc9a247dee06a1e707bd8a40cec4a556a1d3145bc2eeb1d090451e41ff57fa1:epa",
+  "outputs": {
+    "commands.json": "044605bd9d1cb6489a04eaf1133ac827c588aeb4f35b49e4739fd1f417caeac3",
+    "epa.log": "d144e6b7aaf4ad0dea7476038c2e958d782ec5b15a45caa8aca824c21e5dd427",
+    "epa_info.log": "d144e6b7aaf4ad0dea7476038c2e958d782ec5b15a45caa8aca824c21e5dd427",
+    "epa_result.jplace": "85c1caf3cc5fe98efa24cfe17ee535892b3eeb3173472843e5d82767ccd28878"
+  },
+  "seconds": 1583.1931325360001
+}

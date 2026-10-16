@@ -1,0 +1,26 @@
+{
+  "key": "18a79e87b64d5f13b44c06bbfc33d75bd58fc52ee6108e4ad01b5faee47f1ebc",
+  "placements_sha256": "34a00848d0ac041724375fffada79a5776251dc867c57f8efb0fc3aea2c91fee",
+  "plan": {
+    "key": "euk_species_septoglomus_nigrum",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1124325",
+      "EUK1124332",
+      "EUK1886274",
+      "EUK1893150",
+      "EUK1896239"
+    ],
+    "removed_ref_ids": [
+      "R0373",
+      "R0374"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Septoglomus nigrum",
+    "target_cultures": [
+      "Septoglomus nigrum | EUKARYOME"
+    ],
+    "v18_label": "Septoglomus nigrum"
+  }
+}

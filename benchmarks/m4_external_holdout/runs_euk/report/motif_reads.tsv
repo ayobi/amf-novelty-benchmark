@@ -1,0 +1,534 @@
+accession	organism	stratum	s58_len	status	d1_short	d2_paralog	called
+EUK1100298	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1102944	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1124145	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1124155	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1124300	Rhizoglomus sp.	genus only, genus in v4	153	boundary	0	0	
+EUK1124304	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1124308	Rhizoglomus sp.	genus only, genus in v4	151	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1124312	Rhizophagus intraradices	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1124313	Rhizophagus intraradices	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1124314	Rhizophagus intraradices	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1124315	Rhizophagus invermaius	absent species, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1124316	Rhizophagus irregularis	known species	151	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1187863	Entrophospora sp.	absent genus, genus only	152	boundary	0	0	
+EUK1188008	Glomeraceae.gen05 sp.	placeholder lineage	157	novel lineage	0	0	
+EUK1188129	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188130	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188131	Nanoglomus sp.	absent genus, genus only	155	novel species, genus known	0	0	Glomus
+EUK1188134	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188135	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188137	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188144	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188146	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188148	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188158	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1188165	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188166	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188175	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188178	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188179	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188180	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188181	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188185	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188192	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188202	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188204	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188205	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188211	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188212	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188213	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188225	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188226	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188232	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188235	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1188243	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188244	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188245	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188246	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188248	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188249	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188252	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188253	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188255	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188256	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1188266	Rhizoglomus sp.	genus only, genus in v4	156	novel lineage	0	0	
+EUK1188267	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1188269	Rhizoglomus sp.	genus only, genus in v4	156	novel lineage	0	0	
+EUK1188271	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus prolifer
+EUK1188278	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1188283	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1188288	Rhizoglomus sp.	genus only, genus in v4	151	novel species, genus known	0	0	Rhizophagus
+EUK1188291	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1188293	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1188295	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1188297	Rhizoglomus sp.	genus only, genus in v4	153	novel lineage	0	0	
+EUK1188298	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1188302	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1188306	Rhizoglomus sp.	genus only, genus in v4	155	novel lineage	0	0	
+EUK1188308	Rhizoglomus sp.	genus only, genus in v4	156	novel lineage	0	0	
+EUK1188313	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1188320	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1188321	Rhizoglomus sp.	genus only, genus in v4	153	novel species, genus known	0	0	Rhizophagus
+EUK1188323	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1188324	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1188326	Rhizophagus irregularis	known species	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1201945	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1203051	Entrophospora sp.	absent genus, genus only	154	novel lineage	0	0	
+EUK1231006	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1231015	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1231019	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1265789	Appendiculaspora sp.	genus only, membership open	157	novel species, genus known	0	0	Ambispora
+EUK1265790	Appendiculaspora sp.	genus only, membership open	158	known species group	0	0	Ambispora callosa;Ambispora leptoticha
+EUK1266137	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1266138	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1266141	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1266175	Entrophospora sp.	absent genus, genus only	152	boundary	0	0	
+EUK1266190	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1266191	Entrophospora sp.	absent genus, genus only	152	boundary	0	0	
+EUK1266212	Entrophospora sp.	absent genus, genus only	152	boundary	0	0	
+EUK1266215	Entrophospora sp.	absent genus, genus only	151	boundary	0	0	
+EUK1266219	Entrophospora sp.	absent genus, genus only	152	boundary	0	0	
+EUK1266225	Entrophospora sp.	absent genus, genus only	152	boundary	0	0	
+EUK1266229	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1266541	Dominikia sp.	genus only, genus in v4	158	known species	0	0	Dominikia bonfanteae
+EUK1267565	Microdominikia sp.	genus only, genus in v4	158	novel species, genus known	0	0	Microdominikia
+EUK1267738	Nanoglomus sp.	absent genus, genus only	142	novel species, genus known	0	0	Glomus
+EUK1267739	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267741	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267742	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267744	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267745	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267754	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267758	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1267759	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267761	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267762	Nanoglomus sp.	absent genus, genus only	155	novel species, genus known	0	0	Glomus
+EUK1267766	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267775	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267780	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267791	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267793	Nanoglomus sp.	absent genus, genus only	150	novel species, genus known	0	0	Glomus
+EUK1267794	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267795	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267797	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267798	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267799	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267800	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267801	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267802	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267803	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267807	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267808	Nanoglomus sp.	absent genus, genus only	150	novel species, genus known	0	0	Glomus
+EUK1267809	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267810	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267812	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267814	Nanoglomus sp.	absent genus, genus only	155	novel species, genus known	0	0	Glomus
+EUK1267815	Nanoglomus sp.	absent genus, genus only	157	novel species, genus known	0	0	Glomus
+EUK1267816	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267817	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267823	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267841	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267842	Nanoglomus sp.	absent genus, genus only	150	boundary	0	0	
+EUK1267843	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267850	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267851	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267852	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267853	Nanoglomus sp.	absent genus, genus only	151	boundary	0	0	
+EUK1267854	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267855	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267857	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267858	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267863	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267881	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267884	Nanoglomus sp.	absent genus, genus only	150	novel species, genus known	0	0	Glomus
+EUK1267886	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267887	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267889	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267890	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267891	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267892	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267894	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267895	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267897	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267898	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267900	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267901	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267909	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267913	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267931	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1267933	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267935	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267936	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267937	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267938	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267940	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267941	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267942	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267943	Nanoglomus sp.	absent genus, genus only	151	artifact	0	0	
+EUK1267944	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267946	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267947	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267948	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267949	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267950	Nanoglomus sp.	absent genus, genus only	156	novel species, genus known	0	0	Glomus
+EUK1267951	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267952	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267954	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267956	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267957	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267967	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267969	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267979	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267981	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267982	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1267983	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267984	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267987	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267990	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267991	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1267992	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267993	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267994	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267996	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1267998	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268000	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268016	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268017	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268018	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268019	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268021	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268022	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268023	Nanoglomus sp.	absent genus, genus only	150	boundary	0	0	
+EUK1268024	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268025	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268026	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268027	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268028	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268030	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268031	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268033	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268034	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268037	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268045	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268047	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268049	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268051	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268055	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268058	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268059	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268060	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268061	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268062	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268063	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268066	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268067	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268068	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268069	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268070	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268072	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268073	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268074	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268075	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268076	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268077	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268088	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268089	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268092	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268096	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268097	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268098	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268099	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268101	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268103	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268104	Nanoglomus sp.	absent genus, genus only	151	artifact	0	0	
+EUK1268106	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268107	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268109	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268110	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268111	Nanoglomus sp.	absent genus, genus only	152	divergent class	1	0	Glomus
+EUK1268112	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268115	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268116	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268117	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268118	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268120	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268121	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268132	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268133	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268137	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268138	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268139	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268140	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268141	Nanoglomus sp.	absent genus, genus only	151	boundary	0	0	
+EUK1268142	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268143	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268144	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268145	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268146	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268147	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268148	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268149	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268150	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268155	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268162	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268168	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268171	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268172	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268173	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268174	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268177	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268178	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268179	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268180	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268181	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268184	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268185	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268186	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268187	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268189	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268190	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268191	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268192	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268193	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268194	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268195	Nanoglomus sp.	absent genus, genus only	149	novel species, genus known	0	0	Glomus
+EUK1268196	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268197	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268200	Nanoglomus sp.	absent genus, genus only	153	novel species, genus known	0	0	Glomus
+EUK1268202	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268205	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268207	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268208	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268209	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268211	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268212	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268214	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268219	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268222	Nanoglomus sp.	absent genus, genus only	156	novel species, genus known	0	0	Glomus
+EUK1268223	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268224	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268226	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268228	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268229	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268236	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268238	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1268241	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268242	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268243	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268244	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268246	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268247	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268248	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268250	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268251	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268255	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268256	Nanoglomus sp.	absent genus, genus only	153	novel species, genus known	0	0	Glomus
+EUK1268258	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268259	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268263	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268264	Nanoglomus sp.	absent genus, genus only	150	novel species, genus known	0	0	Glomus
+EUK1268265	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268266	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268273	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268274	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268275	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268276	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268277	Nanoglomus sp.	absent genus, genus only	149	novel species, genus known	0	0	Glomus
+EUK1268278	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268280	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268290	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268291	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268293	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268294	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268295	Nanoglomus sp.	absent genus, genus only	158	novel species, genus known	0	0	Glomus
+EUK1268296	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268297	Nanoglomus sp.	absent genus, genus only	152	discordant	0	0	
+EUK1268298	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268300	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268301	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268302	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268303	Nanoglomus sp.	absent genus, genus only	156	novel species, genus known	0	0	Glomus
+EUK1268306	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268308	Nanoglomus sp.	absent genus, genus only	151	boundary	0	0	
+EUK1268310	Nanoglomus sp.	absent genus, genus only	153	boundary	0	0	
+EUK1268311	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268312	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268316	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268317	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268318	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268322	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268325	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268326	Nanoglomus sp.	absent genus, genus only	153	novel species, genus known	0	0	Glomus
+EUK1268329	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268330	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268331	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268332	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268333	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268336	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268337	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268343	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268344	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268347	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268348	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268349	Nanoglomus sp.	absent genus, genus only	153	divergent class	1	0	Glomus
+EUK1268352	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268353	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268354	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268355	Nanoglomus sp.	absent genus, genus only	153	novel species, genus known	0	0	Glomus
+EUK1268358	Nanoglomus sp.	absent genus, genus only	151	boundary	0	0	
+EUK1268364	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268367	Nanoglomus sp.	absent genus, genus only	150	novel species, genus known	0	0	Glomus
+EUK1268368	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268369	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268370	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268374	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268378	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268380	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268382	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268383	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268386	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268388	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268390	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268391	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268392	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268393	Nanoglomus sp.	absent genus, genus only	156	novel species, genus known	0	0	Glomus
+EUK1268394	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268397	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268398	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268404	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268406	Nanoglomus sp.	absent genus, genus only	145	novel species, genus known	0	0	Glomus
+EUK1268407	Nanoglomus sp.	absent genus, genus only	154	novel species, genus known	0	0	Glomus
+EUK1268411	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268412	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268413	Nanoglomus sp.	absent genus, genus only	153	novel species, genus known	0	0	Glomus
+EUK1268414	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268415	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268417	Nanoglomus sp.	absent genus, genus only	150	novel species, genus known	0	0	Glomus
+EUK1268418	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268420	Nanoglomus sp.	absent genus, genus only	153	novel species, genus known	0	0	Glomus
+EUK1268425	Nanoglomus sp.	absent genus, genus only	152	novel species, genus known	0	0	Glomus
+EUK1268428	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268431	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268433	Nanoglomus sp.	absent genus, genus only	148	novel species, genus known	0	0	Glomus
+EUK1268441	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268443	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1268451	Oehlia sp.	genus only, genus in v4	150	novel species, genus known	0	0	Oehlia
+EUK1268452	Oehlia sp.	genus only, genus in v4	151	novel species, genus known	0	0	Oehlia
+EUK1268453	Oehlia sp.	genus only, genus in v4	150	novel species, genus known	0	0	Oehlia
+EUK1268454	Oehlia sp.	genus only, genus in v4	156	novel species, genus known	0	0	Oehlia
+EUK1268455	Oehlia sp.	genus only, genus in v4	152	novel species, genus known	0	0	Oehlia
+EUK1268456	Oehlia sp.	genus only, genus in v4	151	novel species, genus known	0	0	Oehlia
+EUK1268457	Oehlia sp.	genus only, genus in v4	152	novel species, genus known	0	0	Oehlia
+EUK1268569	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268571	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268581	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1268582	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268588	Rhizoglomus sp.	genus only, genus in v4	151	divergent class	1	1	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1268589	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268591	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus prolifer
+EUK1268594	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1268610	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus
+EUK1268621	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268622	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268623	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268642	Rhizoglomus sp.	genus only, genus in v4	153	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268647	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268651	Rhizoglomus sp.	genus only, genus in v4	151	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268656	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268660	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1268669	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268672	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268676	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1268678	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268680	Rhizoglomus sp.	genus only, genus in v4	151	novel lineage	0	0	
+EUK1268681	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268687	Rhizoglomus sp.	genus only, genus in v4	151	novel species, genus known	0	0	Rhizophagus
+EUK1268688	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268689	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268692	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268708	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268710	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268713	Rhizoglomus sp.	genus only, genus in v4	151	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268714	Rhizoglomus sp.	genus only, genus in v4	151	divergent class	1	0	Rhizophagus silesianus
+EUK1268715	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268719	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268735	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268736	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268750	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268757	Rhizoglomus sp.	genus only, genus in v4	151	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268764	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268772	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1268773	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268776	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1268787	Rhizophagus intraradices	known species	152	divergent class	1	0	Rhizophagus intraradices
+EUK1268788	Rhizophagus invermaius	absent species, genus in v4	153	novel species, genus known	0	0	Rhizophagus
+EUK1268790	Rhizophagus irregularis	known species	152	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1268791	Rhizophagus irregularis	known species	151	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1268792	Rhizophagus irregularis	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1360391	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360392	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1360393	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360394	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360398	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360399	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360400	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360403	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360404	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360405	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1360406	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1360409	Rhizophagus invermaius	absent species, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1360410	Rhizophagus invermaius	absent species, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1804588	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1804605	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1824992	Glomeraceae.gen05 sp.	placeholder lineage	156	novel lineage	0	0	
+EUK1825034	Nanoglomus sp.	absent genus, genus only	151	boundary	0	0	
+EUK1825035	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825036	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825039	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825040	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825041	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825047	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825048	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825049	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825054	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825055	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1825062	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1825063	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1825064	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus prolifer
+EUK1825073	Rhizoglomus sp.	genus only, genus in v4	152	novel lineage	0	0	
+EUK1881037	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1881038	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1882948	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1886267	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1886270	Rhizophagus intraradices	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1886271	Rhizophagus invermaius	absent species, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1891572	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1891579	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1891581	Rhizophagus irregularis	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1893148	Rhizophagus intraradices	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1894278	Rhizophagus irregularis	known species	151	divergent class	1	0	Rhizophagus irregularis;[Rhizoglomus] vesiculiferum
+EUK1894890	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1895416	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1895456	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1895464	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1895509	Rhizoglomus sp.	genus only, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1895530	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1895551	Rhizophagus irregularis	known species	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1895555	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1895559	Entrophospora sp.	absent genus, genus only	152	novel lineage	0	0	
+EUK1896193	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896194	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1896196	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1896201	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896204	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896206	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896207	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896208	Nanoglomus sp.	absent genus, genus only	151	divergent class	1	0	Glomus
+EUK1896211	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896216	Nanoglomus sp.	absent genus, genus only	157	novel species, genus known	0	0	Glomus
+EUK1896220	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus
+EUK1896228	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1896229	Rhizoglomus sp.	genus only, genus in v4	152	divergent class	1	0	Rhizophagus irregularis;Rhizophagus silesianus;[Rhizoglomus] vesiculiferum
+EUK1896288	Rhizophagus invermaius	absent species, genus in v4	152	novel species, genus known	0	0	Rhizophagus
+EUK1896289	Nanoglomus sp.	absent genus, genus only	151	novel species, genus known	0	0	Glomus

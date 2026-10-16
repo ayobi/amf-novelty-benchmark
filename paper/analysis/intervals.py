@@ -211,23 +211,31 @@ def main():
     add('withheld species', 'false known, placement + ITS rule', held_i, known, check=macro(a.paper, 'FKITS'))
 
     # ---- LSU-removal test (test species)
+    # Species-level intervals always come from the per-species counts of Table S4, so that they, and every interval
+    # computed after them, do not depend on whether --m4 is given. With --m4, culture-level intervals are added from
+    # the per-copy aggregate, with a random stream of their own (seed SEED + 1).
+    rows = species_rows_from_table(os.path.join(a.paper, 'tables', 'tableS1_m4_folds.tex'))
+    if len(rows) != int(macro(a.paper, 'MfourHeldN')):
+        raise AssertionError('LSU-removal copies differ from MfourHeldN')
+    m4rows = []
+    for ev, key, label, mac in ((lambda r: r['ctl_v2'], 'control_v2', 'false known, LSU intact, ITS rule', 'MfourControlFKvTwo'),
+                                (lambda r: r['v1'], 'v1', 'false known, species removed', 'MfourFKvOne'),
+                                (lambda r: r['v2'], 'v2', 'false known, species removed, ITS rule', 'MfourFKvTwo')):
+        m4rows.append((add('LSU-removal test', label, rows, ev, units=('organism',),
+                           check=None if key == 'control_v2' else macro(a.paper, mac)), key, mac))
     if a.m4:
-        for key, label, mac in (('control_v2', 'false known, LSU intact, ITS rule', 'MfourControlFKvTwo'),
-                                ('v1', 'false known, species removed', 'MfourFKvOne'),
-                                ('v2', 'false known, species removed, ITS rule', 'MfourFKvTwo')):
-            rows = [r for r in rd(os.path.join(a.m4, f'species.{key}.copies.tsv'))
-                    if r['copy_class'] == 'main' and r['group'] == 'named, species held out'
-                    and r['development_fold'] == '0' and r['external_status'] == 'removed']
-            add('LSU-removal test', label, rows, known, check=macro(a.paper, mac))
-    else:
-        rows = species_rows_from_table(os.path.join(a.paper, 'tables', 'tableS1_m4_folds.tex'))
-        if len(rows) != int(macro(a.paper, 'MfourHeldN')):
-            raise AssertionError('LSU-removal copies differ from MfourHeldN')
-        add('LSU-removal test', 'false known, LSU intact, ITS rule', rows, lambda r: r['ctl_v2'], units=('organism',))
-        add('LSU-removal test', 'false known, species removed', rows, lambda r: r['v1'], units=('organism',),
-            check=macro(a.paper, 'MfourFKvOne'))
-        add('LSU-removal test', 'false known, species removed, ITS rule', rows, lambda r: r['v2'], units=('organism',),
-            check=macro(a.paper, 'MfourFKvTwo'))
+        boot_cu = Boot()
+        boot_cu.rng = np.random.default_rng(SEED + 1)
+        for row, key, mac in m4rows:
+            per = [r for r in rd(os.path.join(a.m4, f'species.{key}.copies.tsv'))
+                   if r['copy_class'] == 'main' and r['group'] == 'named, species held out'
+                   and r['development_fold'] == '0' and r['external_status'] == 'removed']
+            k = sum(map(known, per))
+            if (k, len(per)) != (row['events'], row['copies']):
+                raise AssertionError(f"LSU-removal {key}: {k}/{len(per)} per copy, {row['events']}/{row['copies']} in Table S4")
+            lo, hi, nu, ne = boot_cu.ci(per, known, 'culture')
+            row.update({'culture_lo': round(lo, 1), 'culture_hi': round(hi, 1), 'culture_units': nu, 'culture_with_events': ne})
+            print(f"    culture level: {row['culture_lo']}-{row['culture_hi']} ({ne} of {nu})", flush=True)
 
     # ---- LongGloDB
     t = {n: rd(os.path.join(LGDB, f'{n}.copies.tsv')) for n in ('A_primary_v1', 'A_primary_v2', 'B_primary_v1', 'B_primary_v2')}

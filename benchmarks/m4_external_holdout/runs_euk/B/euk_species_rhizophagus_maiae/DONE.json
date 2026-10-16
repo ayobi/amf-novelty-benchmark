@@ -1,0 +1,22 @@
+{
+  "key": "eda5763a6b7931dbc08561c8b82bf03bc5c90eba2c2b9811cfe15bc355cda86d",
+  "placements_sha256": "8f9155aaf83bb68880fdc369799d2d297677bbe4e796c694be4b2f875d2537bb",
+  "plan": {
+    "key": "euk_species_rhizophagus_maiae",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1268795"
+    ],
+    "removed_ref_ids": [
+      "R0082",
+      "R0083"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Rhizophagus maiae",
+    "target_cultures": [
+      "Rhizophagus maiae | EUKARYOME"
+    ],
+    "v18_label": "Rhizophagus maiae"
+  }
+}

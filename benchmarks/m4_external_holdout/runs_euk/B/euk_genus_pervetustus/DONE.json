@@ -1,0 +1,38 @@
+{
+  "key": "7bbe3b6cfda752d28ee0e7268dbb20386a348b5d34adb8e7e38d270173b6e1f4",
+  "placements_sha256": "bfd2f635c6fec5666257d2bbce1dc0106c6fb097c74efb3fbc3d295b3573acbb",
+  "plan": {
+    "key": "euk_genus_pervetustus",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1188391",
+      "EUK1188392",
+      "EUK1188393",
+      "EUK1188394",
+      "EUK1188396",
+      "EUK1804616",
+      "EUK1804617",
+      "EUK1825087",
+      "EUK1825088",
+      "EUK1825089",
+      "EUK1825090",
+      "EUK1825091",
+      "EUK1825092",
+      "EUK1825093",
+      "EUK1825094",
+      "EUK1880314",
+      "EUK1890242"
+    ],
+    "removed_ref_ids": [
+      "R0104",
+      "R0391"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Pervetustus",
+    "target_cultures": [
+      "Pervetustus sp. | EUKARYOME"
+    ],
+    "v18_label": "Pervetustus simplex"
+  }
+}

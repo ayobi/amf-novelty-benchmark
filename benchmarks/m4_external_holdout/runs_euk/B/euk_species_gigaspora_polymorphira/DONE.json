@@ -1,0 +1,23 @@
+{
+  "key": "81a0f575e3445b1ceaf45cf6772d5192f99d94698fb5140b05425773c513ed38",
+  "placements_sha256": "8edf6e491b563d5338fda0aa25a48f6ff5b1f2976a24d4f0185c27624c0d6ec1",
+  "plan": {
+    "key": "euk_species_gigaspora_polymorphira",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266302"
+    ],
+    "removed_ref_ids": [
+      "R0154",
+      "R0155",
+      "R0156"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Gigaspora polymorphira",
+    "target_cultures": [
+      "Gigaspora polymorphira | EUKARYOME"
+    ],
+    "v18_label": "Gigaspora polymorphira"
+  }
+}

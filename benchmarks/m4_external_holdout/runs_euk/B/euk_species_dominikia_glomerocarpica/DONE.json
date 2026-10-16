@@ -1,0 +1,26 @@
+{
+  "key": "7a109aa09714ccc7b7b8181e9bd3e5a5486a861d0c35c2700252ed8a15b7b9ae",
+  "placements_sha256": "14eeb2834d79f0e5f217136c063887fd85b90c99c7fd5d07f334a936314a34ae",
+  "plan": {
+    "key": "euk_species_dominikia_glomerocarpica",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1187943",
+      "EUK1187993",
+      "EUK1266406",
+      "EUK1266423",
+      "EUK1266725"
+    ],
+    "removed_ref_ids": [
+      "R0494",
+      "R0495"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Dominikia glomerocarpica",
+    "target_cultures": [
+      "Dominikia glomerocarpica | EUKARYOME"
+    ],
+    "v18_label": "Dominikia glomerocarpica"
+  }
+}

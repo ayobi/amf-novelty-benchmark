@@ -1,0 +1,383 @@
+nadd =  6414
+npair =  3162102
+nseq =  6907
+nlen =  1260
+use multipair, weighti=0.0!
+distout=h
+nadd = 6414
+generating a scoring matrix for nucleotide (dist=200) ... done
+    0 / 493 (thread    0)  100 / 493 (thread    0)  200 / 493 (thread    2)  300 / 493 (thread    2)  400 / 493 (thread    0)dndpre (nuc) Version 7.526
+alg=X, model=DNA200 (2), 2.00 (6.00), -0.10 (-0.30), noshift, amax=0.0
+4 thread(s)
+
+generating a scoring matrix for nucleotide (dist=200) ... done
+All-to-all alignment.
+pairlocalalign (nuc) Version 7.526
+alg=Y, model=DNA200 (2), 2.00 (6.00), -0.10 (-0.30), noshift, amax=0.0
+4 thread(s)
+
+nadd = 6414
+ppenalty_ex = -10
+nthread = 4
+blosum 62 / kimura 200
+sueff_global = 0.100000
+norg = 493
+njobc = 494
+generating a scoring matrix for nucleotide (dist=200) ... done
+Loading 'hat2n' (aligned sequences - new sequences) ... done.
+Loading 'hat2i' (aligned sequences) ... done.
+STEP 0 / 6414 (thread 2)                    fSTEP 1 / 6414 (thread 0)                    STEP 2 / 6414 (thread 1)                    STEP 3 / 6414 (thread 3)                    fffSTEP 4 / 6414 (thread 2)                    fSTEP 5 / 6414 (thread 0)                    fSTEP 6 / 6414 (thread 3)                    fSTEP 7 / 6414 (thread 1)                    fSTEP 8 / 6414 (thread 2)                    fSTEP 9 / 6414 (thread 0)                    fSTEP 10 / 6414 (thread 3)                    fSTEP 11 / 6414 (thread 1)                    STEP 12 / 6414 (thread 2)                    ffSTEP 13 / 6414 (thread 0)                    fSTEP 14 / 6414 (thread 3)                    fSTEP 15 / 6414 (thread 2)                    fSTEP 16 / 6414 (thread 1)                    fSTEP 17 / 6414 (thread 0)                    fSTEP 18 / 6414 (thread 3)                    fSTEP 19 / 6414 (thread 0)                    fSTEP 20 / 6414 (thread 2)                    fSTEP 21 / 6414 (thread 1)                    fSTEP 22 / 6414 (thread 3)                    fSTEP 23 / 6414 (thread 3)                    fSTEP 24 / 6414 (thread 2)                    STEP 25 / 6414 (thread 0)                    ffSTEP 26 / 6414 (thread 1)                    fSTEP 27 / 6414 (thread 3)                    fSTEP 28 / 6414 (thread 2)                    fSTEP 29 / 6414 (thread 0)                    fSTEP 30 / 6414 (thread 2)                    fSTEP 31 / 6414 (thread 3)                    fSTEP 32 / 6414 (thread 1)                    fSTEP 33 / 6414 (thread 0)                    fSTEP 34 / 6414 (thread 2)                    fSTEP 35 / 6414 (thread 1)                    fSTEP 36 / 6414 (thread 3)                    fSTEP 37 / 6414 (thread 0)                    fSTEP 38 / 6414 (thread 2)                    fSTEP 39 / 6414 (thread 1)                    fSTEP 40 / 6414 (thread 3)                    fSTEP 41 / 6414 (thread 0)                    fSTEP 42 / 6414 (thread 2)                    fSTEP 43 / 6414 (thread 1)                    STEP 44 / 6414 (thread 3)                    ffSTEP 45 / 6414 (thread 0)                    STEP 46 / 6414 (thread 2)                    ffSTEP 47 / 6414 (thread 3)                    STEP 48 / 6414 (thread 1)                    ffSTEP 49 / 6414 (thread 0)                    fSTEP 50 / 6414 (thread 2)                    fSTEP 51 / 6414 (thread 1)                    STEP 52 / 6414 (thread 3)                    ffSTEP 53 / 6414 (thread 0)                    fSTEP 54 / 6414 (thread 2)                    fSTEP 55 / 6414 (thread 3)                    STEP 56 / 6414 (thread 1)                    ffSTEP 57 / 6414 (thread 0)                    fSTEP 58 / 6414 (thread 2)                    fSTEP 59 / 6414 (thread 3)                    STEP 60 / 6414 (thread 1)                    STEP 61 / 6414 (thread 2)                    STEP 62 / 6414 (thread 0)                    ffffSTEP 63 / 6414 (thread 2)                    fSTEP 64 / 6414 (thread 1)                    STEP 65 / 6414 (thread 0)                    ffSTEP 66 / 6414 (thread 3)                    fSTEP 67 / 6414 (thread 2)                    fSTEP 68 / 6414 (thread 0)                    STEP 69 / 6414 (thread 1)                    ffSTEP 70 / 6414 (thread 3)                    fSTEP 71 / 6414 (thread 2)                    fSTEP 72 / 6414 (thread 0)                    STEP 73 / 6414 (thread 1)                    ffSTEP 74 / 6414 (thread 3)                    fSTEP 75 / 6414 (thread 2)                    fSTEP 76 / 6414 (thread 0)                    STEP 77 / 6414 (thread 1)                    ffSTEP 78 / 6414 (thread 3)                    fSTEP 79 / 6414 (thread 2)                    fSTEP 80 / 6414 (thread 0)                    STEP 81 / 6414 (thread 1)                    ffSTEP 82 / 6414 (thread 2)                    STEP 83 / 6414 (thread 3)                    ffSTEP 84 / 6414 (thread 0)                    STEP 85 / 6414 (thread 1)                    ffSTEP 86 / 6414 (thread 2)                    fSTEP 87 / 6414 (thread 3)                    fSTEP 88 / 6414 (thread 0)                    STEP 89 / 6414 (thread 1)                    fSTEP 90 / 6414 (thread 2)                    ffSTEP 91 / 6414 (thread 3)                    fSTEP 92 / 6414 (thread 2)                    STEP 93 / 6414 (thread 0)                    ffSTEP 94 / 6414 (thread 1)                    fSTEP 95 / 6414 (thread 3)                    fSTEP 96 / 6414 (thread 2)                    fSTEP 97 / 6414 (thread 0)                    fSTEP 98 / 6414 (thread 1)                    fSTEP 99 / 6414 (thread 3)                    fSTEP 100 / 6414 (thread 2)                    fSTEP 101 / 6414 (thread 0)                    fSTEP 102 / 6414 (thread 3)                    STEP 103 / 6414 (thread 1)                    STEP 104 / 6414 (thread 2)                    fSTEP 105 / 6414 (thread 0)                    fffSTEP 106 / 6414 (thread 2)                    STEP 107 / 6414 (thread 3)                    fSTEP 108 / 6414 (thread 1)                    fSTEP 109 / 6414 (thread 0)                    ffSTEP 110 / 6414 (thread 2)                    fSTEP 111 / 6414 (thread 3)                    fSTEP 112 / 6414 (thread 1)                    STEP 113 / 6414 (thread 0)                    ffSTEP 114 / 6414 (thread 2)                    fSTEP 115 / 6414 (thread 3)                    fSTEP 116 / 6414 (thread 1)                    fSTEP 117 / 6414 (thread 0)                    fSTEP 118 / 6414 (thread 2)                    fSTEP 119 / 6414 (thread 3)                    fSTEP 120 / 6414 (thread 1)                    fSTEP 121 / 6414 (thread 0)                    fSTEP 122 / 6414 (thread 2)                    fSTEP 123 / 6414 (thread 3)                    fSTEP 124 / 6414 (thread 1)                    fSTEP 125 / 6414 (thread 2)                    STEP 126 / 6414 (thread 0)                    ffSTEP 127 / 6414 (thread 3)                    fSTEP 128 / 6414 (thread 2)                    fSTEP 129 / 6414 (thread 0)                    fSTEP 130 / 6414 (thread 1)                    fSTEP 131 / 6414 (thread 3)                    fSTEP 132 / 6414 (thread 2)                    fSTEP 133 / 6414 (thread 1)                    STEP 134 / 6414 (thread 0)                    ffSTEP 135 / 6414 (thread 3)                    fSTEP 136 / 6414 (thread 2)                    fSTEP 137 / 6414 (thread 1)                    STEP 138 / 6414 (thread 0)                    ffSTEP 139 / 6414 (thread 3)                    fSTEP 140 / 6414 (thread 2)                    fSTEP 141 / 6414 (thread 1)                    STEP 142 / 6414 (thread 0)                    ffSTEP 143 / 6414 (thread 3)                    fSTEP 144 / 6414 (thread 2)                    fSTEP 145 / 6414 (thread 1)                    fSTEP 146 / 6414 (thread 0)                    STEP 147 / 6414 (thread 3)                    ffSTEP 148 / 6414 (thread 2)                    fSTEP 149 / 6414 (thread 3)                    fSTEP 150 / 6414 (thread 1)                    fSTEP 151 / 6414 (thread 0)                    fSTEP 152 / 6414 (thread 2)                    fSTEP 153 / 6414 (thread 3)                    fSTEP 154 / 6414 (thread 1)                    STEP 155 / 6414 (thread 2)                    fSTEP 156 / 6414 (thread 0)                    ffSTEP 157 / 6414 (thread 2)                    fSTEP 158 / 6414 (thread 0)                    fSTEP 159 / 6414 (thread 3)                    fSTEP 160 / 6414 (thread 1)                    fSTEP 161 / 6414 (thread 2)                    fSTEP 162 / 6414 (thread 0)                    fSTEP 163 / 6414 (thread 3)                    fSTEP 164 / 6414 (thread 1)                    fSTEP 165 / 6414 (thread 2)                    fSTEP 166 / 6414 (thread 3)                    fSTEP 167 / 6414 (thread 0)                    STEP 168 / 6414 (thread 1)                    ffSTEP 169 / 6414 (thread 2)                    fSTEP 170 / 6414 (thread 0)                    STEP 171 / 6414 (thread 2)                    fSTEP 172 / 6414 (thread 1)                    ffSTEP 173 / 6414 (thread 3)                    fSTEP 174 / 6414 (thread 2)                    fSTEP 175 / 6414 (thread 0)                    STEP 176 / 6414 (thread 1)                    ffSTEP 177 / 6414 (thread 3)                    fSTEP 178 / 6414 (thread 2)                    fSTEP 179 / 6414 (thread 0)                    fSTEP 180 / 6414 (thread 1)                    fSTEP 181 / 6414 (thread 3)                    fSTEP 182 / 6414 (thread 2)                    fSTEP 183 / 6414 (thread 0)                    fSTEP 184 / 6414 (thread 2)                    fSTEP 185 / 6414 (thread 3)                    fSTEP 186 / 6414 (thread 0)                    fSTEP 187 / 6414 (thread 1)                    fSTEP 188 / 6414 (thread 2)                    fSTEP 189 / 6414 (thread 3)                    fSTEP 190 / 6414 (thread 2)                    fSTEP 191 / 6414 (thread 1)                    fSTEP 192 / 6414 (thread 3)                    fSTEP 193 / 6414 (thread 0)                    fSTEP 194 / 6414 (thread 2)                    fSTEP 195 / 6414 (thread 1)                    fSTEP 196 / 6414 (thread 0)                    STEP 197 / 6414 (thread 3)                    STEP 198 / 6414 (thread 2)                    fffSTEP 199 / 6414 (thread 1)                    fSTEP 200 / 6414 (thread 2)                    fSTEP 201 / 6414 (thread 0)                    fSTEP 202 / 6414 (thread 3)                    fSTEP 203 / 6414 (thread 1)                    fSTEP 204 / 6414 (thread 0)                    fSTEP 205 / 6414 (thread 3)                    fSTEP 206 / 6414 (thread 2)                    fSTEP 207 / 6414 (thread 1)                    fSTEP 208 / 6414 (thread 0)                    fSTEP 209 / 6414 (thread 3)                    STEP 210 / 6414 (thread 2)                    ffSTEP 211 / 6414 (thread 1)                    fSTEP 212 / 6414 (thread 2)                    STEP 213 / 6414 (thread 0)                    ffSTEP 214 / 6414 (thread 3)                    fSTEP 215 / 6414 (thread 1)                    fSTEP 216 / 6414 (thread 2)                    fSTEP 217 / 6414 (thread 0)                    fSTEP 218 / 6414 (thread 3)                    fSTEP 219 / 6414 (thread 2)                    STEP 220 / 6414 (thread 1)                    ffSTEP 221 / 6414 (thread 0)                    fSTEP 222 / 6414 (thread 3)                    fSTEP 223 / 6414 (thread 1)                    STEP 224 / 6414 (thread 2)                    fSTEP 225 / 6414 (thread 3)                    ffSTEP 226 / 6414 (thread 0)                    fSTEP 227 / 6414 (thread 1)                    fSTEP 228 / 6414 (thread 2)                    fSTEP 229 / 6414 (thread 3)                    fSTEP 230 / 6414 (thread 0)                    fSTEP 231 / 6414 (thread 2)                    fSTEP 232 / 6414 (thread 1)                    fSTEP 233 / 6414 (thread 3)                    fSTEP 234 / 6414 (thread 0)                    fSTEP 235 / 6414 (thread 2)                    fSTEP 236 / 6414 (thread 1)                    fSTEP 237 / 6414 (thread 3)                    fSTEP 238 / 6414 (thread 0)                    STEP 239 / 6414 (thread 2)                    ffSTEP 240 / 6414 (thread 1)                    fSTEP 241 / 6414 (thread 3)                    STEP 242 / 6414 (thread 2)                    ffSTEP 243 / 6414 (thread 0)                    fSTEP 244 / 6414 (thread 1)                    fSTEP 245 / 6414 (thread 2)                    fSTEP 246 / 6414 (thread 3)                    STEP 247 / 6414 (thread 0)                    ffSTEP 248 / 6414 (thread 1)                    fSTEP 249 / 6414 (thread 2)                    fSTEP 250 / 6414 (thread 3)                    STEP 251 / 6414 (thread 0)                    ffSTEP 252 / 6414 (thread 1)                    STEP 253 / 6414 (thread 2)                    ffSTEP 254 / 6414 (thread 0)                    STEP 255 / 6414 (thread 3)                    ffSTEP 256 / 6414 (thread 2)                    fSTEP 257 / 6414 (thread 1)                    STEP 258 / 6414 (thread 3)                    ffSTEP 259 / 6414 (thread 0)                    fSTEP 260 / 6414 (thread 2)                    fSTEP 261 / 6414 (thread 3)                    STEP 262 / 6414 (thread 1)                    fSTEP 263 / 6414 (thread 2)                    ffSTEP 264 / 6414 (thread 0)                    fSTEP 265 / 6414 (thread 2)                    STEP 266 / 6414 (thread 3)                    fSTEP 267 / 6414 (thread 1)                    ffSTEP 268 / 6414 (thread 0)                    fSTEP 269 / 6414 (thread 2)                    fSTEP 270 / 6414 (thread 3)                    fSTEP 271 / 6414 (thread 1)                    fSTEP 272 / 6414 (thread 0)                    fSTEP 273 / 6414 (thread 2)                    fSTEP 274 / 6414 (thread 3)                    fSTEP 275 / 6414 (thread 1)                    fSTEP 276 / 6414 (thread 0)                    fSTEP 277 / 6414 (thread 2)                    fSTEP 278 / 6414 (thread 3)                    fSTEP 279 / 6414 (thread 2)                    fSTEP 280 / 6414 (thread 0)                    STEP 281 / 6414 (thread 1)                    ffSTEP 282 / 6414 (thread 2)                    fSTEP 283 / 6414 (thread 3)                    fSTEP 284 / 6414 (thread 1)                    STEP 285 / 6414 (thread 0)                    ffSTEP 286 / 6414 (thread 2)                    fSTEP 287 / 6414 (thread 3)                    fSTEP 288 / 6414 (thread 2)                    fSTEP 289 / 6414 (thread 0)                    STEP 290 / 6414 (thread 1)                    ffSTEP 291 / 6414 (thread 3)                    fSTEP 292 / 6414 (thread 2)                    fSTEP 293 / 6414 (thread 0)                    STEP 294 / 6414 (thread 1)                    ffSTEP 295 / 6414 (thread 3)                    fSTEP 296 / 6414 (thread 2)                    fSTEP 297 / 6414 (thread 0)                    fSTEP 298 / 6414 (thread 1)                    fSTEP 299 / 6414 (thread 3)                    fSTEP 300 / 6414 (thread 2)                    fSTEP 301 / 6414 (thread 1)                    fSTEP 302 / 6414 (thread 0)                    STEP 303 / 6414 (thread 3)                    ffSTEP 304 / 6414 (thread 2)                    fSTEP 305 / 6414 (thread 1)                    fSTEP 306 / 6414 (thread 3)                    STEP 307 / 6414 (thread 0)                    STEP 308 / 6414 (thread 2)                    fffSTEP 309 / 6414 (thread 1)                    fSTEP 310 / 6414 (thread 3)                    STEP 311 / 6414 (thread 0)                    STEP 312 / 6414 (thread 2)                    fffSTEP 313 / 6414 (thread 2)                    STEP 314 / 6414 (thread 0)                    ffSTEP 315 / 6414 (thread 1)                    fSTEP 316 / 6414 (thread 3)                    fSTEP 317 / 6414 (thread 2)                    fSTEP 318 / 6414 (thread 0)                    fSTEP 319 / 6414 (thread 1)                    STEP 320 / 6414 (thread 2)                    fSTEP 321 / 6414 (thread 3)                    ffSTEP 322 / 6414 (thread 0)                    fSTEP 323 / 6414 (thread 2)                    STEP 324 / 6414 (thread 1)                    ffSTEP 325 / 6414 (thread 3)                    fSTEP 326 / 6414 (thread 0)                    fSTEP 327 / 6414 (thread 2)                    fSTEP 328 / 6414 (thread 1)                    fSTEP 329 / 6414 (thread 3)                    fSTEP 330 / 6414 (thread 0)                    fSTEP 331 / 6414 (thread 2)                    fSTEP 332 / 6414 (thread 0)                    fSTEP 333 / 6414 (thread 1)                    fSTEP 334 / 6414 (thread 3)                    fSTEP 335 / 6414 (thread 2)                    fSTEP 336 / 6414 (thread 3)                    STEP 337 / 6414 (thread 1)                    ffSTEP 338 / 6414 (thread 0)                    fSTEP 339 / 6414 (thread 2)                    fSTEP 340 / 6414 (thread 0)                    fSTEP 341 / 6414 (thread 3)                    STEP 342 / 6414 (thread 1)                    ffSTEP 343 / 6414 (thread 2)                    fSTEP 344 / 6414 (thread 0)                    fSTEP 345 / 6414 (thread 3)                    fSTEP 346 / 6414 (thread 1)                    STEP 347 / 6414 (thread 2)                    ffSTEP 348 / 6414 (thread 0)                    fSTEP 349 / 6414 (thread 3)                    STEP 350 / 6414 (thread 2)                    ffSTEP 351 / 6414 (thread 1)                    STEP 352 / 6414 (thread 0)                    ffSTEP 353 / 6414 (thread 2)                    fSTEP 354 / 6414 (thread 3)                    fSTEP 355 / 6414 (thread 1)                    STEP 356 / 6414 (thread 0)                    ffSTEP 357 / 6414 (thread 2)                    fSTEP 358 / 6414 (thread 3)                    fSTEP 359 / 6414 (thread 1)                    STEP 360 / 6414 (thread 0)                    ffSTEP 361 / 6414 (thread 2)                    fSTEP 362 / 6414 (thread 3)                    fSTEP 363 / 6414 (thread 2)                    STEP 364 / 6414 (thread 1)                    ffSTEP 365 / 6414 (thread 0)                    fSTEP 366 / 6414 (thread 3)                    fSTEP 367 / 6414 (thread 2)                    fSTEP 368 / 6414 (thread 1)                    fSTEP 369 / 6414 (thread 0)                    fSTEP 370 / 6414 (thread 3)                    fSTEP 371 / 6414 (thread 2)                    fSTEP 372 / 6414 (thread 1)                    fSTEP 373 / 6414 (thread 0)                    fSTEP 374 / 6414 (thread 3)                    fSTEP 375 / 6414 (thread 2)                    fSTEP 376 / 6414 (thread 1)                    fSTEP 377 / 6414 (thread 0)                    fSTEP 378 / 6414 (thread 3)                    fSTEP 379 / 6414 (thread 2)                    fSTEP 380 / 6414 (thread 1)                    fSTEP 381 / 6414 (thread 0)                    fSTEP 382 / 6414 (thread 2)                    STEP 383 / 6414 (thread 3)                    ffSTEP 384 / 6414 (thread 1)                    fSTEP 385 / 6414 (thread 2)                    fSTEP 386 / 6414 (thread 3)                    fSTEP 387 / 6414 (thread 0)                    WARNING: negative branch length -0.011681, step 158-1
+fSTEP 388 / 6414 (thread 1)                    WARNING: negative branch length -0.011631, step 158-1
+fSTEP 389 / 6414 (thread 2)                    WARNING: negative branch length -0.011631, step 158-1
+fSTEP 390 / 6414 (thread 3)                    fSTEP 391 / 6414 (thread 0)                    fSTEP 392 / 6414 (thread 3)                    fSTEP 393 / 6414 (thread 2)                    fSTEP 394 / 6414 (thread 1)                    fSTEP 395 / 6414 (thread 0)                    fSTEP 396 / 6414 (thread 2)                    STEP 397 / 6414 (thread 3)                    fWARNING: negative branch length -0.011556, step 158-1
+fSTEP 398 / 6414 (thread 1)                    WARNING: negative branch length -0.011575, step 158-1
+fSTEP 399 / 6414 (thread 2)                    WARNING: negative branch length -0.014775, step 158-1
+fSTEP 400 / 6414 (thread 0)                    fSTEP 401 / 6414 (thread 3)                    fSTEP 402 / 6414 (thread 0)                    fSTEP 403 / 6414 (thread 1)                    WARNING: negative branch length -0.020906, step 158-1
+fSTEP 404 / 6414 (thread 2)                    WARNING: negative branch length -0.014826, step 158-1
+fSTEP 405 / 6414 (thread 3)                    STEP 406 / 6414 (thread 0)                    WARNING: negative branch length -0.021001, step 158-1
+fWARNING: negative branch length -0.008306, step 158-1
+fSTEP 407 / 6414 (thread 2)                    STEP 408 / 6414 (thread 1)                    WARNING: negative branch length -0.008306, step 158-1
+fWARNING: negative branch length -0.008306, step 158-1
+fSTEP 409 / 6414 (thread 3)                    STEP 410 / 6414 (thread 0)                    WARNING: negative branch length -0.008306, step 158-1
+fWARNING: negative branch length -0.008731, step 158-1
+fSTEP 411 / 6414 (thread 2)                    WARNING: negative branch length -0.008731, step 158-1
+fSTEP 412 / 6414 (thread 1)                    WARNING: negative branch length -0.008731, step 158-1
+fSTEP 413 / 6414 (thread 0)                    WARNING: negative branch length -0.008731, step 158-1
+fSTEP 414 / 6414 (thread 3)                    WARNING: negative branch length -0.015206, step 158-1
+fSTEP 415 / 6414 (thread 2)                    WARNING: negative branch length -0.015206, step 158-1
+fSTEP 416 / 6414 (thread 1)                    WARNING: negative branch length -0.015206, step 158-1
+fSTEP 417 / 6414 (thread 0)                    fSTEP 418 / 6414 (thread 3)                    fSTEP 419 / 6414 (thread 2)                    WARNING: negative branch length -0.018581, step 158-1
+fSTEP 420 / 6414 (thread 1)                    fSTEP 421 / 6414 (thread 0)                    fSTEP 422 / 6414 (thread 3)                    WARNING: negative branch length -0.021506, step 158-1
+fSTEP 423 / 6414 (thread 2)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 424 / 6414 (thread 1)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 425 / 6414 (thread 0)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 426 / 6414 (thread 2)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 427 / 6414 (thread 3)                    WARNING: negative branch length -0.021681, step 158-1
+fSTEP 428 / 6414 (thread 1)                    WARNING: negative branch length -0.020931, step 158-1
+fSTEP 429 / 6414 (thread 0)                    WARNING: negative branch length -0.021106, step 158-1
+fSTEP 430 / 6414 (thread 2)                    WARNING: negative branch length -0.021056, step 158-1
+fSTEP 431 / 6414 (thread 3)                    WARNING: negative branch length -0.021206, step 158-1
+fSTEP 432 / 6414 (thread 1)                    WARNING: negative branch length -0.021681, step 158-1
+fSTEP 433 / 6414 (thread 0)                    STEP 434 / 6414 (thread 2)                    WARNING: negative branch length -0.021506, step 158-1
+fWARNING: negative branch length -0.021506, step 158-1
+fSTEP 435 / 6414 (thread 3)                    WARNING: negative branch length -0.021506, step 158-1
+fSTEP 436 / 6414 (thread 1)                    WARNING: negative branch length -0.021506, step 158-1
+fSTEP 437 / 6414 (thread 2)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 438 / 6414 (thread 0)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 439 / 6414 (thread 3)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 440 / 6414 (thread 2)                    WARNING: negative branch length -0.020856, step 158-1
+fSTEP 441 / 6414 (thread 1)                    WARNING: negative branch length -0.020653, step 158-1
+fSTEP 442 / 6414 (thread 0)                    WARNING: negative branch length -0.022031, step 158-1
+fSTEP 443 / 6414 (thread 3)                    WARNING: negative branch length -0.022031, step 158-1
+fSTEP 444 / 6414 (thread 2)                    WARNING: negative branch length -0.022031, step 158-1
+fSTEP 445 / 6414 (thread 1)                    STEP 446 / 6414 (thread 0)                    WARNING: negative branch length -0.022031, step 158-1
+fWARNING: negative branch length -0.022031, step 158-1
+fSTEP 447 / 6414 (thread 3)                    WARNING: negative branch length -0.021677, step 158-1
+fSTEP 448 / 6414 (thread 2)                    WARNING: negative branch length -0.021731, step 158-1
+fSTEP 449 / 6414 (thread 1)                    STEP 450 / 6414 (thread 0)                    WARNING: negative branch length -0.015431, step 158-1
+WARNING: negative branch length -0.015431, step 158-1
+ffSTEP 451 / 6414 (thread 3)                    WARNING: negative branch length -0.015431, step 158-1
+fSTEP 452 / 6414 (thread 2)                    WARNING: negative branch length -0.015500, step 158-1
+fSTEP 453 / 6414 (thread 0)                    WARNING: negative branch length -0.015856, step 158-1
+fSTEP 454 / 6414 (thread 1)                    WARNING: negative branch length -0.021606, step 158-1
+fSTEP 455 / 6414 (thread 3)                    WARNING: negative branch length -0.021606, step 158-1
+fSTEP 456 / 6414 (thread 2)                    WARNING: negative branch length -0.021606, step 158-1
+fSTEP 457 / 6414 (thread 0)                    WARNING: negative branch length -0.022326, step 158-1
+fSTEP 458 / 6414 (thread 1)                    WARNING: negative branch length -0.022326, step 158-1
+fSTEP 459 / 6414 (thread 2)                    WARNING: negative branch length -0.022326, step 158-1
+fSTEP 460 / 6414 (thread 3)                    WARNING: negative branch length -0.021481, step 158-1
+fSTEP 461 / 6414 (thread 0)                    WARNING: negative branch length -0.015856, step 158-1
+fSTEP 462 / 6414 (thread 1)                    WARNING: negative branch length -0.015856, step 158-1
+fSTEP 463 / 6414 (thread 2)                    WARNING: negative branch length -0.015856, step 158-1
+fSTEP 464 / 6414 (thread 3)                    WARNING: negative branch length -0.019306, step 158-1
+fSTEP 465 / 6414 (thread 0)                    WARNING: negative branch length -0.019181, step 158-1
+fSTEP 466 / 6414 (thread 2)                    WARNING: negative branch length -0.019181, step 158-1
+fSTEP 467 / 6414 (thread 1)                    WARNING: negative branch length -0.019181, step 158-1
+fSTEP 468 / 6414 (thread 3)                    WARNING: negative branch length -0.021556, step 158-1
+fSTEP 469 / 6414 (thread 2)                    STEP 470 / 6414 (thread 0)                    WARNING: negative branch length -0.015500, step 158-1
+fWARNING: negative branch length -0.016026, step 158-1
+fSTEP 471 / 6414 (thread 1)                    WARNING: negative branch length -0.015075, step 158-1
+fSTEP 472 / 6414 (thread 3)                    WARNING: negative branch length -0.012481, step 158-1
+fSTEP 473 / 6414 (thread 2)                    fSTEP 474 / 6414 (thread 0)                    WARNING: negative branch length -0.021306, step 158-1
+fSTEP 475 / 6414 (thread 1)                    WARNING: negative branch length -0.021306, step 158-1
+fSTEP 476 / 6414 (thread 3)                    WARNING: negative branch length -0.021306, step 158-1
+fSTEP 477 / 6414 (thread 2)                    WARNING: negative branch length -0.021306, step 158-1
+fSTEP 478 / 6414 (thread 0)                    WARNING: negative branch length -0.021556, step 158-1
+fSTEP 479 / 6414 (thread 1)                    WARNING: negative branch length -0.021556, step 158-1
+fSTEP 480 / 6414 (thread 3)                    WARNING: negative branch length -0.018456, step 158-1
+fSTEP 481 / 6414 (thread 2)                    WARNING: negative branch length -0.017931, step 158-1
+fSTEP 482 / 6414 (thread 0)                    WARNING: negative branch length -0.022106, step 158-1
+fSTEP 483 / 6414 (thread 1)                    WARNING: negative branch length -0.022106, step 158-1
+fSTEP 484 / 6414 (thread 2)                    WARNING: negative branch length -0.021606, step 158-1
+STEP 485 / 6414 (thread 3)                    ffSTEP 486 / 6414 (thread 0)                    fSTEP 487 / 6414 (thread 1)                    STEP 488 / 6414 (thread 3)                    ffSTEP 489 / 6414 (thread 2)                    fSTEP 490 / 6414 (thread 0)                    fSTEP 491 / 6414 (thread 2)                    fSTEP 492 / 6414 (thread 1)                    STEP 493 / 6414 (thread 3)                    ffSTEP 494 / 6414 (thread 2)                    fSTEP 495 / 6414 (thread 1)                    STEP 496 / 6414 (thread 3)                    ffSTEP 497 / 6414 (thread 2)                    fSTEP 498 / 6414 (thread 3)                    STEP 499 / 6414 (thread 1)                    ff
+STEP 500 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 600 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 700 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 800 / 6414 (thread 3)                    
+ffffffffffffWARNING: negative branch length -0.016537, step 242-1
+fWARNING: negative branch length -0.013576, step 242-1
+fWARNING: negative branch length -0.018951, step 242-1
+fWARNING: negative branch length -0.018951, step 242-1
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 900 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.014095, step 338-0
+fffffffffffffffffffWARNING: negative branch length -0.012158, step 338-0
+ffffWARNING: negative branch length -0.019125, step 338-0
+fff
+STEP 1000 / 6414 (thread 2)                    
+ffffffffffffWARNING: negative branch length -0.034505, step 338-0
+fWARNING: negative branch length -0.014826, step 338-0
+fffWARNING: negative branch length -0.017581, step 250-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.012181, step 158-1
+ffWARNING: negative branch length -0.015856, step 158-1
+fWARNING: negative branch length -0.020481, step 158-1
+ffWARNING: negative branch length -0.011631, step 158-1
+fWARNING: negative branch length -0.015031, step 158-1
+ffWARNING: negative branch length -0.012281, step 158-1
+fffWARNING: negative branch length -0.021001, step 158-1
+fWARNING: negative branch length -0.011281, step 158-1
+fWARNING: negative branch length -0.001881, step 158-1
+fffffffff
+STEP 1100 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 1200 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.000755, step 378-0
+fWARNING: negative branch length -0.013804, step 378-0
+ffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.014482, step 412-0
+ffWARNING: negative branch length -0.016959, step 412-0
+fWARNING: negative branch length -0.014492, step 412-0
+ffff
+STEP 1300 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 1400 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 1500 / 6414 (thread 3)                    
+fffffffffffffffffffffffWARNING: negative branch length -0.021850, step 158-1
+fWARNING: negative branch length -0.022106, step 158-1
+fWARNING: negative branch length -0.020481, step 158-1
+fWARNING: negative branch length -0.008731, step 158-1
+fWARNING: negative branch length -0.006006, step 158-1
+fffffffWARNING: negative branch length -0.022031, step 158-1
+fWARNING: negative branch length -0.020956, step 158-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 1600 / 6414 (thread 3)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 1700 / 6414 (thread 3)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 1800 / 6414 (thread 1)                    
+fffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.009255, step 350-0
+fffffffffffffffWARNING: negative branch length -0.011631, step 158-1
+ffffffffffWARNING: negative branch length -0.021000, step 158-1
+ffffffffffffffffffffWARNING: negative branch length -0.018995, step 412-0
+fffffWARNING: negative branch length -0.021001, step 158-1
+ffffffffffff
+STEP 1900 / 6414 (thread 3)                    
+fffffffffffffffffffffffWARNING: negative branch length -0.014656, step 158-1
+fWARNING: negative branch length -0.009966, step 350-0
+ffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.015031, step 158-1
+ffffffffffffffffffffffffff
+STEP 2000 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2100 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2200 / 6414 (thread 1)                    
+fffffffffffffffffffffffffWARNING: negative branch length -0.018490, step 340-0
+fffffffffffffffWARNING: negative branch length -0.018954, step 378-0
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2300 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.017561, step 338-0
+fWARNING: negative branch length -0.015025, step 338-0
+fffffffWARNING: negative branch length -0.014633, step 338-0
+fWARNING: negative branch length -0.017026, step 338-0
+ffWARNING: negative branch length -0.031760, step 338-0
+fffffWARNING: negative branch length -0.027052, step 338-0
+fWARNING: negative branch length -0.026932, step 338-0
+fffffWARNING: negative branch length -0.010375, step 338-0
+ffffWARNING: negative branch length -0.018995, step 412-0
+ffWARNING: negative branch length -0.011221, step 338-0
+fffffffffffffffffffffWARNING: negative branch length -0.005173, step 338-0
+fffWARNING: negative branch length -0.016850, step 338-0
+ffffffWARNING: negative branch length -0.007006, step 338-0
+ff
+STEP 2400 / 6414 (thread 0)                    
+ffffffWARNING: negative branch length -0.004177, step 338-0
+ffffWARNING: negative branch length -0.001390, step 250-1
+ffffffffffWARNING: negative branch length -0.010525, step 338-0
+ffffffffffffWARNING: negative branch length -0.020081, step 250-1
+fffWARNING: negative branch length -0.017180, step 338-0
+ffffffWARNING: negative branch length -0.006075, step 338-0
+fffffWARNING: negative branch length -0.006440, step 338-0
+ffffffffWARNING: negative branch length -0.019218, step 242-1
+fffffffffffffffffffffffffffffffffffffffffffff
+STEP 2500 / 6414 (thread 0)                    
+fffWARNING: negative branch length -0.006071, step 180-0
+ffWARNING: negative branch length -0.006346, step 180-0
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2600 / 6414 (thread 1)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2700 / 6414 (thread 2)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2800 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 2900 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3000 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3100 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3200 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.008656, step 158-1
+fWARNING: negative branch length -0.019181, step 158-1
+fWARNING: negative branch length -0.001656, step 158-1
+ffffWARNING: negative branch length -0.014656, step 158-1
+fWARNING: negative branch length -0.014781, step 158-1
+ffWARNING: negative branch length -0.014781, step 158-1
+ffWARNING: negative branch length -0.014425, step 158-1
+fWARNING: negative branch length -0.017156, step 158-1
+fWARNING: negative branch length -0.018151, step 158-1
+fffffffffffffffffffffffffffff
+STEP 3300 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3400 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3500 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3600 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3700 / 6414 (thread 0)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3800 / 6414 (thread 2)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 3900 / 6414 (thread 3)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4000 / 6414 (thread 0)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4100 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4200 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4300 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4400 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4500 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4600 / 6414 (thread 2)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4700 / 6414 (thread 3)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4800 / 6414 (thread 1)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 4900 / 6414 (thread 3)                    
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 5000 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 5100 / 6414 (thread 2)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.001523, step 350-0
+ffffffffffffffffffffffffffffffffffffffffff
+STEP 5200 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.091655, step 440-1
+fWARNING: negative branch length -0.131811, step 440-1
+fffffffWARNING: negative branch length -0.087312, step 440-1
+fffWARNING: negative branch length -0.087733, step 440-1
+ffffWARNING: negative branch length -0.072488, step 440-1
+ffWARNING: negative branch length -0.076631, step 440-1
+fWARNING: negative branch length -0.076631, step 440-1
+ffWARNING: negative branch length -0.055609, step 440-1
+ff
+STEP 5300 / 6414 (thread 3)                    
+fffffffffWARNING: negative branch length -0.093320, step 440-1
+fffWARNING: negative branch length -0.118995, step 440-1
+fffffffWARNING: negative branch length -0.116658, step 440-1
+fWARNING: negative branch length -0.076480, step 440-1
+fffffWARNING: negative branch length -0.072111, step 440-1
+ffWARNING: negative branch length -0.091655, step 440-1
+fWARNING: negative branch length -0.072403, step 440-1
+ffffffWARNING: negative branch length -0.074184, step 440-1
+ffffffWARNING: negative branch length -0.058947, step 440-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 5400 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 5500 / 6414 (thread 1)                    
+ffffffffffffffffffffffWARNING: negative branch length -0.022231, step 158-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 5600 / 6414 (thread 3)                    
+fffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.022231, step 158-1
+fWARNING: negative branch length -0.022231, step 158-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.001903, step 350-0
+ffffffffffff
+STEP 5700 / 6414 (thread 3)                    
+ffffffffffffffffffffffffffffffWARNING: negative branch length -0.016800, step 338-0
+fffffffffffffffffWARNING: negative branch length -0.015098, step 338-0
+ffffffffffffffffffffffffffWARNING: negative branch length -0.026808, step 338-0
+fffffffffffffffffffffffffff
+STEP 5800 / 6414 (thread 1)                    
+ffffffffffffffffffffffffffffffffWARNING: negative branch length -0.007581, step 158-1
+ffffffffffffffffffffffffffffWARNING: negative branch length -0.015223, step 338-0
+ffffffffffffffffffffffffffffffffffffffff
+STEP 5900 / 6414 (thread 3)                    
+fffffffffffffffWARNING: negative branch length -0.009681, step 158-1
+ffWARNING: negative branch length -0.020706, step 158-1
+fWARNING: negative branch length -0.014781, step 158-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.015800, step 158-1
+fWARNING: negative branch length -0.012356, step 158-1
+ffffffffffffffffWARNING: negative branch length -0.015031, step 158-1
+fffffffffffffff
+STEP 6000 / 6414 (thread 1)                    
+fffffffffffffWARNING: negative branch length -0.006356, step 158-1
+fffffffffffffffffffWARNING: negative branch length -0.021431, step 158-1
+fffffffffffffffffffffffffffWARNING: negative branch length -0.183300, step 473-0
+fffffffffWARNING: negative branch length -0.008951, step 158-1
+fffffffffWARNING: negative branch length -0.003033, step 314-0
+ffffffWARNING: negative branch length -0.008556, step 158-1
+ffWARNING: negative branch length -0.018825, step 338-0
+fffffffffffffff
+STEP 6100 / 6414 (thread 2)                    
+fffffffffffWARNING: negative branch length -0.005575, step 158-1
+fffffffffWARNING: negative branch length -0.008356, step 158-1
+ffffWARNING: negative branch length -0.018106, step 158-1
+ffWARNING: negative branch length -0.021431, step 158-1
+ffffffffffffffffffffffWARNING: negative branch length -0.008306, step 158-1
+ffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.008606, step 158-1
+ffffffffWARNING: negative branch length -0.020881, step 158-1
+ffffffff
+STEP 6200 / 6414 (thread 2)                    
+ffffffffffffffWARNING: negative branch length -0.012673, step 338-0
+fffffffffffffffffffffffffffffffffWARNING: negative branch length -0.008656, step 158-1
+ffffffffffffffffffffffffffffffffffffffffffffffffffff
+STEP 6300 / 6414 (thread 0)                    
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffWARNING: negative branch length -0.005331, step 158-1
+fffffffffffffffffffffffffffffff
+STEP 6400 / 6414 (thread 1)                    
+ffffffWARNING: negative branch length -0.014071, step 180-0
+fffWARNING: negative branch length -0.014071, step 180-0
+ffffWARNING: negative branch length -0.001956, step 158-1
+f
+
+Combining ..
+0 / 6414 0 / 6414   done.                      
+
+   done.                      
+
+addsingle (nuc) Version 7.526
+alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+4 thread(s)
+
+
+To keep the alignment length, 6064 letters were DELETED.
+The deleted letters are shown in the (filename).map file.
+
+Strategy:
+ Multi-NS-fragment (Not tested.)
+ ?
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+

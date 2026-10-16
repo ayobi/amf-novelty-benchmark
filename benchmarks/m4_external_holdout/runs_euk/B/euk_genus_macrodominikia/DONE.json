@@ -1,0 +1,46 @@
+{
+  "key": "401b320fd5c3517fee537167187d6e56c3e3a8e3aebe327cb390eac055962dcf",
+  "placements_sha256": "4ecf0203af5f7dd405416ff813c7ced4b0fc5200751097c8fd6728f3480166b2",
+  "plan": {
+    "key": "euk_genus_macrodominikia",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1124187",
+      "EUK1124293",
+      "EUK1124294",
+      "EUK1124295",
+      "EUK1124296",
+      "EUK1124297",
+      "EUK1124298",
+      "EUK1201000",
+      "EUK1201901",
+      "EUK1202155",
+      "EUK1202968",
+      "EUK1267098",
+      "EUK1267099",
+      "EUK1267100",
+      "EUK1267101",
+      "EUK1883332",
+      "EUK1886269",
+      "EUK1893129",
+      "EUK1893146",
+      "EUK1893147",
+      "EUK1894151",
+      "EUK1894152",
+      "EUK1894266",
+      "EUK1894290"
+    ],
+    "removed_ref_ids": [
+      "R0243",
+      "R0244"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Macrodominikia",
+    "target_cultures": [
+      "Macrodominikia compressa | EUKARYOME",
+      "Macrodominikia sp. | EUKARYOME"
+    ],
+    "v18_label": "Macrodominikia compressa"
+  }
+}

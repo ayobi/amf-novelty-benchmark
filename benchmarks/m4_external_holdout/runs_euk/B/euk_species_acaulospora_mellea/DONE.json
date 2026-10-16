@@ -1,0 +1,22 @@
+{
+  "key": "7b7c81e2ab5c8ef6ce88b77e66a054a1617ac24ff951561e62b775decb812ff9",
+  "placements_sha256": "a071b7f5082e16c2511d1425d98d812098e32fe3a368b3f17a01fc6264d97c52",
+  "plan": {
+    "key": "euk_species_acaulospora_mellea",
+    "mapping": "species round",
+    "query_ids": [
+      "EUK1266062"
+    ],
+    "removed_ref_ids": [
+      "R0337",
+      "R0478"
+    ],
+    "role": "novel species, genus in v4",
+    "round": "species",
+    "target": "Acaulospora mellea",
+    "target_cultures": [
+      "Acaulospora mellea | EUKARYOME"
+    ],
+    "v18_label": "Acaulospora mellea"
+  }
+}

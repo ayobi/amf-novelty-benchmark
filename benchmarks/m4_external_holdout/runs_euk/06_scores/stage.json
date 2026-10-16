@@ -1,0 +1,15 @@
+{
+  "key": "b2c52967c85f0ca05e5f8ceb00e66ba222a7e302e185af7cbc4e9655e74b4919:scores",
+  "outputs": {
+    "A_primary_v1.copies.tsv": "f7b8a0c4919abe51c81b4e62746e81f53582801d6a23d828c04b5a24929ef526",
+    "A_primary_v2.copies.tsv": "7b041b26b787f482faa23891f9cbc5328dd1feca235ba1beecb3e54b905d65be",
+    "A_secondary_vt_v1.copies.tsv": "1db0e82d0243dc5135acac2c8b955ed0687f34a8bb19137d128ba819bc6f1449",
+    "A_secondary_vt_v2.copies.tsv": "c49c0e0627228ff0c4272c97d829e0e1bcecdca02c356b14bd01eaade3f20600",
+    "B_primary_v1.copies.tsv": "b77ef50949183ef14b30fa403cb766fe4bda3d94d2b9ca32a8b01d40a7070ca3",
+    "B_primary_v2.copies.tsv": "8a39146bf718ec79640346a2c75a79019abf88122252d2b4a7d80ec05ea37ebc",
+    "B_secondary_vt_v1.copies.tsv": "63cefd2f740d4403b24da8a17f4a49d1a617dfcc893b03e4be623920d930e903",
+    "B_secondary_vt_v2.copies.tsv": "27f70137bbec7be13ca8e1277b645c7a331afecc3a1d83c24a708e0816d737fa",
+    "scores.json": "e7fb09a760d551e352c79274de03581d040c979dd0f71414ccbea6f9d1ef6c88"
+  },
+  "seconds": 12275.193321907002
+}

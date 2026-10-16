@@ -1,0 +1,134 @@
+accession	role	organism	stratum	called	status	predicted_inside	ITS_nearest	LSU_nearest	SSU_nearest
+EUK1124194	genus only	Dominikia sp.	genus only, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 5.05	Dominikia duoreactiva 1.08	Dominikia duoreactiva 1.07
+EUK1124272	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.5	Microdominikia litorea 1.92	Microdominikia litorea 0.9
+EUK1124275	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.05	Microdominikia litorea 2.05	Microdominikia litorea 0.82
+EUK1124276	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.73	Microdominikia litorea 1.92	Microdominikia litorea 0.82
+EUK1124309	genus only	Rhizoglomus sp.	genus only, genus in v4	Rhizophagus irregularis	known species		Rhizophagus irregularis 3.68	Rhizophagus irregularis 2.05	Rhizophagus irregularis 0.82
+EUK1124325	novel species, genus in v4	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus turnauae 9.18	Septoglomus africanum 4.71	Septoglomus africanum 1.56
+EUK1124327	novel species, genus in v4	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.53	Septoglomus africanum 2.15	Septoglomus africanum 1.31
+EUK1124328	novel species, genus in v4	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 7.3	Septoglomus africanum 2.56	Septoglomus africanum 1.23
+EUK1124329	novel species, genus in v4	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 5.72	Septoglomus africanum 1.88	Septoglomus turnauae 1.15
+EUK1124330	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.46	Septoglomus africanum 1.88	Septoglomus turnauae 1.23
+EUK1124332	novel species, genus in v4	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus turnauae 10.48	Septoglomus africanum 4.56	Septoglomus africanum 1.31
+EUK1187888	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 1.56	Dominikia bonfanteae 1.08	Dominikia bonfanteae 0.98
+EUK1187937	genus only	Dominikia sp.	genus only, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 4.46	Dominikia duoreactiva 1.75	Dominikia duoreactiva 0.98
+EUK1187960	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.75	Dominikia bonfanteae 2.02	Dominikia bonfanteae 0.82
+EUK1187963	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.2	Dominikia bonfanteae 2.02	Dominikia bonfanteae 0.9
+EUK1187973	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.97	Dominikia bonfanteae 1.88	Dominikia bonfanteae 0.82
+EUK1187976	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.58	Dominikia bonfanteae 2.55	Dominikia bonfanteae 0.9
+EUK1187998	genus only	Funneliformis sp.	genus only, genus in v4	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 3.91	Funneliformis caledonium 1.21	Funneliformis caledonium 0.16
+EUK1188092	genus only	Glomus sp.	genus only, genus in v4	Glomus chinense;Glomus rugosae	known species group		Glomus chinense 5.79	Glomus rugosae 0.95	Glomus rugosae 0.49
+EUK1188095	genus only	Glomus sp.	genus only, genus in v4	Glomus tetrastratosum	known species		Glomus tetrastratosum 2.9	Glomus tetrastratosum 3.14	Glomus tetrastratosum 0.16
+EUK1188100	genus only	Glomus sp.	genus only, genus in v4	Glomus macrocarpum	known species	Glomus chinense	Glomus chinense 5.98	Glomus macrocarpum 0.95	Glomus macrocarpum 0.16
+EUK1188113	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.5	Microdominikia litorea 1.51	Microdominikia litorea 1.39
+EUK1188116	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.49	Microdominikia litorea 1.51	Microdominikia litorea 0.82
+EUK1188273	genus only	Rhizoglomus sp.	genus only, genus in v4	Rhizophagus prolifer	known species		Rhizophagus prolifer 1.08	Rhizophagus prolifer 0.54	Rhizophagus prolifer 0.82
+EUK1188322	genus only	Rhizoglomus sp.	genus only, genus in v4	[Rhizoglomus] vesiculiferum	known species		[Rhizoglomus] vesiculiferum 1.51	[Rhizoglomus] vesiculiferum 0.14	[Rhizoglomus] vesiculiferum 2.77
+EUK1188344	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.27	Sclerocystis sinuosa 1.35	Sclerocystis sinuosa 0.82
+EUK1188351	novel species, genus in v4	Septoglomus constrictum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 5.37	Septoglomus africanum 2.02	Septoglomus turnauae 1.23
+EUK1188352	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.6	Septoglomus africanum 2.15	Septoglomus africanum 0.98
+EUK1188360	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus turnauae	known species		Septoglomus turnauae 5.45	Septoglomus turnauae 3.64	Septoglomus turnauae 0.66
+EUK1188380	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 5.56	Septoglomus viscosum 3.64	Septoglomus viscosum 0.82
+EUK1188389	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 7.93	Paraglomus laccatum 2.49	Paraglomus laccatum 0.41
+EUK1200246	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 6.68	Septoglomus africanum 1.88	Septoglomus turnauae 1.02
+EUK1200709	novel species, genus in v4	Septoglomus constrictum	absent species, genus in v4	Septoglomus viscosum	known species		Septoglomus africanum 7.72	Septoglomus africanum 2.56	Septoglomus africanum 1.01
+EUK1201007	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 6.51	Septoglomus africanum 1.88	Septoglomus turnauae 0.85
+EUK1201784	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 6.92	Septoglomus africanum 1.75	Septoglomus turnauae 0.82
+EUK1202772	genus only	Glomus sp.	genus only, genus in v4	Glomus macrocarpum	known species	Glomus rugosae	Glomus rugosae 5.11	Glomus macrocarpum 0.41	Glomus macrocarpum 0.07
+EUK1231011	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.75	Dominikia bonfanteae 1.75	Dominikia bonfanteae 0.82
+EUK1266089	genus only	Diversispora sp.	genus only, genus in v4	Diversispora epigaea	known species		Diversispora epigaea 3.75	Diversispora epigaea 2.32	Diversispora aestuarii 1.47
+EUK1266099	genus only	Diversispora sp.	genus only, genus in v4	Diversispora epigaea	known species		Diversispora epigaea 2.88	Diversispora epigaea 3.41	Diversispora aestuarii 1.23
+EUK1266291	genus only	Gigaspora sp.	genus only, genus in v4	Gigaspora rosea	known species		Gigaspora rosea 5.28	Gigaspora rosea 3.69	Gigaspora rosea 0.74
+EUK1266359	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.5	Dominikia bonfanteae 3.23	Dominikia bonfanteae 0.33
+EUK1266434	known species	Dominikia bonfanteae	known species	Dominikia bonfanteae	known species		Dominikia bonfanteae 3.98	Dominikia bonfanteae 3.63	Dominikia bonfanteae 1.64
+EUK1266460	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.84	Dominikia bonfanteae 2.01	Dominikia bonfanteae 1.39
+EUK1266499	genus only	Dominikia sp.	genus only, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 5.07	Dominikia duoreactiva 3.11	Dominikia duoreactiva 0.41
+EUK1266507	genus only	Dominikia sp.	genus only, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 5.07	Dominikia duoreactiva 2.03	Dominikia duoreactiva 0.82
+EUK1266549	genus only	Dominikia sp.	genus only, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 5.8	Dominikia duoreactiva 3.38	Dominikia duoreactiva 0.82
+EUK1266610	novel species, genus in v4	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 5.99	Dominikia duoreactiva 3.78	Dominikia duoreactiva 0.66
+EUK1266643	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 4.09	Dominikia bonfanteae 0.94	Dominikia bonfanteae 1.63
+EUK1266665	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 3.12	Dominikia bonfanteae 1.08	Dominikia bonfanteae 1.48
+EUK1266724	novel species, genus in v4	Dominikia achra	absent species, genus in v4	Dominikia duoreactiva	known species		Dominikia duoreactiva 4.39	Dominikia duoreactiva 3.11	Dominikia duoreactiva 0.41
+EUK1266731	genus only	Funneliformis sp.	genus only, genus in v4	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 4.89	Funneliformis caledonium 1.48	Funneliformis caledonium 0.33
+EUK1266756	genus only	Funneliformis sp.	genus only, genus in v4	Funneliformis mosseae	known species		Funneliformis mosseae 1.65	Funneliformis mosseae 0.94	Funneliformis mosseae 0.82
+EUK1266763	genus only	Funneliformis sp.	genus only, genus in v4	Funneliformis mosseae	known species		Funneliformis mosseae 2.26	Funneliformis mosseae 0.67	Funneliformis mosseae 0.9
+EUK1266768	known species	Funneliformis caledonium	known species	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 4.54	Funneliformis caledonium 0.81	Funneliformis caledonium 0.25
+EUK1266772	known species	Funneliformis caledonium	known species	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 5.58	Funneliformis caledonium 1.75	Funneliformis caledonium 0.41
+EUK1266773	known species	Funneliformis caledonium	known species	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 4.93	Funneliformis caledonium 0.81	Funneliformis caledonium 0.57
+EUK1267086	genus only	Glomus sp.	genus only, genus in v4	Glomus macrocarpum;Glomus rugosae	known species group	Glomus chinense	Glomus chinense 4.4	Glomus rugosae 1.64	Glomus rugosae 0.25
+EUK1267116	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.93	Microdominikia litorea 1.51	Microdominikia litorea 0.82
+EUK1267139	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.96	Microdominikia litorea 1.64	Microdominikia litorea 0.99
+EUK1267159	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 4.36	Microdominikia litorea 1.64	Microdominikia litorea 0.9
+EUK1267176	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.61	Microdominikia litorea 3.32	Microdominikia litorea 0.74
+EUK1267182	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.52	Microdominikia litorea 2.47	Microdominikia litorea 1.06
+EUK1267202	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.52	Microdominikia litorea 1.51	Microdominikia litorea 0.98
+EUK1267234	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.95	Microdominikia litorea 1.78	Microdominikia litorea 0.82
+EUK1267235	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.95	Microdominikia litorea 1.78	Microdominikia litorea 0.82
+EUK1267259	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.17	Microdominikia litorea 1.64	Microdominikia litorea 0.9
+EUK1267265	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 2.75	Microdominikia litorea 1.92	Microdominikia litorea 0.9
+EUK1267297	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.41	Microdominikia litorea 1.78	Microdominikia litorea 0.82
+EUK1267501	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.39	Microdominikia litorea 2.6	Microdominikia litorea 1.23
+EUK1267602	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 4.09	Microdominikia litorea 2.19	Microdominikia litorea 1.06
+EUK1268608	genus only	Rhizoglomus sp.	genus only, genus in v4	[Rhizoglomus] vesiculiferum	known species		Rhizophagus irregularis 5.25	Rhizophagus irregularis 3.25	Rhizophagus irregularis 1.31
+EUK1268637	genus only	Rhizoglomus sp.	genus only, genus in v4	[Rhizoglomus] vesiculiferum	known species		[Rhizoglomus] vesiculiferum 1.05	[Rhizoglomus] vesiculiferum 1.09	[Rhizoglomus] vesiculiferum 0.98
+EUK1268718	genus only	Rhizoglomus sp.	genus only, genus in v4	[Rhizoglomus] vesiculiferum	known species		Rhizophagus silesianus 2.77	Rhizophagus silesianus 3.12	Rhizophagus silesianus 0.16
+EUK1268742	known species	Rhizophagus silesianus	known species	Rhizophagus silesianus	known species		Rhizophagus silesianus 5.72	Rhizophagus silesianus 1.76	Rhizophagus silesianus 1.22
+EUK1268845	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.79	Sclerocystis sinuosa 2.16	Sclerocystis sinuosa 1.23
+EUK1268853	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.33	Sclerocystis sinuosa 2.43	Sclerocystis sinuosa 0.82
+EUK1268854	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.33	Sclerocystis sinuosa 1.9	Sclerocystis sinuosa 0.82
+EUK1268856	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.48	Sclerocystis sinuosa 1.35	Sclerocystis sinuosa 0.9
+EUK1268862	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.26	Sclerocystis sinuosa 1.49	Sclerocystis sinuosa 0.9
+EUK1268863	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.12	Sclerocystis sinuosa 5.56	Sclerocystis sinuosa 0.57
+EUK1268866	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.48	Sclerocystis sinuosa 3.53	Sclerocystis sinuosa 0.49
+EUK1268874	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.32	Sclerocystis sinuosa 2.16	Sclerocystis sinuosa 0.98
+EUK1268879	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.76	Sclerocystis sinuosa 3.11	Sclerocystis sinuosa 0.49
+EUK1268881	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.48	Sclerocystis sinuosa 2.56	Sclerocystis sinuosa 0.82
+EUK1268886	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 3.62	Sclerocystis sinuosa 3.24	Sclerocystis sinuosa 0.74
+EUK1268887	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.34	Sclerocystis sinuosa 3.38	Sclerocystis sinuosa 0.66
+EUK1268894	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.39	Sclerocystis sinuosa 2.43	Sclerocystis sinuosa 1.06
+EUK1268895	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.52	Sclerocystis sinuosa 2.43	Sclerocystis sinuosa 1.15
+EUK1268907	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.69	Sclerocystis sinuosa 3.37	Sclerocystis sinuosa 0.33
+EUK1268909	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.48	Sclerocystis sinuosa 2.16	Sclerocystis sinuosa 0.9
+EUK1268916	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 3.84	Sclerocystis sinuosa 3.24	Sclerocystis sinuosa 0.25
+EUK1268920	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 4.26	Sclerocystis sinuosa 3.64	Sclerocystis sinuosa 0.57
+EUK1268921	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.34	Sclerocystis sinuosa 2.43	Sclerocystis sinuosa 0.82
+EUK1268929	genus only	Sclerocystis sp.	genus only, genus in v4	Sclerocystis sinuosa	known species		Sclerocystis sinuosa 5.97	Sclerocystis sinuosa 3.1	Sclerocystis sinuosa 1.06
+EUK1268937	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 4.57	Septoglomus viscosum 2.7	Septoglomus viscosum 1.23
+EUK1268950	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.3	Septoglomus africanum 2.02	Septoglomus africanum 1.64
+EUK1268961	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 9.2	Septoglomus africanum 2.02	Septoglomus turnauae 0.82
+EUK1268969	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.3	Septoglomus africanum 2.01	Septoglomus africanum 1.23
+EUK1268974	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus turnauae 9.7	Septoglomus africanum 4.58	Septoglomus africanum 1.8
+EUK1268978	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.61	Septoglomus africanum 2.28	Septoglomus africanum 0.98
+EUK1268979	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 6.97	Septoglomus africanum 2.15	Septoglomus africanum 1.07
+EUK1268980	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus turnauae	known species		Septoglomus turnauae 7.58	Septoglomus turnauae 2.15	Septoglomus turnauae 0.82
+EUK1268984	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 8.28	Septoglomus africanum 2.02	Septoglomus turnauae 1.07
+EUK1269152	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 3.82	Septoglomus viscosum 1.89	Septoglomus viscosum 0.9
+EUK1269153	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 3.82	Septoglomus viscosum 1.89	Septoglomus viscosum 0.9
+EUK1269176	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 4.62	Septoglomus viscosum 2.7	Septoglomus viscosum 1.23
+EUK1269177	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 5.42	Septoglomus viscosum 2.96	Septoglomus viscosum 1.14
+EUK1269179	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 4.74	Septoglomus viscosum 1.89	Septoglomus viscosum 0.9
+EUK1269180	genus only	Viscospora sp.	genus only, genus in v4	Septoglomus viscosum	known species		Septoglomus viscosum 3.82	Septoglomus viscosum 2.83	Septoglomus viscosum 1.06
+EUK1804586	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.18	Microdominikia litorea 1.51	Microdominikia litorea 1.56
+EUK1804607	genus only	Rhizoglomus sp.	genus only, genus in v4	Rhizophagus irregularis	known species		Rhizophagus irregularis 7.45	Rhizophagus irregularis 2.98	Rhizophagus irregularis 0.95
+EUK1882951	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 6.38	Paraglomus laccatum 2.49	Paraglomus laccatum 0.25
+EUK1886273	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 9.0	Septoglomus africanum 1.75	Septoglomus turnauae 0.82
+EUK1886274	novel species, genus in v4	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus turnauae 10.87	Septoglomus africanum 4.17	Septoglomus africanum 1.31
+EUK1891558	known species	Glomus macrocarpum	known species	Glomus chinense;Glomus rugosae	known species group	Glomus macrocarpum	Glomus macrocarpum 5.84	Glomus rugosae 1.36	Glomus rugosae 0.08
+EUK1891583	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus africanum 7.47	Septoglomus africanum 2.28	Septoglomus africanum 1.15
+EUK1893143	genus only	Microdominikia sp.	genus only, genus in v4	Microdominikia litorea	known species		Microdominikia litorea 3.18	Microdominikia litorea 2.05	Microdominikia litorea 0.82
+EUK1893150	novel species, genus in v4	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus turnauae 10.15	Septoglomus africanum 4.56	Septoglomus africanum 1.31
+EUK1894288	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus turnauae	known species		Septoglomus turnauae 5.43	Septoglomus turnauae 3.37	Septoglomus turnauae 0.57
+EUK1894291	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 6.0	Paraglomus laccatum 2.78	Paraglomus laccatum 0.33
+EUK1894302	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 6.96	Paraglomus laccatum 2.63	Paraglomus laccatum 0.25
+EUK1895428	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 6.58	Paraglomus laccatum 2.78	Paraglomus laccatum 0.25
+EUK1895440	genus only	Funneliformis sp.	genus only, genus in v4	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 4.92	Funneliformis caledonium 0.94	Funneliformis caledonium 0.16
+EUK1895481	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 5.62	Dominikia bonfanteae 1.74	Dominikia bonfanteae 0.82
+EUK1895506	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus brasilianum	known species		Paraglomus brasilianum 10.12	Paraglomus brasilianum 2.78	Paraglomus brasilianum 0.41
+EUK1896146	genus only	Dominikia sp.	genus only, genus in v4	Dominikia bonfanteae	known species		Dominikia bonfanteae 3.32	Dominikia bonfanteae 1.75	Dominikia bonfanteae 0.82
+EUK1896168	known species	Funneliformis caledonium	known species	Funneliformis geosporum	known species	Funneliformis caledonium	Funneliformis caledonium 2.73	Funneliformis caledonium 1.21	Funneliformis caledonium 0.16
+EUK1896234	genus only	Rhizoglomus sp.	genus only, genus in v4	[Rhizoglomus] vesiculiferum	known species	Rhizophagus irregularis	Rhizophagus irregularis 5.47	Rhizophagus irregularis 2.85	Rhizophagus irregularis 0.57
+EUK1896238	genus only	Septoglomus sp.	genus only, genus in v4	Septoglomus turnauae	known species		Septoglomus turnauae 5.69	Septoglomus turnauae 3.51	Septoglomus turnauae 0.41
+EUK1896239	novel species, genus in v4	Septoglomus nigrum	absent species, genus in v4	Septoglomus africanum;Septoglomus turnauae	known species group		Septoglomus turnauae 9.92	Septoglomus africanum 4.31	Septoglomus africanum 1.39
+EUK1896254	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 6.01	Paraglomus laccatum 2.05	Paraglomus laccatum 0.25
+EUK1896255	genus only	Paraglomus sp.	genus only, genus in v4	Paraglomus laccatum	known species		Paraglomus laccatum 6.24	Paraglomus laccatum 2.77	Paraglomus laccatum 0.33
+EUK1898007	known species	Paraglomus laccatum	known species	Paraglomus laccatum	known species		Paraglomus laccatum 6.16	Paraglomus laccatum 2.19	Paraglomus laccatum 0.25

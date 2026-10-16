@@ -1,0 +1,1555 @@
+{
+  "all": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 438,
+        "genus_compatible": 438,
+        "genus_wrong": 0,
+        "n": 803
+      },
+      "artifacts": 0,
+      "copies": 850,
+      "false_known": 71,
+      "false_known_culture_macro": 0.07288647342995169,
+      "false_known_species_macro": 0.08544318512060448,
+      "held_n": 803,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "known species": 2,
+          "novel lineage": 11,
+          "novel species, genus known": 1
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 71,
+          "novel lineage": 365,
+          "novel species, genus known": 366
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 438,
+        "genus_compatible": 438,
+        "genus_wrong": 0,
+        "n": 617
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 438,
+        "genus_compatible": 438,
+        "genus_wrong": 0,
+        "n": 803
+      },
+      "artifacts": 0,
+      "copies": 850,
+      "false_known": 18,
+      "false_known_culture_macro": 0.018675788784484438,
+      "false_known_species_macro": 0.013628513305932661,
+      "held_n": 803,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 11,
+          "novel species, genus known": 3
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 18,
+          "novel lineage": 365,
+          "novel species, genus known": 419
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 438,
+        "genus_compatible": 438,
+        "genus_wrong": 0,
+        "n": 617
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 456,
+        "genus_compatible": 456,
+        "genus_wrong": 0,
+        "n": 803
+      },
+      "artifacts": 0,
+      "copies": 850,
+      "false_known": 201,
+      "false_known_culture_macro": 0.2170031055900621,
+      "false_known_species_macro": 0.26506725619628846,
+      "held_n": 803,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 177,
+          "known species group": 24,
+          "novel lineage": 347,
+          "novel species, genus known": 254
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 456,
+        "genus_compatible": 456,
+        "genus_wrong": 0,
+        "n": 617
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 456,
+        "genus_compatible": 456,
+        "genus_wrong": 0,
+        "n": 803
+      },
+      "artifacts": 0,
+      "copies": 850,
+      "false_known": 120,
+      "false_known_culture_macro": 0.10768976393976394,
+      "false_known_species_macro": 0.13403122016025243,
+      "held_n": 803,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 101,
+          "known species group": 19,
+          "novel lineage": 347,
+          "novel species, genus known": 335
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 456,
+        "genus_compatible": 456,
+        "genus_wrong": 0,
+        "n": 617
+      }
+    }
+  },
+  "all/already_absent_by_label": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 20,
+      "false_known_culture_macro": 1,
+      "false_known_species_macro": 1,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 0,
+      "false_known_culture_macro": 0,
+      "false_known_species_macro": 0,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "novel species, genus known": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 20,
+      "false_known_culture_macro": 1,
+      "false_known_species_macro": 1,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 0,
+      "false_known_culture_macro": 0,
+      "false_known_species_macro": 0,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "novel species, genus known": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    }
+  },
+  "all/removed": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 418,
+        "genus_compatible": 418,
+        "genus_wrong": 0,
+        "n": 783
+      },
+      "artifacts": 0,
+      "copies": 830,
+      "false_known": 51,
+      "false_known_culture_macro": 0.05228395061728395,
+      "false_known_species_macro": 0.06003882915173238,
+      "held_n": 783,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "known species": 2,
+          "novel lineage": 11,
+          "novel species, genus known": 1
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 51,
+          "novel lineage": 365,
+          "novel species, genus known": 366
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 418,
+        "genus_compatible": 418,
+        "genus_wrong": 0,
+        "n": 597
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 418,
+        "genus_compatible": 418,
+        "genus_wrong": 0,
+        "n": 783
+      },
+      "artifacts": 0,
+      "copies": 830,
+      "false_known": 18,
+      "false_known_culture_macro": 0.019090806313028535,
+      "false_known_species_macro": 0.014007083119986346,
+      "held_n": 783,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 11,
+          "novel species, genus known": 3
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 18,
+          "novel lineage": 365,
+          "novel species, genus known": 399
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 418,
+        "genus_compatible": 418,
+        "genus_wrong": 0,
+        "n": 597
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 436,
+        "genus_compatible": 436,
+        "genus_wrong": 0,
+        "n": 783
+      },
+      "artifacts": 0,
+      "copies": 830,
+      "false_known": 181,
+      "false_known_culture_macro": 0.1996031746031746,
+      "false_known_species_macro": 0.24465245775729647,
+      "held_n": 783,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 157,
+          "known species group": 24,
+          "novel lineage": 347,
+          "novel species, genus known": 254
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 436,
+        "genus_compatible": 436,
+        "genus_wrong": 0,
+        "n": 597
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 436,
+        "genus_compatible": 436,
+        "genus_wrong": 0,
+        "n": 783
+      },
+      "artifacts": 0,
+      "copies": 830,
+      "false_known": 120,
+      "false_known_culture_macro": 0.11008286980509202,
+      "false_known_species_macro": 0.1377543096091483,
+      "held_n": 783,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 101,
+          "known species group": 19,
+          "novel lineage": 347,
+          "novel species, genus known": 315
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 436,
+        "genus_compatible": 436,
+        "genus_wrong": 0,
+        "n": 597
+      }
+    }
+  },
+  "complete": true,
+  "completed_folds": [
+    "Acaulospora morrowiae",
+    "Ambispora callosa",
+    "Ambispora leptoticha",
+    "Cetraspora gilmorei",
+    "Dentiscutata heterogama",
+    "Diversispora aestuarii",
+    "Diversispora arenaria",
+    "Diversispora celata",
+    "Diversispora eburnea",
+    "Diversispora epigaea",
+    "Diversispora jakucsiae",
+    "Diversispora spurca",
+    "Diversispora varaderana",
+    "Dominikia bonfanteae",
+    "Dominikia duoreactiva",
+    "Funneliformis caledonium",
+    "Funneliformis coronatus",
+    "Funneliformis geosporum",
+    "Funneliformis mosseae",
+    "Gigaspora rosea",
+    "Glomus chinense",
+    "Glomus macrocarpum",
+    "Glomus rugosae",
+    "Glomus tetrastratosum",
+    "Microdominikia litorea",
+    "Oehlia diaphana",
+    "Paraglomus brasilianum",
+    "Paraglomus laccatum",
+    "Rhizophagus intraradices",
+    "Rhizophagus irregularis",
+    "Rhizophagus prolifer",
+    "Rhizophagus silesianus",
+    "Sclerocystis sinuosa",
+    "Septoglomus africanum",
+    "Septoglomus turnauae",
+    "Septoglomus viscosum",
+    "[Rhizoglomus] vesiculiferum"
+  ],
+  "development": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 32,
+      "false_known_culture_macro": 0.2532051282051282,
+      "false_known_species_macro": 0.4266666666666667,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 32,
+          "novel species, genus known": 78
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 9,
+      "false_known_culture_macro": 0.06235324504555274,
+      "false_known_species_macro": 0.0980952380952381,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 9,
+          "novel species, genus known": 101
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 103,
+      "false_known_culture_macro": 0.9230769230769231,
+      "false_known_species_macro": 0.9,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 79,
+          "known species group": 24,
+          "novel species, genus known": 7
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 67,
+      "false_known_culture_macro": 0.4806224758147835,
+      "false_known_species_macro": 0.4847619047619047,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 48,
+          "known species group": 19,
+          "novel species, genus known": 43
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    }
+  },
+  "development/already_absent_by_label": {},
+  "development/removed": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 32,
+      "false_known_culture_macro": 0.2532051282051282,
+      "false_known_species_macro": 0.4266666666666667,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 32,
+          "novel species, genus known": 78
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 9,
+      "false_known_culture_macro": 0.06235324504555274,
+      "false_known_species_macro": 0.0980952380952381,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 9,
+          "novel species, genus known": 101
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 103,
+      "false_known_culture_macro": 0.9230769230769231,
+      "false_known_species_macro": 0.9,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 79,
+          "known species group": 24,
+          "novel species, genus known": 7
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      },
+      "artifacts": 0,
+      "copies": 110,
+      "false_known": 67,
+      "false_known_culture_macro": 0.4806224758147835,
+      "false_known_species_macro": 0.4847619047619047,
+      "held_n": 110,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 48,
+          "known species group": 19,
+          "novel species, genus known": 43
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 110,
+        "genus_compatible": 110,
+        "genus_wrong": 0,
+        "n": 110
+      }
+    }
+  },
+  "expected_folds": 37,
+  "first_outcomes": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 328,
+        "genus_compatible": 328,
+        "genus_wrong": 0,
+        "n": 693
+      },
+      "artifacts": 0,
+      "copies": 740,
+      "false_known": 39,
+      "false_known_culture_macro": 0.05413333333333333,
+      "false_known_species_macro": 0.0659447004608295,
+      "held_n": 693,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "known species": 2,
+          "novel lineage": 11,
+          "novel species, genus known": 1
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 39,
+          "novel lineage": 365,
+          "novel species, genus known": 288
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 328,
+        "genus_compatible": 328,
+        "genus_wrong": 0,
+        "n": 507
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 328,
+        "genus_compatible": 328,
+        "genus_wrong": 0,
+        "n": 693
+      },
+      "artifacts": 0,
+      "copies": 740,
+      "false_known": 9,
+      "false_known_culture_macro": 0.014133333333333333,
+      "false_known_species_macro": 0.00880184331797235,
+      "held_n": 693,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 11,
+          "novel species, genus known": 3
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 9,
+          "novel lineage": 365,
+          "novel species, genus known": 318
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 328,
+        "genus_compatible": 328,
+        "genus_wrong": 0,
+        "n": 507
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 346,
+        "genus_compatible": 346,
+        "genus_wrong": 0,
+        "n": 693
+      },
+      "artifacts": 0,
+      "copies": 740,
+      "false_known": 98,
+      "false_known_culture_macro": 0.14357142857142857,
+      "false_known_species_macro": 0.22878538512179064,
+      "held_n": 693,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 98,
+          "novel lineage": 347,
+          "novel species, genus known": 247
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 346,
+        "genus_compatible": 346,
+        "genus_wrong": 0,
+        "n": 507
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 346,
+        "genus_compatible": 346,
+        "genus_wrong": 0,
+        "n": 693
+      },
+      "artifacts": 0,
+      "copies": 740,
+      "false_known": 53,
+      "false_known_culture_macro": 0.0689047619047619,
+      "false_known_species_macro": 0.11398946675444371,
+      "held_n": 693,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 53,
+          "novel lineage": 347,
+          "novel species, genus known": 292
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 346,
+        "genus_compatible": 346,
+        "genus_wrong": 0,
+        "n": 507
+      }
+    }
+  },
+  "first_outcomes/already_absent_by_label": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 20,
+      "false_known_culture_macro": 1,
+      "false_known_species_macro": 1,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 0,
+      "false_known_culture_macro": 0,
+      "false_known_species_macro": 0,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "novel species, genus known": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 20,
+      "false_known_culture_macro": 1,
+      "false_known_species_macro": 1,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "known species": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      },
+      "artifacts": 0,
+      "copies": 20,
+      "false_known": 0,
+      "false_known_culture_macro": 0,
+      "false_known_species_macro": 0,
+      "held_n": 20,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 0,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 0,
+      "short_recognised": 0,
+      "statuses": {
+        "named, species held out": {
+          "novel species, genus known": 20
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 0
+      },
+      "training_genus_present": {
+        "genus_called": 20,
+        "genus_compatible": 20,
+        "genus_wrong": 0,
+        "n": 20
+      }
+    }
+  },
+  "first_outcomes/removed": {
+    "control_v1": {
+      "all_main": {
+        "genus_called": 308,
+        "genus_compatible": 308,
+        "genus_wrong": 0,
+        "n": 673
+      },
+      "artifacts": 0,
+      "copies": 720,
+      "false_known": 19,
+      "false_known_culture_macro": 0.03087431693989071,
+      "false_known_species_macro": 0.03847248576850095,
+      "held_n": 673,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "known species": 2,
+          "novel lineage": 11,
+          "novel species, genus known": 1
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 19,
+          "novel lineage": 365,
+          "novel species, genus known": 288
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 308,
+        "genus_compatible": 308,
+        "genus_wrong": 0,
+        "n": 487
+      }
+    },
+    "control_v2": {
+      "all_main": {
+        "genus_called": 308,
+        "genus_compatible": 308,
+        "genus_wrong": 0,
+        "n": 673
+      },
+      "artifacts": 0,
+      "copies": 720,
+      "false_known": 9,
+      "false_known_culture_macro": 0.01448087431693989,
+      "false_known_species_macro": 0.009060721062618595,
+      "held_n": 673,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 11,
+          "novel species, genus known": 3
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 9,
+          "novel lineage": 365,
+          "novel species, genus known": 298
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 308,
+        "genus_compatible": 308,
+        "genus_wrong": 0,
+        "n": 487
+      }
+    },
+    "v1": {
+      "all_main": {
+        "genus_called": 326,
+        "genus_compatible": 326,
+        "genus_wrong": 0,
+        "n": 673
+      },
+      "artifacts": 0,
+      "copies": 720,
+      "false_known": 78,
+      "false_known_culture_macro": 0.12251170960187353,
+      "false_known_species_macro": 0.20610260233125507,
+      "held_n": 673,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 78,
+          "novel lineage": 347,
+          "novel species, genus known": 247
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 326,
+        "genus_compatible": 326,
+        "genus_wrong": 0,
+        "n": 487
+      }
+    },
+    "v2": {
+      "all_main": {
+        "genus_called": 326,
+        "genus_compatible": 326,
+        "genus_wrong": 0,
+        "n": 673
+      },
+      "artifacts": 0,
+      "copies": 720,
+      "false_known": 53,
+      "false_known_culture_macro": 0.0705991412958626,
+      "false_known_species_macro": 0.11734209812957441,
+      "held_n": 673,
+      "known_compatible": 0,
+      "known_n": 0,
+      "known_retained": 0,
+      "known_wrong": 0,
+      "main_divergent": 1,
+      "reconcile_containing_group": 0,
+      "reconcile_exact": 0,
+      "short_n": 42,
+      "short_recognised": 28,
+      "statuses": {
+        "divergent (same_length)": {
+          "novel lineage": 3,
+          "novel species, genus known": 2
+        },
+        "divergent (short_5.8S)": {
+          "divergent class": 28,
+          "novel lineage": 10,
+          "novel species, genus known": 4
+        },
+        "named, species held out": {
+          "divergent class": 1,
+          "known species": 53,
+          "novel lineage": 347,
+          "novel species, genus known": 272
+        }
+      },
+      "training_genus_absent": {
+        "genus_called": 0,
+        "genus_compatible": 0,
+        "genus_wrong": 0,
+        "n": 186
+      },
+      "training_genus_present": {
+        "genus_called": 326,
+        "genus_compatible": 326,
+        "genus_wrong": 0,
+        "n": 487
+      }
+    }
+  },
+  "independent_validation": false,
+  "missing_folds": [],
+  "rank": "species"
+}

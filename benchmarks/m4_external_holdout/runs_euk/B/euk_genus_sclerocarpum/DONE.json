@@ -1,0 +1,58 @@
+{
+  "key": "eb3300bacbc613a4d65502da0fac7cee2bfa02599850a933ebdeca0dd6eae348",
+  "placements_sha256": "a9ad505b7448cbe1e03ee28cd96a08c5b5cf6712dd84a0df90d145fb59ab1631",
+  "plan": {
+    "key": "euk_genus_sclerocarpum",
+    "mapping": "genus round",
+    "query_ids": [
+      "EUK1104831",
+      "EUK1188328",
+      "EUK1188329",
+      "EUK1188330",
+      "EUK1188331",
+      "EUK1188332",
+      "EUK1188333",
+      "EUK1188334",
+      "EUK1188335",
+      "EUK1188336",
+      "EUK1268798",
+      "EUK1268800",
+      "EUK1268801",
+      "EUK1268802",
+      "EUK1268803",
+      "EUK1268804",
+      "EUK1268805",
+      "EUK1268806",
+      "EUK1268808",
+      "EUK1268809",
+      "EUK1268811",
+      "EUK1268812",
+      "EUK1268813",
+      "EUK1268814",
+      "EUK1268815",
+      "EUK1268816",
+      "EUK1268818",
+      "EUK1268819",
+      "EUK1268820",
+      "EUK1268821",
+      "EUK1268822",
+      "EUK1268823",
+      "EUK1268824",
+      "EUK1268825",
+      "EUK1268826",
+      "EUK1268827",
+      "EUK1825074"
+    ],
+    "removed_ref_ids": [
+      "R0148",
+      "R0149"
+    ],
+    "role": "novel lineage, genus not in v4",
+    "round": "genus",
+    "target": "Sclerocarpum",
+    "target_cultures": [
+      "Sclerocarpum sp. | EUKARYOME"
+    ],
+    "v18_label": "Sclerocarpum amazonicum"
+  }
+}
