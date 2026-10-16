@@ -1,5 +1,7 @@
 # Detecting unknown arbuscular mycorrhizal fungi from linked long-read rRNA gene sequences
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23422616.svg)](https://doi.org/10.5281/zenodo.23422616)
+
 Code, curated reference and benchmark outputs for the paper of the same title (O'Brien, Marín and Tedersoo,
 preprint). Release 0.3.1 goes with the preprint; the paper itself is in `paper/` (`main.tex`, `main.pdf`).
 
@@ -71,5 +73,5 @@ Third-party data keep their own terms.
 
 O'Brien A, Marín C, Tedersoo L. Detecting unknown arbuscular mycorrhizal fungi from linked long-read rRNA gene
 sequences. Preprint.
-Code and data: release 0.3.1 (Zenodo); earlier releases 0.3.0, doi:10.5281/zenodo.23422391 (paper v19, before the
+Code and data: release 0.3.1, doi:10.5281/zenodo.23422616; earlier releases 0.3.0, doi:10.5281/zenodo.23422391 (paper v19, before the
 EUKARYOME results), 0.2.0, doi:10.5281/zenodo.23374725, and 0.1.0, doi:10.5281/zenodo.23219691. `CITATION.cff` holds the same in machine-readable form.

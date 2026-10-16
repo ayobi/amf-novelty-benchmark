@@ -47,7 +47,7 @@
 % Draft marks. \draftmarksfalse typesets a clean copy: every VERIFY and TODO
 % disappears without touching the body text.
 \newif\ifdraftmarks
-\draftmarkstrue
+\draftmarksfalse % preprint build; \draftmarkstrue shows VERIFY and TODO marks
 \definecolor{todoblue}{rgb}{0.0,0.25,0.75}
 \ifdraftmarks
   \newcommand{\verify}[1]{\textcolor{red}{[VERIFY: #1]}}
