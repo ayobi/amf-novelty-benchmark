@@ -33,8 +33,8 @@ import edlib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from arms import is_named, read_fasta, read_tsv, write_tsv  # noqa: E402
 
-REGIONS = [('SSU_VT_NS31-AM1', 'SSU NS31–AM1 (VT fragment)'), ('ssu_flank', 'SSU flank (whole)'),
-           ('full_its', 'Full ITS'), ('LSU_LROR-FLR2', 'LSU LROR–FLR2')]
+REGIONS = [('SSU_VT_NS31-AM1', 'SSU NS31–AM1 (VT fragment)'), ('ssu_flank', 'SSU region (whole)'),
+           ('full_its', 'Full ITS'), ('LSU_LROR-FLR2', 'LSU LR0R–FLR2')]
 CLASSES = ['same culture', 'same species', 'same genus', 'other genus']
 COLORS = ['#2a78d6', '#eb6834', '#1baf7a', '#eda100']       # validated categorical slots 1-4 (light)
 GENUS_SYN = {'Rhizoglomus': 'Rhizophagus'}
@@ -78,8 +78,24 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--ref', required=True)
     ap.add_argument('--out', required=True)
+    ap.add_argument('--replot', action='store_true',
+                    help='redraw the figures from the tables already in --out (no distances recomputed)')
     a = ap.parse_args()
     os.makedirs(a.out, exist_ok=True)
+    if a.replot:
+        def num(v):
+            try:
+                return float(v)
+            except (TypeError, ValueError):
+                return v
+        SPREAD = {r['region']: float(r['within_species_spread_p99'])
+                  for r in read_tsv(os.path.join(a.out, 'thresholds.limits.tsv'))}
+        near = [dict(r, nearest_pct=float(r['nearest_pct'])) for r in read_tsv(os.path.join(a.out, 'thresholds.nearest.tsv'))]
+        pairs = [{k: (num(v) if k not in ('order', 'culture_a', 'culture_b', 'class') else v) for k, v in r.items()}
+                 for r in read_tsv(os.path.join(a.out, 'thresholds.pairs.tsv'))]
+        qrows = read_tsv(os.path.join(a.out, 'thresholds.quantiles.tsv'))
+        figures(a, near, pairs, SPREAD, qrows)
+        return
     cul = {r['culture']: r for r in read_tsv(os.path.join(a.ref, 'cultures.tsv'))}
     rows = [r for r in read_tsv(os.path.join(a.ref, 'copies.tsv'))
             if r['status'] == 'retained' and r['copy_class'] == 'main']
@@ -173,6 +189,11 @@ def main():
     write_tsv(os.path.join(a.out, 'thresholds.pairs.tsv'), pairs,
               ['order', 'culture_a', 'culture_b', 'class'] + [m for m, _ in REGIONS])
 
+    figures(a, near, pairs, SPREAD, qrows)
+
+
+
+def figures(a, near, pairs, SPREAD, qrows):
     # figures
     import matplotlib
     matplotlib.use('Agg')
@@ -194,9 +215,9 @@ def main():
             ax.step(v, y, where='post', color=col, lw=1.6, label=c, zorder=3)
             curves[c] = v
         lines = [SPREAD[m]]
-        ax.vlines(SPREAD[m], 0, 1, color='#52514e', lw=0.9, ls='--', label='within-species spread (99th percentile)',
+        ax.vlines(SPREAD[m], 0, 1, color='#52514e', lw=0.9, ls='--', label='within-species limit (99th percentile)',
                   zorder=2)
-        note = f'spread {SPREAD[m]:.1f}%'
+        note = f'limit {SPREAD[m]:.1f}%'
         if m in DB:
             ax.vlines(DB[m][0], 0, 1, color='#52514e', lw=0.9, ls=':', label='database threshold', zorder=2)
             lines.append(DB[m][0])
@@ -206,9 +227,9 @@ def main():
         ax.set_ylim(0, YTOP)
         ax.set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1.0])
         ax.set_title(f'({"abcd"[i]}) {lab}', fontsize=8.5, loc='left', pad=4)
-        ax.set_xlabel('Distance to nearest copy (%)')
+        ax.set_xlabel('Distance to nearest sequence (%)')
         if i % 2 == 0:
-            ax.set_ylabel('Share of main-type copies')
+            ax.set_ylabel('Share of main-type sequences')
         panels.append((ax, m, curves, lines))
     h, l = axes.flat[2].get_legend_handles_labels()
     fig.legend(h, l, frameon=False, fontsize=6.5, loc='lower center', ncol=6, bbox_to_anchor=(0.5, -0.005))
@@ -267,7 +288,7 @@ def main():
     plt.close(fig)
 
     fig, axes = plt.subplots(1, 2, figsize=(7.2, 3.0))
-    for ax, (m, lab) in zip(axes, [('ssu_flank', 'SSU flank (%)'), ('LSU_LROR-FLR2', 'LSU LROR–FLR2 (%)')]):
+    for ax, (m, lab) in zip(axes, [('ssu_flank', 'SSU region (%)'), ('LSU_LROR-FLR2', 'LSU LR0R–FLR2 (%)')]):
         for c, col in zip(CLASSES[1:], COLORS[1:]):
             pp = [p for p in pairs if p['class'] == c and p[m] != '']
             ax.scatter([p['full_its'] for p in pp], [p[m] for p in pp], s=8, color=col, alpha=0.55, linewidths=0,
@@ -275,7 +296,7 @@ def main():
         ax.axvline(SPREAD['full_its'], color='#52514e', lw=0.8, ls='--')
         ax.axhline(SPREAD[m], color='#52514e', lw=0.8, ls='--')
         tx, ty, ha = (0.98, 0.55, 'right') if m == 'ssu_flank' else (0.02, 0.97, 'left')
-        ax.text(tx, ty, f'dashed: within-species spread\nITS {SPREAD["full_its"]:.1f}%, '
+        ax.text(tx, ty, f'dashed: within-species limit\nITS {SPREAD["full_its"]:.1f}%, '
                         f'{lab.split(" (")[0]} {SPREAD[m]:.1f}%',
                 transform=ax.transAxes, fontsize=6, color='#52514e', ha=ha, va='top')
         if m == 'ssu_flank':

@@ -278,7 +278,7 @@ def main():
                     f"{ci_text(r, 'species')} ({r['species_with_events']}/{r['species_units']}) & {cu}\\\\")
     tex = r'''\begin{table}[htbp]\centering
 \begin{threeparttable}
-\caption{Headline rates with species and cultures as the resampling units.}
+\caption{Main error and retention rates, with 95\% intervals that resample species or cultures.}
 \label{tab:intervals}
 \footnotesize\setlength{\tabcolsep}{2pt}
 \begin{tabular}{llrrr}

@@ -41,7 +41,7 @@ def bars(ax, labels, vals, dens, cols, hatches, ymax):
 a = axes[0]
 bars(a, ['nearest LSU\nreference', 'LSU species\nclade', 'clade +\nITS rule'],
      [num('FKBase'), num('FKClade'), num('FKITS')], [num('HeldN')] * 3, [BLUE] * 3, ['', '', '////'], 34)
-a.set_ylabel('Called a known species (% of copies)')
+a.set_ylabel('Assigned to a known species (% of sequences)')
 a.set_xlabel('LSU reference intact', fontsize=7, color=INK2)
 a.set_title('(a) Species withheld from\nthe cultures', fontsize=8, loc='left')
 

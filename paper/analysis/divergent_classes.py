@@ -139,7 +139,7 @@ def main():
     body = '\n'.join(f"{lab} & " + ' & '.join(v) + '\\\\' for lab, v in rows)
     tex = r'''\begin{table}[htbp]\centering
 \begin{threeparttable}
-\caption{The evidence differs between classes of divergent copy.}
+\caption{Evidence on the origin of each class of divergent sequence.}
 \label{tab:classes}
 \footnotesize\setlength{\tabcolsep}{3pt}
 \begin{tabular}{lcccc}

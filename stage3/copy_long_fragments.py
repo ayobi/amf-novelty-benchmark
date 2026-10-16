@@ -36,7 +36,7 @@ from arms import is_named, read_fasta, read_tsv, write_tsv  # noqa: E402
 from copy_thresholds import GENUS_SYN, PAPER_SPREAD, dist, q, spread  # noqa: E402
 
 REGIONS = [('full_its', 'Full ITS'), ('kruger', 'Krüger fragment (SSUmAf–LSUmBr)'),
-           ('full', 'Whole copy (AML1–LSUmBr)')]
+           ('full', 'Whole sequence (AML1–LSUmBr)')]
 CLASSES = ['same culture', 'same species', 'same complex', 'same genus', 'other genus']
 SSUMAF1 = 'TGGGTAATCTTTTGAAACTTYA'            # Kruger et al. 2009; SSUmAf2 differs by 2 positions
 IUPAC = {'Y': 'CT', 'R': 'AG', 'D': 'AGT', 'N': 'ACGT', 'W': 'AT', 'S': 'CG', 'K': 'GT', 'M': 'AC', 'H': 'ACT',
@@ -69,7 +69,23 @@ def main():
     ap.add_argument('--ref', required=True)
     ap.add_argument('--complexes', required=True, help='species_groups.py complexes table (paper/analysis)')
     ap.add_argument('--out', required=True)
+    ap.add_argument('--replot', action='store_true',
+                    help='redraw the figure from the tables already in --out (no distances recomputed)')
     a = ap.parse_args()
+    if a.replot:
+        def num(v):
+            try:
+                return float(v)
+            except (TypeError, ValueError):
+                return v
+        SPREAD = {r['region']: float(r['within_species_spread_p99'])
+                  for r in read_tsv(os.path.join(a.out, 'long.limits.tsv'))}
+        sweep = [{k: (num(v) if k != 'region' else v) for k, v in r.items()}
+                 for r in read_tsv(os.path.join(a.out, 'long.sweep.tsv'))]
+        summ = [{k: (num(v) if k not in ('region', 'label', 'threshold') else v) for k, v in r.items()}
+                for r in read_tsv(os.path.join(a.out, 'long.summary.tsv'))]
+        figures(a, sweep, summ, SPREAD)
+        return
     os.makedirs(a.out, exist_ok=True)
     cul = {r['culture']: r for r in read_tsv(os.path.join(a.ref, 'cultures.tsv'))}
     rows = [r for r in read_tsv(os.path.join(a.ref, 'copies.tsv'))
@@ -213,6 +229,11 @@ def main():
     if miss:
         print(f'{len(miss)} copies lack the SSUmAf1 site and are left out of the Kruger fragment')
 
+    figures(a, sweep, summ, SPREAD)
+
+
+
+def figures(a, sweep, summ, SPREAD):
     # figure: the two error curves per region
     import matplotlib
     matplotlib.use('Agg')
@@ -232,13 +253,13 @@ def main():
         ax.axvline(SPREAD[m], color='#52514e', lw=0.9, ls='--', zorder=2)
         ax.plot([b['distance_pct']], [max(b['split_from_genome_pct'], b['joined_to_congener_pct'])], 'o', ms=5,
                 color='#0b0b0b', mec='#fcfcfb', mew=0.8, zorder=4)
-        ax.text(SPREAD[m], 101, f' spread {SPREAD[m]:.1f}%', fontsize=7, color='#52514e', va='bottom')
+        ax.text(SPREAD[m], 101, f' limit {SPREAD[m]:.1f}%', fontsize=7, color='#52514e', va='bottom')
         ax.set_title(f"{lab}\nbest {b['identity_pct']:.2f}%: {b['split_from_genome_pct']:.0f}% split, "
                      f"{b['joined_to_congener_pct']:.0f}% joined", fontsize=7.8, loc='left', pad=14)
         ax.set_xlim(0, XMAX[m])
         ax.set_ylim(0, 100)
         ax.set_xlabel('distance threshold (%)')
-    axes[0].set_ylabel('% of main-type copies')
+    axes[0].set_ylabel('% of main-type sequences')
     axes[0].text(0.35, 62, 'split from\nown culture', color='#2a78d6', fontsize=7.5)
     axes[0].text(6.6, 12, 'joined to\nanother species\nof the genus', color='#eb6834', fontsize=7.5)
     fig.tight_layout()

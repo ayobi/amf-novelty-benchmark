@@ -30,9 +30,18 @@ from arms import read_tsv  # noqa: E402
 ORDERS = ['Archaeosporales', 'Paraglomerales', 'Diversisporales', 'Glomerales']
 TREES = [('ssu_flank', 'SSU flank'), ('full_its', 'full ITS'), ('lsu_flank', 'LSU flank'),
          ('linked', 'linked copy (SSU flank + full ITS + LSU flank, one partition each)')]
-TAXA = [('Rhizophagus irregularis', 'irregularis'), ('[Rhizoglomus] vesiculiferum', 'vesiculiferum'),
-        ('Rhizophagus intraradices', 'intraradices'), ('Rhizophagus prolifer', 'prolifer'),
-        ('Rhizophagus silesianus', 'silesianus'), ('Rhizophagus sp. (in: glomeromycetes)', 'sp.')]
+TAXA = [('Rhizophagus irregularis', 'R. irregulare'), ('[Rhizoglomus] vesiculiferum', 'R. vesiculiferum'),
+        ('Rhizophagus intraradices', 'R. intraradices'), ('Rhizophagus prolifer', 'R. proliferum'),
+        ('Rhizophagus silesianus', 'R. silesianum'), ('Rhizophagus sp. (in: glomeromycetes)', 'R. sp.')]
+# names as deposited -> names used in the paper (Rhizoglomus; Sieverding et al. 2015)
+SHOWN = {'Rhizophagus irregularis': 'Rhizoglomus irregulare', '[Rhizoglomus] vesiculiferum': 'Rhizoglomus vesiculiferum',
+         'Rhizophagus intraradices': 'Rhizoglomus intraradices', 'Rhizophagus prolifer': 'Rhizoglomus proliferum',
+         'Rhizophagus silesianus': 'Rhizoglomus silesianum', 'Rhizophagus sp. (in: glomeromycetes)': 'Rhizoglomus sp.'}
+
+
+def epithet_segs(e):
+    """Label segments for a short name: 'R. sp.' as italic genus and upright 'sp.', other names italic."""
+    return [('R.', True), (' sp.', False)] if e == 'R. sp.' else [(e, True)]
 COLORS = ['#2a78d6', '#eb6834', '#1baf7a', '#eda100', '#e87ba4', '#008300']   # validated slots 1-6 (light)
 
 
@@ -181,7 +190,7 @@ def cmd_figure(a):
             e = short.get(o, o.split()[-1])
             if k:
                 segs.append((' + ', False))
-            segs.append((e, e != 'sp.'))
+            segs.extend(epithet_segs(e))
         cu = cults[0] if len(cults) == 1 else f'{cults[0]} +{len(cults) - 1}'
         rest = f'  {cu}' + (f'  ×{len(rs)}' if len(rs) > 1 else '') + ('  short 5.8S' if sh else ('  same length' if sl else ''))
         segs.append((rest, False))
@@ -203,14 +212,14 @@ def cmd_figure(a):
                         transform=offset_copy(ax.transData, fig=fig, x=dx, y=0, units='points'))
             dx += t.get_window_extent(renderer=rend).width * 72 / fig.dpi
     def disp(t):
-        t = t.replace(' (in: glomeromycetes)', '')
-        return f'$\\mathit{{{t[:-4]}}}$ sp.' if t.endswith(' sp.') else t
+        e = dict(TAXA)[t]                                  # the short name used on the labels (R. = Rhizoglomus)
+        return '$\\mathit{R.}$ sp.' if e == 'R. sp.' else e
     handles = [Line2D([], [], marker='o', ls='', color=c, ms=4, label=disp(t)) for (t, _), c in zip(TAXA, COLORS)]
-    handles += [Line2D([], [], marker='^', ls='', color='#52514e', ms=4, label='short-5.8S copy (bold label)'),
-                Line2D([], [], marker='s', ls='', color='#52514e', ms=3.5, label='same-length divergent copy'),
+    handles += [Line2D([], [], marker='^', ls='', color='#52514e', ms=4, label='short-5.8S sequence (bold label)'),
+                Line2D([], [], marker='s', ls='', color='#52514e', ms=3.5, label='same-length divergent sequence'),
                 Line2D([], [], marker='o', ls='', color='#0b0b0b', ms=2.5,
                        label='SH-aLRT ≥ 80 and UFBoot ≥ 95'),
-                matplotlib.patches.Patch(color='#ecebe6', label='clade of short-5.8S copies only')]
+                matplotlib.patches.Patch(color='#ecebe6', label='clade of short-5.8S sequences only')]
     leg = ax.legend(handles=handles, frameon=False, fontsize=6, loc='upper left', bbox_to_anchor=(0.0, 1.0))
     for t in leg.get_texts()[:len(TAXA)]:               # species names in italics ('sp.' upright, via mathtext)
         if '$' not in t.get_text():
@@ -330,20 +339,20 @@ def cmd_summary(a):
             e = short.get(o, o.split()[-1])
             if i:
                 segs.append((' + ', False))
-            segs.append((e, e != 'sp.'))
+            segs.extend(epithet_segs(e))
         nmain = sum(r['copy_class'] == 'main' for r in rs)
         if k == 'short':
             what = 'short 5.8S'
             extra = '\u2020' if nmain else ''
         elif any(r['div_kind'] == 'same_length' for r in rs):
-            what, extra = 'same-length copy', ''
+            what, extra = 'same-length sequence', ''
         else:
             what, extra = 'main type', ''
-        segs.append((f'  {what}: {len(rs)} cop{"y" if len(rs) == 1 else "ies"}{extra}, '
+        segs.append((f'  {what}: {len(rs)} sequence{"" if len(rs) == 1 else "s"}{extra}, '
                      f'{ncul} culture{"" if ncul == 1 else "s"}', False))
         labels.append((xe + xmax * 0.015, y, segs, 'bold' if k == 'short' else 'normal'))
     ax.set_ylim(len(leaves) - 0.4, -0.9)
-    ax.set_xlim(-xmax * 0.03, xmax * 1.95)
+    ax.set_xlim(-xmax * 0.03, xmax * 2.15)
     ax.axis('off')
     ax.plot([0, 0.01], [len(leaves) - 0.1] * 2, color='#0b0b0b', lw=0.8, clip_on=False)
     ax.text(0.005, len(leaves) + 0.25, '0.01 substitutions/site', fontsize=6.5, ha='center', va='top')
@@ -359,14 +368,14 @@ def cmd_summary(a):
             dx += t.get_window_extent(renderer=rend).width * 72 / fig.dpi
 
     def disp(t):
-        t = t.replace(' (in: glomeromycetes)', '')
-        return f'$\\mathit{{{t[:-4]}}}$ sp.' if t.endswith(' sp.') else t
+        e = dict(TAXA)[t]                                  # the short name used on the labels (R. = Rhizoglomus)
+        return '$\\mathit{R.}$ sp.' if e == 'R. sp.' else e
     handles = [Line2D([], [], marker='>', ls='', color=c, ms=5, alpha=0.75, label=disp(t))
                for (t, _), c in zip(TAXA, COLORS)]
     handles += [Line2D([], [], marker='>', ls='', color='#b4b3ad', mec='#52514e', ms=5,
-                       label='clade of short-5.8S copies only (bold)'),
+                       label='clade of short-5.8S sequences only (bold)'),
                 Line2D([], [], marker='o', ls='', color='#0b0b0b', ms=3, label='SH-aLRT \u2265 80 and UFBoot \u2265 95')]
-    leg = ax.legend(handles=handles, frameon=False, fontsize=6.5, loc='lower right', bbox_to_anchor=(1.0, 0.0))
+    leg = ax.legend(handles=handles, frameon=False, fontsize=6.5, loc='center right', bbox_to_anchor=(1.0, 0.52))
     for t in leg.get_texts()[:len(TAXA)]:
         if '$' not in t.get_text():
             t.set_fontstyle('italic')

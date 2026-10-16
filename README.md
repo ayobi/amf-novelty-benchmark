@@ -57,7 +57,8 @@ Outline, in run order; each script takes its inputs as command-line options:
    `benchmarks/m4_external_holdout/lgdb_test.py` and `lgdb_report.py`,
    following `benchmarks/longglodb/PROTOCOL_LGDB.md` and its amendments.
 6. **Paper:** `paper/analysis/make_numbers.py`, `lgdb_numbers.py` and `make_figures.py` regenerate the
-   numbers and generated tables; then `pdflatex main.tex` twice.
+   numbers and generated tables; `paper/analysis/display_names.py` then prints the names and terms used in the
+   paper (it changes no number); then `pdflatex main.tex` twice.
 
 ## Licence
 

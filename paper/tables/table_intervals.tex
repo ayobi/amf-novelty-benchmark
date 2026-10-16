@@ -1,6 +1,6 @@
 \begin{table}[htbp]\centering
 \begin{threeparttable}
-\caption{Headline rates with species and cultures as the resampling units.}
+\caption{Main error and retention rates, with 95\% intervals that resample species or cultures.}
 \label{tab:intervals}
 \footnotesize\setlength{\tabcolsep}{2pt}
 \begin{tabular}{llrrr}
@@ -23,10 +23,10 @@ LongGloDB & false known, removed, ITS rule & 4/102 (3.9\%) & 0.0--14.4\% (1/19) 
 \bottomrule
 \end{tabular}
 \begin{tablenotes}\footnotesize
-\item \emph{Events}: events over copies (ASVs for LongGloDB); \emph{kept}: called a known species that contains their own;
+\item \emph{Events}: events over sequences (ASVs for LongGloDB); \emph{kept}: assigned to a known species that contains their own;
 \emph{intact}, \emph{removed}: the LSU reference intact, or with the species removed from it. Pooled rates with percentile intervals from 10,000 cluster-bootstrap replicates
 that resample species or cultures with replacement. In brackets: species or cultures with at least one event, of those tested. Withheld cultures and species: external databases intact, LSU placement. LSU-removal test: the
-test species; intervals by culture need the per-copy results and are not given. LongGloDB: known species with the LSU
+test species; intervals by culture need the per-sequence results and are not given. LongGloDB: known species with the LSU
 reference intact; absent species with their species removed from it.
 \end{tablenotes}
 \end{threeparttable}

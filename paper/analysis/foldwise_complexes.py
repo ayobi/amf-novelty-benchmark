@@ -65,6 +65,15 @@ def dist(a, b, cap=None):
     return None if cap is not None and d > cap else d
 
 
+def shown(name):
+    """The name as printed in the paper (analysis/display_names.py)."""
+    import re as _re
+    from display_names import NAMES
+    for pat, rep in NAMES:
+        name = _re.sub(pat, rep, name)
+    return name
+
+
 def table_s1(path):
     """Per-species false-known counts from the generated supplementary table."""
     out = {}
@@ -164,7 +173,7 @@ def main():
                               "inside_detail": ";".join(f"{sp} (" + ", ".join(f"{lab} {d_in[(sp, lab)]:.2f}" for _, lab in MARKERS) + ")"
                                                         for sp in inside)})
         rs = [r for r in copy_rows if r["target"] == target]
-        o = obs.get(target, {})
+        o = obs.get(target) or obs.get(shown(target), {})   # table S1 may already carry the names as printed
         n_in = sum(bool(r["inside_prospective"]) for r in rs)
         role = "development" if target in DEV else ("not in V18" if p.get("external_status") != "removed" else "test")
         sp_rows.append({"target": target, "role": role, "main_copies": len(rs),
@@ -271,19 +280,19 @@ def main():
     with open(os.path.join(a.paper, "tables", "table_foldwise.tex"), "w") as fh:
         fh.write(r"""\begin{table}[htbp]\centering
 \begin{threeparttable}
-\caption{The complex rule applied inside each round of the LSU-removal test.}
+\caption{The complex rule applied as a prediction within each round of the LSU-removal test.}
 \label{tab:foldwise}
-\footnotesize\setlength{\tabcolsep}{3pt}
+\footnotesize\setlength{\tabcolsep}{2pt}
 \begin{tabular}{lrcrlrr}
 \toprule
 Withheld species & Copies & Complex & \multicolumn{2}{c}{Inside a remaining congener} & \multicolumn{2}{c}{False known}\\
- & & (all cultures) & copies & epithet (copies) & no rule & ITS rule\\
+ & & (all cultures) & $n$ & epithet ($n$) & no rule & ITS rule\\
 \midrule
 """ + "\n".join(body) + r"""
 \bottomrule
 \end{tabular}
 \begin{tablenotes}\footnotesize
-\item Main-type copies of each withheld species. \emph{Complex}: the species' complex when the rule is computed from all
+\item Main-type sequences of each withheld species; $n$, number of sequences. \emph{Complex}: the species' complex when the rule is computed from all
 cultures (Table~\ref{tab:complexes}). \emph{Inside}: with the withheld cultures removed and the within-species spread
 recomputed without them, copies that lie within the spread of a remaining species on all three markers; only these
 can be called a known species if the rule holds. False-known calls with the species removed from the LSU reference
