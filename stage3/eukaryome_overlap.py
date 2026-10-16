@@ -527,20 +527,22 @@ def cmd_genus_inside(a):
     for r in rows:
         g = r["organism"].split()[0]
         by_genus[g]["reads"] += 1
+        by_genus[g]["reads_inside"] += bool(r["inside_genus_only_culture"])
         for c in r["inside_genus_only_culture"].split(";"):
             if c:
                 by_genus[g][c] += 1
     out = []
     for g, cn in sorted(by_genus.items()):
-        inside = {k: v for k, v in cn.items() if k != "reads"}
+        inside = {k: v for k, v in cn.items() if k not in ("reads", "reads_inside")}
         if inside:
-            out.append({"euk_genus": g, "reads": cn["reads"],
+            out.append({"euk_genus": g, "reads": cn["reads"], "reads_inside": cn["reads_inside"],
                         "inside": "; ".join(f"{k} {v}" for k, v in sorted(inside.items(), key=lambda x: -x[1])),
                         "genus_outcome": "none (a v4 culture named only to genus may hold this genus)"})
-    write_tsv(f"{a.out}.genera.tsv", out, ["euk_genus", "reads", "inside", "genus_outcome"])
+    write_tsv(f"{a.out}.genera.tsv", out, ["euk_genus", "reads", "reads_inside", "inside", "genus_outcome"])
     print(f"T: {T}; {len(rows)} absent-lineage reads against {len(unnamed)} v4 cultures named only to genus")
     for o in out:
-        print(f"  {o['euk_genus']:28s} {o['reads']:5d} reads; inside: {o['inside']}")
+        print(f"  {o['euk_genus']:28s} {o['reads']:5d} reads, {o['reads_inside']} inside one or more cultures "
+              f"(per culture, a read can count twice): {o['inside']}")
     print(f"files: {a.out}.reads.tsv, {a.out}.genera.tsv")
 
 
