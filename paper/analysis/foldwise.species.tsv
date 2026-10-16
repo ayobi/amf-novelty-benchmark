@@ -1,0 +1,38 @@
+target	role	main_copies	complex_retrospective	inside_prospective	inside_species	fk_intact_v1	fk_intact_v2	fk_removed_v1	fk_removed_v2
+Acaulospora morrowiae	test	10		0		0	0	0	0
+Ambispora callosa	not in V18	20		0		20	0	20	0
+Ambispora leptoticha	test	10		0		10	0	10	0
+Cetraspora gilmorei	test	60		0		0	0	0	0
+Dentiscutata heterogama	test	6		0		0	0	0	0
+Diversispora aestuarii	test	20	C2	20	Diversispora varaderana (20)	1	1	20	20
+Diversispora arenaria	test	4	C3	4	Diversispora jakucsiae (4)	0	0	4	4
+Diversispora celata	test	10		0		0	0	0	0
+Diversispora eburnea	test	15		0		0	0	0	0
+Diversispora epigaea	test	13		0		0	0	0	0
+Diversispora jakucsiae	test	4	C3	4	Diversispora arenaria (4)	0	0	4	4
+Diversispora spurca	test	18		0		0	0	0	0
+Diversispora varaderana	test	31	C2	31	Diversispora aestuarii (31)	8	8	3	3
+Dominikia bonfanteae	test	6		0		0	0	0	0
+Dominikia duoreactiva	test	9		0		0	0	0	0
+Funneliformis caledonium	test	9		0		0	0	0	0
+Funneliformis coronatus	test	24		0		0	0	0	0
+Funneliformis geosporum	test	8		0		0	0	8	0
+Funneliformis mosseae	test	130		0		0	0	0	0
+Gigaspora rosea	test	51		0		0	0	0	0
+Glomus chinense	development	35	C1	6	Glomus rugosae (6)	28	5	28	5
+Glomus macrocarpum	test	7	C1	7	Glomus rugosae (7); Glomus chinense (1)	0	0	4	4
+Glomus rugosae	development	75	C1	62	Glomus macrocarpum (62); Glomus chinense (9)	4	4	75	62
+Glomus tetrastratosum	test	21		0		0	0	0	0
+Microdominikia litorea	test	12		0		0	0	0	0
+Oehlia diaphana	test	29		0		0	0	0	0
+Paraglomus brasilianum	test	8		0		0	0	0	0
+Paraglomus laccatum	test	5		0		0	0	0	0
+Rhizophagus intraradices	test	12		0		0	0	0	0
+Rhizophagus irregularis	test	56	C4	13	[Rhizoglomus] vesiculiferum (13)	0	0	19	18
+Rhizophagus prolifer	test	6		0		0	0	0	0
+Rhizophagus silesianus	test	7		0		0	0	0	0
+Sclerocystis sinuosa	test	18		0		0	0	0	0
+Septoglomus africanum	test	6		0		0	0	6	0
+Septoglomus turnauae	test	4		0		0	0	0	0
+Septoglomus viscosum	test	21		0		0	0	0	0
+[Rhizoglomus] vesiculiferum	test	23	C4	2	Rhizophagus irregularis (2)	0	0	0	0

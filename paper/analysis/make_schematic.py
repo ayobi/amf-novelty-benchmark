@@ -88,7 +88,7 @@ box(1.62, 0.5, 1.62, 1.24, 'Link to cultures\nEach name is linked to the\nspecie
     bold_first=True)
 arrow(3.24, YM, 3.42, YM)
 # the checks
-box(3.42, 0.37, 1.9, 1.5, 'Checks, in order\n1  Likely artifact? SSU at least half\n    as divergent as ITS\n2  Divergent copy? short 5.8S\n3  Just below a VT threshold?\n4  New? a VT or LSU name that no\n    culture carries; no species shared;\n    ITS farther from every culture than\n    the within-species spread',
+box(3.42, 0.37, 1.9, 1.5, 'Checks, in order\n1  SSU discordant? SSU at least half\n    as divergent as ITS\n2  Divergent copy? short 5.8S\n3  Just below a VT threshold?\n4  New? a VT or LSU name that no\n    culture carries; no species shared;\n    ITS farther from every culture than\n    the within-species spread',
     bold_first=True)
 arrow(5.32, YM, 5.50, YM)
 # outcomes
@@ -102,8 +102,8 @@ for head, sub in out:
                                 ec=INK2, lw=0.7, zorder=2))
     ax.text(5.58, yo + h - 0.15, head, ha='left', va='center', fontsize=6.8, fontweight='bold')
     ax.text(5.58, yo + h - 0.26, sub, ha='left', va='top', fontsize=6.3, color=INK2, linespacing=1.25)
-ax.text(5.50, yo - 0.06, 'Flags: likely artifact, divergent copy,\nnear a VT, names disagree on genus',
-        ha='left', va='top', fontsize=6.3, color=INK2, linespacing=1.25)
+ax.text(5.50, yo - 0.06, 'Flags: SSU discordance, divergent copy,\nnear a VT, names that disagree on genus',
+        ha='left', va='top', fontsize=6.0, color=INK2, linespacing=1.25)
 
 for ext in ('pdf', 'png'):
     fig.savefig(f'figures/fig_schematic.{ext}', dpi=220, facecolor='white')
