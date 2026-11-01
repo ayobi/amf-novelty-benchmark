@@ -1,0 +1,437 @@
+{
+ "fixed": {
+  "V0 frozen": {
+   "culture": {
+    "kept_before": 751,
+    "kept_after": 745
+   },
+   "species": {
+    "fk_before": 71,
+    "fk_after": 18
+   },
+   "m4": {
+    "fk_before": 201,
+    "fk_after": 120,
+    "test34_before": 78,
+    "test34_after": 53,
+    "callosa_before": 20,
+    "callosa_after": 0,
+    "dev_before": 103,
+    "dev_after": 67
+   },
+   "m4_fired": [
+    "PX207101.1|Ambispora leptoticha",
+    "PX207102.1|Ambispora leptoticha",
+    "PX207103.1|Ambispora leptoticha",
+    "PX207104.1|Ambispora leptoticha",
+    "PX207105.1|Ambispora leptoticha",
+    "PX207106.1|Ambispora leptoticha",
+    "PX214449.1|Funneliformis geosporum",
+    "PX214450.1|Funneliformis geosporum",
+    "PX214451.1|Funneliformis geosporum",
+    "PX214452.1|Funneliformis geosporum",
+    "PX214453.1|Funneliformis geosporum",
+    "PX214454.1|Funneliformis geosporum",
+    "PX214455.1|Funneliformis geosporum",
+    "PX214456.1|Funneliformis geosporum",
+    "PX214609.1|Septoglomus africanum",
+    "PX214610.1|Septoglomus africanum",
+    "PX214611.1|Septoglomus africanum",
+    "PX214612.1|Septoglomus africanum",
+    "PX214613.1|Septoglomus africanum",
+    "PX214614.1|Septoglomus africanum",
+    "PX214629.1|Glomus chinense",
+    "PX214630.1|Glomus chinense",
+    "PX214631.1|Glomus chinense",
+    "PX214632.1|Glomus chinense",
+    "PX214633.1|Glomus chinense",
+    "PX214634.1|Glomus chinense",
+    "PX214635.1|Glomus chinense",
+    "PX214636.1|Glomus chinense",
+    "PX214637.1|Glomus chinense",
+    "PX214638.1|Glomus chinense",
+    "PX214639.1|Glomus chinense",
+    "PX214640.1|Glomus chinense",
+    "PX214641.1|Glomus chinense",
+    "PX214642.1|Glomus chinense",
+    "PX214643.1|Glomus chinense",
+    "PX214644.1|Glomus chinense",
+    "PX214652.1|Glomus chinense",
+    "PX214655.1|Glomus chinense",
+    "PX214659.1|Glomus chinense",
+    "PX214660.1|Glomus chinense",
+    "PX214661.1|Glomus chinense",
+    "PX214662.1|Glomus chinense",
+    "PX214663.1|Glomus chinense",
+    "PX214733.1|Glomus rugosae",
+    "PX214734.1|Glomus rugosae",
+    "PX214735.1|Glomus rugosae",
+    "PX214736.1|Glomus rugosae",
+    "PX214737.1|Glomus rugosae",
+    "PX214738.1|Glomus rugosae",
+    "PX214739.1|Glomus rugosae",
+    "PX214740.1|Glomus rugosae",
+    "PX214741.1|Glomus rugosae",
+    "PX214742.1|Glomus rugosae",
+    "PX214743.1|Glomus rugosae",
+    "PX214744.1|Glomus rugosae",
+    "PX214745.1|Glomus rugosae",
+    "PX214806.1|Rhizophagus irregularis",
+    "PX215118.1|Ambispora callosa",
+    "PX215119.1|Ambispora callosa",
+    "PX215120.1|Ambispora callosa",
+    "PX215121.1|Ambispora callosa",
+    "PX215122.1|Ambispora callosa",
+    "PX215123.1|Ambispora callosa",
+    "PX215124.1|Ambispora callosa",
+    "PX215125.1|Ambispora callosa",
+    "PX215126.1|Ambispora callosa",
+    "PX215127.1|Ambispora callosa",
+    "PX215128.1|Ambispora callosa",
+    "PX215129.1|Ambispora callosa",
+    "PX215130.1|Ambispora callosa",
+    "PX215131.1|Ambispora callosa",
+    "PX215132.1|Ambispora callosa",
+    "PX215133.1|Ambispora callosa",
+    "PX215134.1|Ambispora callosa",
+    "PX215135.1|Ambispora callosa",
+    "PX215136.1|Ambispora callosa",
+    "PX215137.1|Ambispora callosa",
+    "PX215138.1|Ambispora leptoticha",
+    "PX215139.1|Ambispora leptoticha",
+    "PX215140.1|Ambispora leptoticha",
+    "PX215141.1|Ambispora leptoticha"
+   ]
+  },
+  "V1c inverse-CDF q99": {
+   "culture": {
+    "kept_before": 751,
+    "kept_after": 744
+   },
+   "species": {
+    "fk_before": 71,
+    "fk_after": 14
+   },
+   "m4": {
+    "fk_before": 201,
+    "fk_after": 116,
+    "test34_before": 78,
+    "test34_after": 53,
+    "callosa_before": 20,
+    "callosa_after": 0,
+    "dev_before": 103,
+    "dev_after": 63
+   },
+   "m4_fired": [
+    "PX207101.1|Ambispora leptoticha",
+    "PX207102.1|Ambispora leptoticha",
+    "PX207103.1|Ambispora leptoticha",
+    "PX207104.1|Ambispora leptoticha",
+    "PX207105.1|Ambispora leptoticha",
+    "PX207106.1|Ambispora leptoticha",
+    "PX214449.1|Funneliformis geosporum",
+    "PX214450.1|Funneliformis geosporum",
+    "PX214451.1|Funneliformis geosporum",
+    "PX214452.1|Funneliformis geosporum",
+    "PX214453.1|Funneliformis geosporum",
+    "PX214454.1|Funneliformis geosporum",
+    "PX214455.1|Funneliformis geosporum",
+    "PX214456.1|Funneliformis geosporum",
+    "PX214609.1|Septoglomus africanum",
+    "PX214610.1|Septoglomus africanum",
+    "PX214611.1|Septoglomus africanum",
+    "PX214612.1|Septoglomus africanum",
+    "PX214613.1|Septoglomus africanum",
+    "PX214614.1|Septoglomus africanum",
+    "PX214629.1|Glomus chinense",
+    "PX214630.1|Glomus chinense",
+    "PX214631.1|Glomus chinense",
+    "PX214632.1|Glomus chinense",
+    "PX214633.1|Glomus chinense",
+    "PX214634.1|Glomus chinense",
+    "PX214635.1|Glomus chinense",
+    "PX214636.1|Glomus chinense",
+    "PX214637.1|Glomus chinense",
+    "PX214638.1|Glomus chinense",
+    "PX214639.1|Glomus chinense",
+    "PX214640.1|Glomus chinense",
+    "PX214641.1|Glomus chinense",
+    "PX214642.1|Glomus chinense",
+    "PX214643.1|Glomus chinense",
+    "PX214644.1|Glomus chinense",
+    "PX214645.1|Glomus chinense",
+    "PX214646.1|Glomus chinense",
+    "PX214647.1|Glomus chinense",
+    "PX214652.1|Glomus chinense",
+    "PX214655.1|Glomus chinense",
+    "PX214658.1|Glomus chinense",
+    "PX214659.1|Glomus chinense",
+    "PX214660.1|Glomus chinense",
+    "PX214661.1|Glomus chinense",
+    "PX214662.1|Glomus chinense",
+    "PX214663.1|Glomus chinense",
+    "PX214733.1|Glomus rugosae",
+    "PX214734.1|Glomus rugosae",
+    "PX214735.1|Glomus rugosae",
+    "PX214736.1|Glomus rugosae",
+    "PX214737.1|Glomus rugosae",
+    "PX214738.1|Glomus rugosae",
+    "PX214739.1|Glomus rugosae",
+    "PX214740.1|Glomus rugosae",
+    "PX214741.1|Glomus rugosae",
+    "PX214742.1|Glomus rugosae",
+    "PX214743.1|Glomus rugosae",
+    "PX214744.1|Glomus rugosae",
+    "PX214745.1|Glomus rugosae",
+    "PX214806.1|Rhizophagus irregularis",
+    "PX215118.1|Ambispora callosa",
+    "PX215119.1|Ambispora callosa",
+    "PX215120.1|Ambispora callosa",
+    "PX215121.1|Ambispora callosa",
+    "PX215122.1|Ambispora callosa",
+    "PX215123.1|Ambispora callosa",
+    "PX215124.1|Ambispora callosa",
+    "PX215125.1|Ambispora callosa",
+    "PX215126.1|Ambispora callosa",
+    "PX215127.1|Ambispora callosa",
+    "PX215128.1|Ambispora callosa",
+    "PX215129.1|Ambispora callosa",
+    "PX215130.1|Ambispora callosa",
+    "PX215131.1|Ambispora callosa",
+    "PX215132.1|Ambispora callosa",
+    "PX215133.1|Ambispora callosa",
+    "PX215134.1|Ambispora callosa",
+    "PX215135.1|Ambispora callosa",
+    "PX215136.1|Ambispora callosa",
+    "PX215137.1|Ambispora callosa",
+    "PX215138.1|Ambispora leptoticha",
+    "PX215139.1|Ambispora leptoticha",
+    "PX215140.1|Ambispora leptoticha",
+    "PX215141.1|Ambispora leptoticha"
+   ]
+  },
+  "V1 culture-weighted q99": {
+   "culture": {
+    "kept_before": 751,
+    "kept_after": 746
+   },
+   "species": {
+    "fk_before": 71,
+    "fk_after": 18
+   },
+   "m4": {
+    "fk_before": 201,
+    "fk_after": 120,
+    "test34_before": 78,
+    "test34_after": 53,
+    "callosa_before": 20,
+    "callosa_after": 0,
+    "dev_before": 103,
+    "dev_after": 67
+   },
+   "m4_fired": [
+    "PX207101.1|Ambispora leptoticha",
+    "PX207102.1|Ambispora leptoticha",
+    "PX207103.1|Ambispora leptoticha",
+    "PX207104.1|Ambispora leptoticha",
+    "PX207105.1|Ambispora leptoticha",
+    "PX207106.1|Ambispora leptoticha",
+    "PX214449.1|Funneliformis geosporum",
+    "PX214450.1|Funneliformis geosporum",
+    "PX214451.1|Funneliformis geosporum",
+    "PX214452.1|Funneliformis geosporum",
+    "PX214453.1|Funneliformis geosporum",
+    "PX214454.1|Funneliformis geosporum",
+    "PX214455.1|Funneliformis geosporum",
+    "PX214456.1|Funneliformis geosporum",
+    "PX214609.1|Septoglomus africanum",
+    "PX214610.1|Septoglomus africanum",
+    "PX214611.1|Septoglomus africanum",
+    "PX214612.1|Septoglomus africanum",
+    "PX214613.1|Septoglomus africanum",
+    "PX214614.1|Septoglomus africanum",
+    "PX214629.1|Glomus chinense",
+    "PX214630.1|Glomus chinense",
+    "PX214631.1|Glomus chinense",
+    "PX214632.1|Glomus chinense",
+    "PX214633.1|Glomus chinense",
+    "PX214634.1|Glomus chinense",
+    "PX214635.1|Glomus chinense",
+    "PX214636.1|Glomus chinense",
+    "PX214637.1|Glomus chinense",
+    "PX214638.1|Glomus chinense",
+    "PX214639.1|Glomus chinense",
+    "PX214640.1|Glomus chinense",
+    "PX214641.1|Glomus chinense",
+    "PX214642.1|Glomus chinense",
+    "PX214643.1|Glomus chinense",
+    "PX214644.1|Glomus chinense",
+    "PX214652.1|Glomus chinense",
+    "PX214655.1|Glomus chinense",
+    "PX214659.1|Glomus chinense",
+    "PX214660.1|Glomus chinense",
+    "PX214661.1|Glomus chinense",
+    "PX214662.1|Glomus chinense",
+    "PX214663.1|Glomus chinense",
+    "PX214733.1|Glomus rugosae",
+    "PX214734.1|Glomus rugosae",
+    "PX214735.1|Glomus rugosae",
+    "PX214736.1|Glomus rugosae",
+    "PX214737.1|Glomus rugosae",
+    "PX214738.1|Glomus rugosae",
+    "PX214739.1|Glomus rugosae",
+    "PX214740.1|Glomus rugosae",
+    "PX214741.1|Glomus rugosae",
+    "PX214742.1|Glomus rugosae",
+    "PX214743.1|Glomus rugosae",
+    "PX214744.1|Glomus rugosae",
+    "PX214745.1|Glomus rugosae",
+    "PX214806.1|Rhizophagus irregularis",
+    "PX215118.1|Ambispora callosa",
+    "PX215119.1|Ambispora callosa",
+    "PX215120.1|Ambispora callosa",
+    "PX215121.1|Ambispora callosa",
+    "PX215122.1|Ambispora callosa",
+    "PX215123.1|Ambispora callosa",
+    "PX215124.1|Ambispora callosa",
+    "PX215125.1|Ambispora callosa",
+    "PX215126.1|Ambispora callosa",
+    "PX215127.1|Ambispora callosa",
+    "PX215128.1|Ambispora callosa",
+    "PX215129.1|Ambispora callosa",
+    "PX215130.1|Ambispora callosa",
+    "PX215131.1|Ambispora callosa",
+    "PX215132.1|Ambispora callosa",
+    "PX215133.1|Ambispora callosa",
+    "PX215134.1|Ambispora callosa",
+    "PX215135.1|Ambispora callosa",
+    "PX215136.1|Ambispora callosa",
+    "PX215137.1|Ambispora callosa",
+    "PX215138.1|Ambispora leptoticha",
+    "PX215139.1|Ambispora leptoticha",
+    "PX215140.1|Ambispora leptoticha",
+    "PX215141.1|Ambispora leptoticha"
+   ]
+  }
+ },
+ "replicates": {
+  "V2 one-copy calibration only": {
+   "kept": [
+    750,
+    750.0,
+    750
+   ],
+   "fk_species": [
+    21,
+    67.0,
+    71
+   ],
+   "fk_m4": [
+    137,
+    197.0,
+    201
+   ],
+   "fk_test34": [
+    56,
+    78.0,
+    78
+   ],
+   "refire": [
+    0,
+    4.0,
+    64
+   ],
+   "fired": [
+    0,
+    4.0,
+    64
+   ]
+  },
+  "V3 one-copy query pool only": {
+   "kept": [
+    702,
+    717.5,
+    733
+   ],
+   "fk_species": [
+    13,
+    13.0,
+    18
+   ],
+   "fk_m4": [
+    68,
+    111.0,
+    118
+   ],
+   "fk_test34": [
+    51,
+    53.0,
+    53
+   ],
+   "refire": [
+    81,
+    81.0,
+    81
+   ],
+   "fired": [
+    83,
+    90.0,
+    133
+   ]
+  },
+  "V4 one-copy both": {
+   "kept": [
+    732,
+    743.0,
+    748
+   ],
+   "fk_species": [
+    21,
+    60.5,
+    71
+   ],
+   "fk_m4": [
+    134,
+    190.5,
+    201
+   ],
+   "fk_test34": [
+    55,
+    75.0,
+    78
+   ],
+   "refire": [
+    0,
+    10.5,
+    67
+   ],
+   "fired": [
+    0,
+    10.5,
+    67
+   ]
+  }
+ },
+ "threshold": {
+  "all_training": {
+   "n": 755,
+   "T": 5.992549889135255,
+   "culture_weighted_T": 6.0,
+   "cultures": 131,
+   "values_above_T": 7.0
+  },
+  "one_copy_all_training": {
+   "n": 131,
+   "T_min": 7.471061173533084,
+   "T_median": 10.484358986181793,
+   "T_max": 13.452914798206278,
+   "share_T_above_second_largest": 1.0
+  },
+  "jackknife_one_culture_out": {
+   "T_min": 5.565244834912196,
+   "T_max": 5.995210643015521
+  }
+ },
+ "reps": 100,
+ "seed": 20261031
+}

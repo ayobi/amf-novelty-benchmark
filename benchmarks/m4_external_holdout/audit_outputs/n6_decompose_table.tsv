@@ -1,0 +1,8 @@
+variant	culture_holdout_kept_of_751	species_holdout_false_known_of_71	lsu_removal_false_known_of_201	lsu_removal_34_test_of_78	original_firings_kept
+Species clades, no ITS rule	751	71	201	78	
+Frozen ITS rule (paper, V0)	745	18	120	53	81 of 81
+V1 culture-weighted q99	746	18	120	53	81 of 81 (81 fired)
+V1c inverse-CDF q99	744	14	116	53	81 of 81 (85 fired)
+V2 one-copy calibration only (median of 100)	750.0	67.0	197.0	78.0	4.0 of 81 (range 0 to 64)
+V3 one-copy query pool only (median of 100)	717.5	13.0	111.0	53.0	81.0 of 81 (range 81 to 81)
+V4 one-copy both (median of 100)	743.0	60.5	190.5	75.0	10.5 of 81 (range 0 to 67)

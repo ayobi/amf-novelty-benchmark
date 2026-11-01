@@ -32,3 +32,4 @@ stage1/prototypes/check/
 stage1/prototypes/results/
 paper/tables/table_stage1_libs.tex
 paper/main_flat_for_docx.tex
+benchmarks/m4_external_holdout/audit_outputs/D.npy
