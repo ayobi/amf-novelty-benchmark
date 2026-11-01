@@ -1,0 +1,198 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 746,
+  "its_threshold_pct": 5.993747228381375,
+  "plan": {
+    "external_labels": [
+      "Dominikia duoreactiva"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Dominikia duoreactiva | 4392_1156C",
+      "Dominikia duoreactiva | 4412"
+    ],
+    "key": "species_dominikia_duoreactiva",
+    "named_main_queries": 9,
+    "query_ids": [
+      "PX214746.1",
+      "PX214747.1",
+      "PX214748.1",
+      "PX214749.1",
+      "PX214750.1",
+      "PX214751.1",
+      "PX214752.1",
+      "PX214753.1",
+      "PX214754.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0231",
+      "R0232"
+    ],
+    "short_queries": 0,
+    "target": "Dominikia duoreactiva"
+  }
+}

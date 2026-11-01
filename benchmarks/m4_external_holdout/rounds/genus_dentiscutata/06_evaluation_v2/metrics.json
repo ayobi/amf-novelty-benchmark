@@ -1,0 +1,211 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 749,
+  "its_threshold_pct": 5.993348115299334,
+  "plan": {
+    "external_labels": [
+      "Dentiscutata Fuscutata aurea",
+      "Dentiscutata cerradensis",
+      "Dentiscutata colliculosa",
+      "Dentiscutata erythropus",
+      "Dentiscutata heterogama",
+      "Dentiscutata nigra",
+      "Dentiscutata savannicola"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Dentiscutata heterogama | BEG_35_2003A",
+      "Dentiscutata heterogama | CL157_2013B"
+    ],
+    "key": "genus_dentiscutata",
+    "named_main_queries": 6,
+    "query_ids": [
+      "PX215073.1",
+      "PX215074.1",
+      "PX215075.1",
+      "PX215076.1",
+      "PX215077.1",
+      "PX215078.1"
+    ],
+    "rank": "genus",
+    "removed_ref_ids": [
+      "R0174",
+      "R0175",
+      "R0176",
+      "R0177",
+      "R0178",
+      "R0199",
+      "R0200",
+      "R0418",
+      "R0419",
+      "R0420",
+      "R0421",
+      "R0422"
+    ],
+    "short_queries": 0,
+    "target": "Dentiscutata"
+  }
+}

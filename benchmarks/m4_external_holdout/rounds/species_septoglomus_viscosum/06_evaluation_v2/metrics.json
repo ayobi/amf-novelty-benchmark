@@ -1,0 +1,230 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    },
+    "artifacts": 0,
+    "copies": 24,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 21,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 3,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "novel lineage": 2,
+        "novel species, genus known": 1
+      },
+      "named, species held out": {
+        "novel species, genus known": 21
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    },
+    "artifacts": 0,
+    "copies": 24,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 21,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 3,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "novel lineage": 2,
+        "novel species, genus known": 1
+      },
+      "named, species held out": {
+        "novel species, genus known": 21
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    },
+    "artifacts": 0,
+    "copies": 24,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 21,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 3,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "novel lineage": 3
+      },
+      "named, species held out": {
+        "novel species, genus known": 21
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    },
+    "artifacts": 0,
+    "copies": 24,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 21,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 3,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "novel lineage": 3
+      },
+      "named, species held out": {
+        "novel species, genus known": 21
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 21,
+      "genus_compatible": 21,
+      "genus_wrong": 0,
+      "n": 21
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 734,
+  "its_threshold_pct": 5.995343680709534,
+  "plan": {
+    "external_labels": [
+      "Septoglomus Viscospora viscosa"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Septoglomus viscosum | CW0002_4001A",
+      "Septoglomus viscosum | CW0026_Att1910-1",
+      "Septoglomus viscosum | CW0029_4028A",
+      "Septoglomus viscosum | MD215_360A",
+      "Septoglomus viscosum | W375_18_642E"
+    ],
+    "key": "species_septoglomus_viscosum",
+    "named_main_queries": 21,
+    "query_ids": [
+      "PX207263.1",
+      "PX207264.1",
+      "PX207265.1",
+      "PX207266.1",
+      "PX207267.1",
+      "PX207268.1",
+      "PX207269.1",
+      "PX207270.1",
+      "PX207271.1",
+      "PX207272.1",
+      "PX207273.1",
+      "PX207274.1",
+      "PX214572.1",
+      "PX214573.1",
+      "PX214574.1",
+      "PX214575.1",
+      "PX214576.1",
+      "PX214577.1",
+      "PX214578.1",
+      "PX214579.1",
+      "PX214580.1",
+      "PX214581.1",
+      "PX214582.1",
+      "PX214583.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0375",
+      "R0376"
+    ],
+    "short_queries": 3,
+    "target": "Septoglomus viscosum"
+  }
+}

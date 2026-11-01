@@ -1,0 +1,199 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    },
+    "artifacts": 0,
+    "copies": 9,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 9,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 9
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 9,
+      "genus_compatible": 9,
+      "genus_wrong": 0,
+      "n": 9
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 746,
+  "its_threshold_pct": 5.993747228381375,
+  "plan": {
+    "external_labels": [
+      "Funneliformis caledonium"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Funneliformis caledonium | CW0030_822A",
+      "Funneliformis caledonium | VDHK150A_21A"
+    ],
+    "key": "species_funneliformis_caledonium",
+    "named_main_queries": 9,
+    "query_ids": [
+      "PX214440.1",
+      "PX214441.1",
+      "PX214442.1",
+      "PX214443.1",
+      "PX214444.1",
+      "PX214445.1",
+      "PX214446.1",
+      "PX214447.1",
+      "PX214448.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0038",
+      "R0363",
+      "R0364"
+    ],
+    "short_queries": 0,
+    "target": "Funneliformis caledonium"
+  }
+}

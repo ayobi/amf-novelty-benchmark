@@ -1,0 +1,193 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    },
+    "artifacts": 0,
+    "copies": 5,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 5,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 5
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    },
+    "artifacts": 0,
+    "copies": 5,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 5,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 5
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    },
+    "artifacts": 0,
+    "copies": 5,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 5,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 5
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    },
+    "artifacts": 0,
+    "copies": 5,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 5,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 5
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 5,
+      "genus_compatible": 5,
+      "genus_wrong": 0,
+      "n": 5
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 755,
+  "its_threshold_pct": 5.992549889135255,
+  "plan": {
+    "external_labels": [
+      "Paraglomus laccatum"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Paraglomus laccatum | CW0010_4009B"
+    ],
+    "key": "species_paraglomus_laccatum",
+    "named_main_queries": 5,
+    "query_ids": [
+      "PX207096.1",
+      "PX207097.1",
+      "PX207098.1",
+      "PX207099.1",
+      "PX207100.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0109",
+      "R0110"
+    ],
+    "short_queries": 0,
+    "target": "Paraglomus laccatum"
+  }
+}

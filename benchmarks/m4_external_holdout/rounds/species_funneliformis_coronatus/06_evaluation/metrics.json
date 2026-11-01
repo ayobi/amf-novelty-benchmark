@@ -1,0 +1,132 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 24
+    },
+    "artifacts": 0,
+    "copies": 24,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 24,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 24
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 24
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 24
+    },
+    "artifacts": 0,
+    "copies": 24,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 24,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 24
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 24
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Funneliformis coronatus"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Funneliformis coronatus | Algerie_2_1072A",
+      "Funneliformis coronatus | W111_12_886A",
+      "Funneliformis coronatus | W143_5_12A",
+      "Funneliformis coronatus | W699_21_3A"
+    ],
+    "key": "species_funneliformis_coronatus",
+    "named_main_queries": 24,
+    "query_ids": [
+      "PX214457.1",
+      "PX214458.1",
+      "PX214459.1",
+      "PX214460.1",
+      "PX214461.1",
+      "PX214462.1",
+      "PX214463.1",
+      "PX214464.1",
+      "PX214465.1",
+      "PX214466.1",
+      "PX214467.1",
+      "PX214468.1",
+      "PX214469.1",
+      "PX214470.1",
+      "PX214471.1",
+      "PX214472.1",
+      "PX214473.1",
+      "PX214474.1",
+      "PX214475.1",
+      "PX214476.1",
+      "PX214477.1",
+      "PX214478.1",
+      "PX214479.1",
+      "PX214480.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0039",
+      "R0365"
+    ],
+    "short_queries": 0,
+    "target": "Funneliformis coronatus"
+  }
+}

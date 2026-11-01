@@ -1,0 +1,211 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    },
+    "artifacts": 0,
+    "copies": 20,
+    "false_known": 20,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 20,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 20
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    },
+    "artifacts": 0,
+    "copies": 20,
+    "false_known": 20,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 20,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 20
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    },
+    "artifacts": 0,
+    "copies": 20,
+    "false_known": 1,
+    "false_known_culture_macro": 0.05,
+    "false_known_species_macro": 0.05,
+    "held_n": 20,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 1,
+        "novel species, genus known": 19
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    },
+    "artifacts": 0,
+    "copies": 20,
+    "false_known": 1,
+    "false_known_culture_macro": 0.05,
+    "false_known_species_macro": 0.05,
+    "held_n": 20,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 1,
+        "novel species, genus known": 19
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 20,
+      "genus_compatible": 20,
+      "genus_wrong": 0,
+      "n": 20
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 735,
+  "its_threshold_pct": 5.995210643015521,
+  "plan": {
+    "external_labels": [
+      "Diversispora aestuarii"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Diversispora aestuarii | 4403_745C",
+      "Diversispora aestuarii | 4485_952D"
+    ],
+    "key": "species_diversispora_aestuarii",
+    "named_main_queries": 20,
+    "query_ids": [
+      "PX214986.1",
+      "PX214987.1",
+      "PX214988.1",
+      "PX214989.1",
+      "PX214990.1",
+      "PX214991.1",
+      "PX214992.1",
+      "PX214993.1",
+      "PX214994.1",
+      "PX214995.1",
+      "PX214996.1",
+      "PX214997.1",
+      "PX214998.1",
+      "PX214999.1",
+      "PX215000.1",
+      "PX215001.1",
+      "PX215002.1",
+      "PX215003.1",
+      "PX215004.1",
+      "PX215005.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0251",
+      "R0252"
+    ],
+    "short_queries": 0,
+    "target": "Diversispora aestuarii"
+  }
+}

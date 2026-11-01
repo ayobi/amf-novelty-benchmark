@@ -1,0 +1,243 @@
+{
+  "control_parity": "same-fold full-V18 control computed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 53
+    },
+    "artifacts": 0,
+    "copies": 60,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 31,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 3,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (same_length)": {
+        "novel lineage": 4
+      },
+      "divergent (short_5.8S)": {
+        "novel lineage": 3
+      },
+      "named, species held out": {
+        "novel lineage": 31
+      },
+      "unnamed ('sp.')": {
+        "boundary": 5,
+        "novel lineage": 17
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 53
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 53
+    },
+    "artifacts": 0,
+    "copies": 60,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 31,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 3,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (same_length)": {
+        "novel lineage": 4
+      },
+      "divergent (short_5.8S)": {
+        "novel lineage": 3
+      },
+      "named, species held out": {
+        "novel lineage": 31
+      },
+      "unnamed ('sp.')": {
+        "boundary": 5,
+        "novel lineage": 17
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 53
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Septoglomus Viscospora peruviscosa",
+      "Septoglomus Viscospora viscosa",
+      "Septoglomus africanum",
+      "Septoglomus altomontanum",
+      "Septoglomus constrictum",
+      "Septoglomus deserticola",
+      "Septoglomus furcatum",
+      "Septoglomus fuscum",
+      "Septoglomus jasnowskae",
+      "Septoglomus mediterraneum",
+      "Septoglomus mexicanum",
+      "Septoglomus nakheelum",
+      "Septoglomus nigrum",
+      "Septoglomus titan",
+      "Septoglomus turnauae",
+      "Septoglomus xanthium"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Septoglomus africanum | Blasz_17_2277A",
+      "Septoglomus africanum | SO43BL",
+      "Septoglomus sp. | 4404_2057A",
+      "Septoglomus sp. | 5070_5024A",
+      "Septoglomus sp. | Blasz_17_2277A",
+      "Septoglomus sp. | C4",
+      "Septoglomus sp. | FS_9_2328B",
+      "Septoglomus sp. | SO43BL",
+      "Septoglomus turnauae | Blasz_12_2272D",
+      "Septoglomus viscosum | CW0002_4001A",
+      "Septoglomus viscosum | CW0026_Att1910-1",
+      "Septoglomus viscosum | CW0029_4028A",
+      "Septoglomus viscosum | MD215_360A",
+      "Septoglomus viscosum | W375_18_642E"
+    ],
+    "key": "genus_septoglomus",
+    "named_main_queries": 31,
+    "query_ids": [
+      "PX207258.1",
+      "PX207259.1",
+      "PX207260.1",
+      "PX207261.1",
+      "PX207262.1",
+      "PX207263.1",
+      "PX207264.1",
+      "PX207265.1",
+      "PX207266.1",
+      "PX207267.1",
+      "PX207268.1",
+      "PX207269.1",
+      "PX207270.1",
+      "PX207271.1",
+      "PX207272.1",
+      "PX207273.1",
+      "PX207274.1",
+      "PX214572.1",
+      "PX214573.1",
+      "PX214574.1",
+      "PX214575.1",
+      "PX214576.1",
+      "PX214577.1",
+      "PX214578.1",
+      "PX214579.1",
+      "PX214580.1",
+      "PX214581.1",
+      "PX214582.1",
+      "PX214583.1",
+      "PX214584.1",
+      "PX214585.1",
+      "PX214586.1",
+      "PX214587.1",
+      "PX214588.1",
+      "PX214589.1",
+      "PX214590.1",
+      "PX214591.1",
+      "PX214592.1",
+      "PX214593.1",
+      "PX214594.1",
+      "PX214595.1",
+      "PX214596.1",
+      "PX214597.1",
+      "PX214598.1",
+      "PX214599.1",
+      "PX214600.1",
+      "PX214601.1",
+      "PX214602.1",
+      "PX214603.1",
+      "PX214604.1",
+      "PX214605.1",
+      "PX214606.1",
+      "PX214607.1",
+      "PX214608.1",
+      "PX214609.1",
+      "PX214610.1",
+      "PX214611.1",
+      "PX214612.1",
+      "PX214613.1",
+      "PX214614.1"
+    ],
+    "rank": "genus",
+    "removed_ref_ids": [
+      "R0044",
+      "R0045",
+      "R0046",
+      "R0047",
+      "R0048",
+      "R0049",
+      "R0050",
+      "R0051",
+      "R0052",
+      "R0053",
+      "R0054",
+      "R0055",
+      "R0056",
+      "R0057",
+      "R0058",
+      "R0059",
+      "R0060",
+      "R0061",
+      "R0062",
+      "R0063",
+      "R0064",
+      "R0065",
+      "R0066",
+      "R0067",
+      "R0369",
+      "R0370",
+      "R0371",
+      "R0372",
+      "R0373",
+      "R0374",
+      "R0375",
+      "R0376"
+    ],
+    "short_queries": 3,
+    "target": "Septoglomus"
+  }
+}

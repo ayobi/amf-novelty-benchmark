@@ -1,0 +1,113 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    },
+    "artifacts": 0,
+    "copies": 8,
+    "false_known": 8,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 8,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 8
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    },
+    "artifacts": 0,
+    "copies": 8,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 8,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 8
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Funneliformis geosporum"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Funneliformis geosporum | ALBG_A3",
+      "Funneliformis geosporum | W681_7_10A"
+    ],
+    "key": "species_funneliformis_geosporum",
+    "named_main_queries": 8,
+    "query_ids": [
+      "PX214449.1",
+      "PX214450.1",
+      "PX214451.1",
+      "PX214452.1",
+      "PX214453.1",
+      "PX214454.1",
+      "PX214455.1",
+      "PX214456.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0368"
+    ],
+    "short_queries": 0,
+    "target": "Funneliformis geosporum"
+  }
+}

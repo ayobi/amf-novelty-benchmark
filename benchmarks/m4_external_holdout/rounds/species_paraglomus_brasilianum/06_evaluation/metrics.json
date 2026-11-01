@@ -1,0 +1,118 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    },
+    "artifacts": 0,
+    "copies": 8,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 8,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 8
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    },
+    "artifacts": 0,
+    "copies": 8,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 8,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 8
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 8,
+      "genus_compatible": 8,
+      "genus_wrong": 0,
+      "n": 8
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Paraglomus brasilianum"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Paraglomus brasilianum | 5274_2288B",
+      "Paraglomus brasilianum | BR105_2435A",
+      "Paraglomus brasilianum | W260_5_933C",
+      "Paraglomus brasilianum | W960_3_902A",
+      "Paraglomus brasilianum | W960_3_902C",
+      "Paraglomus sp. | BR105_2435A"
+    ],
+    "key": "species_paraglomus_brasilianum",
+    "named_main_queries": 8,
+    "query_ids": [
+      "PX215142.1",
+      "PX215143.1",
+      "PX215144.1",
+      "PX215145.1",
+      "PX215146.1",
+      "PX215147.1",
+      "PX215148.1",
+      "PX215149.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0108",
+      "R0392"
+    ],
+    "short_queries": 0,
+    "target": "Paraglomus brasilianum"
+  }
+}

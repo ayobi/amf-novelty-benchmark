@@ -1,0 +1,276 @@
+{
+  "development_fold": true,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    },
+    "artifacts": 0,
+    "copies": 75,
+    "false_known": 75,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 75,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 51,
+        "known species group": 24
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    },
+    "artifacts": 0,
+    "copies": 75,
+    "false_known": 62,
+    "false_known_culture_macro": 0.6365740740740741,
+    "false_known_species_macro": 0.8266666666666667,
+    "held_n": 75,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 43,
+        "known species group": 19,
+        "novel species, genus known": 13
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    },
+    "artifacts": 0,
+    "copies": 75,
+    "false_known": 4,
+    "false_known_culture_macro": 0.032407407407407406,
+    "false_known_species_macro": 0.05333333333333334,
+    "held_n": 75,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 4,
+        "novel species, genus known": 71
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    },
+    "artifacts": 0,
+    "copies": 75,
+    "false_known": 4,
+    "false_known_culture_macro": 0.032407407407407406,
+    "false_known_species_macro": 0.05333333333333334,
+    "held_n": 75,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 4,
+        "novel species, genus known": 71
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 75,
+      "genus_compatible": 75,
+      "genus_wrong": 0,
+      "n": 75
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 680,
+  "its_threshold_pct": 6.103792325056434,
+  "plan": {
+    "external_labels": [
+      "Glomus rugosae"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Glomus rugosae | 2101_IVT46",
+      "Glomus rugosae | 4384_IVT98",
+      "Glomus rugosae | 4415_1174B",
+      "Glomus rugosae | 4417_1160C",
+      "Glomus rugosae | 4420_683B",
+      "Glomus rugosae | 4431_805C",
+      "Glomus rugosae | 4487_957C",
+      "Glomus rugosae | 5096_2452A",
+      "Glomus rugosae | 5103_2445A"
+    ],
+    "key": "species_glomus_rugosae",
+    "named_main_queries": 75,
+    "query_ids": [
+      "PX214671.1",
+      "PX214672.1",
+      "PX214673.1",
+      "PX214674.1",
+      "PX214675.1",
+      "PX214676.1",
+      "PX214677.1",
+      "PX214678.1",
+      "PX214679.1",
+      "PX214680.1",
+      "PX214681.1",
+      "PX214682.1",
+      "PX214683.1",
+      "PX214684.1",
+      "PX214685.1",
+      "PX214686.1",
+      "PX214687.1",
+      "PX214688.1",
+      "PX214689.1",
+      "PX214690.1",
+      "PX214691.1",
+      "PX214692.1",
+      "PX214693.1",
+      "PX214694.1",
+      "PX214695.1",
+      "PX214696.1",
+      "PX214697.1",
+      "PX214698.1",
+      "PX214699.1",
+      "PX214700.1",
+      "PX214701.1",
+      "PX214702.1",
+      "PX214703.1",
+      "PX214704.1",
+      "PX214705.1",
+      "PX214706.1",
+      "PX214707.1",
+      "PX214708.1",
+      "PX214709.1",
+      "PX214710.1",
+      "PX214711.1",
+      "PX214712.1",
+      "PX214713.1",
+      "PX214714.1",
+      "PX214715.1",
+      "PX214716.1",
+      "PX214717.1",
+      "PX214718.1",
+      "PX214719.1",
+      "PX214720.1",
+      "PX214721.1",
+      "PX214722.1",
+      "PX214723.1",
+      "PX214724.1",
+      "PX214725.1",
+      "PX214726.1",
+      "PX214727.1",
+      "PX214728.1",
+      "PX214729.1",
+      "PX214730.1",
+      "PX214731.1",
+      "PX214732.1",
+      "PX214733.1",
+      "PX214734.1",
+      "PX214735.1",
+      "PX214736.1",
+      "PX214737.1",
+      "PX214738.1",
+      "PX214739.1",
+      "PX214740.1",
+      "PX214741.1",
+      "PX214742.1",
+      "PX214743.1",
+      "PX214744.1",
+      "PX214745.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0144",
+      "R0145"
+    ],
+    "short_queries": 0,
+    "target": "Glomus rugosae"
+  }
+}

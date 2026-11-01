@@ -1,0 +1,220 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "artifacts": 0,
+    "copies": 29,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 29,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 29
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "artifacts": 0,
+    "copies": 29,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 29,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 29
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "artifacts": 0,
+    "copies": 29,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 29,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 29
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "artifacts": 0,
+    "copies": 29,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 29,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 29
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 29
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 726,
+  "its_threshold_pct": 5.99283185840708,
+  "plan": {
+    "external_labels": [
+      "Oehlia diaphana"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Oehlia diaphana | 4835_562B",
+      "Oehlia diaphana | JS1_IVT19A",
+      "Oehlia diaphana | WV579_765A",
+      "Oehlia diaphana | WV579_765B"
+    ],
+    "key": "species_oehlia_diaphana",
+    "named_main_queries": 29,
+    "query_ids": [
+      "PX214880.1",
+      "PX214881.1",
+      "PX214882.1",
+      "PX214883.1",
+      "PX214884.1",
+      "PX214885.1",
+      "PX214886.1",
+      "PX214887.1",
+      "PX214888.1",
+      "PX214889.1",
+      "PX214890.1",
+      "PX214891.1",
+      "PX214892.1",
+      "PX214893.1",
+      "PX214894.1",
+      "PX214895.1",
+      "PX214896.1",
+      "PX214897.1",
+      "PX214898.1",
+      "PX214899.1",
+      "PX214900.1",
+      "PX214901.1",
+      "PX214902.1",
+      "PX214903.1",
+      "PX214904.1",
+      "PX214905.1",
+      "PX214906.1",
+      "PX214907.1",
+      "PX214908.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0377",
+      "R0378"
+    ],
+    "short_queries": 0,
+    "target": "Oehlia diaphana"
+  }
+}

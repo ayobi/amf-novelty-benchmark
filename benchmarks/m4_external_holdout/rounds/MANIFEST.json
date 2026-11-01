@@ -1,0 +1,890 @@
+{
+ "rounds": {
+  "genus_acaulospora": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "25752b9a38586b6fed1cf026ab381a26803c96907882d9b952efd97d89c8aced",
+    "06_evaluation/metrics.json": "1071867594b5480bb3128d1adf85f5b7b708fbe4ab035db64a1674b088790dd5",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "62de3129901cbab647b9a74d6f65a7b4dd690acc95b03a364e764fe1e9679318",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "6b19bd46a0381efe774ce945f313edd603421870d8dfcf70dcd195725ece498a",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "578860748d9c90e45c02e51443e2ba0dbe5b9e14e6a4d367a9be38626031a1ea",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "7bbb385b315ecf6e8ccf386cfcd9060530f486a712d94459a315a4aa2b42313d",
+    "06_evaluation_v2/metrics.json": "d391b5e78f2fdc6485e9e47ed254075ce029d91bd7b6991cd446578ea58c5f1c",
+    "DONE.json": "c76b30692fc690e475d95c54a540af3caeb393dc384a9a93e2d0e1add84e6cd1",
+    "DONE_v2.json": "29bd567c4d02cef43f0074f6ba61cde18a7810929b2b8b4399cb9f38b139817b"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_acaulospora",
+   "target": "Acaulospora"
+  },
+  "genus_ambispora": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "ccf38fff197ddba6ab9409850abd75d56503a22055ed22c18a67699e2c380760",
+    "06_evaluation/metrics.json": "9bcd8d764db83c2c30826dfb221fde737af317d91b71b8e956a17651fdd0a6a0",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "73bb639d1434b9c0cd1036b3b53ffe8537bc5eff4d4ab9c4ed6bdd1a0fe71616",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "d516b52d47a668531b2a6e95102a741e46328026e57f2f51922d8c36a01923ac",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "1b80041eff2338e3be891bd7fef08a12d1cfc2f41bf9195c14f77694b435bd74",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "68681f297430ecafa59156e674bf66b93b99479b477bd29ebcb4354dfc05c05f",
+    "06_evaluation_v2/metrics.json": "e60903f8044f5e6fa1509f2a2c48269946e0d5ba68c63cdec9379a97015b9d4d",
+    "DONE.json": "e6e027790f6920ec21a957a3e4b22e57762383dd6e64ae2c4a954e4db1b4174d",
+    "DONE_v2.json": "ee9d95a1ad63c174536e23acbbea9fb29a65e040d17c3934d29119426737111c"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_ambispora",
+   "target": "Ambispora"
+  },
+  "genus_cetraspora": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "57d042b2e6df05646b0ccdcf20e48a7ef0bf5e2c29afe8e336f055d348f83f64",
+    "06_evaluation/metrics.json": "72a7a249db2676cff661a224c9ab3c4833c1a808f3e3913a0805b2fb57f5b43e",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "cdabdac22b0be1d94f41d73e6aa8510e55f431f6105c29b6bb122bccae5055bc",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "5071695808b6f0478081ed1b848ed264bba3395fd0d3b45cbfb507c3ff7715b4",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "1d85252903703184be226b93bc349d36935a282781951ac3b935401a93c224d2",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "0968c522d6560d35ff875695bf6d6ab3a24e5c90681537b642ae44ebb1df7175",
+    "06_evaluation_v2/metrics.json": "7244c65b0698d558aa5c189c5abdae146411273745d6ba1f871f3b355a25cb4f",
+    "DONE.json": "564ee4498522dd5bcf5898e79585cf85c803c8be750fb03e220fdb081055943a",
+    "DONE_v2.json": "9319decee17ec50abc72bd4d87be64e919a605e1635fff0de9136fb662032680"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_cetraspora",
+   "target": "Cetraspora"
+  },
+  "genus_dentiscutata": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "240c6e2f31fd307178972f1034b890461214ae9e6350ce84e452385d459ecf04",
+    "06_evaluation/metrics.json": "92ade1e160b7901bf9ac1bf5b5d7035042dbe8df5a523a18bb4ae55af526ec80",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "f8a9c42e87cc470622524014bc232b9d092acb67825d6f1171f06cca10761742",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "15b1f101ff2c72e1ddc26c2162e72f2ef9f4080dc9225e61fc16f9cbfa0ac523",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "b50372d31a76525debb3b275079e974a28054f329f4fcc5b447bd1e3c9b972a2",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "687123a422ef37540b7f26d772f8b6ff213aaad171752b988f6868ee7bd406d0",
+    "06_evaluation_v2/metrics.json": "03819da1b0658f4f38b70d52770b5ab0d7d4befe84dce1c9ea69868f440cab21",
+    "DONE.json": "cdb7a6f5b446907d59bb897bcd8be1710be7feacb3cc46f0e9e879f2869e24d5",
+    "DONE_v2.json": "61d7455b0a310343c7a86af025390225ce8841e088045cf128e7523178842bd9"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_dentiscutata",
+   "target": "Dentiscutata"
+  },
+  "genus_diversispora": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "0a6f145135f1d4f88915af6b9bf5793d0282345591811b5f565187d080b85611",
+    "06_evaluation/metrics.json": "47641688fa115a7f5957bb1c62a10f5f1d1165ce327b765ff988523c0933971d",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "69dc16c3ba56eeb38bd7ca96b64aec55f3f877ea6a98645fda14043dd42c36bc",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "ae9f22ac108f57ac250041761c933edf4266efadce630330a64b5ae28892a476",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "8908a1acac1871614e9905372bdaf525a18f6b3e3e95ed6c1c0675a7849f046d",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "e3c557411b5aeeff2bbb77c01d14561e70e72f854afdb45fd1447d93d0d7f85a",
+    "06_evaluation_v2/metrics.json": "bbba076dfe801dc5b94143ee079d140842c5dd47a3c2a70f0e398209c22a0f3e",
+    "DONE.json": "2f49ac2a0a3f36fffc9762dc01173e156fb590da6b8f7f271f335ddda33d2a83",
+    "DONE_v2.json": "226f20eb4e88857937843353351b7935fa8ea1b5d6c406911f9fea4548926541"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_diversispora",
+   "target": "Diversispora"
+  },
+  "genus_dominikia": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "4dbf360f48760f3d79856e31799377c1e344411a262d3a1c84c4b6dd9587eef0",
+    "06_evaluation/metrics.json": "dab4871eaa4bb091061ef56562c2f14b5c2aa3d592043063b6f0c9679c097c2c",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "932a2adcb45004e69e5a7af5f6b21ba7c1bc81a62925dafdc3d36d39d63e47f1",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "bcb9c4a3ec2447bcbcf6bf562f2a82fa6d3d48e5c52c4333520b75cf0194c8de",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "e7ea06bd5de40053ceedb7e52be5f4c02320e08b4e295cc7e6b2f6153e67a70b",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "040bc7844cb143595a4c54aef89fa85118f13fa77ea082b29f62fa53359aebe7",
+    "06_evaluation_v2/metrics.json": "8b9af9c9acf29842c0019ee4ec35db3403c118d25170ba9348b32d8e8762934c",
+    "DONE.json": "c5a620bf2ac4236010f43736f69aeff36af8fc1f93734b68893a00448573df04",
+    "DONE_v2.json": "177aeeec75721506ae33ea0266bf5c05d04c8f9fc9119aba61ad45bb1b171154"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_dominikia",
+   "target": "Dominikia"
+  },
+  "genus_funneliformis": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "61a8e7c96d7a3c467cdc2265e86f9f21e9c45d1394cf36580800904d1f4082f9",
+    "06_evaluation/metrics.json": "9765fabd81ffedbb4a352031499e2c8fec7c4bc265871893cf307fa08105661d",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "0bdd108091dc69c841be3036e18fc8ffe328e482b8b0e4185344e975e730a55c",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "01398321a45d52b8d9aece5cc90ca0f1c603aefcc1cd8d4feb4f63cc5effb736",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "62a12093c28e440cb87ed3a26ee237216a968876014e0ed359772fbb4adba6df",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "5a2455563ef93e491e991adc2744d192697646b8cbb2484b59e5349c932a708c",
+    "06_evaluation_v2/metrics.json": "69fbe70a0d267821a1999febce33d75d2d170be9247f77c59b694d30129266a1",
+    "DONE.json": "95742ff5cdea3aaa25674b02bd023a4f0fac57f5e2b1621ec186ff7eb6c9f4f7",
+    "DONE_v2.json": "fba92eec1fca341fbd2cf6bf4b938949b779126b6a6d414809f8590f786d3701"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_funneliformis",
+   "target": "Funneliformis"
+  },
+  "genus_gigaspora": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "61541f334677994a5c1c24066395368563caf7b201e7cb829f79ec3842cb9d3b",
+    "06_evaluation/metrics.json": "ab11d1ede586b61d5d83d63c4b964877b6b8ade058648ba27eda85fbae7d4e2b",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "f1663a25bfdc3ec783bd349ec9bcd9ced5ab77f7a5ce83db0ae3be1285e7be1a",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "a351b0be940a51a6efb82b750b0b04b4765fb30e1033b3c542dd741b0a984b75",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "f00c2a2222a79e6a6e0d49d12612364de6c99de2e5860cbe8e8ee8dc09d8eed7",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "c189b0503d01338d406c497644835ee4b4a4628b8b62a4f35ab2850a7b289688",
+    "06_evaluation_v2/metrics.json": "66dbaa9884b2950ccac4d3fc7a805a6b269928894b6237b26b5bb749776559c5",
+    "DONE.json": "1bb6f574a567f14a24376d3d1692bcc8ebf7d9bdc156b5c78fbb7c1c020f3ab4",
+    "DONE_v2.json": "224f753ce9ce65364d1d4f64680c0cfdf97865f7de4467beb9b94b42ca2b500e"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_gigaspora",
+   "target": "Gigaspora"
+  },
+  "genus_glomus": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "df884df00bf21f241dd6ee2eb4e80d2ece6ff4c440fc6b2f304faf174bc4e1cc",
+    "06_evaluation/metrics.json": "ffcf4822131d6350467950999c07fd43520a9bbcdc6903f47d0f300c4463e418",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "ff4462d30107dde56318086b3baa6b0c7b452921e37f545365a2e7918748d6bb",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "fd61aae99396aac036f0b95944e3ff076640074c0e7de04ab91d083f46a915d4",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "9cc0dfd982d8c5ac4399a55d790f1caf349f92e5eb6e78fdf1ab63ce9029ef5e",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "54c7951ae572dee1ab56a70cb3dabee2e1b679c4d9118838e39126da2f84661a",
+    "06_evaluation_v2/metrics.json": "f2fb7ec4face7c805a413b38e66900fdfa635efa88ebb629441684e4bb131d08",
+    "DONE.json": "bfc4b116c3878f1b7417435ce4c52f8824f44028747bc8442ad6a83af7e91c68",
+    "DONE_v2.json": "4179f7caeef99bd07ae8b5198960a6ca6566d9ffca1631434de0440fcc2e31ae"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_glomus",
+   "target": "Glomus"
+  },
+  "genus_microdominikia": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "632b0c8c3eb234f28386274b8d108137a8e97e8e0a40d2ff4c74dda6f3adf71d",
+    "06_evaluation/metrics.json": "da6cc599befc95f412d05d4ff2332bc616a1d0c398d3ea083b60cd78d435400b",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "6431fd3837408945a27e515fd63cf2eac445bdaa999262a94c2aa50dc210b68b",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "4f43c3891a14a17737553b58ef7def2b1bc2e42099f2a5add35e402e9a28ac7a",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "dafed84d1186a5058347129d25b2819224b3d3caf7e8bb669d8e18911308a10d",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "2665e68cdff567ba789a33839d370c0be250e64857a4afd4e16245a5f880c3e0",
+    "06_evaluation_v2/metrics.json": "9572d1b8b204e57da3754142c9d3f703d3d3c517170ddcd66184f2e7194fa4f0",
+    "DONE.json": "097ed8a95a1b1880b784be22929a7075ad3e72500330691275002ac0d29e0dc3",
+    "DONE_v2.json": "789316b3400d4fec9704e545c7739af7e2cba56cfcc527ffacf726b644c03e9c"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_microdominikia",
+   "target": "Microdominikia"
+  },
+  "genus_oehlia": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "49ebda3ea16003369005f0de03869580f9f72ab64b28f94cfad6eb6879607379",
+    "06_evaluation/metrics.json": "c494a309b802ce312221ba5c24e6407312408c9f5b7cd1acd21d4ac48675012e",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "412031824df3a81f99668ebfae7e2b9c392c9f3f9b1bd99ffcb553b27b032bd2",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1ee53387e048d7cfeda131104ead5aa1d5058fa8cee2b1bd1debb30f7cd2a602",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "1faff8e094e770c105e7b1f69fad0313d200c7b807cb3457546195a1c6062cf0",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "d290a1b42ae1ac7804151e32dd6a692887a0e7b22a214187318e7d9680216613",
+    "06_evaluation_v2/metrics.json": "29b02147f04f4f7ae40fc396dabec5e96170016f4ce18f9f108cc951f682709e",
+    "DONE.json": "060e38dc5b2309a36683419b014073cd26e644ba5879ad31bb393ea76b43d1c1",
+    "DONE_v2.json": "50328fb82f9bca317b92d90eb70a8d0880d8399255b163715adeda02dab5b6c9"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_oehlia",
+   "target": "Oehlia"
+  },
+  "genus_paraglomus": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "3474661dfe8ba32e2f4684135ccfb3d4cbd6e67070ae7b741162e1a09cf0c1bb",
+    "06_evaluation/metrics.json": "a2e914dd569eb9f99ee1333fa49f14c1fcec7fc2faf1665ee2dae87d68cc058e",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "d7bf476ec95715d3bac129a44187309be35f25e1e48f0d3d1c15608d1cc34838",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "5c315525259e870e76cc2ac6e8d52448d5085b5007bc15acaa470b22548c07ca",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "9d75fe67b855b3b8317812f1c3350cd3c034ad5f84e41789d1c323dcacbd2b2d",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "a702d69ad339fc45fc11fe6d2e78f9cb21c2d0cf38d8a8f86950b21437d5c391",
+    "06_evaluation_v2/metrics.json": "319619978f1a7bcf4eda4c905049daf1b1be54775e2f9076c8a13a1d464c0099",
+    "DONE.json": "bc5297af69fbd3f8a668473a65bbdbb10f50d0955fb04762da2218d50d59ad84",
+    "DONE_v2.json": "b207ba97b1ac30c5ebdc5a85b075c2876170f16efe5c9f5351ba74ea70ab694c"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_paraglomus",
+   "target": "Paraglomus"
+  },
+  "genus_rhizophagus": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "1d085e1de01d7e7b510892caf03f8be13305bd8d6841d2fa1d0f4c91a8a3d7de",
+    "06_evaluation/metrics.json": "982c1ffdeb4f032e59c39040191506d99a0c0ad9ea12d95b1d868025cc2b50ed",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "ecf64224ed478431ff3cf3ffddaee6136c767dad1f3d1dc9e5d244911f16c0ec",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "588d67fc9a038b0eb031c2b739ed118be50f7d457667e92a589eff78a301a769",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "5f1b97fc99916e460bef9a5dcc4c3a0c895cc859d7860aaf6c7d374b80ac0df0",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "eff93f3f3ec2bd6cefa028d644fe5a2dfb7484bc207b74122c3bc7da6db4d896",
+    "06_evaluation_v2/metrics.json": "b05432afbfed0f7f0bc2e39edd6032d7ba137b0524c0aa22dcb0ef258fccb049",
+    "DONE.json": "6d02a0ff21f5567d1ca83f9c2f644816f1a7d13729b29c1e6702fbfdb9f924fe",
+    "DONE_v2.json": "f3c82041e592f3665d8fe9ea5b4a063f64468652ae21bcfd7d015a088d1ebe29"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_rhizophagus",
+   "target": "Rhizophagus"
+  },
+  "genus_sclerocystis": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "c08f7134f0b6ac6db8fb19e9f98c392c0213c696109f1ad09be7a337293dae10",
+    "06_evaluation/metrics.json": "6f8e7466aeb5fc3be60637f7852030a594cf358bb832f354a018010b87cd703a",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "5843efc1f1db69797f8f7c4cb7eab93190013cd3c4211666d6d375899f83213a",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "58d78e103e2e47bd5b120b4d70ca0b56a4ee6ddcb829f38231d90e1667889239",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "818554718bd8e75c8447a751359c837590d509bd02c753ad7dd0ffc7ce515da0",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "24361b8ecc2f4e9eb2c493c6fde1dbdd288178fa5f73af6ca3d6d969d1ac7399",
+    "06_evaluation_v2/metrics.json": "73a503de1dd8bcbe90675465517bc330f3612d68375c0a486aa9cb2e9c9ee857",
+    "DONE.json": "789006c46d22c4d6f0571f2080b724c429d92e64a1fc54e29814e515e717ee3f",
+    "DONE_v2.json": "2396c8c1dd30b4b78fbe27f919033dd59605e44a2fecb694c84e2444f1e86226"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_sclerocystis",
+   "target": "Sclerocystis"
+  },
+  "genus_septoglomus": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "7d6e9597f12d06440486070739b9487a3bf75eee7c85f3e75bc28b414767398a",
+    "06_evaluation/metrics.json": "b031acbdbadeb1df570da0fa27d11b23f1adf3fe2390259001da18d8bdd73f2c",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "ac9bc97d054291519b9aa3c94653d62e852974d401eee75ec92b25f5e3293f9b",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "87a869c99ad4ef1d494cdd1f33eeeab592027e2d9a02ba6da9c01722e19d6d01",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "507c7277c680deaaaca0eccbd7740ba3baa7f55a14ca4e51abf5c39be9c8285c",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "99a605641ee4ec84b624b2561f59d42117487dee3f5b7db7b1750796cb729546",
+    "06_evaluation_v2/metrics.json": "dcb59569d8991118febdad85120f9e8089fe57a2fadbc6aba795f95a3f3b7676",
+    "DONE.json": "5618683ebfd69014caea25f20d6b04a4467bbf46c50a0540de0167b5e082298b",
+    "DONE_v2.json": "2b0b2721682265feb2b8d118c1b46e2980a342fd08bc15b6423304158572c7c6"
+   },
+   "own_placement": true,
+   "rank": "genus",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/genus_septoglomus",
+   "target": "Septoglomus"
+  },
+  "species_acaulospora_morrowiae": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "4ddd65451ea5b01e62f9732cbb03d28d9f3dca82031280ce8bf54922e6358403",
+    "06_evaluation/metrics.json": "b26200196933cc405a6079bc1dbfc20f3e3b5536d73d8255cede19263538238d",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "708922f1c0a424aba17f9aad94192cb35e88e60455857f879f3011a762ec0d9a",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "129eff21e4bc734fbfb21d83e63ba7272a2af32837dbbb25cb1c1402d3ca618e",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "578860748d9c90e45c02e51443e2ba0dbe5b9e14e6a4d367a9be38626031a1ea",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "7bbb385b315ecf6e8ccf386cfcd9060530f486a712d94459a315a4aa2b42313d",
+    "06_evaluation_v2/metrics.json": "c57ad3e80c3c968abcd600ad3a335a6f86f97564961bd076464857b499039951",
+    "DONE.json": "4b98416b2dd6901f94997798c75efed164cb6c4621c98a79646d16ccd7962ba3",
+    "DONE_v2.json": "50fef7be0dcc1a9ef2c22ac9f2353635ee01e517406860688c518dfcf195c20c"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_acaulospora_morrowiae",
+   "target": "Acaulospora morrowiae"
+  },
+  "species_ambispora_callosa": {
+   "files": {
+    "06_evaluation/metrics.json": "a89596e83f88c51a491118902f09325c539d721456c660337c2aeb3a12adcdf2",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "50e65c9f957ab5bc4b1984fa7890eb1cc3f9aca7880cf6a16d53e5b19f95f9d1",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "db556c32442fb1c995f3c4f64ee2a72ea4050729338f10b3f91912a49dc4b632",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "50e65c9f957ab5bc4b1984fa7890eb1cc3f9aca7880cf6a16d53e5b19f95f9d1",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "db556c32442fb1c995f3c4f64ee2a72ea4050729338f10b3f91912a49dc4b632",
+    "06_evaluation_v2/metrics.json": "22771547e3e85e02d2f3dc4db60fa48c22767639476aabd858200b59d83e0990",
+    "DONE.json": "fce846d9d952ea850ad453d266ae448d506321ec749aafa4f0609d6f971751c5",
+    "DONE_v2.json": "24d17fbe41332f8406055ee1ca258a18fa2ac39eeb50b5c6827040037cef2527"
+   },
+   "own_placement": false,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_ambispora_callosa",
+   "target": "Ambispora callosa"
+  },
+  "species_ambispora_leptoticha": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "8c88fc956fd7cbee6cc9da22404dd2ef6ff45ff0c681d678335a618be9493cfe",
+    "06_evaluation/metrics.json": "9bac5ccdfc8279ed4048ec5929f9913cd9839a851c1dbb1d6c909bf3ea2464ff",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "d22462d0cb12e3fa9ed9c3ee9c7495725d65cb686105a83866427e9cb6b1573e",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "0b94ab374585f1235ed2b99d213ce942ebcf7cafa11917dfc163efc67cb19da1",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "c37e4b6130122f268dc6b217bf019880dbb02bd8a66723cb87cf2e511d927373",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "10a92a90a43388ce9bdffbd50f6be5ff314ac17e6a3cdfdea71b61e0af55ddca",
+    "06_evaluation_v2/metrics.json": "5d2c43a3cc8db6dd1d7ea2bedb1c386a628bb91b15f467efb699952017bba5cd",
+    "DONE.json": "1f2567013274fcbd5dd3f72ce4cdca4cad50efb94e99781f7cdd999852d85a38",
+    "DONE_v2.json": "e9b8c3c2dcd3dbd159281e4bcbb29e7f2b0d38c3ad94b355879d7650133e1ccf"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_ambispora_leptoticha",
+   "target": "Ambispora leptoticha"
+  },
+  "species_cetraspora_gilmorei": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "7ba1ab1e872fa641ebf5453177ff5659098720bcc0266bcb1243607f2ed246f7",
+    "06_evaluation/metrics.json": "f205ec4f3b5038d1186bdd61e1df6a53d21a6975d15d1049d19e99d86670ab46",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "cb1c9f58a4879a3c7c0f4c7c01a1d775bb74a716a96829f5613c124da4e3f5cf",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "40e415b5482a633598e8792bc644903aa679d353facf7410c59b4a846c4d838f",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "1d85252903703184be226b93bc349d36935a282781951ac3b935401a93c224d2",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "0968c522d6560d35ff875695bf6d6ab3a24e5c90681537b642ae44ebb1df7175",
+    "06_evaluation_v2/metrics.json": "b5010b03577c356d52632d8638778d884866acdd26ceead6172e76f3b08325c0",
+    "DONE.json": "76692f0c45c4be38571635569d58b9f82af886d1f78a3d9546cff470c5b98802",
+    "DONE_v2.json": "9d9544a537b19461cf6c69d095516b50de11bfc1396a4287ad775318d4a8030d"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_cetraspora_gilmorei",
+   "target": "Cetraspora gilmorei"
+  },
+  "species_dentiscutata_heterogama": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "3d2292563b4b9ded8037991a8cdd74e0862a4d540fce4b0117c69145a5aa119d",
+    "06_evaluation/metrics.json": "5f16e23e7f1ec309ee9a93ec7210cdc291923ec3dc4079f184c7be506fb8db7d",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "e3442c63632822052634d6bf2081d427aa82ae6964a8fbc98eed5fef16c33fd4",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "5a2a4d17fb196619ddf1bf85db4d4c12fae7b03814120d068b9a3db784131ffa",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "b50372d31a76525debb3b275079e974a28054f329f4fcc5b447bd1e3c9b972a2",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "687123a422ef37540b7f26d772f8b6ff213aaad171752b988f6868ee7bd406d0",
+    "06_evaluation_v2/metrics.json": "a885974f18f3e77aae06291e769a04f8e030e27a5fcfad3c4885de349fadb603",
+    "DONE.json": "3698ed125d95918552392392f55822ecb89aaaa7df4a3354db0af451fb79079d",
+    "DONE_v2.json": "e231427a39f070dd7f7ab9b218bc1274aa4a3010bb16a58739e200b5df4a12b9"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_dentiscutata_heterogama",
+   "target": "Dentiscutata heterogama"
+  },
+  "species_diversispora_aestuarii": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "f70af91071ce4a3b87b84cf8a6c887797d2a57af621dc95d6f3a37c15072e339",
+    "06_evaluation/metrics.json": "a285ced47a1a346c2762aa7cfbf1785e1a23943c1caffca1b59d99fa725e8ef2",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "dab6333ab5bc03b0629345578ddec3b97640be2992e75107fcb5bb71abb34aa6",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "aa80ce00036d9e383d1a121769652af54721554560fc3ccf293d1fbe915ebdcb",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "cc426f153fd304d5c4319383ca1c380d045d91d89d175f08bf4e36f45aa1f332",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "17f7088e0fd15a7d3679e4f2eb74d85a65113e78d045980d7d7c8001d4bad592",
+    "06_evaluation_v2/metrics.json": "8e41f09f0cf6a105253917b0050b08ede060d9618cd4a7bd7f5cfa0a50436342",
+    "DONE.json": "453c33ccc0a555fb5215d1f7eb21d175957b9cf87f146dd64a15d20159d3f539",
+    "DONE_v2.json": "681145aecf28fc23eae358f0c38ae70f464cd1889005261342badcc36d58e231"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_aestuarii",
+   "target": "Diversispora aestuarii"
+  },
+  "species_diversispora_arenaria": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "6fdd29f1594ca8bb44b918b242c92ae8aecbce9e21c54a85f60c9c93fdc3d24b",
+    "06_evaluation/metrics.json": "834411d40f75c0f100c68977aa06520716f679f233d8cf9155f0aefed3797d4d",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "91f947e80a326b2628416a477d47014279d5b274a0f5c152edb331375467bdb6",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "c2e9d2e9f57799337cccb722382b88546ee970e29e35f10ac6b472c6d60c2fb9",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "dd6b9187e15c32e695691ac956a9572f1c9c9717f08a50b60627f1ed1c61817b",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "1676421d0347c19c0a1f1cb58d1bd52a5298c853e8d5e6bf6db1661ab3bb188a",
+    "06_evaluation_v2/metrics.json": "d2f800f59f84f8fd18f6ae9d39ea5b9fe4d899822fbd358cfaa82bfc0b4e17b8",
+    "DONE.json": "80166fb609374ba66e4478b49a78009c19cc091071b0a9db708cd885f24946e2",
+    "DONE_v2.json": "7eeb21bfabd5a746e5a6abdf06542b7c6a419f87ffab48a9ce86a965ff7d8217"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_arenaria",
+   "target": "Diversispora arenaria"
+  },
+  "species_diversispora_celata": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "f3a8d462044d7645d9412099a09b058d6be10731200e03e1d48303bd63ff9b9a",
+    "06_evaluation/metrics.json": "9873afa1b756922980c521e678fb0e721d6e75c9d081957a78a5ddb258854e85",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "4f940dfa9df28fa0862351035004b3f908dd4ccb6da6b2d0638c78bf80f32ab7",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "a7c97606e8127b5345a33996cdecd56516b913a1142d55650b59483838e5b253",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "252d8f85b0f58f55245730b2775cc58103b7eaf00d61a50951c64411baa7d4e8",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "061f34b9a0c32dc01114b97f97de473ed5d1dbf780870038c9b30fcd9a1c88fe",
+    "06_evaluation_v2/metrics.json": "c242f5e55ab22346a2a4aa9b0aa75751397c60c1746ad46c5dea15ad21061243",
+    "DONE.json": "3acfbbfacbc48908d50f30ebf9c81f3f8e682860166198d781dc76a17f7ceac7",
+    "DONE_v2.json": "ce6d46b776035936a7cf6d7a1b98cfe0bd58cffaf2454c1d916f79f763398c20"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_celata",
+   "target": "Diversispora celata"
+  },
+  "species_diversispora_eburnea": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "77576dbf46c5fbdbc1fc88c3ba0fe0db4e024b23bbd77363aaf99b8f2eb13925",
+    "06_evaluation/metrics.json": "00fc8ce43d1ae5d29c1139283d82c5f406468cdeb7b4eb1a3b993e6b961dd43a",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "e2dd3f3853f9c1a27447b166ae373551b4acf2dd3f0cf3f20dcadf4dfefa80fa",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "17613631ca741012b8f91ae6dbae3c5648244c741f15116f7dab2ac617017ec6",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "daa740c8d9b4dbf38948dfeae4f104166b03799d1c9613cbd57a4c72de803f52",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "f00cdc97ac82d7b36272e9e0a99c70276e158503412282510648f761e6897f83",
+    "06_evaluation_v2/metrics.json": "dc7547dae17348a873b26fab2aaa9e42663c110d72be22e97fa6752d0fa10341",
+    "DONE.json": "75999c7a01075cf4e4d546b1c92f02c0167e9fd05c4e25fc0d4ff870dfd09efd",
+    "DONE_v2.json": "b214281e6304f917427ef16ff94599caa848562ebeaaf46554efa93ce4c94147"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_eburnea",
+   "target": "Diversispora eburnea"
+  },
+  "species_diversispora_epigaea": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "7f02eb736b1ed86fa99d5d36fffc698a4889a91112a02384d65d53354dfd77b6",
+    "06_evaluation/metrics.json": "7d194f306c393bd1f8dea82b773b6f3b321f71387aa5077100868e894dff5319",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "f7afe6a9560be5c713306be270acfd8f935b741b3d661f5bf971372d192f08c3",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "033735d5ecf707719054a250dab8060f5f7ac0dd916b71d1a3f8bf07d77e3337",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "5208b2f84ef6569e40741ec5f333b55431b713235ab714f387aa1a1aac3c5daf",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "af22ac8c781514c2644a5df84fdfe921b9d852e3099bdf0098a3b937fa4339a2",
+    "06_evaluation_v2/metrics.json": "317bcd5e4ee13f08bcff8f236718a8dc88d00cdf7ca969441afc5b26a9cfdb42",
+    "DONE.json": "c3e0508845b240d451b8aa46e0a96f508d3063c8574cd99abcd37d871a309563",
+    "DONE_v2.json": "1ac6d1439c84e1ffd0d653f1d16eb3de823d367b2f0b47cb9aa92510b23e5f2f"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_epigaea",
+   "target": "Diversispora epigaea"
+  },
+  "species_diversispora_jakucsiae": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "84ac618f0c1c4babf496962fadd8e5c8978b92cc7cf110b799b34577e6f13682",
+    "06_evaluation/metrics.json": "f0ced256748a070313c75ab109c3859eff3916fd3054df543e0c82dd6dcf2b44",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "e8e8537b81e5c64d534842679c03d46f78ea49d0f476b4bbfaa114ae4dcec9e5",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "412c11046a9201cd64894c798fb801874f5524ac5ee57c0e82bd863d4f8537ed",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "7a29cb9501556494565e98c67b3b96c5d7a2e8979b6d891b43af5c6216304ed8",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "bb82210dbe21ef79734c366062f8d31c72877bd6652dc8ed1aaf32998063e93e",
+    "06_evaluation_v2/metrics.json": "99eb893d276a0a4404bd043b9867bf294257bbbec474be6ad001b262aabb3e9f",
+    "DONE.json": "7586d2263bde4bbefba28faaaf4020f35910e1f1298bd44b0baaad434e9720b1",
+    "DONE_v2.json": "92d3de59ce6c35625535a4e4704567e3f7979eceebc33d523d8a52905fee5434"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_jakucsiae",
+   "target": "Diversispora jakucsiae"
+  },
+  "species_diversispora_spurca": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "4933e67caccf2d7b4f6977ab7dee131d5901e6ef75a21a111f663c7149682b08",
+    "06_evaluation/metrics.json": "f1aeb9490fbb1129af1f17bd5deec9af9de299053aabc22f45e766a01fd5abd9",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "cd826c16ecf8b81931249985d0e085dd97bf179a6bc55c59357648d8a8485799",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "56d6cf299008e8625d1b81e11c6f899440391fde2cd30048fc69016ca76bbb8e",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "a5b53f9ebf9c92e0b8b535f5f22cfb466cffccd7bf4afd5abf7b66c02dfac79b",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "a7f31a34a09664fd17c02866e61ebe4a17e72a66f94b62e79786bc164d14e65c",
+    "06_evaluation_v2/metrics.json": "e7e0af521c70298432dc3e0835b3ae69b9ef793391537980e04c85c8bca58bff",
+    "DONE.json": "a21f02a62ab002afd7128871aee22d19b5613f5adfff00308b7a642c199babbc",
+    "DONE_v2.json": "d5d827fb0ba1e9682c33f4df37b064ea1800f8a480d97f9274e9472e3a0354dc"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_spurca",
+   "target": "Diversispora spurca"
+  },
+  "species_diversispora_varaderana": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "ded77a0197f80d0ded54f1073adaaf963692ab3669fd5659ba8e10bbd136442e",
+    "06_evaluation/metrics.json": "04effd34c22ce49ea3dbe79d535bf51a5f958601ff26ac9d51cab737d4e5342e",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "cf6f1693dd6803522e08a50b25eba66f4fec5f01577bc5edf85faa50e56853c6",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "b784d95304842311dfc8ac85ed61473102f260aa6ecc2fa8f4f9a82dd753fa42",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "61519bbf2b43a050fcca3e262ab4d6ce7136d9899aee842207e236ed09dc5e59",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "886c53bdcda08360135bc189731441f1830b4f81b8607c59775f33940ad15fff",
+    "06_evaluation_v2/metrics.json": "a31b5dda54214e1011faac84720698c018c6ab60c9dc1007cce8609f63b8d5b0",
+    "DONE.json": "97d6336b51d329a153c06f2aa75da7c013ef837f21f920c466f0729a669ef9a1",
+    "DONE_v2.json": "50d793819f1cf4babfe2ee8d5b6298e65b2aafd2469dfc755d1df21d5d8d63ed"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_diversispora_varaderana",
+   "target": "Diversispora varaderana"
+  },
+  "species_dominikia_bonfanteae": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "9da294862a681cbf68ab147aa3e53da4321d8e5b38ed89494033de3f54156b7e",
+    "06_evaluation/metrics.json": "16310c0fcdf232f04170312eff2842f89a2b76110df467bf69c8d86aa8991559",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "f0667fb5b5ab443a706c2ec493d2389f0c4f3e9bbf55d56539fd597f8e91a684",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "a6284847382cd9e9c2ffed2c7dbbc7107983f3873c32e5943aa7e84f4e948a8d",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "5ed84a3ddbe00b7140b8f4b6951b2b1efa7c9529a1ebf5b58051cb3b43c1d668",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "1ef5d7f053c79b559254edad3c8ec3d87c8a0bdbdafca5a23e3f99c55f0e1cff",
+    "06_evaluation_v2/metrics.json": "9e272b442f5c625917588fda3826788483d284380a20710fd5ca206d564de9e3",
+    "DONE.json": "a2021729029d9e37d90a3bf956daf4b0daedcf8bed5efe214ccb8814402b3443",
+    "DONE_v2.json": "0166c05d29524b83f90762952b2edf0beb0dfe47a0954428e7663a31cad98588"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_dominikia_bonfanteae",
+   "target": "Dominikia bonfanteae"
+  },
+  "species_dominikia_duoreactiva": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "21282a3c4d1c13a6adfc88d24c4e7a7de1d17284dd92154aaa55cb6f92bf2c23",
+    "06_evaluation/metrics.json": "043d350a77c0d0e07502b922667ded205ac23ec37d7229a4f56895ff4413da7f",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "191412ef29c8b0db52a251c8a450933b948b823023d4020c835f972917b3f31a",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "89589e6d75d8b463cedd0abc680b5934ada7ee93bed9685c8e9718e671aac824",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "d0df77ccb70bbfccfedb9d4a7968430ede4d3f49844af0743524199b1b329d72",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "e19ef72d4120dc91e0580fc15fb29b922caa857351424a61d243f64b1ed6c36f",
+    "06_evaluation_v2/metrics.json": "901becee23be2b1526d50bcc92b33eb757b751229f550088f1ccff97784b9b2c",
+    "DONE.json": "6aa05760e8cbe9274db32784c8ce9f1fb4c80dd7d491570b91779094606e141e",
+    "DONE_v2.json": "facccd8d90b9c1225771ccc0c3497ba600c696503f312a5ffad78a002c598c6b"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_dominikia_duoreactiva",
+   "target": "Dominikia duoreactiva"
+  },
+  "species_funneliformis_caledonium": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "5fb21805b81b4b6cd11a9d08209759ad3df75048d3cd6d1c537cb24ad2190d87",
+    "06_evaluation/metrics.json": "1661b3b12f6d96ec2ee973e5d9cdaefe167b21a635e263fa2dc31eb914a5a983",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "ad571c6e5c5758ad00dd6469a9d55728dc189fed74513f9a4c14f77025b72156",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "3759064997d22aaa3834bc1a4cc61d112fff58f47bfa39ae12d2d586c653bdf7",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "de158a3deb59cfd1cafc5a2a54734b34f51aef5fd9c64ab21fe753677ac119af",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "a89b7f92b328f05dd8c13af993f8ed9bf8eaaba3519e086904d5825ee76e9593",
+    "06_evaluation_v2/metrics.json": "5c861701ffdae04cdb37ec5ff5d16eaed8858f114a8f0523233f2bf05f073051",
+    "DONE.json": "4a29370c258ad91c4bcc0f64084f5574c8842eae646752ece4a1c518966049d2",
+    "DONE_v2.json": "16ec815772d9fa89cf646fdb8d58ecc419327b2b0011e51bd30aa83e3cb8fd0e"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_funneliformis_caledonium",
+   "target": "Funneliformis caledonium"
+  },
+  "species_funneliformis_coronatus": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "c8543601e91ed1543c7d66b5866dcb7d5cd2abd5004cf172c62f7d2fb91cb544",
+    "06_evaluation/metrics.json": "25a59d05182a508e9c09aad7cc7c6b3c5175ea1f59776b3b0ce607ba6f08d141",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "eed39d0101826f0e64ecdf33e6e5b5a2f9b862e8f023ada9e0a837b1abd23b07",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "add098e43c47ebc73bd737acbf53d8a27d0fbcfb3d04d10ad0984caa8e569dd0",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "b3d31762985ba47b3fb4587f645840813f60ba312f00dffac55b9a4b344298bf",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "8df361b7d05e600144bf530a6cfa935235bc007d2d22e894b66639e2e9e1cef5",
+    "06_evaluation_v2/metrics.json": "0d263f2cf4cff6b7035ae46f2a6072104b6bf134b00f0fba6adf9579ff470f31",
+    "DONE.json": "4e2dd4477971063c3343a9e0ae447a23cb0af76edccedc947c9b0f8edc3ac595",
+    "DONE_v2.json": "5b43d4cdb9be2edcd13f8e45118426fc1645bd815fff37a84fa7ab2ae20e2cb0"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_funneliformis_coronatus",
+   "target": "Funneliformis coronatus"
+  },
+  "species_funneliformis_geosporum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "7be8f5c901775c9dc1a721bf79b4e9f30f28cba53eb96485846417e9b7934beb",
+    "06_evaluation/metrics.json": "143ccbd4eec5c79b914cd5b6f35a4e413649a75adbb1cbd85bfee86cd31bc35a",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "dd755f46b9e00722dc87f22934ae1953a6bc5c43fa1430a4405e514cb5c87cda",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1c3c3c74411f5c43e00be84ccdd3346796de5605c266628ed28a131bb96758de",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "c350752e4b2467112868c7d00df99266787d271f6b993960e3b19182019786c8",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "4354d8de7b65ba51789a9e44f1ce9b2cbc8bf3a408704aef5368df82443a871d",
+    "06_evaluation_v2/metrics.json": "ad329c3f510fa50e5888c10790197c51392f5693c39e1ff4f8892f0b13e1ee27",
+    "DONE.json": "939958072121a2bbe2a396738dc302bb0c86705b1a3818f90e721ddc2b1103c4",
+    "DONE_v2.json": "cae37f7cfc5272616e16e8f100d98f3a264bc97dc208f4bccb3696c12da74f09"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_funneliformis_geosporum",
+   "target": "Funneliformis geosporum"
+  },
+  "species_funneliformis_mosseae": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "26e91bbdd3943f3c3a13dd839fe1bf1be5af586685d74cc01ba671d62224de55",
+    "06_evaluation/metrics.json": "ec15e40fc9cd42313beecaab68674e297a7e0fa4f03ad6da1e7db5ec5206f66f",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "ac6dcc6e7d3052de8bb3bf568b54e500e459136ddad5aea525391b5efaf56e1d",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1f3446ed1be32311d877ba026f4ba4b649e1cbba1a846d9417442fab1954cb46",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "6925f65eea79af49280303bb960fbf52b1ce8aaef63933cdaaf73a9f71a3ea0f",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "47a315a4f01477e0176bfd367737cc1e3470b374b513f56bf9ccadd3902fc454",
+    "06_evaluation_v2/metrics.json": "f6b55ed5a934e1c0a403e318af8bdfad8d9e8f21fc77413deef5a2a9b9692c2e",
+    "DONE.json": "a466d6fb74d7849dfc22036182359dc625b2b344c46e050647cd257a20d501e3",
+    "DONE_v2.json": "3bd8d702726f82651ac8927ef96053be3fe1d7d979f9aaba4f7c9742d7345242"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_funneliformis_mosseae",
+   "target": "Funneliformis mosseae"
+  },
+  "species_gigaspora_rosea": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "032633713f5c6e7911b6c009877cebe9f27b3a78116bcf5389fb8ed87634f8a8",
+    "06_evaluation/metrics.json": "c90db7816b46ad2cef0dd07112d1823e8c790337ab5099e56a25632e2c7774fc",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "54209f6d96c1fcbfd4ec054d089a2aea2d1cb2a65cb5dbab6bbefad3074678c4",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "64f17f398ac5a49b2bef91a330932e39c27502a22480656c6e47eb124d68ed80",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "f00c2a2222a79e6a6e0d49d12612364de6c99de2e5860cbe8e8ee8dc09d8eed7",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "c189b0503d01338d406c497644835ee4b4a4628b8b62a4f35ab2850a7b289688",
+    "06_evaluation_v2/metrics.json": "1b7b36ba57280a3e40362b88cd54c89a88d5d0eb6c3675692d0dd07fd1ec51f3",
+    "DONE.json": "5cd3f8d442bf19eb2110c22536d2a7eeca706443284b7e4c75fd466d4d5f349a",
+    "DONE_v2.json": "9435717992cfe9a8639c337d7008ea1d6eabb68178036be5b7326a54e5e85e89"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_gigaspora_rosea",
+   "target": "Gigaspora rosea"
+  },
+  "species_glomus_chinense": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "617b99793ec6601f03a35cf33cd5012944b9c3ff0dff5ce1af3fead2b5c182cc",
+    "06_evaluation/metrics.json": "38dbf5040e34cc09e1a10e747d8293f2fd19c27aef71fe7a8149ecc6d4bf43b2",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "708734214a7ee51e8e99cb9a4d7f0d72e0340902a6263a5a782b11e67d95d15b",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "a13d565e98e8469edeebc54c16b007c00caa10e8f5c3bc270fc1170d5b5c15c3",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "2ce097e464052c9d584f4439b155034687f949ba9394d9828d3e50479ecfcf48",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "54dd46bfd66db5c76855c8e2dfcc287a533f651e4a72dae753966651ec33078f",
+    "06_evaluation_v2/metrics.json": "f675162ff97562a3545597b466e37f1349ff55bbf9c4139715b929022855eb61",
+    "DONE.json": "2eff6fe6d2ba70b25863618cd19132a6860d45c5a504b114ea2d3c5c9d791abc",
+    "DONE_v2.json": "911761922af76cbd2a763dea2a95c402614873ac38648d635774beffb95d210a"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_glomus_chinense",
+   "target": "Glomus chinense"
+  },
+  "species_glomus_macrocarpum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "84a8e6f1c742247caff179b2157282b9069cc3a7bed728a718f83c814d63b5f4",
+    "06_evaluation/metrics.json": "ef61826296fb2ed39845c654bf1911fc49ec52beaffaea8f60f0f0abb0d248c3",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "29ecf761a77a038a616fd236bcaf1c016c0b7036eed380c9fd4fa48375e8be76",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "514503cf362accec05ec671fb00754a17b41d26bc5b32776406d2e1867dee0ca",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "76fb6916e572421bcea698e0c89547448306f2e003e4e28fa6f67985d9166c0b",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "b44fb2c65119ddcc55837321908d9d3b4d4dffafe576807f1d5ba47b0e1541c2",
+    "06_evaluation_v2/metrics.json": "179fb302157fb4d1beca3d08e2ef1b506707f00d19d30a57835f6cefdfde21ca",
+    "DONE.json": "c844070600d6968092197be875a657a90239b2ea33d25c1f35299a7052bcd7d3",
+    "DONE_v2.json": "12e5f01bc301a78449b9fd9aad57e618070e1c86b4ac70f1beaa2500405ee7fe"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_glomus_macrocarpum",
+   "target": "Glomus macrocarpum"
+  },
+  "species_glomus_rugosae": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "67f985e3d14f431b3b8df2c2c0e2c0d7988f14601eb3033f1a835d930abeb288",
+    "06_evaluation/metrics.json": "878de9a9dd449400eaf2735fb825c3277c0fb68fbec66ef8ce938f2e778fec24",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "59ab083f23e382eff2baadde2e00360b68f456900030ad1a3027ffc6c871565a",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "4066f4dc8b4145d1faee1526cd23c37404215acadc8b7af1ed8e0e3b7829929c",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "481b1ce08ecaefa8b45a83e23e3be226a5d4c80e32490ccacd6a8dd192fe51fd",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "17a3546201d5f000b4ebf98fa10c16bf40204a75891c98aaca1f22608884b75b",
+    "06_evaluation_v2/metrics.json": "2035e52a84df857a6f2f9c3bbe732577e6485e2eadd36d4311dc85f7637ef7ea",
+    "DONE.json": "1d4873ea0078a5442bf68505070029d803b0a0ecf4169416db40e76b5ffe05ae",
+    "DONE_v2.json": "97448989d558788c13dd8e8469a719db116677eec0bdb43e8fb1cccffdeefbe5"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_glomus_rugosae",
+   "target": "Glomus rugosae"
+  },
+  "species_glomus_tetrastratosum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "c2280ec14ecf5de034506b9eb12b81504d1c383f0c7609751ca925218098fced",
+    "06_evaluation/metrics.json": "2df8df403c40e8537bb20518cd42d645538829c26dc721b9e16cb114138026ff",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "a8d56ba1804ad61f78d490e2a70de77e3a99d14a14e4734ea9c6f16dc8b2fa33",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "31c4eaef2e816470ce24a6892ac05456e9eca43dcb24c950c2b1501a58bf07ef",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "d97bd2af65d20d4198e59bf6662a23dc39876ceb55398b9eb7eef40809610ff4",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "6b0f6496afeac8776e7aaafcb3bfe4dcaf5ffe832151b430048db11781abd1a3",
+    "06_evaluation_v2/metrics.json": "39c2b6be7136cd00bd27b12a1a3f82d05830f382ad4a2442d3498403d45b8a34",
+    "DONE.json": "8ccd35f483a62cfea4d9c060831f6184bfe8bf13cfb59b87a339c9199580ecb9",
+    "DONE_v2.json": "f248a77ef0fbee7251468e51db2dae730c32c8dd7f40ab68ddf3ff058a44aa41"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_glomus_tetrastratosum",
+   "target": "Glomus tetrastratosum"
+  },
+  "species_microdominikia_litorea": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "632b0c8c3eb234f28386274b8d108137a8e97e8e0a40d2ff4c74dda6f3adf71d",
+    "06_evaluation/metrics.json": "76b892b3e707a665f8fd8887c9dd456fdbece98d61beadad69623da0b72420bc",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "6431fd3837408945a27e515fd63cf2eac445bdaa999262a94c2aa50dc210b68b",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "4f43c3891a14a17737553b58ef7def2b1bc2e42099f2a5add35e402e9a28ac7a",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "dafed84d1186a5058347129d25b2819224b3d3caf7e8bb669d8e18911308a10d",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "2665e68cdff567ba789a33839d370c0be250e64857a4afd4e16245a5f880c3e0",
+    "06_evaluation_v2/metrics.json": "4c508ec7e3c7cff0539ab86f58217cc2b602d62759213aa088120ee680842849",
+    "DONE.json": "9b74e1d3c93bde05746d2273f82f05f447ceb5284fa7fde416cf90080925766e",
+    "DONE_v2.json": "f39353a767c1e296d538d1e3dc3b03a72bc151aeada236162532e20ca13e88d8"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_microdominikia_litorea",
+   "target": "Microdominikia litorea"
+  },
+  "species_oehlia_diaphana": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "6ea2376afba7381c2cb9f23eaa99fe8c24d47ba0a78d481ee825258f36037ad4",
+    "06_evaluation/metrics.json": "92a2be867a1b49fa8bb8df8d399537ab4f2f98741eb86876b57b1c3f08ba288d",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "412031824df3a81f99668ebfae7e2b9c392c9f3f9b1bd99ffcb553b27b032bd2",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1ee53387e048d7cfeda131104ead5aa1d5058fa8cee2b1bd1debb30f7cd2a602",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "1faff8e094e770c105e7b1f69fad0313d200c7b807cb3457546195a1c6062cf0",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "d290a1b42ae1ac7804151e32dd6a692887a0e7b22a214187318e7d9680216613",
+    "06_evaluation_v2/metrics.json": "bfdf792ed6d5c59fc512bff2a253cfd96a1d133c9b0447d8078e9c28626a3675",
+    "DONE.json": "6f464d99e7ea2118c6d6c2b44921254f7aa32ee229d4389a6c5c963471fbfd3c",
+    "DONE_v2.json": "e709ac4516b7c70e870152e124441b711f952a35b271e7da874135dcaed22966"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_oehlia_diaphana",
+   "target": "Oehlia diaphana"
+  },
+  "species_paraglomus_brasilianum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "b64cc4905990b808767ec4e196f7ea5e1a80de4df839979f4a214f8309d644d6",
+    "06_evaluation/metrics.json": "922d04dd0a1100b407a12d0a2fce15f6215ff9429dd5048259ec0db8268e1be3",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "4648c4827304bc24c641d5db6365bcb1f3737385748b8579748dd70e7fd1ed32",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1028c5c537c6e10c74807380930d23677d34993866a355bf093434850cf8126d",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "8fe10e7f690852ce45fb97d3f38bd260adab502a5ab9d244803c31a4e3dc0eac",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "bbf75d6e46b48d422ec32a2c434c27393701eadcff9103cc0d4123deb5c3a0a1",
+    "06_evaluation_v2/metrics.json": "9f2fd820c5a231bdcf3f98e9869c4cdada48343b1b2ee6b02898a9417a5d346c",
+    "DONE.json": "a3207b5f1d6a6ad556b083605cd74f6abe8da4b1564faa8655c26ad7d4422cfe",
+    "DONE_v2.json": "3ff1d0d416d2a42f1428bd09ff2f3c3d4123246ac2ffb450b2c68ff4482329a1"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_paraglomus_brasilianum",
+   "target": "Paraglomus brasilianum"
+  },
+  "species_paraglomus_laccatum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "d96b36229c523ce6a6ff05872907829d67118da0f444d8f77cdc257318635c68",
+    "06_evaluation/metrics.json": "0d354359d01bba7db79d9dfa431acae838c606f4a49233539a4074bf9a2007fd",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "3ec3c2bda4ac9351edc1e1b08bdd8dcc8002bfb10a2c7fa3c3c1f6ba15ea50eb",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "cf3cbdbd25c7c71f3980619d26a7c147a340e0fa07dd443b1dbb0ed5a20e2e48",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "93059b7293393623c2272b8ba42381e44c14210e56cec05518c37b95afb1b1e2",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "bf673a435479f232d7ef6f2f0eb9431b3f682a3c787bded9890ff8815117d8e0",
+    "06_evaluation_v2/metrics.json": "ab899818be9bd9e3c8d4cd81c8b4238748129dc2e64974e116500326f2a03cfb",
+    "DONE.json": "8767f0aea03531462de4046c353172e15d9e0de719b92ab27fa110054afc337a",
+    "DONE_v2.json": "fa353cb233df4ebec0d66e7885fe2c55e466c5439934d3ba430bade95ba1abec"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_paraglomus_laccatum",
+   "target": "Paraglomus laccatum"
+  },
+  "species_rhizoglomus_vesiculiferum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "af1239eccfc1e248ffdb90bb0380367ec98f58e11ce09e586c2fb2e32c7b9c13",
+    "06_evaluation/metrics.json": "26840721d7983f414242cbe6a3f7d4edafb1aba3aab2a63f3916f605134fc31b",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "4326dee4dca8e175a87bc48835e2dd437132ee84626dba8ffdf9dd87f1778297",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "b64d4b2a7faa29d6595accc13fdd31b662cda8c619599c524d4654bf84dedfd9",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "8f7978fc4410d7712456c657d1c0b61b98a335a3b5b509ae4fc942615c0864de",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "dbd2917a5e33d486a97d16e93b67d2300412de029731ee71025438702ba5f620",
+    "06_evaluation_v2/metrics.json": "96c6e31ffa7dfb4d028b2fbc8e7660b439d7a9617e89c69520d374a0981a9c08",
+    "DONE.json": "4e8bc40d9a3bafc72b94661ad03cfac0cf2d228a1fdf0baf1fa191bede6a8eca",
+    "DONE_v2.json": "fa41949bda0e378fd9cf08a226be4682223fe566e9fd0764790182d073d30d94"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_rhizoglomus_vesiculiferum",
+   "target": "[Rhizoglomus] vesiculiferum"
+  },
+  "species_rhizophagus_intraradices": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "9139741adfb26ef8378ae98d368f7c84e859842bd532121add637ee1256e5192",
+    "06_evaluation/metrics.json": "cf01df4d8e55798342238491bc7330429b969ee87f9f858a3b67896f30f18b9b",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "149dc6fb98148cfd6b4239d57447806ee836d0b2b24f01580e17108955ba5a11",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1b958f7c3d1dea88b494f4ea5618f419ac933dcb8e17d1aa11fe336b26157d34",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "b2ed49c1b0d5e3425f730c24d19bc270192de13bcda26dbc9a90228b161b182e",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "89fd290cabe06143d401faca23fa98cc628f5164d4525984b52d47182da868bf",
+    "06_evaluation_v2/metrics.json": "d2e5d433fa9f962d1279b046df9005703558d9af2fead999fcd868fe766b7abc",
+    "DONE.json": "d492c9139565115c784e9641976e288e0d15c20764a9ca889c9d595916d58e25",
+    "DONE_v2.json": "8d974e4cb9b27a4f14eff7b4719e4515ea033e2e830ddc55b4f143d0b36e45df"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_rhizophagus_intraradices",
+   "target": "Rhizophagus intraradices"
+  },
+  "species_rhizophagus_irregularis": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "9fe8f813638b1e696dee67b51cabb75e9529e9f463d8cb0d7be5d061f85ced0d",
+    "06_evaluation/metrics.json": "5dcf37a7f80d8f5a323f6d37cff8b223f054656401d9af175e6d2a4752a7326e",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "e793357a740473d95d52710346f15fddb5999d6bd2c9286f2b2a0234989875e1",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "2d530f431d4ee06fcced89b1ce67a684fae4ac31a988331ec3698450a596df67",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "da3ee215a0bb465f60ab1454dfa783a0f01352ce7ff67c3a294e71bc2554c265",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "0cf72bc3677ca00f29343522a929337c6026354ab5a5da0800589fc028240f78",
+    "06_evaluation_v2/metrics.json": "e1f11f52914b8795819e643ba61b68a72d42d32c84867a9dbcf916b517fc6454",
+    "DONE.json": "71237d1db004e63c7090eadd912069791b7cc6c5241945ac66cf8642137bd6a3",
+    "DONE_v2.json": "d7a433230146705387560097d01906e1443d0da67f44e5720c73a7fc35fe55e6"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_rhizophagus_irregularis",
+   "target": "Rhizophagus irregularis"
+  },
+  "species_rhizophagus_prolifer": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "9ed639fe2a2fae4e59041edcf66187b1a66dcaecb012fe6af2b4ead340aee58e",
+    "06_evaluation/metrics.json": "146f66fbaf46476474bb710f71b30d854d87e98043ce59c6e932621e8d98ecb4",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "a0959c700b51107afd270dd536aa682ee2b3215e5e5e793b3f1ca1c31df98992",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "1f4d8a81be1ad84ace62640637f319f8e6345ba599c333e2ffb22b1cb7a007f9",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "887e56cbb2e6ef28c0fa17f1f8008f9cde2ea09166090702faa25e34259a7d8d",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "3df8f03c6bc440a6a64a35b8dadbfb5ded8ca5fc4a40c6b2454fa5c0fb24bf23",
+    "06_evaluation_v2/metrics.json": "afdbf30986b7ee4d785d8310cee87ce104b9fb3efed5a3dd74ba638177359aa4",
+    "DONE.json": "d5754561d3f57dca6d5b01b085428d15d94703d810e540563a2ff52be1bffbb9",
+    "DONE_v2.json": "8544af0ca00430c1da545a5284aa7bbd0b0323a775b1f4c29349f2dd515a152a"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_rhizophagus_prolifer",
+   "target": "Rhizophagus prolifer"
+  },
+  "species_rhizophagus_silesianus": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "df0058e1004fbc10b717a6c0a239013bb20f5299f48e40eb67850039dc93d4c5",
+    "06_evaluation/metrics.json": "82b04774423e083b152d64b7b44bfb0cc842821812dc2eeef709defaf81734c8",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "f01045314c467b6586548f84ea8c81cef320d88ade9e93a5b43912677254ef98",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "bd3c0701b8a06c3d98343f10140098c2d147b940e2eb2480cd89fee38fc9260d",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "a1de656f29b13d9427bad2bd901611454bbdcb1a2f5a8b0aaab2773a95bc1ce8",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "46ec709ac5602d496a185765a35788fe3128ce1457643f4ec5504daaf10cf489",
+    "06_evaluation_v2/metrics.json": "7ae12b3171f4f2c10155a0a20ec1459049ad047a94204a84a7ee6bc068da1dc3",
+    "DONE.json": "cb8f6ad6fa57bd1b9394fe8fdd9d8be93bd892065c15e4a8951d45596644fe8e",
+    "DONE_v2.json": "1baabc3e525ec28701f95bb4f10805ad29ed6727177655247e7fb039de32db40"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_rhizophagus_silesianus",
+   "target": "Rhizophagus silesianus"
+  },
+  "species_sclerocystis_sinuosa": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "c08f7134f0b6ac6db8fb19e9f98c392c0213c696109f1ad09be7a337293dae10",
+    "06_evaluation/metrics.json": "81a7d317b70bd11fcc694a6ab059207362c2a4588914e561249fd9904d430205",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "5843efc1f1db69797f8f7c4cb7eab93190013cd3c4211666d6d375899f83213a",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "58d78e103e2e47bd5b120b4d70ca0b56a4ee6ddcb829f38231d90e1667889239",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "818554718bd8e75c8447a751359c837590d509bd02c753ad7dd0ffc7ce515da0",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "24361b8ecc2f4e9eb2c493c6fde1dbdd288178fa5f73af6ca3d6d969d1ac7399",
+    "06_evaluation_v2/metrics.json": "2a31da10aeb47904339bfc47bac91726b0f503b006fb9dc464b1d9e3217cabc0",
+    "DONE.json": "2eb262f99d9e83b1624825495b7ff6bb5089f344fdd45fd579d529bc579b8430",
+    "DONE_v2.json": "b7764e4e37925638b96244baf574a3926b6225ae8b14f0e2d6a3ebf8b2ed2bf8"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_sclerocystis_sinuosa",
+   "target": "Sclerocystis sinuosa"
+  },
+  "species_septoglomus_africanum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "1471c411d67099f2265c7b9ed9bf5cc4e0ad91bf297334610e1b95bda4a23cb8",
+    "06_evaluation/metrics.json": "50f232a201c4e199da4d53bd5f759eb24c0ced51ee82254baa78a8ec3dec2e50",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "e0bddc24ccc7995a4b733ebcc5f7c3eb4a14c0ae41786da215978af9c19c05e9",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "3ea20bbb516f827ccc29e7251f8067bb281d51fde2bf71be88caeea26e18e31a",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "acad5eaeec1609d150dd11563b9513f3d3141a8f3a34e530fb3e92e6a177ad6e",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "100de57783f79dc28e47e38dba89c445445d5c43a51c9af1c907095faa0ab2d3",
+    "06_evaluation_v2/metrics.json": "af7ba266aed4325bfcac67114823e113446a3275b7a945564c624055bee717b2",
+    "DONE.json": "db3ee299cdb1e1a6501b85ed9cde18901f79fd1a7a16728b402530308d055cb4",
+    "DONE_v2.json": "7205f53bda7fc7e614496510ff96226e7977d3210d7dc36b3ce4abf6dc50a024"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_septoglomus_africanum",
+   "target": "Septoglomus africanum"
+  },
+  "species_septoglomus_turnauae": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "78451452d894c8c2c9f62b966f432f80c030bef6704c880c72d7c0d99770c1c2",
+    "06_evaluation/metrics.json": "a126671410fb5c524de1317cb040291993ac6c48d2bc1de8d8226e870554eccc",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "8b417d8e5fb9bf4d391a91285886216f2958d438ea53557304f6e258a6976c26",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "6c56c933769249c358104e15841dbfed19067f40af558e943eeaa1fdc847eb4c",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "f2a5bdf00f1d56f9dfa8361436a67d9a678f2a71261219bd372c43e9a618ce50",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "f56e9c1ebe896bda6444b8a10f5ed9701d9c1714db02ad1d38042458d33b9462",
+    "06_evaluation_v2/metrics.json": "80a56a36c73fb47a8d762629b55180f28ab9a21e1ec33a413537d92e5dd0d698",
+    "DONE.json": "59d80fd463385943218f11442cb56c52c335ae579a637008c3c701ee610a0add",
+    "DONE_v2.json": "9b8075ca96d7693d300abd2a2a52b93e3873a72438a3744854bcf60eda60409b"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_septoglomus_turnauae",
+   "target": "Septoglomus turnauae"
+  },
+  "species_septoglomus_viscosum": {
+   "files": {
+    "05_summary/lsu_placements.copies.tsv": "f4f61aacc603d00ac3dcc1e5b7d34080d749b7d3a85a5d71563cba9e7f4546fd",
+    "06_evaluation/metrics.json": "996b692b9db1aac4238f7c45a84d698e8f0ebf99d977c5c7cdc87162b575f8f1",
+    "06_evaluation_v2/external_holdout_v1.copies.tsv": "802ba0fe40ac0be417e8ade486d158c36ae7ede04f5ae3886c544ca271f047dd",
+    "06_evaluation_v2/external_holdout_v2.copies.tsv": "e5832a4e41ee73beeb1786bf33be69fb4eafc846bbfa986a8c3216996f324f3a",
+    "06_evaluation_v2/full_reference_v1.copies.tsv": "b690a32a244a10f37ecadadbe24c60e2d414cea5e23d6be0ef376c9528164d24",
+    "06_evaluation_v2/full_reference_v2.copies.tsv": "268505cf65381eb833443464c134c6d5b6212769ac9e31528969272be1915a8e",
+    "06_evaluation_v2/metrics.json": "e1c3143c071ed369643269c2faaa52f94a075deb641f67ca10a14591301cc633",
+    "DONE.json": "e04af2477ce54732fe038f2ae8766ae34a4ca6d2d7970933c259bf1995fc1bb9",
+    "DONE_v2.json": "8b55d00ca8ebbe984d01b0a644eec50b16cae7270788815efa43d24f34b1900e"
+   },
+   "own_placement": true,
+   "rank": "species",
+   "source": "/home/csb/Downloads/AMF_test/amf_m4_step1/runs/species_septoglomus_viscosum",
+   "target": "Septoglomus viscosum"
+  }
+ },
+ "source_runs": [
+  "/home/csb/Downloads/AMF_test/amf_m4_step1/runs"
+ ]
+}

@@ -1,0 +1,194 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 56,
+      "genus_compatible": 56,
+      "genus_wrong": 0,
+      "n": 56
+    },
+    "artifacts": 0,
+    "copies": 70,
+    "false_known": 19,
+    "false_known_culture_macro": 0.32954545454545453,
+    "false_known_species_macro": 0.3392857142857143,
+    "held_n": 56,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 1,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 14,
+    "short_recognised": 14,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "divergent class": 14
+      },
+      "named, species held out": {
+        "divergent class": 1,
+        "known species": 19,
+        "novel species, genus known": 36
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 56,
+      "genus_compatible": 56,
+      "genus_wrong": 0,
+      "n": 56
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 56,
+      "genus_compatible": 56,
+      "genus_wrong": 0,
+      "n": 56
+    },
+    "artifacts": 0,
+    "copies": 70,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 56,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 1,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 14,
+    "short_recognised": 14,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "divergent class": 14
+      },
+      "named, species held out": {
+        "divergent class": 1,
+        "novel species, genus known": 55
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 56,
+      "genus_compatible": 56,
+      "genus_wrong": 0,
+      "n": 56
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Rhizophagus irregularis"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Rhizophagus irregularis | 4292_708C",
+      "Rhizophagus irregularis | 4341_IVT72A",
+      "Rhizophagus irregularis | 4348_IVT77A",
+      "Rhizophagus irregularis | 4375_IVT88A",
+      "Rhizophagus irregularis | 4569_1185B",
+      "Rhizophagus irregularis | 4674_1184D",
+      "Rhizophagus irregularis | CC4_4A_IVT7A",
+      "Rhizophagus irregularis | DAOMC 197198",
+      "Rhizophagus irregularis | GC-2_IVT11",
+      "Rhizophagus irregularis | SD1_IVT29A",
+      "Rhizophagus irregularis | T3_IVT34A"
+    ],
+    "key": "species_rhizophagus_irregularis",
+    "named_main_queries": 56,
+    "query_ids": [
+      "PX207162.1",
+      "PX207163.1",
+      "PX207164.1",
+      "PX207165.1",
+      "PX207166.1",
+      "PX207167.1",
+      "PX207168.1",
+      "PX207169.1",
+      "PX207170.1",
+      "PX207171.1",
+      "PX207172.1",
+      "PX207173.1",
+      "PX207174.1",
+      "PX207175.1",
+      "PX207176.1",
+      "PX207177.1",
+      "PX207178.1",
+      "PX207179.1",
+      "PX207180.1",
+      "PX207181.1",
+      "PX207182.1",
+      "PX207183.1",
+      "PX207184.1",
+      "PX207185.1",
+      "PX207186.1",
+      "PX207187.1",
+      "PX207188.1",
+      "PX207189.1",
+      "PX214776.1",
+      "PX214777.1",
+      "PX214778.1",
+      "PX214779.1",
+      "PX214780.1",
+      "PX214781.1",
+      "PX214782.1",
+      "PX214783.1",
+      "PX214784.1",
+      "PX214785.1",
+      "PX214786.1",
+      "PX214787.1",
+      "PX214788.1",
+      "PX214789.1",
+      "PX214790.1",
+      "PX214791.1",
+      "PX214792.1",
+      "PX214793.1",
+      "PX214794.1",
+      "PX214795.1",
+      "PX214796.1",
+      "PX214797.1",
+      "PX214798.1",
+      "PX214799.1",
+      "PX214800.1",
+      "PX214801.1",
+      "PX214802.1",
+      "PX214803.1",
+      "PX214804.1",
+      "PX214805.1",
+      "PX214806.1",
+      "PX214807.1",
+      "PX214808.1",
+      "PX214809.1",
+      "PX214810.1",
+      "PX214811.1",
+      "PX214812.1",
+      "PX214813.1",
+      "PX214814.1",
+      "PX214815.1",
+      "PX214817.1",
+      "PX214841.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0385",
+      "R0386"
+    ],
+    "short_queries": 14,
+    "target": "Rhizophagus irregularis"
+  }
+}

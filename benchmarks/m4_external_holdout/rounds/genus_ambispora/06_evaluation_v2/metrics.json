@@ -1,0 +1,228 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "artifacts": 0,
+    "copies": 30,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 30,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 30
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "artifacts": 0,
+    "copies": 30,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 30,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 30
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "artifacts": 0,
+    "copies": 30,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 30,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 30
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "artifacts": 0,
+    "copies": 30,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 30,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 30
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 30
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 725,
+  "its_threshold_pct": 5.996541019955654,
+  "plan": {
+    "external_labels": [
+      "Ambispora fennica",
+      "Ambispora gerdemannii",
+      "Ambispora leptoticha"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Ambispora callosa | JA116_2012B",
+      "Ambispora callosa | MAFF520057_2499A",
+      "Ambispora callosa | MAFF520084_2504A",
+      "Ambispora leptoticha | MAFF520090_2501A",
+      "Ambispora leptoticha | ON205A"
+    ],
+    "key": "genus_ambispora",
+    "named_main_queries": 30,
+    "query_ids": [
+      "PX207101.1",
+      "PX207102.1",
+      "PX207103.1",
+      "PX207104.1",
+      "PX207105.1",
+      "PX207106.1",
+      "PX215118.1",
+      "PX215119.1",
+      "PX215120.1",
+      "PX215121.1",
+      "PX215122.1",
+      "PX215123.1",
+      "PX215124.1",
+      "PX215125.1",
+      "PX215126.1",
+      "PX215127.1",
+      "PX215128.1",
+      "PX215129.1",
+      "PX215130.1",
+      "PX215131.1",
+      "PX215132.1",
+      "PX215133.1",
+      "PX215134.1",
+      "PX215135.1",
+      "PX215136.1",
+      "PX215137.1",
+      "PX215138.1",
+      "PX215139.1",
+      "PX215140.1",
+      "PX215141.1"
+    ],
+    "rank": "genus",
+    "removed_ref_ids": [
+      "R0303",
+      "R0304",
+      "R0305",
+      "R0306",
+      "R0454",
+      "R0455"
+    ],
+    "short_queries": 0,
+    "target": "Ambispora"
+  }
+}

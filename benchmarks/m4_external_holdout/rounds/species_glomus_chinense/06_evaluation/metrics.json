@@ -1,0 +1,145 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 35,
+      "genus_compatible": 35,
+      "genus_wrong": 0,
+      "n": 35
+    },
+    "artifacts": 0,
+    "copies": 35,
+    "false_known": 28,
+    "false_known_culture_macro": 0.75,
+    "false_known_species_macro": 0.8,
+    "held_n": 35,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 28,
+        "novel species, genus known": 7
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 35,
+      "genus_compatible": 35,
+      "genus_wrong": 0,
+      "n": 35
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 35,
+      "genus_compatible": 35,
+      "genus_wrong": 0,
+      "n": 35
+    },
+    "artifacts": 0,
+    "copies": 35,
+    "false_known": 28,
+    "false_known_culture_macro": 0.75,
+    "false_known_species_macro": 0.8,
+    "held_n": 35,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 28,
+        "novel species, genus known": 7
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 35,
+      "genus_compatible": 35,
+      "genus_wrong": 0,
+      "n": 35
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Glomus chinense"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Glomus chinense | 4036_906B",
+      "Glomus chinense | 4411_1096D",
+      "Glomus chinense | 4419_1047A",
+      "Glomus chinense | 4650_4654_2007C"
+    ],
+    "key": "species_glomus_chinense",
+    "named_main_queries": 35,
+    "query_ids": [
+      "PX214629.1",
+      "PX214630.1",
+      "PX214631.1",
+      "PX214632.1",
+      "PX214633.1",
+      "PX214634.1",
+      "PX214635.1",
+      "PX214636.1",
+      "PX214637.1",
+      "PX214638.1",
+      "PX214639.1",
+      "PX214640.1",
+      "PX214641.1",
+      "PX214642.1",
+      "PX214643.1",
+      "PX214644.1",
+      "PX214645.1",
+      "PX214646.1",
+      "PX214647.1",
+      "PX214648.1",
+      "PX214649.1",
+      "PX214650.1",
+      "PX214651.1",
+      "PX214652.1",
+      "PX214653.1",
+      "PX214654.1",
+      "PX214655.1",
+      "PX214656.1",
+      "PX214657.1",
+      "PX214658.1",
+      "PX214659.1",
+      "PX214660.1",
+      "PX214661.1",
+      "PX214662.1",
+      "PX214663.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0136",
+      "R0137"
+    ],
+    "short_queries": 0,
+    "target": "Glomus chinense"
+  }
+}

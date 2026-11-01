@@ -1,0 +1,109 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 4,
+      "genus_compatible": 4,
+      "genus_wrong": 0,
+      "n": 4
+    },
+    "artifacts": 0,
+    "copies": 4,
+    "false_known": 4,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 4,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 4
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 4,
+      "genus_compatible": 4,
+      "genus_wrong": 0,
+      "n": 4
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 4,
+      "genus_compatible": 4,
+      "genus_wrong": 0,
+      "n": 4
+    },
+    "artifacts": 0,
+    "copies": 4,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 4,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 4
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 4,
+      "genus_compatible": 4,
+      "genus_wrong": 0,
+      "n": 4
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Diversispora jakucsiae"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Diversispora jakucsiae | Blasz_11_2271A"
+    ],
+    "key": "species_diversispora_jakucsiae",
+    "named_main_queries": 4,
+    "query_ids": [
+      "PX214934.1",
+      "PX214935.1",
+      "PX214936.1",
+      "PX214937.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0271",
+      "R0272"
+    ],
+    "short_queries": 0,
+    "target": "Diversispora jakucsiae"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    },
+    "artifacts": 0,
+    "copies": 13,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 13,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 13
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    },
+    "artifacts": 0,
+    "copies": 13,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 13,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 13
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    },
+    "artifacts": 0,
+    "copies": 13,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 13,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 13
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    },
+    "artifacts": 0,
+    "copies": 13,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 13,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 13
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 13,
+      "genus_compatible": 13,
+      "genus_wrong": 0,
+      "n": 13
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 742,
+  "its_threshold_pct": 5.994279379157429,
+  "plan": {
+    "external_labels": [
+      "Diversispora epigaea"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Diversispora epigaea | BEG47_1140C",
+      "Diversispora epigaea | FS16_2427A"
+    ],
+    "key": "species_diversispora_epigaea",
+    "named_main_queries": 13,
+    "query_ids": [
+      "PX214942.1",
+      "PX214943.1",
+      "PX214944.1",
+      "PX214945.1",
+      "PX214946.1",
+      "PX214947.1",
+      "PX214948.1",
+      "PX214949.1",
+      "PX214950.1",
+      "PX214951.1",
+      "PX214952.1",
+      "PX214953.1",
+      "PX214954.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0268",
+      "R0442"
+    ],
+    "short_queries": 0,
+    "target": "Diversispora epigaea"
+  }
+}

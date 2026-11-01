@@ -1,0 +1,121 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 10,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 4,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "novel lineage": 4
+      },
+      "named, species held out": {
+        "novel species, genus known": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 10,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 4,
+    "short_recognised": 0,
+    "statuses": {
+      "divergent (short_5.8S)": {
+        "novel lineage": 4
+      },
+      "named, species held out": {
+        "novel lineage": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 6
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Rhizophagus proliferus"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Rhizophagus prolifer | SD5_IVT32"
+    ],
+    "key": "species_rhizophagus_prolifer",
+    "named_main_queries": 6,
+    "query_ids": [
+      "PX207190.1",
+      "PX207191.1",
+      "PX207192.1",
+      "PX207193.1",
+      "PX207206.1",
+      "PX207207.1",
+      "PX207208.1",
+      "PX207209.1",
+      "PX207210.1",
+      "PX207211.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0086",
+      "R0087"
+    ],
+    "short_queries": 4,
+    "target": "Rhizophagus prolifer"
+  }
+}

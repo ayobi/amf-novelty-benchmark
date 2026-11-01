@@ -1,0 +1,204 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 15,
+      "genus_compatible": 15,
+      "genus_wrong": 0,
+      "n": 15
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 740,
+  "its_threshold_pct": 5.994545454545455,
+  "plan": {
+    "external_labels": [
+      "Diversispora eburnea"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Diversispora eburnea | AZ414A_356A",
+      "Diversispora eburnea | FS_12_2334B"
+    ],
+    "key": "species_diversispora_eburnea",
+    "named_main_queries": 15,
+    "query_ids": [
+      "PX214909.1",
+      "PX214910.1",
+      "PX214911.1",
+      "PX214912.1",
+      "PX214913.1",
+      "PX214914.1",
+      "PX214915.1",
+      "PX214916.1",
+      "PX214917.1",
+      "PX214918.1",
+      "PX214919.1",
+      "PX214920.1",
+      "PX214921.1",
+      "PX214922.1",
+      "PX214923.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0267",
+      "R0441"
+    ],
+    "short_queries": 0,
+    "target": "Diversispora eburnea"
+  }
+}

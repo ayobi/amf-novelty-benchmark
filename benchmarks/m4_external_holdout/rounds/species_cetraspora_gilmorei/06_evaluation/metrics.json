@@ -1,0 +1,173 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 60
+    },
+    "artifacts": 0,
+    "copies": 60,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 60,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 60
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 60
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 60
+    },
+    "artifacts": 0,
+    "copies": 60,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 60,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 60
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 60
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Cetraspora gilmorei"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Cetraspora gilmorei | 4385",
+      "Cetraspora gilmorei | 4397_453A",
+      "Cetraspora gilmorei | 4398_831C",
+      "Cetraspora gilmorei | 4414_1105C",
+      "Cetraspora gilmorei | 4419_860D",
+      "Cetraspora gilmorei | 4430_2047A",
+      "Cetraspora gilmorei | 4436_787A",
+      "Cetraspora gilmorei | CW0008_2669B",
+      "Cetraspora gilmorei | CW0008_4007A"
+    ],
+    "key": "species_cetraspora_gilmorei",
+    "named_main_queries": 60,
+    "query_ids": [
+      "PX207118.1",
+      "PX207119.1",
+      "PX207120.1",
+      "PX207121.1",
+      "PX207122.1",
+      "PX207123.1",
+      "PX207124.1",
+      "PX207125.1",
+      "PX207126.1",
+      "PX207127.1",
+      "PX215023.1",
+      "PX215024.1",
+      "PX215025.1",
+      "PX215026.1",
+      "PX215027.1",
+      "PX215028.1",
+      "PX215029.1",
+      "PX215030.1",
+      "PX215031.1",
+      "PX215032.1",
+      "PX215033.1",
+      "PX215034.1",
+      "PX215035.1",
+      "PX215036.1",
+      "PX215037.1",
+      "PX215038.1",
+      "PX215039.1",
+      "PX215040.1",
+      "PX215041.1",
+      "PX215042.1",
+      "PX215043.1",
+      "PX215044.1",
+      "PX215045.1",
+      "PX215046.1",
+      "PX215047.1",
+      "PX215048.1",
+      "PX215049.1",
+      "PX215050.1",
+      "PX215051.1",
+      "PX215052.1",
+      "PX215053.1",
+      "PX215054.1",
+      "PX215055.1",
+      "PX215056.1",
+      "PX215057.1",
+      "PX215058.1",
+      "PX215059.1",
+      "PX215060.1",
+      "PX215061.1",
+      "PX215062.1",
+      "PX215063.1",
+      "PX215064.1",
+      "PX215065.1",
+      "PX215066.1",
+      "PX215067.1",
+      "PX215068.1",
+      "PX215069.1",
+      "PX215070.1",
+      "PX215071.1",
+      "PX215072.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0166",
+      "R0167"
+    ],
+    "short_queries": 0,
+    "target": "Cetraspora gilmorei"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 6,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    },
+    "artifacts": 0,
+    "copies": 6,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 6,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 6
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 6,
+      "genus_compatible": 6,
+      "genus_wrong": 0,
+      "n": 6
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 749,
+  "its_threshold_pct": 5.993348115299334,
+  "plan": {
+    "external_labels": [
+      "Septoglomus africanum"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Septoglomus africanum | Blasz_17_2277A",
+      "Septoglomus africanum | SO43BL",
+      "Septoglomus sp. | Blasz_17_2277A",
+      "Septoglomus sp. | SO43BL"
+    ],
+    "key": "species_septoglomus_africanum",
+    "named_main_queries": 6,
+    "query_ids": [
+      "PX214609.1",
+      "PX214610.1",
+      "PX214611.1",
+      "PX214612.1",
+      "PX214613.1",
+      "PX214614.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0044",
+      "R0045"
+    ],
+    "short_queries": 0,
+    "target": "Septoglomus africanum"
+  }
+}

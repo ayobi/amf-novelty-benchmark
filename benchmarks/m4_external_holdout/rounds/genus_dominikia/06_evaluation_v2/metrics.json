@@ -1,0 +1,242 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "artifacts": 0,
+    "copies": 15,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 15,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 15
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 15
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 740,
+  "its_threshold_pct": 5.994545454545455,
+  "plan": {
+    "external_labels": [
+      "Dominikia achra",
+      "Dominikia aurea",
+      "Dominikia bernensis",
+      "Dominikia bonfanteae",
+      "Dominikia difficilevidera",
+      "Dominikia disticha",
+      "Dominikia duoreactiva",
+      "Dominikia gansuensis",
+      "Dominikia glomerocarpica",
+      "Dominikia iranica",
+      "Dominikia lithuanica",
+      "Dominikia minuta",
+      "Dominikia paraminuta"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Dominikia bonfanteae | 4351_1077A",
+      "Dominikia bonfanteae | C10660_2264B",
+      "Dominikia duoreactiva | 4392_1156C",
+      "Dominikia duoreactiva | 4412"
+    ],
+    "key": "genus_dominikia",
+    "named_main_queries": 15,
+    "query_ids": [
+      "PX214746.1",
+      "PX214747.1",
+      "PX214748.1",
+      "PX214749.1",
+      "PX214750.1",
+      "PX214751.1",
+      "PX214752.1",
+      "PX214753.1",
+      "PX214754.1",
+      "PX214755.1",
+      "PX214756.1",
+      "PX214757.1",
+      "PX214758.1",
+      "PX214759.1",
+      "PX214760.1"
+    ],
+    "rank": "genus",
+    "removed_ref_ids": [
+      "R0219",
+      "R0220",
+      "R0221",
+      "R0222",
+      "R0223",
+      "R0224",
+      "R0225",
+      "R0226",
+      "R0227",
+      "R0228",
+      "R0229",
+      "R0230",
+      "R0231",
+      "R0232",
+      "R0233",
+      "R0234",
+      "R0235",
+      "R0236",
+      "R0237",
+      "R0238",
+      "R0239",
+      "R0240",
+      "R0241",
+      "R0242",
+      "R0494",
+      "R0495"
+    ],
+    "short_queries": 0,
+    "target": "Dominikia"
+  }
+}

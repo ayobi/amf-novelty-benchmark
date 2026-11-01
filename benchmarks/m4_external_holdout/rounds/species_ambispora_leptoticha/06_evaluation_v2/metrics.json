@@ -1,0 +1,199 @@
+{
+  "development_fold": false,
+  "external_holdout_v1": {
+    "all_main": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    },
+    "artifacts": 0,
+    "copies": 10,
+    "false_known": 10,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 10,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 10
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    }
+  },
+  "external_holdout_v2": {
+    "all_main": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    },
+    "artifacts": 0,
+    "copies": 10,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 10,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 10
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    }
+  },
+  "full_reference_v1": {
+    "all_main": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    },
+    "artifacts": 0,
+    "copies": 10,
+    "false_known": 10,
+    "false_known_culture_macro": 1,
+    "false_known_species_macro": 1,
+    "held_n": 10,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 10
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    }
+  },
+  "full_reference_v2": {
+    "all_main": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    },
+    "artifacts": 0,
+    "copies": 10,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 10,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel species, genus known": 10
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 10,
+      "genus_compatible": 10,
+      "genus_wrong": 0,
+      "n": 10
+    }
+  },
+  "independent_validation": false,
+  "its_quantile": 99,
+  "its_threshold_n": 745,
+  "its_threshold_pct": 5.993880266075388,
+  "plan": {
+    "external_labels": [
+      "Ambispora leptoticha"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Ambispora leptoticha | MAFF520090_2501A",
+      "Ambispora leptoticha | ON205A"
+    ],
+    "key": "species_ambispora_leptoticha",
+    "named_main_queries": 10,
+    "query_ids": [
+      "PX207101.1",
+      "PX207102.1",
+      "PX207103.1",
+      "PX207104.1",
+      "PX207105.1",
+      "PX207106.1",
+      "PX215138.1",
+      "PX215139.1",
+      "PX215140.1",
+      "PX215141.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0306",
+      "R0455"
+    ],
+    "short_queries": 0,
+    "target": "Ambispora leptoticha"
+  }
+}

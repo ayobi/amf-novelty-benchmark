@@ -1,0 +1,123 @@
+{
+  "control_parity": "same-fold full-V18 control computed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 18
+    },
+    "artifacts": 0,
+    "copies": 18,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 18,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 18
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 18
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 18
+    },
+    "artifacts": 0,
+    "copies": 18,
+    "false_known": 0,
+    "false_known_culture_macro": 0,
+    "false_known_species_macro": 0,
+    "held_n": 18,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "novel lineage": 18
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 18
+    },
+    "training_genus_present": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Sclerocystis sinuosa"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": false,
+    "held_cultures": [
+      "Sclerocystis sinuosa | MT106_2767A"
+    ],
+    "key": "genus_sclerocystis",
+    "named_main_queries": 18,
+    "query_ids": [
+      "PX207144.1",
+      "PX207145.1",
+      "PX207146.1",
+      "PX207147.1",
+      "PX207148.1",
+      "PX207149.1",
+      "PX207150.1",
+      "PX207151.1",
+      "PX207152.1",
+      "PX207153.1",
+      "PX207154.1",
+      "PX207155.1",
+      "PX207156.1",
+      "PX207157.1",
+      "PX207158.1",
+      "PX207159.1",
+      "PX207160.1",
+      "PX207161.1"
+    ],
+    "rank": "genus",
+    "removed_ref_ids": [
+      "R0389",
+      "R0390"
+    ],
+    "short_queries": 0,
+    "target": "Sclerocystis"
+  }
+}

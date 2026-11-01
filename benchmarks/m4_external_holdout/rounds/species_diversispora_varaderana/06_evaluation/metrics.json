@@ -1,0 +1,144 @@
+{
+  "control_parity": "passed",
+  "external_holdout": {
+    "all_main": {
+      "genus_called": 31,
+      "genus_compatible": 31,
+      "genus_wrong": 0,
+      "n": 31
+    },
+    "artifacts": 0,
+    "copies": 31,
+    "false_known": 3,
+    "false_known_culture_macro": 0.10714285714285714,
+    "false_known_species_macro": 0.0967741935483871,
+    "held_n": 31,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 3,
+        "novel species, genus known": 28
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 31,
+      "genus_compatible": 31,
+      "genus_wrong": 0,
+      "n": 31
+    }
+  },
+  "full_reference": {
+    "all_main": {
+      "genus_called": 31,
+      "genus_compatible": 31,
+      "genus_wrong": 0,
+      "n": 31
+    },
+    "artifacts": 0,
+    "copies": 31,
+    "false_known": 8,
+    "false_known_culture_macro": 0.23809523809523808,
+    "false_known_species_macro": 0.25806451612903225,
+    "held_n": 31,
+    "known_compatible": 0,
+    "known_n": 0,
+    "known_retained": 0,
+    "known_wrong": 0,
+    "main_divergent": 0,
+    "reconcile_containing_group": 0,
+    "reconcile_exact": 0,
+    "short_n": 0,
+    "short_recognised": 0,
+    "statuses": {
+      "named, species held out": {
+        "known species": 8,
+        "novel species, genus known": 23
+      }
+    },
+    "training_genus_absent": {
+      "genus_called": 0,
+      "genus_compatible": 0,
+      "genus_wrong": 0,
+      "n": 0
+    },
+    "training_genus_present": {
+      "genus_called": 31,
+      "genus_compatible": 31,
+      "genus_wrong": 0,
+      "n": 31
+    }
+  },
+  "independent_validation": false,
+  "plan": {
+    "external_labels": [
+      "Diversispora varaderana"
+    ],
+    "external_status": "removed",
+    "genus_represented_in_training": true,
+    "held_cultures": [
+      "Diversispora varaderana | 3086_1170D",
+      "Diversispora varaderana | 4393_830B",
+      "Diversispora varaderana | 4394_1010A",
+      "Diversispora varaderana | 4450_536A",
+      "Diversispora varaderana | 4510_972A",
+      "Diversispora varaderana | CW0016_4015A",
+      "Diversispora varaderana | SASK_50"
+    ],
+    "key": "species_diversispora_varaderana",
+    "named_main_queries": 31,
+    "query_ids": [
+      "PX214955.1",
+      "PX214956.1",
+      "PX214957.1",
+      "PX214958.1",
+      "PX214959.1",
+      "PX214960.1",
+      "PX214961.1",
+      "PX214962.1",
+      "PX214963.1",
+      "PX214964.1",
+      "PX214965.1",
+      "PX214966.1",
+      "PX214967.1",
+      "PX214968.1",
+      "PX214969.1",
+      "PX214970.1",
+      "PX214971.1",
+      "PX214972.1",
+      "PX214973.1",
+      "PX214974.1",
+      "PX214975.1",
+      "PX214976.1",
+      "PX214977.1",
+      "PX214978.1",
+      "PX214979.1",
+      "PX214980.1",
+      "PX214981.1",
+      "PX214982.1",
+      "PX214983.1",
+      "PX214984.1",
+      "PX214985.1"
+    ],
+    "rank": "species",
+    "removed_ref_ids": [
+      "R0287",
+      "R0288"
+    ],
+    "short_queries": 0,
+    "target": "Diversispora varaderana"
+  }
+}
