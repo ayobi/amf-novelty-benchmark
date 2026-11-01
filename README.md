@@ -3,7 +3,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23422616.svg)](https://doi.org/10.5281/zenodo.23422616)
 
 Code, curated reference and benchmark outputs for the paper of the same title (O'Brien, Marín and Tedersoo,
-preprint). Release 0.3.1 goes with the preprint; the paper itself is in `paper/` (`main.tex`, `main.pdf`).
+in preparation). The manuscript text is kept out of this repository until the preprint is posted; `paper/analysis/`
+still regenerates every number, generated table and figure. Release 0.3.2 adds the per-round outputs of the
+LSU-removal test and analyses of the ITS distance rule's robustness.
 
 Each long-read rRNA gene sequence from an identified AMF culture spans the SSU, ITS and LSU. Cut into the
 regions of MaarjAM (SSU virtual taxa), UNITE (ITS species hypotheses) and the Delavaux LSU database, the
@@ -24,7 +26,8 @@ combined, identify known species and flag species missing from the reference.
 | `benchmarks/eukaryome/` | EUKARYOME long-read test: protocol and note with their hashes, name table and decisions, roles, locked predictions and removal plan. Read IDs only, no sequences |
 | `benchmarks/copy_checks/` | Checks of divergent sequences (locked protocol and addendum, with their hashes): per-marker trees (Supplementary Data S1), artifact check, rRNA structure, distance thresholds on short and long regions, the effect of the short-5.8S paralog on clusters and trees, the motif that marks it, and the controls of the SSU-discordance flag (`artifact_control/`). Scripts: `stage3/copy_*.py`, `stage3/short58_motif*.py`, `stage3/artifact_control.py` |
 | `benchmarks/eukaryome_longread/` | Exploratory, not used in the paper: distance thresholds on whole EUKARYOME v2.1 long reads of named Glomeromycota (`stage3/longread_thresholds.py`). Read IDs and distances only, no sequences |
-| `paper/` | LaTeX source and PDF; `paper/analysis/` regenerates every number, generated table and figure from the run outputs; `paper/review/` holds the response to the first review |
+| `paper/` | `paper/analysis/` regenerates every number (`numbers_*.tex`), generated table (`tables/`) and figure (`figures/`) from the run outputs. The manuscript text (`main.tex`, its PDF and the review response) is not included until the preprint is posted |
+| `audit_outputs/` | Outputs of the ITS-rule audits in `benchmarks/m4_external_holdout/audit_n6_*.py`: nearest references of the firing sequences, and the all-copy against main-type reference pool |
 | `external_refs/` | Checksums of the third-party references used (not redistributed) |
 | `MANIFEST.tsv` | Every file of release v0.1.0 with its size and SHA-256 |
 
@@ -62,7 +65,7 @@ Outline, in run order; each script takes its inputs as command-line options:
 7. **Paper:** `paper/analysis/make_numbers.py`, `lgdb_numbers.py`, `euk_numbers.py`, `foldwise_complexes.py`,
    `intervals.py`, `divergent_classes.py`, `make_figures.py` and `make_fig_predicted.py` regenerate the
    numbers, generated tables and figures; `paper/analysis/display_names.py` then prints the names and terms used in the
-   paper (it changes no number); then `pdflatex main.tex` twice.
+   paper (it changes no number). The manuscript text itself is not in this repository until the preprint is posted.
 
 ## Licence
 
@@ -72,6 +75,6 @@ Third-party data keep their own terms.
 ## Citation
 
 O'Brien A, Marín C, Tedersoo L. Detecting unknown arbuscular mycorrhizal fungi from linked long-read rRNA gene
-sequences. Preprint.
-Code and data: release 0.3.1, doi:10.5281/zenodo.23422616; earlier releases 0.3.0, doi:10.5281/zenodo.23422391 (paper v19, before the
+sequences. In preparation.
+Code and data: release 0.3.2; earlier releases 0.3.1, doi:10.5281/zenodo.23422616 (paper v20), 0.3.0, doi:10.5281/zenodo.23422391 (paper v19, before the
 EUKARYOME results), 0.2.0, doi:10.5281/zenodo.23374725, and 0.1.0, doi:10.5281/zenodo.23219691. `CITATION.cff` holds the same in machine-readable form.

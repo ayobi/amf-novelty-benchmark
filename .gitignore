@@ -33,3 +33,7 @@ stage1/prototypes/results/
 paper/tables/table_stage1_libs.tex
 paper/main_flat_for_docx.tex
 benchmarks/m4_external_holdout/audit_outputs/D.npy
+# manuscript text, kept out until the preprint is posted (paper/analysis/ regenerates every number)
+paper/main.tex
+paper/main.pdf
+paper/review/
