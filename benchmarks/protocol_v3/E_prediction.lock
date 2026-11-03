@@ -1,0 +1,9 @@
+{
+ "created": "2026-11-02",
+ "measurement": "E: the 37 species rounds of the M4 harness with each species removed from V18, MaarjAM and UNITE",
+ "prediction": {"denominator_rows": 673, "false_known_with_N6_before": 53, "false_known_with_N6_under_E_at_most": 71},
+ "statement_sha256": "16b629fd2d3e5481c320f4fc4b06c09b3a1715415ced4e674dd13efa6e5544b2",
+ "inputs": {"benchmarks/m4_external_holdout/rounds/MANIFEST.json": "7de5b6c0cb6575792d2cd0eec84bea753b05df01896f0a677d32d8faa467c2f0"},
+ "protocol": {"title": "Protocol v3: locked test of the amfsplit rule changes", "section": 5, "draft_revision": 83},
+ "development_rounds_run": ["species_funneliformis_mosseae (pilot, in part)"]
+}
