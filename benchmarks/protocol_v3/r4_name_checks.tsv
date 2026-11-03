@@ -1,0 +1,7 @@
+culture	edit	sensitivity	check	evidence
+Ambispora gerdemannii | LGDB ON205A	exclude		code_match=Ambispora leptoticha | ON205A	ZUII, INVAM: the code of v4's Ambispora leptoticha ON205A under another name (a swap); one culture is not counted twice
+Ambispora leptoticha | LGDB MT106	exclude		code_match=Sclerocystis sinuosa | MT106_2767A	KU, INVAM: the code of v4's Sclerocystis sinuosa MT106_2767A under another name (a swap)
+Dentiscutata heterogama | LGDB BEG35	exclude		code_match=Dentiscutata heterogama | BEG_35_2003A	ZUII, BEG: the same culture as v4's BEG_35_2003A (a duplicate)
+Gigaspora margarita | LGDB BEG9	exclude		code_match=Gigaspora rosea | BEG9_770A	ZUII, BEG: the code of v4's Gigaspora rosea BEG9_770A under another name (a swap)
+Funneliformis coronatus | LGDB MR101	exclude	relabel=Funneliformis mosseae	asvs=8; inside_all=Funneliformis mosseae; inside_none=Funneliformis coronatus	all 8 ASVs inside v4 F. mosseae on ITS, LSU and SSU (nearest ITS 0.00-0.62%, LSU 0.00-0.13%, SSU 0.00%); none inside v4 F. coronatus (ITS 8.18-8.61%, LSU 3.09-3.23%, SSU 0.42-0.51%): the label is not confirmed
+Ambispora leptoticha | LGDB MX982A	exclude		asvs=8; inside_none=Ambispora leptoticha,Ambispora callosa	none of 8 ASVs inside v4 A. leptoticha (nearest ITS 7.80-9.82%, LSU 1.91-2.50%, SSU 0.76-1.18%) or A. callosa (ITS 8.20-9.63%, LSU 2.06-2.35%, SSU 1.01-1.35%): the label is not confirmed

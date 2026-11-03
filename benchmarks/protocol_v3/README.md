@@ -8,3 +8,4 @@ power check, before any confirmation sequence is cut.
 | File | Locked | What |
 |---|---|---|
 | `E_PREDICTION.md`, `E_prediction.lock` | 2 November 2026 | Measurement E's prediction, before its rounds run |
+| `r4_name_checks.tsv` | 3 November 2026 | R4's name checks: the six LongGloDB cultures left out of the fit, each with a check R4 verifies before fitting (inside means within the complex rule's limits on ITS, LSU and SSU) |
