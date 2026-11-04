@@ -1,0 +1,50 @@
+{
+ "reads": 19263,
+ "calls": {
+  "non_AMF": {
+   "n": 18768,
+   "pct": 97.4
+  },
+  "unresolved": {
+   "n": 495,
+   "pct": 2.6
+  }
+ },
+ "non_AMF_best_hits": [
+  [
+   "Grifola",
+   5533
+  ],
+  [
+   "Flammulina",
+   3074
+  ],
+  [
+   "Mortierella",
+   2414
+  ],
+  [
+   "Pluteus",
+   2364
+  ],
+  [
+   "Stereum",
+   2060
+  ],
+  [
+   "Ramaria",
+   1820
+  ]
+ ],
+ "params": {
+  "min_id": 90.0,
+  "amf_pattern": null,
+  "outgroups": null,
+  "amf_reference": {
+   "path": "/home/csb/Downloads/AMF_test/ref/delavaux/repo/2024_AMFPipeline/2024_AMFPipeline_OTU/V18_LSUDB_052025_AMFONLY.fasta",
+   "sha256": "e6794cbbe166735a94e44b146aae2ecffb35ebfee61cf6ae8ed2e48ba9227198",
+   "records": 460
+  },
+  "keep_unresolved": false
+ }
+}
