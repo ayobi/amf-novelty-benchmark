@@ -1,0 +1,34 @@
+{
+ "reads": 5511,
+ "calls": {
+  "AMF": {
+   "n": 4351,
+   "pct": 79.0
+  },
+  "unresolved": {
+   "n": 1159,
+   "pct": 21.0
+  },
+  "non_AMF": {
+   "n": 1,
+   "pct": 0.0
+  }
+ },
+ "non_AMF_best_hits": [
+  [
+   "Geosiphon",
+   1
+  ]
+ ],
+ "params": {
+  "min_id": 90.0,
+  "amf_pattern": null,
+  "outgroups": null,
+  "amf_reference": {
+   "path": "/home/csb/Downloads/AMF_test/ref/delavaux/repo/2024_AMFPipeline/2024_AMFPipeline_OTU/V18_LSUDB_052025_AMFONLY.fasta",
+   "sha256": "e6794cbbe166735a94e44b146aae2ecffb35ebfee61cf6ae8ed2e48ba9227198",
+   "records": 460
+  },
+  "keep_unresolved": false
+ }
+}
