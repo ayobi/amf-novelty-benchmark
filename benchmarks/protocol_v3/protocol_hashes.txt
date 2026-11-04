@@ -1,6 +1,7 @@
 # Protocol v3 lock, 2026-11-04 (procedure step 6). SHA-256 of each locked file, then the code commits.
-36aae6afa5e47faafc98faff97c815e06dfb49b5b54bcf80ad286d9ddc4dd1a1  PROTOCOL_v3.md
-0baf490e0ba8270ae8533bff8161b0fbc0f4e867ab380fed814fd8d655fa219f  eligibility_rules.md
+# Corrected 2026-11-04 (tag protocol-v3-lock.1): the first lock (a826ad0, tag protocol-v3-lock) hashed a copy of the lock script as PROTOCOL_v3.md. Only PROTOCOL_v3.md and eligibility_rules.md changed; every other line was checked again.
+60bcd22876a5d172515dd0280658b20c19eaa97bab719dd71dabedf6b42cecbe  PROTOCOL_v3.md
+1d676ff3f83a1a84a1fef8266eb38bbea5e1327c5c8bc93f84634e9447fae2be  eligibility_rules.md
 a1d18c439ad57c6cd70ba42a700d2b4b22ea37c0a73547fd40f6a608387e431e  predictions_v3.tsv
 225d2520b5fe7a81fc1d151bf432f7b85c2e8211fb4238e8d38ec84985643560  r4_name_checks.tsv
 16b629fd2d3e5481c320f4fc4b06c09b3a1715415ced4e674dd13efa6e5544b2  E_PREDICTION.md
