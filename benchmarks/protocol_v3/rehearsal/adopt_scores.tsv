@@ -1,0 +1,104 @@
+design	outcome	n	clusters	frozen	arm	diff_low	diff_high
+r1a	A, L and withheld K: false known	3171	151	35	25	-1.0730	0.0000
+r1a	A: false known	136	41	17	7	-17.0455	0.0000
+r1a	G: known calls	2620	18	595	574	-2.9868	0.0000
+r1a	K, reference intact: known species kept	363	24	288	287	-1.0490	0.0000
+r1a	L: false known	2672	86	0	0	0.0000	0.0000
+r1a	withheld K: false known	363	24	18	18	0.0000	0.0000
+r1b	A, L and withheld K: false known	3171	151	35	25	-1.0730	0.0000
+r1b	A: false known	136	41	17	7	-17.0455	0.0000
+r1b	G: known calls	2620	18	595	572	-3.2555	0.0000
+r1b	K, reference intact: known species kept	363	24	288	286	-2.0979	0.0000
+r1b	L: false known	2672	86	0	0	0.0000	0.0000
+r1b	withheld K: false known	363	24	18	18	0.0000	0.0000
+r2	A, L and withheld K: false known	3171	151	35	22	-1.2639	-0.0268
+r2	A: false known	136	41	17	5	-18.7845	0.0000
+r2	G: known calls	2620	18	595	482	-8.1201	-2.7244
+r2	K, reference intact: known species kept	363	24	288	284	-2.3364	-0.3165
+r2	L: false known	2672	86	0	0	0.0000	0.0000
+r2	withheld K: false known	363	24	18	17	-1.0949	0.0000
+r4	A, L and withheld K: false known	3171	151	35	36	0.0000	0.1320
+r4	A: false known	136	41	17	18	0.0000	2.1277
+r4	G: known calls	2620	18	595	601	0.0639	0.6065
+r4	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r4	L: false known	2672	86	0	0	0.0000	0.0000
+r4	withheld K: false known	363	24	18	18	0.0000	0.0000
+r5	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r5	A: false known	136	41	17	17	0.0000	0.0000
+r5	G: known calls	2620	18	595	595	0.0000	0.0000
+r5	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r5	L: false known	2672	86	0	0	0.0000	0.0000
+r5	Rhizoglomus-labelled motif carriers called divergent (R5)	110	5	60	80	0.0000	51.4286
+r5	other motif carriers reclassified (R5)	438	7	0	1	0.0000	0.2430
+r5	withheld K: false known	363	24	18	18	0.0000	0.0000
+r5s	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r5s	A: false known	136	41	17	17	0.0000	0.0000
+r5s	G: known calls	2620	18	595	595	0.0000	0.0000
+r5s	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r5s	L: false known	2672	86	0	0	0.0000	0.0000
+r5s	Rhizoglomus-labelled motif carriers called divergent (R5)	110	5	60	108	2.1739	60.0000
+r5s	other motif carriers reclassified (R5)	438	7	0	1	0.0000	0.2430
+r5s	withheld K: false known	363	24	18	18	0.0000	0.0000
+r3a	A and L: wrong genera flagged (R3)	1063	22	0	628	51.0204	93.1507
+r3a	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r3a	A: false known	136	41	17	17	0.0000	0.0000
+r3a	G: known calls	2620	18	595	595	0.0000	0.0000
+r3a	K and A: right genera falsely flagged (R3)	415	40	0	9	0.3106	5.8442
+r3a	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r3a	L: false known	2672	86	0	0	0.0000	0.0000
+r3a	withheld K: false known	363	24	18	18	0.0000	0.0000
+r3a (genus rounds)	wrong-genus calls flagged, V18 intact	0	0	0	0	0.0000	0.0000
+r3a (genus rounds)	right-genus calls falsely flagged, V18 intact	0	0	0	0	0.0000	0.0000
+r3a (genus rounds)	wrong-genus calls flagged, V18 removed	69	4	0	69	100.0000	100.0000
+r3a (genus rounds)	right-genus calls falsely flagged, V18 removed	0	0	0	0	0.0000	0.0000
+r3a_all	A and L: wrong genera flagged (R3)	1063	22	0	17	0.8161	34.2105
+r3a_all	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r3a_all	A: false known	136	41	17	17	0.0000	0.0000
+r3a_all	G: known calls	2620	18	595	595	0.0000	0.0000
+r3a_all	K and A: right genera falsely flagged (R3)	415	40	0	0	0.0000	0.0000
+r3a_all	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r3a_all	L: false known	2672	86	0	0	0.0000	0.0000
+r3a_all	withheld K: false known	363	24	18	18	0.0000	0.0000
+r3a_all (genus rounds)	wrong-genus calls flagged, V18 intact	0	0	0	0	0.0000	0.0000
+r3a_all (genus rounds)	right-genus calls falsely flagged, V18 intact	0	0	0	0	0.0000	0.0000
+r3a_all (genus rounds)	wrong-genus calls flagged, V18 removed	69	4	0	2	0.0000	5.0000
+r3a_all (genus rounds)	right-genus calls falsely flagged, V18 removed	0	0	0	0	0.0000	0.0000
+r3b	A and L: wrong genera flagged (R3)	1063	22	0	199	15.5215	82.7068
+r3b	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r3b	A: false known	136	41	17	17	0.0000	0.0000
+r3b	G: known calls	2620	18	595	595	0.0000	0.0000
+r3b	K and A: right genera falsely flagged (R3)	415	40	0	1	0.0000	1.0152
+r3b	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r3b	L: false known	2672	86	0	0	0.0000	0.0000
+r3b	withheld K: false known	363	24	18	18	0.0000	0.0000
+r3b (genus rounds)	wrong-genus calls flagged, V18 intact	0	0	0	0	0.0000	0.0000
+r3b (genus rounds)	right-genus calls falsely flagged, V18 intact	0	0	0	0	0.0000	0.0000
+r3b (genus rounds)	wrong-genus calls flagged, V18 removed	69	4	0	40	0.0000	88.3721
+r3b (genus rounds)	right-genus calls falsely flagged, V18 removed	0	0	0	0	0.0000	0.0000
+r7	A and L: wrong genera flagged (R3)	1087	29	0	216	15.9775	81.7073
+r7	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r7	A: false known	136	41	17	17	0.0000	0.0000
+r7	A: new lineages given the right genus (R7)	73	23	0	71	89.8305	100.0000
+r7	G: known calls	2620	18	595	595	0.0000	0.0000
+r7	K and A: right genera falsely flagged (R3)	488	62	0	2	0.0000	1.2780
+r7	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r7	L: false known	2672	86	0	0	0.0000	0.0000
+r7	withheld K: false known	363	24	18	18	0.0000	0.0000
+r7	wrong genera added by R7: flagged	25	10	0	18	37.9310	100.0000
+r8	A, L and withheld K: false known	3171	151	35	35	0.0000	0.0000
+r8	A: false known	136	41	17	17	0.0000	0.0000
+r8	G: known calls	2620	18	595	595	0.0000	0.0000
+r8	K, reference intact: known species kept	363	24	288	288	0.0000	0.0000
+r8	K, reference intact: single-marker new lineages (R8)	363	24	0	0	0.0000	0.0000
+r8	L: false known	2672	86	0	0	0.0000	0.0000
+r8	withheld K: false known	363	24	18	18	0.0000	0.0000
+r6 (negatives)	triage negatives called new lineage	19402	762	0	485	0.6488	4.5465
+s	A, L and withheld K: false known	3171	151	35	22	-1.2639	-0.0268
+s	A: false known	136	41	17	5	-18.7845	0.0000
+s	G: known calls	2620	18	595	482	-8.1201	-2.7244
+s	K, reference intact: known species kept	363	24	288	284	-2.3364	-0.3165
+s	K, reference intact: single-marker new lineages (R8)	363	24	0	0	0.0000	0.0000
+s	L: false known	2672	86	0	0	0.0000	0.0000
+s	Rhizoglomus-labelled motif carriers called divergent (R5)	110	5	60	108	2.1739	60.0000
+s	other motif carriers reclassified (R5)	438	7	0	1	0.0000	0.2430
+s	withheld K: false known	363	24	18	17	-1.0949	0.0000
